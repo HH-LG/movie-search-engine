@@ -94,9 +94,9 @@
 <时间>2018-12-27 23:47:58</时间>
 <影评>
 
-第五局快结束时，David Silver忽然指着屏幕说:“AlphaGO says it's going to quit.”
+第五局快结束时，David Silver忽然指着屏幕说:“AlphaGO says it&apos;s going to quit.”
 先是一片紧张的沉默，然后是一阵放松下来后的爆笑。
-David笑着说:“I'm joking.”
+David笑着说:“I&apos;m joking.”
 笑声中有人说:“David has been waiting two years to say this.”
 
 这是我感触最深的一个场景。轻描淡写的一句话，这背后有多少辛酸和寂寞？岂止是两年啊，从1988年Sutton提出时间差分算法、92年Watkins提出Q-learning算法，已经二十多年过去了。AlphaGO“横空出世”背后，是多少科学家几十年如一日的默默付出啊。
@@ -344,7 +344,7 @@ AlphaGo谷歌出品人工智能纪录片_预告片_腾讯视频
 
 「我们团队都希望 DeepMind 能够成为 AI 界重要的前进力量，好比阿波罗登月计划那样。我们最大的愿景，就是通过人力去探索去塑造智能。」
 ——Demis Hassabis
-DeepMind 联合创始人 & CEO
+DeepMind 联合创始人 &amp; CEO
 Demis Hassabis 是 DeepMind 的创始人，同时自己也是国际象棋的选手，他自小练习国际象棋，13 岁已经成为国际大赛的亚军。
 这也是他组建 DeepMind 团队后，一直使用棋类进行 AI 训练的原因之一。在片中，他表现出了过人的领导力、对 AI 和围棋的敬畏和执着。
 

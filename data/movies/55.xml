@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>寻找隐秘的维度 Hunting the Hidden Dimension</电影名>
 <年份>2008</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>菜花</作者>
-<作者评分>4</作者评分>
+<标题>以小见大</标题><作者评分>4</作者评分>
 <时间>2009-12-28 23:45:56</时间>
 <影评>
         看完后，这电影给我的感受就是四个字：以小见大。想到生活的一个案例，周末去教小朋友画画，在课间的10分钟，一个小孩冲去厨房，吃了一对鸡翅、半碗饭、一个荷包蛋、一根香肠、还有一瓶酸奶。另外一个小孩躺在沙发上听当季连续剧的主题曲。短短十分钟不算长也不算短，确实是反映了两个小朋友个性上的差别，而这种差别也确实能从他们的体形上很好地反映出来......
@@ -20,7 +20,7 @@
 </review>
 <review>
 <作者>BrunchTea</作者>
-<作者评分>5</作者评分>
+<标题>What is Chaos</标题><作者评分>5</作者评分>
 <时间>2010-03-13 22:51:37</时间>
 <影评>
         Go with basic and simple purpose, conducting similarity and virable options which is callled EVOLUTION.
@@ -33,7 +33,7 @@ I do like it, from the smoothly math to the real change of the world around us. 
 </review>
 <review>
 <作者>延时流星</作者>
-<作者评分>4</作者评分>
+<标题>寻找隐藏的维度</标题><作者评分>4</作者评分>
 <时间>2018-05-22 16:07:25</时间>
 <影评>
 
@@ -63,18 +63,18 @@ I do like it, from the smoothly math to the real change of the world around us. 
 </review>
 <review>
 <作者>roul</作者>
-<作者评分>3</作者评分>
+<标题>Hunting the hidden dimension    PBS</标题><作者评分>3</作者评分>
 <时间>2011-07-24 15:51:02</时间>
 <影评>
-        Loren Carpenter (visualize)-> what the planes might look like in flight.
+        Loren Carpenter (visualize)-&amp;gt; what the planes might look like in flight.
 
 Fractals - Form, Chance, and Dimension   by Benoit Mandelbrot
 
 
-It's one of the keys to fractal geometry call iteration in mathematicians.
+It&apos;s one of the keys to fractal geometry call iteration in mathematicians.
 
 
-First Mountain and then "Star Trek II" the Wrath of khan.
+First Mountain and then &quot;Star Trek II&quot; the Wrath of khan.
 
 
 Self-similarity   always zoom in and out the object look the same.
@@ -85,14 +85,14 @@ People like the great 19th century Japanese artist  Katsushika Hokusai
 
 the mystery of the monsters, a story really begins in later 19 century, Georg Cantor (German)
 
-Created first monsters in 1883, call " Cantor Set."
+Created first monsters in 1883, call &quot; Cantor Set.&quot;
 
 
 Another by the Swedish Helge Von Koch, one of the classical Euclidean geometric figures.
 
 in the 1940s, British Scientist Lewis Richardson, 
 
-Koch Curve  he wrote a very famous article i Science Magazine called " How Long is the Coastline of British."
+Koch Curve  he wrote a very famous article i Science Magazine called &quot; How Long is the Coastline of British.&quot;
 
 
 Dimension 
@@ -110,7 +110,7 @@ f(Z)=Z2+C  into a single image. The Mandelbrot Set
 
 Late 1970s, Jhane Barnes
 
-new book "the Fractal Geometry of Nature" 
+new book &quot;the Fractal Geometry of Nature&quot; 
 
 1990, a Boston radio astronomer Nathan Cohen  
 
@@ -136,7 +136,7 @@ A General Model for the origin of allometric scaling laws in Biology
 </review>
 <review>
 <作者>金官人如沐春疯</作者>
-<作者评分>5</作者评分>
+<标题>everywhere</标题><作者评分>5</作者评分>
 <时间>2010-04-25 15:14:20</时间>
 <影评>
         以分形理论来说，fractal could be found in everywhere
@@ -152,7 +152,7 @@ A General Model for the origin of allometric scaling laws in Biology
 </review>
 <review>
 <作者>豆友33078072</作者>
-<作者评分>4</作者评分>
+<标题>隐秘的世界</标题><作者评分>4</作者评分>
 <时间>2010-01-27 20:19:09</时间>
 <影评>
         这世界，太多的奥秘，需要去探索
@@ -168,25 +168,25 @@ A General Model for the origin of allometric scaling laws in Biology
 </review>
 <review>
 <作者>空城</作者>
-<作者评分>4</作者评分>
+<标题>Hunting The Hidden Dimension 观后感</标题><作者评分>4</作者评分>
 <时间>2014-04-06 12:00:02</时间>
 <影评>
-        The film is about fractal geometry. Someone calls fractal geometry 'the natural dynamics of everything' (a video title, 2011, available at 
+        The film is about fractal geometry. Someone calls fractal geometry &apos;the natural dynamics of everything&apos; (a video title, 2011, available at 
 https://www.youtube.com/watch?v=yUM7e0tIFi0
 ). Why? Because it explains the shapes of everything in the nature: why the British coastline looks like that, why mountains looks like that, why the trees look like that, why the vessels in the body look like that, ect., etc..
 
 
-Fractal geometry was invented by Benoit Mandelbrot from 1950. In general, it is a combination of classical geometry (coined by Euclid) and algorithm. The most famous fractal - The Mandelbrot Set - derives from a circle and a generating function 'f(z) = z^2 + c'. (For more knowledge, visit 
+Fractal geometry was invented by Benoit Mandelbrot from 1950. In general, it is a combination of classical geometry (coined by Euclid) and algorithm. The most famous fractal - The Mandelbrot Set - derives from a circle and a generating function &apos;f(z) = z^2 + c&apos;. (For more knowledge, visit 
 http://mathworld.wolfram.com/MandelbrotSet.html
 )
 
 
 In reflection, fractal geometry could help us to understand the underlying order governed by simple mathematical rules. According to this theory, there must be a rule that governs the formation of the nature and all the living things/creatures. Perhaps the rule is set by the God. God is simple, straightforward and God seems not encountered complex things, thus God create everything as they assumed to be. A significance of fractal geometry might be that it finds out the rules of the nature, which implies that the nature is possibly created and ruled by something. So far, we may easily shift our thoughts to another interesting invention in the 20th century - the Artifical Intelligence. With the emergence of computer, multiple complex things can be handled by computer programming. Some people may say, artificial intelligence is God. (see 
 http://www.artificialintelligenceisgod.com/index3.html
-) If science explains the world created by God, then technology is the 'new God' that changes the existing world. Is it? If it is so, then there must be a number of Gods that mobilize the evolutions of all things in our history. On the other hand, however, like technology is rooted in science, science is rooted in the nature, and evolutions of all things are rooted in the earliest forms and the evolution of a certain thing follows a common rule. Therefore, this question seems unanswerable by philosophy of science, except acknowledging the existence of God. So I just want to stop here.
+) If science explains the world created by God, then technology is the &apos;new God&apos; that changes the existing world. Is it? If it is so, then there must be a number of Gods that mobilize the evolutions of all things in our history. On the other hand, however, like technology is rooted in science, science is rooted in the nature, and evolutions of all things are rooted in the earliest forms and the evolution of a certain thing follows a common rule. Therefore, this question seems unanswerable by philosophy of science, except acknowledging the existence of God. So I just want to stop here.
 
 
-Drawing on the former argument, fractal geometry could help us to understand the underlying order governed by simple mathematical rules, I have another question: is this process reversible, i.e., could the setting of rules help generate complex ideal orders? In my own field, urban planning and design, I acknowledge that some scholars have studied how, or if it is possible, a set of simple rules may generate ideal urban form (Alexander, 1966; Marshall, 2009). However, city is formed by both controllable and uncontrollable, visible and invisible forces. And the urban form becomes more and more complex, and the urban problems continuously emerge with the increasing complexity of our society. In my view, the study of ideal urban forms, no matter by what means, is something similar to the system dynamics mentioned by Meadows et al. in their book 'The Limits to Growth' - a game of idealism.
+Drawing on the former argument, fractal geometry could help us to understand the underlying order governed by simple mathematical rules, I have another question: is this process reversible, i.e., could the setting of rules help generate complex ideal orders? In my own field, urban planning and design, I acknowledge that some scholars have studied how, or if it is possible, a set of simple rules may generate ideal urban form (Alexander, 1966; Marshall, 2009). However, city is formed by both controllable and uncontrollable, visible and invisible forces. And the urban form becomes more and more complex, and the urban problems continuously emerge with the increasing complexity of our society. In my view, the study of ideal urban forms, no matter by what means, is something similar to the system dynamics mentioned by Meadows et al. in their book &apos;The Limits to Growth&apos; - a game of idealism.
 
 
 

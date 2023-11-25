@@ -109,15 +109,15 @@ http://www.zhangxiaoxi.net/
 
   看片子似乎很女性向的总是从人设开始,(好像当年的edward),因此当JACK长腿长脚的从粘呼呼脏兮兮里万丈光芒秀出来的时候,俺登时就知道,爱上他是不可避免了...
 
-  之后全片都在展示了他可爱的性格:好奇,善良,勇敢,甚至刻苦钻研(_?_)的执着劲头,瘦弱单薄的骨头下面隐藏着感情丰富又充满激情的灵魂,他挠着自己光溜溜的骷髅脑袋,八字着黑洞洞的眼睛,在寻找着一种叫做爱的东西,说"这东西让爷晕菜了..."
+  之后全片都在展示了他可爱的性格:好奇,善良,勇敢,甚至刻苦钻研(_?_)的执着劲头,瘦弱单薄的骨头下面隐藏着感情丰富又充满激情的灵魂,他挠着自己光溜溜的骷髅脑袋,八字着黑洞洞的眼睛,在寻找着一种叫做爱的东西,说&quot;这东西让爷晕菜了...&quot;
 
   于是爷也晕菜了...
 
-  当然,片子某种意义上讲还是很主流的,象tim的所有片子一样,不论出发点多么诡异,人物和环境的定位如何黑色,想要宣扬的主题永远是又红又专的:虽然jack始终不晓得圣诞礼物的真正涵义,但他能感受到快乐,属于自己的快乐,最终jack从好奇及努力中,得到了满足也吸取了教训,更找到了自我,知道自己最想做的是什么以及一个南瓜王的责任...哦,似乎还交到了一个忘年的好朋友(汗,也不一定忘年,鬼知道这厮"活"了多久)
+  当然,片子某种意义上讲还是很主流的,象tim的所有片子一样,不论出发点多么诡异,人物和环境的定位如何黑色,想要宣扬的主题永远是又红又专的:虽然jack始终不晓得圣诞礼物的真正涵义,但他能感受到快乐,属于自己的快乐,最终jack从好奇及努力中,得到了满足也吸取了教训,更找到了自我,知道自己最想做的是什么以及一个南瓜王的责任...哦,似乎还交到了一个忘年的好朋友(汗,也不一定忘年,鬼知道这厮&quot;活&quot;了多久)
 
   片子的结尾还是大团圆,毕竟动画片嘛,所以说他主流一点都没错的...和红颜知己勾在一起互啃,所有经典的童话都是这样结束的,目的是为了让我们可以欣然的关掉画面的时候,不记得tim创造的黑暗世界,还有那些恐怖的甚至有点恶心的人物造型,道具,以及惊人的小创意,让我们仍然保持微笑的说:jack真可爱...想想,这厮真狡猾...
 
-  于是他被人们记住了,知道不知道的人都知道了他,这倒是多亏了中国的盗版制造商,很多人是在没有看过片子的情况下说上面的话的,只是因为"这个家伙真可爱",可是话说回来,会有人说一个骷髅可爱么?鬼知道tim对jack施了什么咒语,另每个第一眼看到他的丑德行的人就这么莫名其妙的爱上他...唉...
+  于是他被人们记住了,知道不知道的人都知道了他,这倒是多亏了中国的盗版制造商,很多人是在没有看过片子的情况下说上面的话的,只是因为&quot;这个家伙真可爱&quot;,可是话说回来,会有人说一个骷髅可爱么?鬼知道tim对jack施了什么咒语,另每个第一眼看到他的丑德行的人就这么莫名其妙的爱上他...唉...
 
   当jack应该是很爽的,被叫JACK大人..hiahia...又想起来了,再爽一下...
 
@@ -174,12 +174,12 @@ http://www.zhangxiaoxi.net/
 
 最基础的步骤，我们要学习Jack写公式的方法。因为A good formalism is half the job! 
 Jack的所用的数学符号不是我们这个世界所熟悉的数学符号。所以，我们必须用我们世界的工业化、数字化的方式复刻这些神秘而优雅的符号：
-Jack's Formalism
-经过本闹钟的不懈努力，终于在圣诞节前夕完成了这项造福人类的壮举：使用LaTeX自动生成Jack's Formalism:
-Digitization of Jack's Formalism
+Jack&apos;s Formalism
+经过本闹钟的不懈努力，终于在圣诞节前夕完成了这项造福人类的壮举：使用LaTeX自动生成Jack&apos;s Formalism:
+Digitization of Jack&apos;s Formalism
 在此本闹钟将其源代码公布如下，希望能够方便后人更加优雅地过圣诞节：
 % The CHRISTMAS License
-% Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+% Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 % Copyright (c) 2020 Xiao Naozhong
 \documentclass{article}
 \usepackage{tikz}
@@ -281,7 +281,7 @@ Digitization of Jack's Formalism
   终于在美女Sally的帮助之下小J回来并恰到好处地救圣诞老人于水火之中，有惊无险的与食人魔来了段印度歌舞，算食人魔倒霉，谁让他的对手是我们伟大的主角小J呢。圣诞老人逃出生天之后迅速挽救了圣诞节，逗得美国小朋友们眉开眼笑，万圣节之王Jack Skellington也终于回归自我，安心于万圣节的本职工作，当然是跟美女主角Sally一起拉！
 
 
-  本片是蒂姆伯顿1993年制作的粘土动画，人物绝对不美型，但是另类的可爱，我就挺喜欢小J的骷髅头的。里面有很多细节能够让你会心一笑，比如小J逗小狗zero的时候从身上扯下一根肋骨扔出去，万圣节小镇镇长说自己是民选官员不能擅自处理政务，需要为民做实事做好事&hellip;&hellip;另外里面的音乐细听还不错，由《剪刀手爱德华》的音乐制作人Danny Elfman制作；歌舞琅琅上口，前提是你的英语在没有作弊的情况下仍然过了六级。
+  本片是蒂姆伯顿1993年制作的粘土动画，人物绝对不美型，但是另类的可爱，我就挺喜欢小J的骷髅头的。里面有很多细节能够让你会心一笑，比如小J逗小狗zero的时候从身上扯下一根肋骨扔出去，万圣节小镇镇长说自己是民选官员不能擅自处理政务，需要为民做实事做好事&amp;hellip;&amp;hellip;另外里面的音乐细听还不错，由《剪刀手爱德华》的音乐制作人Danny Elfman制作；歌舞琅琅上口，前提是你的英语在没有作弊的情况下仍然过了六级。
 
 
   顺便说一句，1993年的蒂姆伯顿还真有几分像剪刀手爱德华的，跟Robert Smith也有神似，还真是配得上Helena.Bonham.Carter(搏击俱乐部里那个Marla Singer)的皇室血统。靠，我又开始八卦了，闭上嘴，看电影。
@@ -466,7 +466,7 @@ Jack，女巫们梦中的最爱，受到所有人追捧的无冕之王。
 为了脱离博士的控制外出片刻，莎莉常常喂他颠茄使之昏睡
 和宠物狗零零流荡的杰克偶然打开了圣诞节镇的大门，看到的景象让他眼前豁然一亮。
 
-What's This - Danny Elfman - QQ音乐-千万正版音乐海量无损曲库新歌热歌天天畅听的高品质音乐平台！
+What&apos;s This - Danny Elfman - QQ音乐-千万正版音乐海量无损曲库新歌热歌天天畅听的高品质音乐平台！
 
 
 
@@ -517,7 +517,7 @@ What's This - Danny Elfman - QQ音乐-千万正版音乐海量无损曲库新歌
 杰克吩咐伙计们开始埋头制作圣诞礼物。
 满脑只有恐怖点子的万圣节城居民，怎能逃过思维惯性，做出令人欢乐的礼物，着实令人担忧。
 原本希望杰克梦想成真的莎莉，也在魔法的幻象中看到了不祥之兆。
-Sally's Song - Danny Elfman - QQ音乐-千万正版音乐海量无损曲库新歌热歌天天畅听的高品质音乐平台！
+Sally&apos;s Song - Danny Elfman - QQ音乐-千万正版音乐海量无损曲库新歌热歌天天畅听的高品质音乐平台！
 
 
 
@@ -666,7 +666,7 @@ Poor Jack_Danny Elfman_高音质在线试听_Poor Jack歌词|歌曲下载_酷狗
 <影评>
         Boys and girls of every age
 
-Wouldn't you like to see something strange?
+Wouldn&apos;t you like to see something strange?
 
 
 Come with us and you will see
@@ -683,7 +683,7 @@ This is Halloween,everybody make a scene
 
 Trick or treat till the neighbors gonna die of fright
 
-It's our town,everybody scream
+It&apos;s our town,everybody scream
 
 In this town of Halloween
 
@@ -709,25 +709,25 @@ In this town we call home
 Everyone hail to the pumpkin song
 
 
-In this town,don't we love it now?
+In this town,don&apos;t we love it now?
 
-Everybody's waiting for the next surprise
+Everybody&apos;s waiting for the next surprise
 
 
 Round that corner,man hiding in the trash can
 
-Something's waiting now to pounce,and how you'll scream
+Something&apos;s waiting now to pounce,and how you&apos;ll scream
 
 
 Scream!This is Halloween
 
-Red'n'black.slimy green
+Red&apos;n&apos;black.slimy green
 
 
-Aren't you scared?
+Aren&apos;t you scared?
 
 
-Well,that's just fine
+Well,that&apos;s just fine
 
 Say it once,say it twice
 
@@ -747,7 +747,7 @@ I am the clown with the tear-away face
 Here in a flash and gone without a trace
 
 
-I am the "who" when you call,"Who's there?"
+I am the &quot;who&quot; when you call,&quot;Who&apos;s there?&quot;
 
 I am the wind blowing through your hair
 
@@ -766,10 +766,10 @@ Halloween！Halloween！
 
 Tender lumplings everywhere
 
-Life's no fun without a good scare
+Life&apos;s no fun without a good scare
 
 
-That's our job,but we're not mean
+That&apos;s our job,but we&apos;re not mean
 
 In our town of Halloween
 
@@ -777,10 +777,10 @@ In our town of Halloween
 In this town
 
 
-Don't we love it now?
+Don&apos;t we love it now?
 
 
-Everyone's waiting for the next surprise
+Everyone&apos;s waiting for the next surprise
 
 
 Skeleton Jack might catch you in the back
@@ -790,7 +790,7 @@ And scream like a banshee make you jump out of your skin
 This is Halloween,everyone scream
 
 
-Won't ya please make way for a very special guy
+Won&apos;t ya please make way for a very special guy
 
 
 Our man Jack is king of the pumpkin patch

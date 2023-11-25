@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>阳光小美女 Little Miss Sunshine</电影名>
 <年份>2006</年份>
@@ -16,7 +16,7 @@
 <reviews>
 <review>
 <作者>www5083</作者>
-<作者评分>4</作者评分>
+<标题>成功九步曲</标题><作者评分>4</作者评分>
 <时间>2006-12-23 16:50:09</时间>
 <影评>
         我带一副大眼镜
@@ -161,7 +161,7 @@ Oliver，终于有一天，你会明白，你的美，并不需要接受旁人�
 </review>
 <review>
 <作者>木·木</作者>
-<作者评分>4</作者评分>
+<标题>以自己的方式奋斗</标题><作者评分>4</作者评分>
 <时间>2007-12-19 22:08:55</时间>
 <影评>
             今天看这部电影，才知道自己曾经犯了多么大的错。
@@ -241,7 +241,7 @@ Oliver，终于有一天，你会明白，你的美，并不需要接受旁人�
 </review>
 <review>
 <作者>瓶子鱼</作者>
-<作者评分>5</作者评分>
+<标题>当优秀成为一种习惯</标题><作者评分>5</作者评分>
 <时间>2007-12-19 10:51:50</时间>
 <影评>
         当尼采迷的哥哥对自杀未遂的舅舅吼出do what we wanna do, fuck the rest那段时，被深深震撼了
@@ -284,7 +284,7 @@ CFA考试前，n多人在论坛里发炫耀帖，说自己的book 6做得多牛�
 </review>
 <review>
 <作者>煙斗 阿摺</作者>
-<作者评分>4</作者评分>
+<标题>《陽光小小姐》高唱脫掉脫掉</标题><作者评分>4</作者评分>
 <时间>2006-12-14 11:29:37</时间>
 <影评>
         杜德偉不停地唱「脫掉脫掉」，以致他已消失匿跡了好一段日子，無端想起，仍只是「脫掉脫掉」的聲音。
@@ -348,7 +348,7 @@ CFA考试前，n多人在论坛里发炫耀帖，说自己的book 6做得多牛�
 </review>
 <review>
 <作者>艾小柯</作者>
-<作者评分>5</作者评分>
+<标题>一抹阳光</标题><作者评分>5</作者评分>
 <时间>2006-09-26 04:50:06</时间>
 <影评>
         看电影预告的时候，完全认为这部《Little Miss Sunshine》是个儿童或者家庭喜剧，那种茶余饭后不动脑筋不用思考化食消磨时间可看可省的鸡肋。
@@ -381,7 +381,7 @@ CFA考试前，n多人在论坛里发炫耀帖，说自己的book 6做得多牛�
 </review>
 <review>
 <作者>五乔</作者>
-<作者评分>5</作者评分>
+<标题>屌丝应该怎么活</标题><作者评分>5</作者评分>
 <时间>2013-10-27 09:24:24</时间>
 <影评>
         文/五乔
@@ -456,7 +456,7 @@ CFA考试前，n多人在论坛里发炫耀帖，说自己的book 6做得多牛�
 </review>
 <review>
 <作者>Norris</作者>
-<作者评分>4</作者评分>
+<标题>绝不是简单的搞笑</标题><作者评分>4</作者评分>
 <时间>2006-08-19 14:34:08</时间>
 <影评>
         今年看的几部小成本电影都很出彩，如画面精致，剪辑干练的《Hard Candy》，戏剧色彩浓重的校园复古Film Noir《Brick》，以及即将要讨论的这部视角和色调都很独特的《Little Miss Sunshine》。
@@ -465,13 +465,13 @@ CFA考试前，n多人在论坛里发炫耀帖，说自己的book 6做得多牛�
 影片的开头方式非常特别（也许你会说或多或少模仿了《辛普森家庭》），几个讲述不同场景不同人物的镜头穿接起来，每一个都很有意思，却让你琢磨不透其间的联系（谁能把吸海洛因的老头子与挺着大肚子看电视的小朋友联系起来。。。），加上从头至尾超高水准的配乐（DeVotchka，Mychael Danna，etc.），感性上非常容易抓住观众。每一个人都会自始至终笑着看完这部独立电影，然而这些笑声的背后却是深沉的感情和对社会的无奈。
 
 
-《Little Miss Sunshine》定位于美国一个“无产阶级”家庭，家庭成员抑或懵懂，抑或逃避，抑或甚至犬儒主义。不论谁看起来都是社会的牺牲品，似乎只有小女儿Olive有着健康而积极的生活态度，是家庭的一抹亮色。于是不难理解为何每个人都在那么努力的维护Olive的这个梦，亲情是一个方面，也许更重要的，是他们不想让Olive像自己一样失去对生活的热情，想要维持住希望的寄托。这样说来，《Little Miss Sunshine》便有了些《一一》的味道，每个家庭成员沉浸在无尽的平淡和绝望之中。碰巧的是，《Little Miss Sunshine》中几个绝望的人也构成了一个循环：厌世（Dwayne） -> 不得不出世(Richard) -> 处事不顺企图自杀（Frank）-> 犬儒主义（grandpa）。
+《Little Miss Sunshine》定位于美国一个“无产阶级”家庭，家庭成员抑或懵懂，抑或逃避，抑或甚至犬儒主义。不论谁看起来都是社会的牺牲品，似乎只有小女儿Olive有着健康而积极的生活态度，是家庭的一抹亮色。于是不难理解为何每个人都在那么努力的维护Olive的这个梦，亲情是一个方面，也许更重要的，是他们不想让Olive像自己一样失去对生活的热情，想要维持住希望的寄托。这样说来，《Little Miss Sunshine》便有了些《一一》的味道，每个家庭成员沉浸在无尽的平淡和绝望之中。碰巧的是，《Little Miss Sunshine》中几个绝望的人也构成了一个循环：厌世（Dwayne） -&amp;gt; 不得不出世(Richard) -&amp;gt; 处事不顺企图自杀（Frank）-&amp;gt; 犬儒主义（grandpa）。
 
 
 一个有趣的问题便出现了：我们应该把Olive放在什么位置？她可以放在Dwayne之前从而成为厌世的原因，也可以放在爷爷之后从而摆脱这一个不和世俗的循环。这也是该影片戏剧化的所在之一：前文提到大家都在努力维护Olive的梦想，因此众人的目的是将她脱离这个恶性循环；然而爷爷却在关键时候阴魂不散，摧毁了众人的努力。但这场闹剧并非如此简单，因为每一个家庭成员最后都看出了“Miss Sunshine”节目以及一切Beauty Contests中存在的普遍问题，于是他们自愿的从入世的努力中跳了回来。最后得到肯定的竟然是爷爷的世界观。显而易见，虽然电影从头到尾充斥着笑料，但导演本人的视角并没有多少亮色。一家子踢了场，卷席而出，一片笑声中电影利落收场。
 
 
-非常讨巧的结尾。该说的其实都说清楚了，于是如果再表态就会落入俗套。这样的收场留给了观众足够的想象空间，也许有人会承认Dwayne的观点，“If I want to fly, I'll find a way to fly. You do what you love, and *beep* the rest”。不过我相信，Olive的未来不容乐观，也许又是个悲剧形式的终结。这一点仿佛又和《毕业生》有点相似，两个青年人踢了场，上了公车，满脸喜悦的坐在一群老年人中间，本来的微笑渐渐退去，还原成先前的懵懂和对未来的迷惘。
+非常讨巧的结尾。该说的其实都说清楚了，于是如果再表态就会落入俗套。这样的收场留给了观众足够的想象空间，也许有人会承认Dwayne的观点，“If I want to fly, I&apos;ll find a way to fly. You do what you love, and *beep* the rest”。不过我相信，Olive的未来不容乐观，也许又是个悲剧形式的终结。这一点仿佛又和《毕业生》有点相似，两个青年人踢了场，上了公车，满脸喜悦的坐在一群老年人中间，本来的微笑渐渐退去，还原成先前的懵懂和对未来的迷惘。
 
 
 这样独具匠心的电影不得不看，在此强烈推荐一下。
@@ -483,7 +483,7 @@ CFA考试前，n多人在论坛里发炫耀帖，说自己的book 6做得多牛�
 </review>
 <review>
 <作者>奔</作者>
-<作者评分>5</作者评分>
+<标题>一边止不住的笑，一面夺眶而出的泪</标题><作者评分>5</作者评分>
 <时间>2008-06-14 01:46:47</时间>
 <影评>
         影片开篇就给了这一家六口一个精炼的特写：
@@ -519,10 +519,10 @@ Olive的哥哥Dwayne（个人从他的第二个镜头就开始粉喜欢他），
 </review>
 <review>
 <作者>加州巴黎</作者>
-<作者评分>4</作者评分>
+<标题>cheers for losers</标题><作者评分>4</作者评分>
 <时间>2007-05-17 22:59:29</时间>
 <影评>
-        Our age is a winning age. Every self-help book, from home and abroad, shows you the way to the top. Every competition, online or on TV, displays the benefits of being a winner. Every parent, married or divorced, pushes the kids to be N.O.1. Every company, national or international, forces itself into the Fortune 500 list. Every country, big or small, desires to be powerful enough to devastate others. If you win, you are crowned and regarded as a role model to all. If you lose, congratulations, you've got another name: LOSER. 
+        Our age is a winning age. Every self-help book, from home and abroad, shows you the way to the top. Every competition, online or on TV, displays the benefits of being a winner. Every parent, married or divorced, pushes the kids to be N.O.1. Every company, national or international, forces itself into the Fortune 500 list. Every country, big or small, desires to be powerful enough to devastate others. If you win, you are crowned and regarded as a role model to all. If you lose, congratulations, you&apos;ve got another name: LOSER. 
 
 
 We live in an age of winner-manic and loser-phobia. That is what distinguishes this film: LITTLE MISS SUNSHINE. Instead of being one more orchestrated anthem dedicated to the winning group, this film is a carnival about living, fighting and forgeting of the losing team. 
@@ -531,26 +531,26 @@ We live in an age of winner-manic and loser-phobia. That is what distinguishes t
 Basically, here we have no winners: a kinky drug-abusing hippie(the grandpa), a pretentious jumpy speaker(the father), a smoking desperate housewife(the mother), a listless out-of-love gay scholar(the uncle), an ambitious silent brother and finally Olive, a plain-looking pre-mature seven-year-old girl. 
 
 
-It'll be boring to keep nagging about losing and how to lose. LMS spotlights human beings' reactions to a set of chaos. At moments of disillusions, this dysfunctional family choose to move on and forget about the pains and the past. These sorry but laughing-to-tears moments are Uncle's failing suicide, Brother's vow to silence, Father's boastful fallacy about almost anything, the microbus' interval breakdown, Uncle's embarrassment of running into his ex, the bankruptcy of Father's biz plan, Grandpa's sudden death, again, Brother's discovering himself as color blind and finally, Olive's outrageous performance as a finale...Such are days of our lives, to name just a few. 
+It&apos;ll be boring to keep nagging about losing and how to lose. LMS spotlights human beings&apos; reactions to a set of chaos. At moments of disillusions, this dysfunctional family choose to move on and forget about the pains and the past. These sorry but laughing-to-tears moments are Uncle&apos;s failing suicide, Brother&apos;s vow to silence, Father&apos;s boastful fallacy about almost anything, the microbus&apos; interval breakdown, Uncle&apos;s embarrassment of running into his ex, the bankruptcy of Father&apos;s biz plan, Grandpa&apos;s sudden death, again, Brother&apos;s discovering himself as color blind and finally, Olive&apos;s outrageous performance as a finale...Such are days of our lives, to name just a few. 
 
 
-As the audience, you laugh with them, and shed tears with them because you see your own lives in this film. People are so apt to be unhappy. Even if you've already been a millionare, just imagine one day you get a little problem, you will be troubled and annoyed. That is, even if you have 1,001 reasons to be happy, yet with only one tiny little nuisance, you will be sad or pessimistic. That is human nature. 
+As the audience, you laugh with them, and shed tears with them because you see your own lives in this film. People are so apt to be unhappy. Even if you&apos;ve already been a millionare, just imagine one day you get a little problem, you will be troubled and annoyed. That is, even if you have 1,001 reasons to be happy, yet with only one tiny little nuisance, you will be sad or pessimistic. That is human nature. 
 
 
-LMS teaches us how to deal with our failure and to move on. There could be one day when the one you love would walk away because of somebody else,  when your well-designed strategy failed to attract investors or clients, when the elaborately-prepared dinner pissed off the senior, when your dearest family left without saying goodbye, when there were only a slim chance for your dream of a lifetime, when everybody laughed at your art deco. We have to keep punching. Grandpa encourages Olive by saying "A real loser is someone who's so afraid of not winning he doesn't even try. " We lose with dignity and pride, most important of all, losers with dreams and action are not real losers. 
+LMS teaches us how to deal with our failure and to move on. There could be one day when the one you love would walk away because of somebody else,  when your well-designed strategy failed to attract investors or clients, when the elaborately-prepared dinner pissed off the senior, when your dearest family left without saying goodbye, when there were only a slim chance for your dream of a lifetime, when everybody laughed at your art deco. We have to keep punching. Grandpa encourages Olive by saying &quot;A real loser is someone who&apos;s so afraid of not winning he doesn&apos;t even try. &quot; We lose with dignity and pride, most important of all, losers with dreams and action are not real losers. 
 
 
-Beauty Pageant, Singing Competition---Miss Blah blah blah, Universal Idol, Supergirls or Superboys, we just live out of the main stream benchmark. We don't deliberately say no to the monotonous unanimous standard. We just despise the regular cheap smile and uniformed kidult dress and gestures. Don't be bothered by others' label on you: cynic, superfreak or weirdo --- "Do what you love and fuck the rest."(still remember: "Fuck the regulations!" -- From The legend of 1900 ) 
+Beauty Pageant, Singing Competition---Miss Blah blah blah, Universal Idol, Supergirls or Superboys, we just live out of the main stream benchmark. We don&apos;t deliberately say no to the monotonous unanimous standard. We just despise the regular cheap smile and uniformed kidult dress and gestures. Don&apos;t be bothered by others&apos; label on you: cynic, superfreak or weirdo --- &quot;Do what you love and fuck the rest.&quot;(still remember: &quot;Fuck the regulations!&quot; -- From The legend of 1900 ) 
 
 
-Martin Luther King shouted "... ...I have a dream today." I am shouting in the same way that everybody has a dream. Suede sings 'Everything Will Flow'. Well, everything will flow, except our dreams.
+Martin Luther King shouted &quot;... ...I have a dream today.&quot; I am shouting in the same way that everybody has a dream. Suede sings &apos;Everything Will Flow&apos;. Well, everything will flow, except our dreams.
       </影评>
 <有用数>128</有用数>
 <没用数>13</没用数>
 </review>
 <review>
 <作者>圣墟</作者>
-<作者评分>5</作者评分>
+<标题>一切并不是只有输赢两个结果</标题><作者评分>5</作者评分>
 <时间>2017-05-12 19:15:05</时间>
 <影评>
         家庭中的每一个成员虽然在性格上都不那么完美，但是却都对奥莉芙充满了爱意；每个人身上都有说不尽的烦恼和压力，却都坚持带着奥莉芙朝她的梦想前进。一家人在一路上的争争吵吵和一个接一个的困难中逐渐团结在一起，为了奥莉芙而共同努力。我们逐渐在他们的一举一动中，感觉到了他们对家人的那份爱，同时也感受到了他们对梦想的执着。
