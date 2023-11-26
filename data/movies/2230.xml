@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>脆弱的变化：第二辑 Loose Change: Second Edition</电影名>
 <年份>2006</年份>
 <评分>8.6</评分>
 <封面>https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568442963.jpg</封面>
 <导演>Dylan Avery</导演>
-<演员></演员>
-<简介>A Documentary following the misinformation of the attacks of Sept 11, 2001. Research journalism at its best, and better than Micheal Moore&apos;s Fahrenheit 9/11. Worth every minute, just to listen to the ideas of this documentary. Must see this movie, order the DVD from these guys to support them.
+<演员 />
+<简介>A Documentary following the misinformation of the attacks of Sept 11, 2001. Research journalism at its best, and better than Micheal Moore's Fahrenheit 9/11. Worth every minute, just to listen to the ideas of this documentary. Must see this movie, order the DVD from these guys to support them.
                                     
                                 　　
                                     
@@ -14,7 +14,7 @@
 <reviews>
 <review>
 <作者>Pauline</作者>
-<作者评分>5</作者评分>
+<标题>惊天大揭密：911，是假的！</标题><作者评分>5</作者评分>
 <时间>2008-05-26 09:32:36</时间>
 <影评>
         你可以只看片头5分钟，会一样惊疑911航班充满破绽，相信你会非常有兴趣继续观赏完整个骗局解读，并传给其他人。
@@ -51,7 +51,7 @@
 </review>
 <review>
 <作者>思考的猫</作者>
-<作者评分>4</作者评分>
+<标题>“阴谋论”？，还是“阴谋”？</标题><作者评分>4</作者评分>
 <时间>2008-05-05 07:53:11</时间>
 <影评>
             在这个世界上，有一种人，我们称之为“阴谋论者”，在他们眼中，世间的一切大事件都有内幕，世间的一系列小事件又都有阴谋使之相连，他们不断的质疑，极力拼接一条条线索，力图还原自己眼中的真相。有时候，我们对他们只是一笑了之，有时候“阴谋论”却恰恰揭示出了一件件“阴谋”，“阴谋论”？还是“阴谋”？这样的悬念也是“阴谋论”总能吸引人眼球的重大原因。
@@ -77,7 +77,7 @@ http://hi.baidu.com/doglovecat/blog/item/1f2b33871ef2762fc75cc3e4.html
 </review>
 <review>
 <作者>第六生</作者>
-<作者评分>4</作者评分>
+<标题>Where is the real world? —— 6's scratches on 《Loose Change 2nd Edition》</标题><作者评分>4</作者评分>
 <时间>2008-02-29 01:34:06</时间>
 <影评>
         片子的配音如此快，信息如此繁杂，以至于我在观看的时候要不时pause。即便是这样，我也无法分辨每一个“证据”和“细节”。
@@ -114,7 +114,7 @@ http://hi.baidu.com/doglovecat/blog/item/1f2b33871ef2762fc75cc3e4.html
 </review>
 <review>
 <作者>|53/V&gt;</作者>
-<作者评分>5</作者评分>
+<标题>战争即和平自由即奴役无知即力量</标题><作者评分>5</作者评分>
 <时间>2008-04-12 06:59:12</时间>
 <影评>
         共产党人火烧国会大厦，波兰入侵德国，
@@ -141,7 +141,7 @@ http://hi.baidu.com/doglovecat/blog/item/1f2b33871ef2762fc75cc3e4.html
 
 最后请允许我引用RATM主唱Zack在2007年说过的一段话来作为结尾（注4）：
 
-&quot;A good friend of ours once said that if the same laws were applied to U.S. Presidents as those were applied to the Nazi&apos;s during WWII, then every single one of &apos;em, every last rich white one of &apos;em, from Truman on would have been hung to death, and shot. And this current administration is no exception. They should be hung, and tried, and shot. As any war criminal should be. And the challenges that we face, they go way beyond administrations. Way beyond elections. Way Beyond every four years of pulling levers. Way beyond that, because this whole rotten system has become so vicious and cruel, that in order to sustain itself, it needs to destroy entire countries, and profit from their reconstruction, in order to survive, and that&apos;s not a system that changes every four years, it&apos;s a system that we have to break down generation after generation after generation after generation after generation. Wake up.&quot; 
+"A good friend of ours once said that if the same laws were applied to U.S. Presidents as those were applied to the Nazi's during WWII, then every single one of 'em, every last rich white one of 'em, from Truman on would have been hung to death, and shot. And this current administration is no exception. They should be hung, and tried, and shot. As any war criminal should be. And the challenges that we face, they go way beyond administrations. Way beyond elections. Way Beyond every four years of pulling levers. Way beyond that, because this whole rotten system has become so vicious and cruel, that in order to sustain itself, it needs to destroy entire countries, and profit from their reconstruction, in order to survive, and that's not a system that changes every four years, it's a system that we have to break down generation after generation after generation after generation after generation. Wake up." 
 
 
 ——————————————————————————————
@@ -163,7 +163,7 @@ http://en.wikiquote.org/wiki/Zack_de_la_Rocha
 </review>
 <review>
 <作者>Evarnold</作者>
-<作者评分>5</作者评分>
+<标题>阴谋论让你更有安全感了吗</标题><作者评分>5</作者评分>
 <时间>2008-10-29 21:48:31</时间>
 <影评>
         自看过天涯一堆强人对《色戒》的超强另类解读以后，我对“阴谋论”这个词有着不一般的关注度。某事件表面上看是A，官方说法是B，一研究调查起来是C，更有八卦风云说是D……这样精彩的魔术，怎不教人着迷。
@@ -196,7 +196,7 @@ http://evarnold7.spaces.live.com/
 </review>
 <review>
 <作者>夕鱼</作者>
-<作者评分>5</作者评分>
+<标题>什么才是真相？</标题><作者评分>5</作者评分>
 <时间>2011-09-23 04:22:14</时间>
 <影评>
         事隔十年才知道有这么一部纪录片 非常佩服编导的勇气和探求真相的执着 片中的证据、推理和结论基本吻合 但是看过之后 我已经被这种假民主伪政府欺民众的世界混淆了视听 如果真是美国政府一手策划911 那么本片的编导也可能借此策划某些阴谋 这些都是像我这种并没有深入了解911的人所不能判断的 十年前的我对无辜的丧命者感到遗憾和同情 但对于世贸双塔 说白了就是两座超高层建筑的炸毁 正是阴谋者挑衅了世贸双塔在纽约人甚至美国人心中的地位和美国人一贯的自身优越感 美国自然不容许这般的羞辱 于是政府怒了 人民也怒了 全世界都同情 伊拉克战争顺理成章发生 油价也从此只见涨。。。已经分不清真假 或许美国政府真的为了暴利演了如此一出劳民伤财的大片 只为了博得世界人民的同情  又或许这部纪录片就是另一个阴谋的开始 这个世界的大部分真相都掌握在少数人那里 没有绝对的民主 也没有绝对的阴谋 只是依旧对那些无辜的生命表示沉重的哀悼 
@@ -206,7 +206,7 @@ http://evarnold7.spaces.live.com/
 </review>
 <review>
 <作者>VIVI</作者>
-<作者评分>3</作者评分>
+<标题>难以回避的质疑</标题><作者评分>3</作者评分>
 <时间>2006-10-05 22:23:32</时间>
 <影评>
         不知在美国“Loose Change”会不会被禁播，因为的确直指美国政府，对911的政治阴谋性作了全面细节的剖析。让人不得不怀疑全球所闻那个911版本的真实性。
@@ -232,7 +232,7 @@ http://vividbhworld.iblog.com/post/16750/132379
 </review>
 <review>
 <作者>wilson</作者>
-<作者评分>5</作者评分>
+<标题>美国9.11真相！天衣无缝的国家行动！</标题><作者评分>5</作者评分>
 <时间>2009-06-12 15:06:13</时间>
 <影评>
         “你在做，天在看！”——这句话，用来评价这件事是最恰当不过的！
@@ -248,7 +248,7 @@ http://vividbhworld.iblog.com/post/16750/132379
 </review>
 <review>
 <作者>鼠斩车田万齐</作者>
-<作者评分>3</作者评分>
+<标题>为什么中国不抓住这种机会反咬一口</标题><作者评分>3</作者评分>
 <时间>2009-05-28 13:03:39</时间>
 <影评>
         这个片子就那么回事吧 
@@ -265,7 +265,7 @@ http://vividbhworld.iblog.com/post/16750/132379
 </review>
 <review>
 <作者>[已注销]</作者>
-<作者评分>3</作者评分>
+<标题>Loose Change 2nd Edition</标题><作者评分>3</作者评分>
 <时间>2008-07-04 23:11:22</时间>
 <影评>
 

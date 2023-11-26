@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>梵高 Van Gogh</电影名>
 <年份>1991</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>意识流螺丝刀</作者>
-<作者评分>5</作者评分>
+<标题>浅谈《梵高》的“痕迹”书写---拉扯，或痛苦的凝结</标题><作者评分>5</作者评分>
 <时间>2020-04-16 09:37:41</时间>
 <影评>
 
@@ -114,7 +114,7 @@ But when you drink its wine, you drink the blood of your brothers.
 </review>
 <review>
 <作者>美神经</作者>
-<作者评分>4</作者评分>
+<标题>梵高</标题><作者评分>4</作者评分>
 <时间>2017-07-26 23:48:21</时间>
 <影评>
 
@@ -133,7 +133,7 @@ But when you drink its wine, you drink the blood of your brothers.
 </review>
 <review>
 <作者>小A</作者>
-<作者评分>4</作者评分>
+<标题>重大的历史时刻在当年曾经平静地发生</标题><作者评分>4</作者评分>
 <时间>2017-10-29 13:56:01</时间>
 <影评>
 
@@ -175,30 +175,30 @@ Sifflera bien mieux le merle moqueur
  
 梵高在巴黎的妓院里抱着Gachet的女儿，听歌手演唱《红色山丘》（La Butte rouge），歌词更是非常直白地指代巴黎公社：
  
-La Butte Rouge, c&apos;est son nom, l&apos;baptème s&apos;fit un matin
+La Butte Rouge, c'est son nom, l'baptème s'fit un matin
 他的名字叫红色山丘，洗礼开始于一天清晨
 Où tous ceux qui grimpèrent, roulèrent dans le ravin 
 所有爬上山丘的人都跌入山谷
-Aujourd&apos;hui y&apos;a des vignes, il y pousse du raisin
+Aujourd'hui y'a des vignes, il y pousse du raisin
 今天那里满是葡萄园，种满了葡萄
-Qui boira d&apos;ce vin là, boira l&apos;sang des copains
+Qui boira d'ce vin là, boira l'sang des copains
 我们喝的每一杯葡萄酒，都是我们的同胞的鲜血
-C&apos;qu&apos;elle en a bu, du beau sang, cette terre,
+C'qu'elle en a bu, du beau sang, cette terre,
 大地痛饮美丽的鲜血
-Sang d&apos;ouvrier et sang de paysan, 
+Sang d'ouvrier et sang de paysan, 
 工人的鲜血，农民的鲜血
 Car les bandits, qui sont cause des guerres,
 因为那些挑动战争的匪徒
-N&apos;en meurent jamais, on n&apos;tue qu&apos;les innocents. 
+N'en meurent jamais, on n'tue qu'les innocents. 
 永远不会死，死去的只是无辜的人。
  
 影片并没有着力表现梵高的艺术才华，而是将他穷困潦倒、对艺术缺乏坚定理想、脾气暴躁、流连于妓女之间的生活状态作为主要方面展现出来。片中梵高的弟弟提奥时而说“我不喜欢他的画”，时而又说“将来会有人认识他的艺术成就”。梵高生前与高更、塞尚的关系也在影片中用俏皮话的方式进行了简单提及，比如梵高与Gachet医生的这段对话：
  
-Cézanne, il a jamais pu me blairer. Il nous appelait &quot;Gauguin et Gogue&quot;.
+Cézanne, il a jamais pu me blairer. Il nous appelait "Gauguin et Gogue".
 梵高：塞尚从来都很反感我，他把我们（指他和高更）称呼为“高更和马鞍”（梵高的姓Gogh在法语里念法和发明新式马鞍的Gogue类似）。
-Entre artistes, c&apos;est pas méchant.
+Entre artistes, c'est pas méchant.
 Gachet医生：艺术家之间这样的对话也不算太难听。
-Je l&apos;appelle pas &quot;Seize-ânes&quot;, moi.
+Je l'appelle pas "Seize-ânes", moi.
 梵高：但我并没叫他“十六头驴”啊。（法语里“十六头驴”和塞尚的读音类似）
  
 影片再现了梵高为Gachet和他的女儿创作肖像的过程，将其表现得非常淡雅。梵高最后死亡的情节也很平静，去世之后提奥很平静地帮他把欠下的旅店钱结清了，就像是在一个宁静的普通法国小镇上，去世了一位具有艺术天赋但无人知晓的中年艺术家。如果是当今一位这样的艺术家去世了，必然很难在社会上引起任何波澜。这种状况恰好符合《梵高》这部影片的整体气质，非常生活化和历史感，因为在后人看来非常重大的历史时刻，发生之时往往非常平静。
@@ -211,7 +211,7 @@ Je l&apos;appelle pas &quot;Seize-ânes&quot;, moi.
 </review>
 <review>
 <作者>月满西楼</作者>
-<作者评分>5</作者评分>
+<标题>在一段有待考证的恋情中的行走的天使</标题><作者评分>5</作者评分>
 <时间>2011-07-31 16:54:12</时间>
 <影评>
         文森特与玛格丽特•加歇的恋情并未记载于《梵高传》中，其真实性有待考证。编剧和导演这样安排，很可能书出于对一生没有得到真爱的文森特的同情，希望在他生命尽头多少弥补一下遗憾。然而少女的挚爱和处女的胴体最终没能改变文森特命运的轨迹。如果他稍稍幸运一些，早在阿尔的时候迎来这场精神和肉体上的安慰，他也许不会发疯，不会透支灵感，不会那么早走向生命的终点。可事实是文森特依旧走背运，在孤绝、无望与贫困中燃烧自己，在预支了未来几十年的心力和希望而筋疲力竭之后，在死神的阴影已经笼罩在他的头顶的时候，玛格丽特才带着那对她来说意义重大，但对文森特来说已经无力消受的温存到来。于是，他依旧绝望，依旧没有得到生命的拯救。 
@@ -233,7 +233,7 @@ Je l&apos;appelle pas &quot;Seize-ânes&quot;, moi.
 </review>
 <review>
 <作者>法罗岛电影节</作者>
-<作者评分></作者评分>
+<标题>FIFF11丨DAY3《梵高》：皮亚拉影像中的疯狂画家</标题><作者评分 />
 <时间>2020-02-13 22:02:22</时间>
 <影评>
 
@@ -282,7 +282,7 @@ Bob_Chow：
 </review>
 <review>
 <作者>pd</作者>
-<作者评分>4</作者评分>
+<标题>艺术带来的折磨</标题><作者评分>4</作者评分>
 <时间>2015-08-04 10:23:54</时间>
 <影评>
 
@@ -306,7 +306,7 @@ Bob_Chow：
 </review>
 <review>
 <作者>VictorYanFan</作者>
-<作者评分>5</作者评分>
+<标题>当电影遇到绘画</标题><作者评分>5</作者评分>
 <时间>2008-07-17 08:20:30</时间>
 <影评>
         本评论摘自“Alliance Francaise de Shanghai”电影俱乐部。
@@ -326,7 +326,7 @@ Bob_Chow：
 </review>
 <review>
 <作者>冲鸭</作者>
-<作者评分>5</作者评分>
+<标题>神品</标题><作者评分>5</作者评分>
 <时间>2018-02-01 20:43:45</时间>
 <影评>
 
@@ -340,7 +340,7 @@ Bob_Chow：
 </review>
 <review>
 <作者>画瞳</作者>
-<作者评分>3</作者评分>
+<标题>懒洋洋</标题><作者评分>3</作者评分>
 <时间>2016-08-01 11:43:14</时间>
 <影评>
         我对梵高的印象主要还是那几幅名画和略有耳闻的悲催生平，这部电影看完之后呢对梵高的了解基本也没什么进步，所以要当扫盲类人物传记看那肯定是要投诉的。这是两个半小时的十九世纪法国乡村生活纪录，纪录了闯进来的一个落魄的依然有着艺术家傲娇的画家，懒洋洋的同时又敏感蛇精如猫，他跟乡亲们吃饭，聊天，玩乐，发呆，画画，吵架，调戏乡下少女~~~然后自杀~~~然后没了~~~~。我并没有很喜欢这样的电影，但是却记住了那个慵懒的法国乡村和那个蛇精质的消瘦身影。
@@ -350,7 +350,7 @@ Bob_Chow：
 </review>
 <review>
 <作者>亢蒙</作者>
-<作者评分>3</作者评分>
+<标题>困乏</标题><作者评分>3</作者评分>
 <时间>2012-01-25 22:45:30</时间>
 <影评>
 

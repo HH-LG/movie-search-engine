@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>我是山姆 I Am Sam</电影名>
 <年份>2001</年份>
@@ -16,7 +16,7 @@
 <reviews>
 <review>
 <作者>jie</作者>
-<作者评分>4</作者评分>
+<标题>他所带来的。。。</标题><作者评分>4</作者评分>
 <时间>2006-12-27 20:21:59</时间>
 <影评>
         I AM SAM   看了许久的影片 直到某一天和哥哥再度聊起的时候 便想为他记下些什么
@@ -122,7 +122,7 @@ LUCY 被带走 紧紧抱着SAM 还是被带走
 </review>
 <review>
 <作者>饭忒稀</作者>
-<作者评分>5</作者评分>
+<标题>我们都喜欢披头四</标题><作者评分>5</作者评分>
 <时间>2009-01-25 01:05:46</时间>
 <影评>
            
@@ -183,7 +183,7 @@ LUCY 被带走 紧紧抱着SAM 还是被带走
 </review>
 <review>
 <作者>蜀狂</作者>
-<作者评分>4</作者评分>
+<标题>Love is all we need</标题><作者评分>4</作者评分>
 <时间>2008-03-08 03:21:05</时间>
 <影评>
         岸边同学几天前推荐我看《I Am Sam》这部被她成为超级感人的电影，刚才在网上把这部电影找来看了。电影确实很感人，虽然没有让我看得老泪纵横的，但是眼睛也湿了几次。
@@ -192,7 +192,7 @@ LUCY 被带走 紧紧抱着SAM 还是被带走
 电影讲述人世间最重要的一种情：亲情。一个“傻子”父亲和一个聪明伶俐的女儿之间的感人故事。
 
 
-Sam，一个喜欢Beatles、智力只相当于7月孩子的成年男人。上天赐给了一个如钻石般的女儿，他为她起名为Lucy（源于Beatles的歌曲&quot;Lucy in the sky with diamnd&quot;），Lucy成了他生活上的全部，他用他全部的爱去爱他的女儿呢。可是，地区的教育官员发现了这个特殊的家庭，他们认为Sam没有能力照顾Lucy，于是在Lucy七岁的生日宴会上，让这对快乐的父女不得不面对分离。故事由此展开。
+Sam，一个喜欢Beatles、智力只相当于7月孩子的成年男人。上天赐给了一个如钻石般的女儿，他为她起名为Lucy（源于Beatles的歌曲"Lucy in the sky with diamnd"），Lucy成了他生活上的全部，他用他全部的爱去爱他的女儿呢。可是，地区的教育官员发现了这个特殊的家庭，他们认为Sam没有能力照顾Lucy，于是在Lucy七岁的生日宴会上，让这对快乐的父女不得不面对分离。故事由此展开。
 
 
 我认为所有家里有小孩子的父母，都应该陪同孩子一起看一遍这部电影。很多父母都会把“爱”这个字挂在嘴边，口口声声地说爱他们的孩子，他们努力地在外面拼命地工作赚钱，理由是给孩子创造好的条件，而他们却不愿意或者称没有时间陪同孩子逛一下公园。当Sam不停地给Lucy说对不起的时候，Lucy说了一句话：“我很幸运，你和别人的爸爸不一样，没有任何人的爸爸能够总是去公园。”
@@ -226,7 +226,7 @@ Ssm的智力虽然有问题，不能像别的父母那样在物质上给孩子�
 </review>
 <review>
 <作者>大文芒</作者>
-<作者评分>4</作者评分>
+<标题>爱是一种能力</标题><作者评分>4</作者评分>
 <时间>2008-11-11 17:27:48</时间>
 <影评>
         王小波的爱人李先生虽然不是我喜欢的类型，但是她说过的一句话我很认同，她说，爱是一种能力，有些人有，有些人没有，有这种能力的人是幸福的，可以感受爱并给予爱。
@@ -240,7 +240,7 @@ Ssm的智力虽然有问题，不能像别的父母那样在物质上给孩子�
 </review>
 <review>
 <作者>央金拉姆</作者>
-<作者评分>5</作者评分>
+<标题>All we need is LOVE</标题><作者评分>5</作者评分>
 <时间>2009-05-30 21:57:03</时间>
 <影评>
         父爱是充满启迪和创造的。他可以没有钱，他可以不帅，他甚至可以不聪明，但他不能缺少爱。
@@ -268,7 +268,7 @@ Ssm的智力虽然有问题，不能像别的父母那样在物质上给孩子�
 </review>
 <review>
 <作者>九命猫@victor-eyes</作者>
-<作者评分>4</作者评分>
+<标题>在较健全社会里特殊人群如何养孩子——写给青少年（1）[猫]</标题><作者评分>4</作者评分>
 <时间>2015-12-16 20:29:35</时间>
 <影评>
 
@@ -302,7 +302,7 @@ Ssm的智力虽然有问题，不能像别的父母那样在物质上给孩子�
 </review>
 <review>
 <作者>Miss Shadow</作者>
-<作者评分>5</作者评分>
+<标题>Lucy in the sky with diamond_ I am sam</标题><作者评分>5</作者评分>
 <时间>2009-04-30 20:51:12</时间>
 <影评>
         这部片子很感人。
@@ -330,7 +330,7 @@ Lucy: [being observed] I want no other daddy but you.
 
 [turns to the glass] 
 
-Lucy: [shouts] Did you hear that? I said I didn&apos;t want any other daddy but him. Why don&apos;t you write that down?
+Lucy: [shouts] Did you hear that? I said I didn't want any other daddy but him. Why don't you write that down?
 
 
  
@@ -339,9 +339,9 @@ Lucy: [shouts] Did you hear that? I said I didn&apos;t want any other daddy but 
  
 
 
-Sam: YOU&apos;RE MY LAWYER! 
+Sam: YOU'RE MY LAWYER! 
 
-Rita: That&apos;s right. 
+Rita: That's right. 
 
 Sam: OKAY! 
 
@@ -349,11 +349,11 @@ Sam: OKAY!
 
 Sam: You think what they think. 
 
-Rita: It doesn&apos;t matter what I think. It matters that we win. 
+Rita: It doesn't matter what I think. It matters that we win. 
 
-Sam: No, you think what they think. You think Sam can&apos;t take care of Lucy! 
+Sam: No, you think what they think. You think Sam can't take care of Lucy! 
 
-Rita: Sam, it doesn&apos;t matter what I think! 
+Rita: Sam, it doesn't matter what I think! 
 
 Sam: It matters to me!
 
@@ -381,11 +381,11 @@ Sam: [thinks for a few seconds] No.
  
 
 
-Sam: You&apos;ve grown. 
+Sam: You've grown. 
 
 Lucy: Have I? 
 
-Sam: Yeah, &apos;cause your ears are bigger and your eyes are older.
+Sam: Yeah, 'cause your ears are bigger and your eyes are older.
 
 
  
@@ -400,15 +400,15 @@ Sam: Yeah, &apos;cause your ears are bigger and your eyes are older.
  
 
 
-Rita: Now, Ms. Cossell, in all the time that you&apos;ve known them, have you ever questioned Sam&apos;s ability as a father? 
+Rita: Now, Ms. Cossell, in all the time that you've known them, have you ever questioned Sam's ability as a father? 
 
 Annie: Never. 
 
 Rita: Never? 
 
-Annie: Never. Look at Lucy. She&apos;s strong. She displays true empathy for people, all kinds of people. I know that you all think she&apos;s as smart as she is despite him, but it&apos;s because of him. 
+Annie: Never. Look at Lucy. She's strong. She displays true empathy for people, all kinds of people. I know that you all think she's as smart as she is despite him, but it's because of him. 
 
-Rita: So what you&apos;re saying is you don&apos;t worry about Lucy&apos;s future? 
+Rita: So what you're saying is you don't worry about Lucy's future? 
 
 Annie: No, I do. 
 
@@ -431,7 +431,7 @@ Conner Rhodes: How do you know?
 
 Lucy: Because he told me. 
 
-Conner Rhodes: But he&apos;s a retard! 
+Conner Rhodes: But he's a retard! 
 
 Lucy: It takes one to know one.
 
@@ -460,11 +460,11 @@ Robert: All of us or just her?
 
 Lucy: Why are men bald? 
 
-Sam: Sometimes they&apos;re bald because their head is shiny and they don&apos;t have hair on it. So their head is just more of their face. 
+Sam: Sometimes they're bald because their head is shiny and they don't have hair on it. So their head is just more of their face. 
 
 
 
-Sam: OK, remember when Paul McCartney wrote the song &quot;Michelle&quot; and then he only wrote the first part, Annie said. And then he gave that part to John Lennon, and he wrote the part that said, &quot;I love you, I love you, I love you.&quot; And Annie said that it wouldn&apos;t have been the same song without that... and that&apos;s why the whole world cried when the Beatles broke up on April 10, 1970.
+Sam: OK, remember when Paul McCartney wrote the song "Michelle" and then he only wrote the first part, Annie said. And then he gave that part to John Lennon, and he wrote the part that said, "I love you, I love you, I love you." And Annie said that it wouldn't have been the same song without that... and that's why the whole world cried when the Beatles broke up on April 10, 1970.
 
 
 </影评>
@@ -473,7 +473,7 @@ Sam: OK, remember when Paul McCartney wrote the song &quot;Michelle&quot; and th
 </review>
 <review>
 <作者>Mr. KnowingNth</作者>
-<作者评分>5</作者评分>
+<标题>爱是恒久忍耐，又有恩慈。</标题><作者评分>5</作者评分>
 <时间>2010-09-21 02:06:30</时间>
 <影评>
         这是一个7岁的父亲用他的爱来支撑起的故事，一个7岁的女儿用理解，耐心和依偎来充实的故事。这是造物主用心创造的相遇。其实我们可以层层剥去整个片子的外壳，抛开那些没有人情味的法律，还有之外的那些边缘的人物，我所看到的，是一个唯一知道父爱真谛的父亲，那时一种纯粹到你无法再继续提炼出杂质的爱。
@@ -508,7 +508,7 @@ Sam: OK, remember when Paul McCartney wrote the song &quot;Michelle&quot; and th
 </review>
 <review>
 <作者>冲田总悟</作者>
-<作者评分>5</作者评分>
+<标题>不一样的爸爸  一样的爱</标题><作者评分>5</作者评分>
 <时间>2016-11-16 15:42:49</时间>
 <影评>
         一个智商只有七岁的爸爸 一个异常聪慧的女儿    越来越大的女儿也有着越多的问题 从“芥末是什么做的  ” “男人为什么会秃顶” “天空有尽头吗  ” 等等到有关妈妈问题  小小的露西越来越显露出她的聪明 也开始有了不属于她年纪的成熟 明白了自己爸爸和其他爸爸的不同 爸爸只会讲塞茨博士的“绿色火腿蛋”   晚会上其他小朋友对爸爸异样的目光  爸爸的迟钝等等  尽管如此露西还是觉得是幸运的   因为爸爸用他的全部爱着她
@@ -520,7 +520,7 @@ Sam: OK, remember when Paul McCartney wrote the song &quot;Michelle&quot; and th
 </review>
 <review>
 <作者>jfflnzw</作者>
-<作者评分>5</作者评分>
+<标题>父爱如山</标题><作者评分>5</作者评分>
 <时间>2017-06-02 16:28:46</时间>
 <影评>
 

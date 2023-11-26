@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>自闭历程 Temple Grandin</电影名>
 <年份>2010</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>愣了愣</作者>
-<作者评分>4</作者评分>
+<标题>不幸生而“正常”的我们</标题><作者评分>4</作者评分>
 <时间>2010-08-17 15:25:24</时间>
 <影评>
 
@@ -29,7 +29,7 @@ Temple Grandin，这个名字对于很多人来说并不熟悉，直到其同名
 也许这样说有点可笑，任何自闭症患者的人生都是充满艰辛的，正常人有什么资格去和他们比较苦难呢？
 
 
-作为一个自闭症患者，天宝是幸运的。她遇到了一个受过良好教育、相信自己、不轻言放弃的母亲，一个无私提供援助、真正关心她感受的姑姑，她还遇到了一个用爱心和知识为她引路的老师，这也是每个“正常”孩子所能幻想拥有的最珍贵的财富——正是这一切让天宝在崎岖的人生路上始终明白自己和别人不一样，但并不比别人差！（&quot;Different,but not less.&quot;）——做天宝，可以不一样，不一样是必须的。
+作为一个自闭症患者，天宝是幸运的。她遇到了一个受过良好教育、相信自己、不轻言放弃的母亲，一个无私提供援助、真正关心她感受的姑姑，她还遇到了一个用爱心和知识为她引路的老师，这也是每个“正常”孩子所能幻想拥有的最珍贵的财富——正是这一切让天宝在崎岖的人生路上始终明白自己和别人不一样，但并不比别人差！（"Different,but not less."）——做天宝，可以不一样，不一样是必须的。
 
 作为一个“正常人”的我们，因为正常，我们作对的每件小事不会被肯定和重视。我们只有奋力在庞大的正常人群中往上游，试图在激烈的竞争中占据一席之地。总是有天分更好的人出现，越来越发觉自己面对所谓现实无能无力。
 
@@ -67,17 +67,17 @@ Temple Grandin，这个名字对于很多人来说并不熟悉，直到其同名
 </review>
 <review>
 <作者>PixelGirl</作者>
-<作者评分>5</作者评分>
+<标题>Notes</标题><作者评分>5</作者评分>
 <时间>2010-08-20 19:04:42</时间>
 <影评>
-        nature is cruel, but we don&apos;t have to be.we owe them some respect.I touched the first cow as it was being stunned.In a few seconds, it was gonna be just another piece of beef,but in that moment, it was still an individual.It was calm.And then it was gone.I became aware of how precious life was.And I thought about death and I felt close to God.I don&apos;t want my thoughts to die with me.I want to have done something.
+        nature is cruel, but we don't have to be.we owe them some respect.I touched the first cow as it was being stunned.In a few seconds, it was gonna be just another piece of beef,but in that moment, it was still an individual.It was calm.And then it was gone.I became aware of how precious life was.And I thought about death and I felt close to God.I don't want my thoughts to die with me.I want to have done something.
       </影评>
 <有用数>132</有用数>
 <没用数>5</没用数>
 </review>
 <review>
 <作者>瓦器</作者>
-<作者评分>5</作者评分>
+<标题>与众不同，但是不比别人差。</标题><作者评分>5</作者评分>
 <时间>2010-08-12 23:00:46</时间>
 <影评>
         Different,but no less.
@@ -120,7 +120,7 @@ Temple是幸运的，有始终爱她帮助她并且尊重她的家人，在上�
 </review>
 <review>
 <作者>西渚</作者>
-<作者评分>5</作者评分>
+<标题>我想说说专注</标题><作者评分>5</作者评分>
 <时间>2010-09-08 19:18:05</时间>
 <影评>
         想起一个故事
@@ -144,7 +144,7 @@ Temple是幸运的，有始终爱她帮助她并且尊重她的家人，在上�
 </review>
 <review>
 <作者>生菇</作者>
-<作者评分>4</作者评分>
+<标题>Temple Grandin本人在TED上的演讲</标题><作者评分>4</作者评分>
 <时间>2011-04-06 02:56:13</时间>
 <影评>
         可以对照看下主角真人跟表演的差距。
@@ -163,7 +163,7 @@ PS：subtitle那里可以选择中文字幕，看着更省力点。
 </review>
 <review>
 <作者>阳光清清</作者>
-<作者评分>5</作者评分>
+<标题>缺点成就了优点，一切都是爱</标题><作者评分>5</作者评分>
 <时间>2010-08-13 16:15:27</时间>
 <影评>
         尊重有缺陷的自我
@@ -297,7 +297,7 @@ I am Temple Grandin！
 </review>
 <review>
 <作者>最后一页</作者>
-<作者评分>4</作者评分>
+<标题>给予尊重</标题><作者评分>4</作者评分>
 <时间>2017-08-27 00:41:50</时间>
 <影评>
 
@@ -311,7 +311,7 @@ I am Temple Grandin！
 </review>
 <review>
 <作者>W内修探索</作者>
-<作者评分>5</作者评分>
+<标题>《自闭历程》学会哀悼，学会新生</标题><作者评分>5</作者评分>
 <时间>2021-01-27 08:24:28</时间>
 <影评>
 
@@ -371,7 +371,7 @@ Temple有她独立的世界，这个世界让她需要承受很大的压力和�
 </review>
 <review>
 <作者>微霄</作者>
-<作者评分>5</作者评分>
+<标题>在时间的夹缝中，只有春路盎然</标题><作者评分>5</作者评分>
 <时间>2011-04-03 19:12:48</时间>
 <影评>
         猫熊总是对着我的耳朵念叨念叨，想找个天才谈恋爱。自己不是天才，很是好奇天才的世界是怎样的模样。那时生活大爆炸还没这么火爆，那时我们都以为天才么，似乎总是好的，他们总能拥有无论我们怎么努力都无法得到的东西。
@@ -409,7 +409,7 @@ Temple Grandin的世界充满了图像，她自闭，自四岁被确诊便注定
 </review>
 <review>
 <作者>羊子</作者>
-<作者评分>5</作者评分>
+<标题>喜欢学术超人</标题><作者评分>5</作者评分>
 <时间>2011-09-03 10:26:03</时间>
 <影评>
         看了《自闭历程》，我的心里很感动，一个自闭症患者，在经历重重人际压力的状况下，有惊无险地按她自己的方式生活，不仅成为了她自己，并且在自己专业领域做出巨大成就。

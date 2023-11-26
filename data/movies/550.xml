@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>断背山 Brokeback Mountain</电影名>
 <年份>2005</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>胖巧克力</作者>
-<作者评分>5</作者评分>
+<标题>一个台湾影评人的评论（转载，原作者飛行）</标题><作者评分>5</作者评分>
 <时间>2009-03-09 11:37:56</时间>
 <影评>
         一个台湾人关于《断臂山》的影评    作者：飛行
@@ -1295,7 +1295,7 @@
 </review>
 <review>
 <作者>顾遇绸缪</作者>
-<作者评分>4</作者评分>
+<标题>Love is a force of nature</标题><作者评分>4</作者评分>
 <时间>2005-12-18 16:23:45</时间>
 <影评>
         电影是limited，城市里的几个独立电影院在放。
@@ -1350,7 +1350,7 @@ She had tears in her eyes。So did I。
 </review>
 <review>
 <作者>小青</作者>
-<作者评分>4</作者评分>
+<标题>断背山及其他</标题><作者评分>4</作者评分>
 <时间>2006-04-12 14:30:40</时间>
 <影评>
         终于还是看了。断臂山的开头的确美呆了。让人叹气的美。
@@ -1389,7 +1389,7 @@ Jack一出场就让人嗅到同性恋的气息，长相有种说不出的挑衅�
 </review>
 <review>
 <作者>一顿早饭</作者>
-<作者评分>5</作者评分>
+<标题>关于Jack的死</标题><作者评分>5</作者评分>
 <时间>2009-05-17 04:43:43</时间>
 <影评>
         看到很多人讨论关于Jack最后到底是怎么死的的问题，我个人觉得影片暗示的还是很明显的，阐述一下自己的看法。
@@ -1418,7 +1418,7 @@ Ennis一定明白Jack是怎么死的，他的愧疚可想而知。因为他小�
 </review>
 <review>
 <作者>游园惊梦</作者>
-<作者评分>5</作者评分>
+<标题>“断背山”中的细节及象征寓意</标题><作者评分>5</作者评分>
 <时间>2009-03-30 16:02:50</时间>
 <影评>
         用李安的话说，“断背山”的原著读起来就好像一个人用手轻轻抚摸你的脸，然后突然打了你一拳一样。因为很喜欢这部电影，所以跑去读了英文原著，那个美国老太太Annie Proulx着实很有功力，用一个短篇小说简单的讲述了两个牛仔二十年的经历，通篇没有什么抒情类的话，作者就好像一个旁观者一样，不痛不痒的说别人的故事，留给读者的却是久久的痛。 
@@ -1467,7 +1467,7 @@ Ennis一定明白Jack是怎么死的，他的愧疚可想而知。因为他小�
 </review>
 <review>
 <作者>▲T E</作者>
-<作者评分>5</作者评分>
+<标题>缅怀Heath Ledger</标题><作者评分>5</作者评分>
 <时间>2008-01-23 10:27:21</时间>
 <影评>
             今天从Production Design课回到宿舍的时候，听见Colin在他的房间里大呼小叫。我敲开门询问原由。他一句话也不说，一根手指戳向旁边的电视屏幕。模糊的录象带画面，只有电视一角的CNN标致和一行苍白的字幕清楚扎眼。Famous actor Heath Ledger Dead。What？我扔下书包摊开双手。Colin一脸苍白无奈。Drug overdose。他淡淡地说。屏幕上开始播放怀念他的录象。一张张笑脸匆匆掠过去，像是窗外一直绵绵的小雨，轻得不能再轻却又愈发钝重起来。有什么轻轻掂着我空空的胃。
@@ -1489,7 +1489,7 @@ Ennis一定明白Jack是怎么死的，他的愧疚可想而知。因为他小�
 </review>
 <review>
 <作者>Henry</作者>
-<作者评分>5</作者评分>
+<标题>又见远山And There Is The Mountain</标题><作者评分>5</作者评分>
 <时间>2006-03-05 14:38:01</时间>
 <影评>
         I dedicate this little piece of heart to the amazing Ang Lee,may the Oscar Award shine upon you.
@@ -1499,7 +1499,7 @@ Ennis一定明白Jack是怎么死的，他的愧疚可想而知。因为他小�
  
 
 
-Almost a month has passed had I gathered up all my tears or fears or whatever feelings to write this one down.It was the hardest thing I ever tried to do, to find the exact words or the right sentences to express how much this haunting dreamy poem Ang Lee has drown the world with teardrops,lovin&apos;ness and compassion.Words are pale, just like our strength against destiny is frail.
+Almost a month has passed had I gathered up all my tears or fears or whatever feelings to write this one down.It was the hardest thing I ever tried to do, to find the exact words or the right sentences to express how much this haunting dreamy poem Ang Lee has drown the world with teardrops,lovin'ness and compassion.Words are pale, just like our strength against destiny is frail.
 
 当我挣扎着想要记叙李安的这部影片带来的感受时，语言本身显得如此苍白无力，就好像是面对那只冥冥之中的命运的大手时，我们微不足道的抵抗一样。
 
@@ -1508,7 +1508,7 @@ Every road has its turning points and ending silences, only not if your heart go
 
 Every song has its ups and downs and finishing echos, only not if your spirit flies much afar;
 
-Every dream has its twistings and sweetnesses and wakin&apos; moments, only not if your emotion soars into its unknown blues;
+Every dream has its twistings and sweetnesses and wakin' moments, only not if your emotion soars into its unknown blues;
 
 每条道路都有属于自己的悠然蜿沿和沉默的终点，只有心却可以不受牵制的继续飞翔出道路的目光；
 
@@ -1559,11 +1559,11 @@ A place called Brokeback.
 每个人都在追寻自己的彼岸，所以每个人的心中都有那么一座断臂山。
 
 
-Guess that&apos;s why the poets travels in the seas of words and throughts, struggling to find the right lyric for a line.Guess that&apos;s why artists paint the sky with so many stars, coloring the night from vast loneliness.
+Guess that's why the poets travels in the seas of words and throughts, struggling to find the right lyric for a line.Guess that's why artists paint the sky with so many stars, coloring the night from vast loneliness.
 
 也许正是如此，诗人们在词汇和思想的汪洋中追寻着，试着找到每一个让诗句天衣无缝的词语；也许正是如此，画家们在缤纷的光和影中心醉的寻觅，将那无边苍穹点亮繁星，来慰藉每一个孤独的心。
 
-Guess that&apos;s why when it has already been a while, Brokeback Mountain still haunts deeper and deeper into the soul.
+Guess that's why when it has already been a while, Brokeback Mountain still haunts deeper and deeper into the soul.
 
 也许正是如此，纵是岁月淌过铅华不再，《断臂山》留下的那份情怀仍将挥之不散，浸染记忆的每一丝微黄之中。
 
@@ -1581,7 +1581,7 @@ And there is the mountain, with snow capped tops and limpid springs, with duteou
 </review>
 <review>
 <作者>30天可修改一次</作者>
-<作者评分>5</作者评分>
+<标题>《断背山》有哪些值得关注的细节？</标题><作者评分>5</作者评分>
 <时间>2019-06-25 08:52:44</时间>
 <影评>
 
@@ -1645,7 +1645,7 @@ And there is the mountain, with snow capped tops and limpid springs, with duteou
 </review>
 <review>
 <作者>冉笛</作者>
-<作者评分>5</作者评分>
+<标题>沉默无言的《断背山》——两个男人隐藏了一辈子的秘密</标题><作者评分>5</作者评分>
 <时间>2009-07-31 20:27:20</时间>
 <影评>
 
@@ -1776,7 +1776,7 @@ Jack，I swear……尽管Jack从没要求他发过什么誓，尽管Jack再也�
 </review>
 <review>
 <作者>岛上的夏奈</作者>
-<作者评分>5</作者评分>
+<标题>爱就是纵使千帆过尽，我的眼中也只有你一人。</标题><作者评分>5</作者评分>
 <时间>2011-01-25 11:53:55</时间>
 <影评>
 

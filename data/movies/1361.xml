@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>危机解密 The Fifth Estate</电影名>
 <年份>2013</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>夏暖暖</作者>
-<作者评分>4</作者评分>
+<标题>第五权</标题><作者评分>4</作者评分>
 <时间>2013-10-28 09:42:44</时间>
 <影评>
         第五权。立法司法行政三权分立，新闻产业横空出世，载舟覆舟，成为无冕之王第四权。本片就是讲，WikiLeaks是第五权，朝阳产业。
@@ -35,7 +35,7 @@
 </review>
 <review>
 <作者>爱幻想的小孩</作者>
-<作者评分>3</作者评分>
+<标题>《危机解密》超前观影感受+主创访谈记录</标题><作者评分>3</作者评分>
 <时间>2013-10-11 12:09:40</时间>
 <影评>
         学校有一个免费的《危机解密》(The Fifth Estate)的超前观影，结束后和创作人员有个简单的交流。7点开始我5点半就排队了，结果仍然一大坨人.....果然是想看免费的东西总是要付出点代价的。在这里写一下我的观后感和访谈记录
@@ -116,10 +116,10 @@
 </review>
 <review>
 <作者>Ask</作者>
-<作者评分>4</作者评分>
+<标题>进击的Julian</标题><作者评分>4</作者评分>
 <时间>2013-10-26 14:23:33</时间>
 <影评>
-        “The estates of the realm...are sometimes distinguished as the three estates: the clergy, the nobility, and commoners, and are often referred to by medieval ranking of importance (as the hierarchy was ordained by God) as the First, Second, and Third Estates respectively.The term &quot;Fourth Estate&quot; emerged later, in reference to forces outside the established power structure, and is now most commonly used in reference to the independent press or media.”--Wikipedia article on &quot;Estates of the realm&quot;
+        “The estates of the realm...are sometimes distinguished as the three estates: the clergy, the nobility, and commoners, and are often referred to by medieval ranking of importance (as the hierarchy was ordained by God) as the First, Second, and Third Estates respectively.The term "Fourth Estate" emerged later, in reference to forces outside the established power structure, and is now most commonly used in reference to the independent press or media.”--Wikipedia article on "Estates of the realm"
 
 
 ”存在于独立媒体以外不受任何权利约束的媒体“——这是本片片名对于wikileaks的解读。
@@ -158,7 +158,7 @@
 </review>
 <review>
 <作者>道臣岚</作者>
-<作者评分>4</作者评分>
+<标题>《危机解密：第五阶层》</标题><作者评分>4</作者评分>
 <时间>2014-03-05 11:12:04</时间>
 <影评>
             作为一部云集神探夏洛克（兼职梵高霍金和图灵）、三届F1冠军尼基、霍格沃兹卢平教授、唐顿庄园大表哥和第十二任神秘博士的商业片，居然没有招来一众脑残粉刷分简直就是...凄凉。
@@ -196,7 +196,7 @@
 </review>
 <review>
 <作者>Mamacita117</作者>
-<作者评分>2</作者评分>
+<标题>没有真相就是最好的真相</标题><作者评分>2</作者评分>
 <时间>2016-03-09 10:57:38</时间>
 <影评>
         许多专业领域的东西，作为外行是难以理解的，而电影要做的就是将这些专业枯燥的名词转化，深入浅出，雅俗共赏，但这部关于“维基解密”的电影在这一点上显然是失败的。
@@ -221,7 +221,7 @@
 </review>
 <review>
 <作者>🐗🦉🪸綠大壯🥇</作者>
-<作者评分>4</作者评分>
+<标题>你得到的都是一面之词，要想得到真相，必须自己去探寻。</标题><作者评分>4</作者评分>
 <时间>2014-04-07 20:49:51</时间>
 <影评>
 
@@ -233,7 +233,7 @@
 </review>
 <review>
 <作者>本尼对夏洛克说</作者>
-<作者评分>5</作者评分>
+<标题>危机解密真的没有那么差好么</标题><作者评分>5</作者评分>
 <时间>2014-03-03 23:12:52</时间>
 <影评>
         虽然我是BC的脑残粉，但是我会比较客观的评价这部电影的。据说票房和评价都不是很好，但是我们本尼的演技还是得到了肯定的。我印象最深刻的就是阿桑奇在酒吧被俄国间谍吓到时的手抖，真的是神演技好么。
@@ -277,12 +277,12 @@ ps:我看此剧前只看了阿桑奇的自传，而没有看丹尼尔·伯格的
 </review>
 <review>
 <作者>Ankil</作者>
-<作者评分>3</作者评分>
+<标题>就当成一部普通电影来看吧</标题><作者评分>3</作者评分>
 <时间>2014-10-10 17:42:06</时间>
 <影评>
         不知道为什么，竟然连续看了三部纪录片。。。好吧，严格来说，这是传记片，但质量方面，《危机解密》秒掉了另外两部，单单是极度华丽的片头就值得一看
 
-之前看到阿桑奇本人对康伯巴奇发过公开信称&quot;你是个好演员，但我不认为这将是一部好电影，它会对支持我的人产生消极作用&quot;，指的就是影片的真实性，但我不是很想去探讨阿桑奇是不是那样的人，正如电影所说的，&quot;每个人告诉你的都是一面之辞，真相需要你自己去发掘&quot;，所以我怎么知道网上的信息是真是假呢。但只从电影的角度来说的话，拍得确实不错
+之前看到阿桑奇本人对康伯巴奇发过公开信称"你是个好演员，但我不认为这将是一部好电影，它会对支持我的人产生消极作用"，指的就是影片的真实性，但我不是很想去探讨阿桑奇是不是那样的人，正如电影所说的，"每个人告诉你的都是一面之辞，真相需要你自己去发掘"，所以我怎么知道网上的信息是真是假呢。但只从电影的角度来说的话，拍得确实不错
 
 维基解密初衷是好的，把坑爹政府藏起来的秘密公之于众。要是他们真的没有编辑掉无辜的人的信息就发布出来，确实是很不妥当的行为。不过结合棱镜计划的主角斯诺登来说，揭露这些机密引起的反响是巨大的，但过一段时间，人们就慢慢的忘却了这件事，而作为揭露者，他们的生活却回不去以前了，不得不说这种结果真是颇为哀伤的
 
@@ -311,7 +311,7 @@ ps:我看此剧前只看了阿桑奇的自传，而没有看丹尼尔·伯格的
 </review>
 <review>
 <作者>啾啾K</作者>
-<作者评分>3</作者评分>
+<标题>解密不慎就是危机</标题><作者评分>3</作者评分>
 <时间>2014-12-12 22:23:19</时间>
 <影评>
         与很多人的观影感受一样，那就是前一个小时简直没法进入剧情：混乱、零碎、再加上BC低沉的嗓音，差点就放弃观看了。直到大表哥的出现——帅！还有卢平教授——这哪跟哪啊！影片后期Daniel和JA意见不统一让人紧张地迅速进入剧情，最后的访谈更是升华了全片。不得不承认，BC的表演很棒很专业，甚至有很多神来之笔，但是他的白发大油头和马舞真的很让人跳戏。米国的女外交官很干练，喜欢这种范。
@@ -323,7 +323,7 @@ JA不是很了解，但是若单就电影里的人物来看，他的确是一个
 </review>
 <review>
 <作者>老羊</作者>
-<作者评分>3</作者评分>
+<标题>《维基解密---不神秘》</标题><作者评分>3</作者评分>
 <时间>2014-01-28 00:14:21</时间>
 <影评>
         《维基解密---不神秘》

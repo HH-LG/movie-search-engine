@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>亚瑟王传奇 La Légende du Roi Arthur</电影名>
 <年份>2016</年份>
@@ -6,20 +6,20 @@
 <封面>https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2412119904.jpg</封面>
 <导演>David Alexis, Charlie Boisseau, Fabien Incardona</导演>
 <演员>David Alexis, Charlie Boisseau, Fabien Incardona</演员>
-<简介></简介>
+<简介 />
 <reviews>
 <review>
 <作者>.</作者>
-<作者评分>3</作者评分>
+<标题>短评居然不够写…</标题><作者评分>3</作者评分>
 <时间>2018-01-28 19:10:04</时间>
 <影评>
 
 永远记得亚瑟最后这段台词，
-&quot;I&apos;m a man, and before man, I forgive them.
+"I'm a man, and before man, I forgive them.
 I know their love is worth more than life itself.
 Pure as diamond.
 Pure as the water of fountain.
-Pure, as my solitude.&quot;
+Pure, as my solitude."
 
 “我对是非对错的判断、对高贵道义的情怀，以及所有为弱者对抗压迫的意图，都来自于《亚瑟王》。”
 
@@ -29,7 +29,7 @@ Pure, as my solitude.&quot;
 </review>
 <review>
 <作者>xxxx</作者>
-<作者评分>5</作者评分>
+<标题>皇后与Lancelot的爱情</标题><作者评分>5</作者评分>
 <时间>2018-04-11 21:53:58</时间>
 <影评>
 
@@ -46,7 +46,7 @@ Pure, as my solitude.&quot;
 </review>
 <review>
 <作者>emo</作者>
-<作者评分>4</作者评分>
+<标题>轻松愉快绿帽王</标题><作者评分>4</作者评分>
 <时间>2017-10-17 05:22:03</时间>
 <影评>
 
@@ -60,7 +60,7 @@ Pure, as my solitude.&quot;
 </review>
 <review>
 <作者>迷生</作者>
-<作者评分>3</作者评分>
+<标题>一点感想</标题><作者评分>3</作者评分>
 <时间>2018-07-15 00:38:19</时间>
 <影评>
 
@@ -72,7 +72,7 @@ Pure, as my solitude.&quot;
 </review>
 <review>
 <作者>白露</作者>
-<作者评分>5</作者评分>
+<标题>瑕不掩瑜</标题><作者评分>5</作者评分>
 <时间>2022-04-02 19:54:17</时间>
 <影评>
 
@@ -93,7 +93,7 @@ Pure, as my solitude.&quot;
 </review>
 <review>
 <作者>S.</作者>
-<作者评分>4</作者评分>
+<标题>除了剧情毫无瑕疵的剧</标题><作者评分>4</作者评分>
 <时间>2018-06-24 14:41:16</时间>
 <影评>
 
@@ -102,7 +102,7 @@ La Légende du Roi Arthur8.6Multi-Artistes / 2015
  
 Advienne que pourra - Incardona, Fabien
 Quelque chose de magique - Mothe, Florent / Lou, Camille
-Auprès d&apos;un autre - Mothe, Florent
+Auprès d'un autre - Mothe, Florent
 Il est temps - Lou, Camille / Boisseau, Charlie
 Ce que la vie a fait de moi - Zaho
 全剧最喜欢的一首歌，zaho情感收放自如
@@ -112,8 +112,8 @@ Tu vas le payer - Zaho
 Le monde est parfait - Boisseau, Charlie
 Il y a tant de haine - Incardona, Fabien
 Mon combat (tir nam beo) - Zaho / Mothe, Florent
-Promis c&apos;est juré - Mothe, Florent / Zaho / Lou, Camille / Incardona, Fabien / Boisseau, Charlie
-Le prélude d&apos;excalibur - Mothe, Florent / Zaho / Lou, Camille / Incardona, Fabien / Boisseau, Charlie
+Promis c'est juré - Mothe, Florent / Zaho / Lou, Camille / Incardona, Fabien / Boisseau, Charlie
+Le prélude d'excalibur - Mothe, Florent / Zaho / Lou, Camille / Incardona, Fabien / Boisseau, Charlie
 Il est temps - Mothe, Florent / Zaho / Lou, Camille / Incardona, Fabien / Boisseau, Charlie
 
 </影评>
@@ -122,7 +122,7 @@ Il est temps - Mothe, Florent / Zaho / Lou, Camille / Incardona, Fabien / Boisse
 </review>
 <review>
 <作者>你能把我怎么亚</作者>
-<作者评分></作者评分>
+<标题>关于桂薇妮尔（音乐剧形象）</标题><作者评分 />
 <时间>2021-10-12 03:21:42</时间>
 <影评>
 

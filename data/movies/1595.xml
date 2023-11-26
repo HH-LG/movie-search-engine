@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>火箭人 Rocketman</电影名>
 <年份>2019</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>不散</作者>
-<作者评分>3</作者评分>
+<标题>从破碎之路上冉冉升起，我将重新爱我自己</标题><作者评分>3</作者评分>
 <时间>2019-05-19 02:40:52</时间>
 <影评>
 
@@ -131,7 +131,7 @@ John Reid一路追随他回到伦敦，挡不住爱火的埃尔顿·约翰勇敢
 
 
 
-在《火箭人》中，他演绎了一个更贴近埃尔顿·约翰原音版本的《I&apos;m Still Standing》，以假乱真，催人泪下。
+在《火箭人》中，他演绎了一个更贴近埃尔顿·约翰原音版本的《I'm Still Standing》，以假乱真，催人泪下。
 在首映之后的新闻发布会上，塔伦·埃格顿眼含热泪，回忆起自己当年参加英国皇家表演学院入学考试时，展示才艺时候演唱的歌曲正是埃尔顿·约翰的名曲《Your Song》。
 
 
@@ -151,7 +151,7 @@ John Reid一路追随他回到伦敦，挡不住爱火的埃尔顿·约翰勇敢
 
 
 一个不粉饰历史、不掩盖过去、艺术至上的人，在舞台上下都忠于自我。
-如今已经戒毒成功的埃尔顿·约翰，和他毫无保留的《火箭人》，恰如影片最后一首歌《(I&apos;mGonna) Love Me Again》所唱：
+如今已经戒毒成功的埃尔顿·约翰，和他毫无保留的《火箭人》，恰如影片最后一首歌《(I'mGonna) Love Me Again》所唱：
 从破碎之路上冉冉升起，我将重新爱我自己。
 
 
@@ -169,7 +169,7 @@ John Reid一路追随他回到伦敦，挡不住爱火的埃尔顿·约翰勇敢
 </review>
 <review>
 <作者>Rhodesia</作者>
-<作者评分>5</作者评分>
+<标题>Farewell Yellow Brick Road</标题><作者评分>5</作者评分>
 <时间>2019-07-21 18:38:17</时间>
 <影评>
 
@@ -190,7 +190,7 @@ John Reid一路追随他回到伦敦，挡不住爱火的埃尔顿·约翰勇敢
 </review>
 <review>
 <作者>康报虹</作者>
-<作者评分>3</作者评分>
+<标题>埃尔顿·约翰的R级人生</标题><作者评分>3</作者评分>
 <时间>2019-07-21 23:00:38</时间>
 <影评>
 
@@ -279,7 +279,7 @@ Candle in the Wind 19978.92006
 </review>
 <review>
 <作者>Rhodesia</作者>
-<作者评分>5</作者评分>
+<标题>电影笔记：All This Science I Don’t Understand</标题><作者评分>5</作者评分>
 <时间>2019-09-20 21:33:27</时间>
 <影评>
 
@@ -295,11 +295,11 @@ I sat on the roof and kicked off the moss
 我坐在屋顶上，脚踢着青苔
 Well a few of the verses 
 琢磨着这几个韵脚
-Well they&apos;ve got me quite cross
+Well they've got me quite cross
 它们让我心烦气躁
-But the sun&apos;s been quite kind while I wrote this song
+But the sun's been quite kind while I wrote this song
 但在我写这首歌时，阳光如此温柔
-It&apos;s for people like you that keep it turned on
+It's for people like you that keep it turned on
 正是为了你，这才成为可能
 省去的这节歌词正与Your Song前出现的屋顶场景相对应，有种不言自明、心照不宣的意味，无疑是剧作的巧思。
 Amoreena：初访美国与淘儿唱片
@@ -329,7 +329,7 @@ Goodbye Yellow Brick Road：绿野仙踪
 </review>
 <review>
 <作者>看电影看到死</作者>
-<作者评分>4</作者评分>
+<标题>这部限制级音乐片，能像《波米》一样成功吗</标题><作者评分>4</作者评分>
 <时间>2019-07-20 11:30:33</时间>
 <影评>
 
@@ -402,7 +402,7 @@ Goodbye Yellow Brick Road：绿野仙踪
 </review>
 <review>
 <作者>记忆中的天堂</作者>
-<作者评分>5</作者评分>
+<标题>天才音乐人Elton John</标题><作者评分>5</作者评分>
 <时间>2020-06-22 23:48:49</时间>
 <影评>
 
@@ -425,7 +425,7 @@ https://weibo.com/u/3179898575
 </review>
 <review>
 <作者>Mr. Fahrenheit</作者>
-<作者评分>4</作者评分>
+<标题>不真誠的傳記　娛樂性高的電影</标题><作者评分>4</作者评分>
 <时间>2019-06-15 16:54:23</时间>
 <影评>
 
@@ -434,14 +434,14 @@ https://weibo.com/u/3179898575
 要了解為何我說《搖滾太空人》不真誠，首先要知道製作公司的背景。《搖滾太空人》其中一家製作公司Rocket Pictures是由Elton John與其丈夫於1996年共同成立的，自2001年，該公司已四處找尋投資者製作本片，當中華特迪士尼影業(Walt Disney Studios)和焦點影業(Focus Features)都曾接手，但一直未能完成製作，直至後來派拉蒙(Paramount Pictures)接手，拖延了近二十年電影才面世。
 近二十年的努力，可見Elton John非常努力希望完成本片。其中一個原因必定是因為希望自己的故事能流傳萬世，希望下一代知道他的「威水史」。而作為主要出品及製作公司之一，Elton John必定有干涉製作細節及提供資料以豐富劇本，雖然電影揭示了不少他過去的黑暗面，亦有不少成人情節，但當中有多少部份有修改潤色，有多少位置美化了他，則只有他本人知道。加上劇本創作過程必定會把事實戲劇化，當中的真實程度應相當有限。
 電影vs現實
-當然，故事的整體結構仍然是源於人物的真實生活，其荒淫的生活惹來極大爭議，但正如Elton John本人說：「我的人生從來都是兒童不宜的 (I haven&apos;t led a PG-13 life)」。據知他初夜發生的經過是真的、穿著誇張衣服逃離演唱會前往戒酒會也是真的、主角的家庭關係也大致準確，但故事亦作了不少修改。
+當然，故事的整體結構仍然是源於人物的真實生活，其荒淫的生活惹來極大爭議，但正如Elton John本人說：「我的人生從來都是兒童不宜的 (I haven't led a PG-13 life)」。據知他初夜發生的經過是真的、穿著誇張衣服逃離演唱會前往戒酒會也是真的、主角的家庭關係也大致準確，但故事亦作了不少修改。
 首先是他的名字。Elton John這個名字很有趣，他的姓先於名，在外國是很罕見的。多年前戇豆先生Rowan Atkinson曾在棟篤笑中直接質問為何不叫自己做John Elton。在他的藝名，Elton這詞來自他舊樂團中友人，而電影中說John的來源是披頭四(TheBeatles)的約翰連儂(John Lennon)。但事實上，根據滾石雜誌(Rolling Stone)，John一詞是致敬Elton John年輕時的導師 — 另一藍調歌手Long John Baldry。
 事件發生的地點和時序也經過大幅修改，例如Elton John並不是在Troubadour演唱會後的派對認識他的新經理人John Reid，而是在另一個聖誕派對才進行。以及電影中引述Elton John 1979年與Renate Blauel結婚，但事實上他直至1984年才結婚。
 另外，電影並無跟從歌曲創作的時序而出現，而是根據人物處境和心情發佈。當中最主要的分別是I’m Still Standing一曲並非創作於Elton John戒酒後，但電影安排此曲於戒酒會後播放。當然，這些安排或能夠讓電影昇華，歌曲安排也與劇情更緊密，但亦是其「非真實性」的來源。
 內容
 電影不少的內容也讓我質疑電影對「誠實」的看法。
 例如其中一幕有歌迷稱讚Elton John的歌很誠懇，寫的都是他的自身經歷和感受，但其實這句稱讚的說話是錯的，因為他的歌詞並非出自他本人手筆。Elton John認為自己不懂填詞，所以他只負責作曲部份，大部份的詞都出自友人Bernie Taupin之手。或者我們可以說Bernie對Elton非常了解，所以寫出能夠表達出他的世界的詞，但這並不是來自Elton John本人的真誠，而是第三者寫的世界。
-其次，電影出現過至少兩次由Elton John說出“I’m sorry”，而對方也是回應“I know”；而當Elton John在電話中向母親出櫃，其母亦表示她早已知道，認為他沒必要說出來，她不欣賞他的誠實(don&apos;t appreciate his honesty)，這也顯示出故事的人物並不重視誠實。
+其次，電影出現過至少兩次由Elton John說出“I’m sorry”，而對方也是回應“I know”；而當Elton John在電話中向母親出櫃，其母亦表示她早已知道，認為他沒必要說出來，她不欣賞他的誠實(don't appreciate his honesty)，這也顯示出故事的人物並不重視誠實。
 而最重點的是，當主角游走於Elton John這個「虛構」的自創角色與自己本名Reginald Kenneth Dwight之間，他最終卻選擇了繼續以藝名生存，完全放棄本來的自己，我認為這代表著Elton John放棄真誠，選擇繼續以這個五光十色的虛擬身份渡過餘生。
 當然，這些不真誠的地方並不阻礙對電影的觀賞。電影首半非常出色，我尤其欣賞歌舞的部份，節奏明快好看。除末段太多的交代和煽情部份讓人感到一刻的冗長外，整體而言我認為比《波希米亞狂想曲》更出色，而且Taron Egerton的發揮空間很大，表現也不錯。《搖滾太空人》是首部荷李活主要電影有同性性行為情節，Taron Egerton當中放膽的演繹自然讓人質疑他的性取向，雖然他曾在Instagram的帖文稱呼男性友人為小可愛(cutie)，但他後來澄清了，自己是直的。所以，戲內的東西，甚至網上的東西，都不要當真啊！
 延伸閱讀
@@ -449,7 +449,7 @@ https://weibo.com/u/3179898575
 2) 梦想和真诚, DA 评论 火箭人 @豆瓣 (https://movie.douban.com/review/10223075/)
 3) Rocketman (film), Wikipedia (https://en.wikipedia.org/wiki/Rocketman_(film)) *可順道讀讀Rocket Pictures的介紹
 4) Rowan Atkinson - Interview with Elton John, YouTube (https://www.youtube.com/watch?v=Nl0HqlbX7dc)
-5) Elton John: &apos;They wanted to tone down the sex and drugs. But I haven’t led a PG-13 life&apos;, The Guardian (https://www.theguardian.com/global/2019/may/26/elton-john-in-my-own-words-exclusive-my-life-and-making-rocketman)
+5) Elton John: 'They wanted to tone down the sex and drugs. But I haven’t led a PG-13 life', The Guardian (https://www.theguardian.com/global/2019/may/26/elton-john-in-my-own-words-exclusive-my-life-and-making-rocketman)
 
 
 </影评>
@@ -458,7 +458,7 @@ https://weibo.com/u/3179898575
 </review>
 <review>
 <作者>汐禾</作者>
-<作者评分>5</作者评分>
+<标题>短评写不下了的草率版</标题><作者评分>5</作者评分>
 <时间>2022-04-24 04:35:42</时间>
 <影评>
 
@@ -470,7 +470,7 @@ Spectales and Costume都是外扩触角，包裹你于众人目光前不至于�
 </review>
 <review>
 <作者>Celsius</作者>
-<作者评分>4</作者评分>
+<标题>怎么又超字数了我说(意思是this is短评)</标题><作者评分>4</作者评分>
 <时间>2022-04-18 17:25:24</时间>
 <影评>
 
@@ -497,7 +497,7 @@ Spectales and Costume都是外扩触角，包裹你于众人目光前不至于�
 </review>
 <review>
 <作者>deepfield</作者>
-<作者评分></作者评分>
+<标题>“传剧片”</标题><作者评分 />
 <时间>2022-03-15 21:13:40</时间>
 <影评>
 

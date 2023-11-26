@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>少年派的奇幻漂流 Life of Pi</电影名>
 <年份>2012</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>顿河</作者>
-<作者评分>5</作者评分>
+<标题>你选择了你的记忆，和生活。</标题><作者评分>5</作者评分>
 <时间>2012-11-22 10:31:11</时间>
 <影评>
         我们怀疑所有的美好，又拒绝承认现实的残酷。
@@ -55,7 +55,7 @@
 </review>
 <review>
 <作者>加里波第</作者>
-<作者评分>5</作者评分>
+<标题>李安的隐喻森林与少年Pi的三个故事</标题><作者评分>5</作者评分>
 <时间>2012-12-03 15:38:02</时间>
 <影评>
         在谈论少年Pi这部电影之前，需要预设若干个前提。这些前提就像是数学里的那几条公理，一切演绎，一切推理皆由此而来。如果我们不能在起点达成共识，那么只会分道扬镳，越行越远。
@@ -270,7 +270,7 @@ Pi自己说担心被食人岛吞噬，才决定离开，实际上担心的是食
 </review>
 <review>
 <作者>容易受伤的男人</作者>
-<作者评分>5</作者评分>
+<标题>現實不等於真相</标题><作者评分>5</作者评分>
 <时间>2012-11-22 20:48:38</时间>
 <影评>
         要看懂《少年Pi奇幻漂流记》的不可不知
@@ -521,7 +521,7 @@ Tiger vision ——老虎的视觉。Pi在问牠看什么，然后自己也试�
 </review>
 <review>
 <作者>我是大皮哥</作者>
-<作者评分>5</作者评分>
+<标题>我更愿意相信奇幻的漂流，但无法回避残酷的事实</标题><作者评分>5</作者评分>
 <时间>2012-11-25 17:35:52</时间>
 <影评>
         晚上和基友又屁颠屁颠跑去影院二刷了少年派，在第二遍看时我发现了自己看首映时忽略的诸多细节和未曾深入挖掘的内涵，现在写文的时间实在是晚了点儿，暂且顾不上组织语言，权当提供个思路给各路影迷和考究帝们参考吧
@@ -571,7 +571,7 @@ Tiger vision ——老虎的视觉。Pi在问牠看什么，然后自己也试�
 3. 船上派的父母和厨师闹不快后，水手调侃肉汁饭不算肉食的话，相当有深意
 
 
-4. 漂流开始至结束途中派的几次痛哭流泪喊出的I&apos;m sorry I&apos;m sorry.
+4. 漂流开始至结束途中派的几次痛哭流泪喊出的I'm sorry I'm sorry.
 
 
 5. 老虎吃老鼠
@@ -595,7 +595,7 @@ Tiger vision ——老虎的视觉。Pi在问牠看什么，然后自己也试�
 11. 食人岛上派和老虎的位置关系，在派晚上发现惊人秘密的时候老虎是等在救生艇上的，但离岛的时候老虎是被派重新喊出来的
 
 
-12. 仔细品味离岛时派大喊的，although the god abandoned me, he&apos;s still watching; although the god kept indifferent to my suffering, he&apos;s still watching
+12. 仔细品味离岛时派大喊的，although the god abandoned me, he's still watching; although the god kept indifferent to my suffering, he's still watching
 
 
 13. 思考老虎为什么不回头，该不该回头
@@ -604,7 +604,7 @@ Tiger vision ——老虎的视觉。Pi在问牠看什么，然后自己也试�
 14. 面对日本保险员时派的二次陈述，抓关键词：cook, disgusting, eat rat; sailor, suffering, lose leg; catch fish（应该懂了吧……头皮发麻中）
 
 
-15. 继续陈述中抓线索：......slam in the face of cook, ....didn&apos;t die
+15. 继续陈述中抓线索：......slam in the face of cook, ....didn't die
 
 
 Cook hit me, my mother shout
@@ -670,7 +670,7 @@ Very few castaways can claim to have survived so long at sea, and none in the co
 1. Holy water那一幕到底有什么目的和玄机？
 
 
-：You must be &quot;Thirsty&quot;. 仔细看你会在后文中年派对作家的口述中发现，老虎有两个名字，本来叫Thirsty后来才改成Richard Park的，也就是说，影片开场就确认了即将出现在漂流中的猛虎就是少年派本人无误，至于两个名字的这个经典用法可以参考《穆赫兰道》，现实与幻想的人物与身份交替互换
+：You must be "Thirsty". 仔细看你会在后文中年派对作家的口述中发现，老虎有两个名字，本来叫Thirsty后来才改成Richard Park的，也就是说，影片开场就确认了即将出现在漂流中的猛虎就是少年派本人无误，至于两个名字的这个经典用法可以参考《穆赫兰道》，现实与幻想的人物与身份交替互换
 
 
 关于Richard Parker的有关记载资料普及：（资料援引自网络）
@@ -755,7 +755,7 @@ Very few castaways can claim to have survived so long at sea, and none in the co
 
 
 
-7. 派在爬上救生艇后悲痛地哭喊着 “I&apos;m sorry, I&apos;m sorry”，是否和他看暴风雨时没关上舱门而导致翻船有关？如果不是那翻船的原因是什么？
+7. 派在爬上救生艇后悲痛地哭喊着 “I'm sorry, I'm sorry”，是否和他看暴风雨时没关上舱门而导致翻船有关？如果不是那翻船的原因是什么？
 
 
 
@@ -994,7 +994,7 @@ Very few castaways can claim to have survived so long at sea, and none in the co
 食人岛=极乐世界的理论有可行性，但是并不全面。如上所述，笔者认为除了有略微影射宗教的意味之外，食人岛仙境&amp;梦魇的存在是因为少年派在漂流的最后旅程中处于濒死态，值得注意的是，食人岛是少年派在那个狂风暴雨幻境6中喊出“爸爸妈妈，哥哥，我马上就能到另一个世界见到你们了”之后，并且，对于食人岛远景所展示出的形象，可以认为是少年派的母亲，（当然，不是也不影响对影片的理解）如果是，那么给这个镜头的原因就是为了和上面这句话呼应，挣扎于死亡线上的派在极度虚弱的情况下出现强烈幻觉，首当其冲看到的是觉得最亏欠的母亲
 
 
-派是一定有信仰并且是敬畏着上帝的，因为派在离岛的时候说：although the god abandoned me, he&apos;s still watching; although the god kept indifferent to my suffering, he&apos;s still watching
+派是一定有信仰并且是敬畏着上帝的，因为派在离岛的时候说：although the god abandoned me, he's still watching; although the god kept indifferent to my suffering, he's still watching
 
 
 
@@ -1068,7 +1068,7 @@ Very few castaways can claim to have survived so long at sea, and none in the co
 采访派的两位日本保险业务员起初提出抗议，要求派为他们讲述一个without surprises, animals and island的故事版本，他们当时是认为派在一厢情愿的意淫，被漂流冲昏了头脑说胡话
 
 
-当派诉说完故事2后，他们&quot;No more questions and wish me good health and leave away&quot;
+当派诉说完故事2后，他们"No more questions and wish me good health and leave away"
 
 
 当中年派起身为妻子开门时李安导演非常坏地让作家在这个节点念调查报告的笔录，“none of the people in company blank out the story with tiger” 嗯，相信故事1的原因是连丧尸的日本人都被人吃人的版本震惊到了无法直视无法相信，被迫无奈选择故事1
@@ -1767,7 +1767,7 @@ http://movie.douban.com/review/5668494/
 </review>
 <review>
 <作者>亚比煞</作者>
-<作者评分>5</作者评分>
+<标题>浅析PI的精神病迹象，以及李安的残酷与纯真（严重剧透）</标题><作者评分>5</作者评分>
 <时间>2012-11-28 08:33:24</时间>
 <影评>
         昨天晚上躺在床上，又开始回想少年派的剧情。
@@ -2036,7 +2036,7 @@ PI就像圣经里的约伯，失去了一切
 </review>
 <review>
 <作者>我是大皮哥</作者>
-<作者评分>5</作者评分>
+<标题>当看完少年派后，我们谈些什么</标题><作者评分>5</作者评分>
 <时间>2012-11-22 09:33:36</时间>
 <影评>
         奥斯卡：我们奥斯卡组委会正焦头烂额地探讨是否应将少年派排除在2013年第85届奥斯卡候选影片列表之外，因为一旦给李安导演的这部电影颁奖，它很有可能包揽了除最佳女主角、最佳女配角、最佳外语片以及最佳短片之外的所有奖项
@@ -2062,7 +2062,7 @@ PI就像圣经里的约伯，失去了一切
 
 生活大爆炸Raj：记者首映礼后采访Raj, “Hello Raj, how do you like the movie Life of Pi? ” 
 
-Raj:&quot;Ang Lee is a wan-da-ful die-lec-tor and the movie gan nod be beddar!(And Lee is a wonderful director and the movie cannot be better) , he dells a good sdoli (he tells a good story) and by the way, sexy Indian style!!! &quot; BGM: Oba Indian Style
+Raj:"Ang Lee is a wan-da-ful die-lec-tor and the movie gan nod be beddar!(And Lee is a wonderful director and the movie cannot be better) , he dells a good sdoli (he tells a good story) and by the way, sexy Indian style!!! " BGM: Oba Indian Style
 
 
 力宏：昨天回家的路上云迪跟我说他看得很开心  (｡･ω･)ﾉﾞ (≡ω≡．) @李云迪那些事儿
@@ -2089,7 +2089,7 @@ Raj:&quot;Ang Lee is a wan-da-ful die-lec-tor and the movie gan nod be beddar!(A
 Jack：窝只想知道派派每天晚上是怎么过的…… (⊙□⊙) 
 
 
-Rose：别傻了…… 人家有哨子……  (﹁&quot;﹁)
+Rose：别傻了…… 人家有哨子……  (﹁"﹁)
 
 
 《我家买了动物园》We Bought a Zoo：我们家的动物园弱爆了，少年派的海上迷你动物园让我们显得毫无存在感
@@ -2098,7 +2098,7 @@ Rose：别傻了…… 人家有哨子……  (﹁&quot;﹁)
 《丁丁历险记》 The Adventures of Tintin: The Secret of the Unicorn ：看完首映后我们立即决定将4D电影《少年丁丁的奇幻漂流》拍摄提上日程
 
 
-《马达加斯加3》 Madagascar 3: Europe&apos;s Most Wanted：其实我们只差了一头狮子、河马和长颈鹿就可以组团参演李导的少年派了……5555555555555TUT~！
+《马达加斯加3》 Madagascar 3: Europe's Most Wanted：其实我们只差了一头狮子、河马和长颈鹿就可以组团参演李导的少年派了……5555555555555TUT~！
 
 
 《冰川时代4》 Ice Age: Continental Drift：我们觉得我们团队的最大失误是把片名取了“大陆漂移”而不是“小松鼠奎特的奇幻漂流”
@@ -2164,7 +2164,7 @@ PS3《战神》God of War系列：Sony 旗下Santa Mon小组决定在战神4《A
 《满城尽带黄金甲》导演张艺谋：三百万盆真菊花敌不过李安撘的一个游泳池……这太不科学了(╯‵□′)╯︵┻━┻
 
 
-《1942》导演冯小刚：坚决不走科幻和视效路线是我的底限，老谋子你图样图森破啊(￣▽￣&quot;)
+《1942》导演冯小刚：坚决不走科幻和视效路线是我的底限，老谋子你图样图森破啊(￣▽￣")
 
 
 
@@ -2215,7 +2215,7 @@ http://www.douban.com/note/248520147/
 </review>
 <review>
 <作者>何劲涛</作者>
-<作者评分>5</作者评分>
+<标题>《少年pi的奇幻漂流》观后感</标题><作者评分>5</作者评分>
 <时间>2012-11-10 12:45:01</时间>
 <影评>
         今天有幸参加了李安导演的《少年pi的奇幻漂流》首映礼，观看完影片后深有感触，震撼许久，情动以书之。
@@ -2255,7 +2255,7 @@ http://www.douban.com/note/248520147/
 </review>
 <review>
 <作者>飞花千叶</作者>
-<作者评分>5</作者评分>
+<标题>马伯庸解读《少年派》，看过电影的人一定要看这篇影评！</标题><作者评分>5</作者评分>
 <时间>2012-12-06 10:21:03</时间>
 <影评>
         这部电影太好了，这篇影评太精彩了。
@@ -2543,7 +2543,7 @@ Pi自己说担心被食人岛吞噬，才决定离开，实际上担心的是食
 </review>
 <review>
 <作者>岛上的夏奈</作者>
-<作者评分>4</作者评分>
+<标题>我跪下时是个凡人，站起来时却已不朽。</标题><作者评分>4</作者评分>
 <时间>2012-11-24 12:35:53</时间>
 <影评>
         【警告：本影评从第三段开始严重剧透，未观影者建议只读首两段，看完电影再通读全文一同探讨；不建议将本片看成一个美好童话的人看这篇影评，真的很残酷，本人是支持两种观点都成行的，你希望这部影片是什么样子的，它便可以是什么样子的，所以我不支持童话派来此寻求幻灭，这篇文章只能说是其中一个视角。】
@@ -2649,7 +2649,7 @@ Pi自己说担心被食人岛吞噬，才决定离开，实际上担心的是食
 </review>
 <review>
 <作者>低等游民</作者>
-<作者评分>5</作者评分>
+<标题>《看见》柴静专访李安——《心中的卧虎》</标题><作者评分>5</作者评分>
 <时间>2012-11-23 23:59:37</时间>
 <影评>
         觉得上期柴静的这个专访对这个电影的理解帮助很大，想要和朋友分享，可在网上找寻半天，也没找到文本格式的对话，只好自己一字一句的手打了。

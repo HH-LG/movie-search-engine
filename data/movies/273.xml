@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>盗火线 Heat</电影名>
 <年份>1995</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>邝言</作者>
-<作者评分>4</作者评分>
+<标题>Heat：沉沦的多少年，抵不上存在的一瞬间</标题><作者评分>4</作者评分>
 <时间>2008-07-27 17:31:51</时间>
 <影评>
         一直就喜欢Robert De Niro的电影，或者说，喜欢Robert De Niro这个人。像他这样的人，其实没有太多形容词可以描述了，他就是他自身唯一的尺度。
@@ -92,7 +92,7 @@ Robert De Niro没等他表示什么，就对他说：你的处境我了解，但
 </review>
 <review>
 <作者>楚平</作者>
-<作者评分>5</作者评分>
+<标题>不想去马尔代夫的猪不是好猪</标题><作者评分>5</作者评分>
 <时间>2009-04-20 12:21:03</时间>
 <影评>
 
@@ -181,7 +181,7 @@ Robert De Niro没等他表示什么，就对他说：你的处境我了解，但
 </review>
 <review>
 <作者>Hearafter</作者>
-<作者评分>5</作者评分>
+<标题>我的感情偏向劫匪，不过仍然支持正义的终结</标题><作者评分>5</作者评分>
 <时间>2006-03-02 15:49:41</时间>
 <影评>
         在看完枪版Revolver之后再看Heat的那种感觉真是舒服无比啊！Robbert De Niro 和Al Pacino都是我非常喜欢的演员，很酷，很帅。故事简单，没有精神分裂和大段内心独白。影片节奏缓慢平稳，却会在不经意间紧张火爆起来——好像生活本身。
@@ -241,7 +241,7 @@ Michael有一个完整的家富足温暖，直到他被击毙倒在路上，他�
 </review>
 <review>
 <作者>若昔难得</作者>
-<作者评分>4</作者评分>
+<标题>盗火线</标题><作者评分>4</作者评分>
 <时间>2006-08-02 20:25:49</时间>
 <影评>
         1972年，Al Pacino出演《教父》第一集，他那种冷峻逼人的风格让影迷折服。在这部电影中，尚未成名的Robert De Niro跑了把龙套，演一个小混混，站在钢琴旁边一言不发。
@@ -290,7 +290,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 </review>
 <review>
 <作者>边城不浪</作者>
-<作者评分>5</作者评分>
+<标题>灯火阑珊处的迈克尔·曼</标题><作者评分>5</作者评分>
 <时间>2009-10-30 10:06:12</时间>
 <影评>
         你可能认为《盗火线》里的罗伯特·德尼罗是影史上最酷的黑帮大哥；心醉神迷于《最后一个莫西干人》里野性难驯的丹尼尔·戴·刘易斯；觉得威尔·史密斯在《拳王阿里》中脱胎换骨；拉塞尔·克劳应该凭《惊爆内幕》而不是《角斗士》摘下奥斯卡影帝；连汤姆·克鲁斯在《借刀杀人》里的表演都让你耳目一新……你会记住这些电影这些演员，但你未必会注意到那个躲藏在电影后面的名字：迈克尔·曼（Michael Mann）。
@@ -331,7 +331,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 </review>
 <review>
 <作者>eclipse</作者>
-<作者评分>5</作者评分>
+<标题>Heat 盗火线 经典对白 阿尔帕西诺 VS 罗伯特德尼罗</标题><作者评分>5</作者评分>
 <时间>2008-12-29 13:30:27</时间>
 <影评>
         AP:How you doing? 
@@ -342,7 +342,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　我请你喝杯咖啡怎么样？ 
 
-　　RD:Yeah,sure,let&apos;t go. 
+　　RD:Yeah,sure,let't go. 
 
 　　好吧，我们走。 
 
@@ -370,7 +370,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　我抓过不少臭名昭著的坏蛋，他们刚一冒头就被我逮个正着抓回去。你是不是？ 
 
-　　RD: You must&apos;ve worked some dipshit crews. 
+　　RD: You must've worked some dipshit crews. 
 
 　　你打交道的肯定是些笨贼。 
 
@@ -378,7 +378,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　我跟各种各样的罪犯打交道。 
 
-　　RD: You see me doing liquor store holdup with a &quot;Born to Lose&quot;tattoo on my chest? 
+　　RD: You see me doing liquor store holdup with a "Born to Lose"tattoo on my chest? 
 
 　　你看我像是胸前有“坏痞子”纹身，专门打劫烟酒店的小混混吗？ 
 
@@ -390,7 +390,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　没错，我再也不会回去了（监狱）。 
 
-　　AP: Then don&apos;t take down scores. 
+　　AP: Then don't take down scores. 
 
 　　那就别做傻事（意指犯罪行动)。 
 
@@ -414,19 +414,19 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　你过的是这种正常生活吗？ 
 
-　　AP: My life? No,my life...My life&apos;s a disaster zone.I got a stepdaughter so fucked up...because her real father is this large-type asshole. 
+　　AP: My life? No,my life...My life's a disaster zone.I got a stepdaughter so fucked up...because her real father is this large-type asshole. 
 
 　　我的生活？不！我的生活，嗯，简直糟糕透顶。我有一个不听管教的继女，因为她的亲生父亲就是作奸犯科的惯犯。 
 
-　　I got a wife.We&apos;re passing each other on the down slope of a marriage.My third.Because I spend all my time chasing guys like you around the block.That&apos;s my life. 
+　　I got a wife.We're passing each other on the down slope of a marriage.My third.Because I spend all my time chasing guys like you around the block.That's my life. 
 
 　　我有个老婆，但是我们的婚姻在走下坡路，这是我的第三次婚姻。因为我把时间都花在追捕像你这样老奸巨猾的罪犯上。这就是我的生活。 
 
-　　RD: Guy told me one time:&quot;Don&apos;t (soft)get attached to anything you can&apos;t walk out in 30 seconds...if you feel the heat around the corner.&quot; If you&apos;re on me and you got to move when I move...how do you expect to keep a marriage? 
+　　RD: Guy told me one time:"Don't (soft)get attached to anything you can't walk out in 30 seconds...if you feel the heat around the corner." If you're on me and you got to move when I move...how do you expect to keep a marriage? 
 
 　　曾经有人跟我说：“千万别让任何东西牵绊你，当警察出现在街角，一定要确保能在30秒内脱身。”如果你正盯着我，我动你就得动，又怎能指望你维系好婚姻？（最后半句话，我翻译的不好，还得想想） 
 
-　　AP:That&apos;s an interesting point.What are you,a monk? 
+　　AP:That's an interesting point.What are you,a monk? 
 
 　　说得有道理，你呢？莫非是佛家弟子？ 
 
@@ -438,7 +438,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　你怎么跟她说的？ 
 
-　　RD:I tell her I&apos;m a salesman. 
+　　RD:I tell her I'm a salesman. 
 
 　　我告诉她我是个推销员。 
 
@@ -446,23 +446,23 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　那么如果你看到我从街角走过来 
 
-　　you&apos;ll just walk out on her?Not say good-bye? 
+　　you'll just walk out on her?Not say good-bye? 
 
 　　你会跟她不告而别？ 
 
-　　RD:That&apos;s the discipline. 
+　　RD:That's the discipline. 
 
 　　那是规矩。 
 
-　　AP:That&apos;s pretty vacant. 
+　　AP:That's pretty vacant. 
 
 　　（美妙的茫然？完美的空白？不知道怎么翻译，回头查查中文字幕） 
 
-　　RD:It is what it is.It&apos;s that,or we both better go do something else. 
+　　RD:It is what it is.It's that,or we both better go do something else. 
 
 　　就是这样，不然我们都去做点别的。 
 
-　　AP:I don&apos;t know how to do anything else. 
+　　AP:I don't know how to do anything else. 
 
 　　我不会做别的事。 
 
@@ -470,7 +470,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　我也是。 
 
-　　AP:I don&apos;t want to either. 
+　　AP:I don't want to either. 
 
 　　我也不想去做别的。 
 
@@ -478,7 +478,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　我也是。 
 
-　　AP:You know,I have this recurring dream.I&apos;m sitting at this big banquet table and...all the victims of all the murders I ever worked are sitting there...and they&apos;re staring at me with these black eyeballs...because they got eight-ball hemorrhages from the head wounds.And there they are,these big balloon people...because I found them two weeks after they&apos;d been under the bed.The neighbors reported the smell...and there they are...all just sitting there. 
+　　AP:You know,I have this recurring dream.I'm sitting at this big banquet table and...all the victims of all the murders I ever worked are sitting there...and they're staring at me with these black eyeballs...because they got eight-ball hemorrhages from the head wounds.And there they are,these big balloon people...because I found them two weeks after they'd been under the bed.The neighbors reported the smell...and there they are...all just sitting there. 
 
 　　你知道吗，我总是重复做相同的梦。我坐在宴会桌前，我办过的案子中所有的受害者和所有的凶手都坐在那儿，他们瞪大眼睛盯着我，因为他们头部中弹血流不止（可能翻译的不准确），那儿还有浮肿得象气球一样可怕的人，因为他们是在死后两周的床底下被发现的，邻居闻到了臭味去报的警，这些家伙都愣愣的坐在那里。 
 
@@ -494,15 +494,15 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　没讲话？ 
 
-　　AP:No.just...They have nothing to say.We just look at each other.They look at me...and that&apos;s it.That&apos;s the dream. 
+　　AP:No.just...They have nothing to say.We just look at each other.They look at me...and that's it.That's the dream. 
 
 　　没有，他们无话可说。我们彼此看着对方，他们看着我，这就是我的那个梦。（靠，翻译的太直了，不好，但是又想不出更好的） 
 
-　　RD:I have one where I&apos;m drowning.I gotta wake myself up and start breathing or I&apos;ll die in my sleep. 
+　　RD:I have one where I'm drowning.I gotta wake myself up and start breathing or I'll die in my sleep. 
 
 　　我梦见自己溺水，我必须唤醒自己开始呼吸否则就会在睡梦中被憋死。 
 
-　　AP:You know what&apos;s that about? 
+　　AP:You know what's that about? 
 
 　　你知道那预示着什么吗？ 
 
@@ -514,7 +514,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　有足够时间去做你想做的？ 
 
-　　RD:That&apos;s right. 
+　　RD:That's right. 
 
 　　没错。 
 
@@ -526,15 +526,15 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 
 　　还没有。 
 
-　　AP:You know,we&apos;re sitting here...you and I like a couple of regular fellas.You do what you do,and I do what I gotta do.Now that we&apos;ve been face to face...If I&apos;m there and I gotta put you away...I won&apos;t like it.But,I tell you...If it&apos;s between you...and some poor bastard whose wife you&apos;re gonna turn into a widow...brother...you are going down. 
+　　AP:You know,we're sitting here...you and I like a couple of regular fellas.You do what you do,and I do what I gotta do.Now that we've been face to face...If I'm there and I gotta put you away...I won't like it.But,I tell you...If it's between you...and some poor bastard whose wife you're gonna turn into a widow...brother...you are going down. 
 
 　　我们面对面坐在这儿，你和我象好哥们一样称兄道弟，你做你想做的，我做我该做的。如果换作在别的地方，我在场的话一定会要你好看。。。我不想那么做。不过，我告诉你，如果非要让我在你和某些老婆即将成为寡妇可怜的混蛋之间做出选择，哥们，你死定了。 
 
-　　RD:There&apos;s a flip side to that coin. 
+　　RD:There's a flip side to that coin. 
 
 　　那只不过硬币的一面。 
 
-　　What if you do got me boxed in...and I gotta put you down?Because no matter what...you won&apos;t get in my way.We&apos;ve been face to face,yeah.But I will not hesitate.Not for a second.Maybe that&apos;ll happen...Or...who knows?Maybe we&apos;ll never see each other again. 
+　　What if you do got me boxed in...and I gotta put you down?Because no matter what...you won't get in my way.We've been face to face,yeah.But I will not hesitate.Not for a second.Maybe that'll happen...Or...who knows?Maybe we'll never see each other again. 
 
 　　没准是你把我围住，我却把你撂倒？因为不论如何我都不会让你挡着我的道儿。我们曾经面对面，是的没错。但是我绝不会迟疑，一秒钟都不会。也许我们会再见面，或者。。。谁知道呢？或许我们再也不会碰面了。
       </影评>
@@ -543,7 +543,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 </review>
 <review>
 <作者>waking王小心</作者>
-<作者评分>4</作者评分>
+<标题>从Heat《盗火线》的中文译名说开去</标题><作者评分>4</作者评分>
 <时间>2016-07-10 13:35:29</时间>
 <影评>
 
@@ -568,7 +568,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 </review>
 <review>
 <作者>qingdao</作者>
-<作者评分>5</作者评分>
+<标题>从阿尔帕西诺在《盗火线》中的三通电话谈“动作的重复”</标题><作者评分>5</作者评分>
 <时间>2015-01-22 11:51:34</时间>
 <影评>
         在网上看到这个分析非常专业，就此转过来
@@ -607,7 +607,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 </review>
 <review>
 <作者>普通人</作者>
-<作者评分>5</作者评分>
+<标题>CS真人版——《盗火线》</标题><作者评分>5</作者评分>
 <时间>2005-11-30 14:46:38</时间>
 <影评>
         我想会有很多人反感我这样的比喻，将一部经典的电影比作一款pc游戏。不过，这真是我第一次看这部片子时最初猛然间的感觉。可不是一场警匪大战吗？还没少了两位超卓的警首和匪首的智勇对捍。
@@ -653,7 +653,7 @@ IMDB得分8.0（60067人投票），250佳片排名203，我打7分。
 </review>
 <review>
 <作者>焦糖</作者>
-<作者评分>5</作者评分>
+<标题>爱她,请活的比她长一点</标题><作者评分>5</作者评分>
 <时间>2008-07-13 07:53:12</时间>
 <影评>
             过了许久才提笔写，因为太爱它，文字只会曲解。然而再不写，我怕连曲解的感受也无法记录。

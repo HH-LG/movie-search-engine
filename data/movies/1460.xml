@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>对话尼克松 Frost/Nixon</电影名>
 <年份>2008</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>frankfurter</作者>
-<作者评分>5</作者评分>
+<标题>最好的电影都是灰色的</标题><作者评分>5</作者评分>
 <时间>2009-03-24 21:18:13</时间>
 <影评>
         最好的电影都是灰色的。
@@ -43,7 +43,7 @@ Of course they did
 
 当然瞧不起
 
-That&apos;s our tragedy isn&apos;t it, Frost?
+That's our tragedy isn't it, Frost?
 
 这不正是我们的悲剧么，福斯特？
 
@@ -55,7 +55,7 @@ no matter how many awards or column inches are written about you
 
 不管你得过多少奖，有多少专栏写过你
 
-or how high the elected office is for me it&apos;s still not enough
+or how high the elected office is for me it's still not enough
 
 或者我当选的职位有多高，都不够。
 
@@ -67,23 +67,23 @@ the loser they told us we were a hundred times
 
 就像那些输家反反复复告诉我们的那样
 
-the smart-asses at college, the high-ups , the well-born, the people whose respect we really wanted,really craved. And isn&apos;t that why we work so hard now why we fight for every inch, scrambling our way up in undignified fashion? 大学里那些自以为是的家伙，那些身居高位的，那些出身名门的，他们所享有的崇敬才我们真正想要的，那不正是我们今日玩命工作，分号必争，不择手段向上爬的原因么？
+the smart-asses at college, the high-ups , the well-born, the people whose respect we really wanted,really craved. And isn't that why we work so hard now why we fight for every inch, scrambling our way up in undignified fashion? 大学里那些自以为是的家伙，那些身居高位的，那些出身名门的，他们所享有的崇敬才我们真正想要的，那不正是我们今日玩命工作，分号必争，不择手段向上爬的原因么？
 
-If we&apos;re honest for a minute, if we reflect privately just for a moment,
+If we're honest for a minute, if we reflect privately just for a moment,
 
-if we allow ourselver a glimpse into that shadowy place we call our soul, isn&apos;t that why we&apos;re here now?
+if we allow ourselver a glimpse into that shadowy place we call our soul, isn't that why we're here now?
 
 让我们都别再装了，好好反思一下自己，往内心那个叫做灵魂的阴暗角落瞥上一眼，那不正是我们有今日的原因么？
 
 The two of us?
 
-Looking for a way back into the sun, into the limelight, back onto the winner&apos;s podium
+Looking for a way back into the sun, into the limelight, back onto the winner's podium
 
 Because we could feel it slipping away. We were heanded, both of us, for the dirt!
 
 找一条路重试阳光，成为大众的焦点，再次坐上赢家宝座，因为我们感觉到他正在渐行渐远，而我们正朝真尘埃而去。
 
-A place the snobs always told us that we&apos;d end up
+A place the snobs always told us that we'd end up
 
 势力鬼总说那就是我们的下场。
 
@@ -99,15 +99,15 @@ Well, to hell with that.
 
 好吧，随他妈去吧
 
-Wr&apos;re not gonna let that happen either of us.
+Wr're not gonna let that happen either of us.
 
 我们绝不会让他发生
 
-Wr&apos;re gonna show those bums.
+Wr're gonna show those bums.
 
 我们要让那些白痴看看
 
-Wr&apos;re gonna make them choke on our continued success,
+Wr're gonna make them choke on our continued success,
 
 our continued headlines, our continued awards and power and glory
 
@@ -130,7 +130,7 @@ our continued headlines, our continued awards and power and glory
 </review>
 <review>
 <作者>灵子</作者>
-<作者评分>4</作者评分>
+<标题>失意者的相逢，还是聪明人的双赢</标题><作者评分>4</作者评分>
 <时间>2009-03-03 14:12:19</时间>
 <影评>
 
@@ -175,7 +175,7 @@ our continued headlines, our continued awards and power and glory
 </review>
 <review>
 <作者>绿脚趾</作者>
-<作者评分>5</作者评分>
+<标题>总统先生和干酪汉堡</标题><作者评分>5</作者评分>
 <时间>2010-07-02 16:23:31</时间>
 <影评>
         陈冠希应当感谢理查德·尼克松，正是由于后者的存在，这个三流明星的风流韵事才能被冠以一个无比响亮的名号。
@@ -259,7 +259,7 @@ our continued headlines, our continued awards and power and glory
 </review>
 <review>
 <作者>Sunday</作者>
-<作者评分>3</作者评分>
+<标题>尼克松</标题><作者评分>3</作者评分>
 <时间>2017-07-23 09:56:17</时间>
 <影评>
 
@@ -276,7 +276,7 @@ our continued headlines, our continued awards and power and glory
 </review>
 <review>
 <作者>老探戈</作者>
-<作者评分>4</作者评分>
+<标题>当老狐狸遇上小狐狸</标题><作者评分>4</作者评分>
 <时间>2009-04-24 00:49:24</时间>
 <影评>
         1972年的某一期《新闻简报》里，美帝国主义头子尼克松出现在中南海，出现在伟大领袖和导师毛主席身边。这是一件大事，成为当时人们关心的大话题。
@@ -328,7 +328,7 @@ our continued headlines, our continued awards and power and glory
 </review>
 <review>
 <作者>Evarnold</作者>
-<作者评分>5</作者评分>
+<标题>前浪死在沙滩上</标题><作者评分>5</作者评分>
 <时间>2009-03-31 19:03:40</时间>
 <影评>
         小心剧透。
@@ -377,7 +377,7 @@ http://evarnold7.spaces.live.com/blog/cns!3C4928A5D97A0C8E!1018.entry
 </review>
 <review>
 <作者>傻不傻666</作者>
-<作者评分>4</作者评分>
+<标题>一场妙趣横生的“拳击赛”</标题><作者评分>4</作者评分>
 <时间>2017-08-03 21:08:26</时间>
 <影评>
         澳大利亚脱口秀红人福斯特与尼克松的对话分明是一场拳击赛，一方咄咄逼人的攻势让对手无力招架节节败退，另一方饱受欺凌后猛然觉醒奋起反击，比起赛场的肉搏，采访的双方更似两个武林高人在目光唇齿的焦距与口水间的内力比拼。能把两个人坐在沙发上的扯淡拍的没一分钟冷场与沉闷，可见朗·霍华德深厚的导演功力真不是盖的。 按理说叱咤一时的尼克松怎么会接受一个外国娱乐节目主持人作为对手，而戴维也居然能萌生出这等牛逼想法？很有意思，因为采访不仅是可以给退位后郁郁寡欢的尼克松提供一个辩解平台，更因为尼克松了解到此计划可以直接赚取50万美金，讽刺于在谈条件的时候尼克松满脸严肃的问及助手：“可不可以加五万？”戴维注意到尼克松辞职演说时有四亿人在关注此事，想借此为踏脚板，在美洲大陆寻求事业的新突破口。故事的促发点有时候就这么简单，也可以看出一个伟人与凡人的相似点、对金钱和名利不停歇的渴望与获取。 然而老虎屁股摸不得，久经沙场的尼克松完全掌控了采访的主动权，整个谈话他避重就轻、剑走偏锋，侃侃而谈、从容叙述，可怜的戴维连发问的时机都没有，几个回合下来就同一个被击打的头破血流的溃败者。尼克松影片开始也彷佛一个落魄的拳手，和老年的洛奇一样只能在餐厅面对众人讲述着陈年往事，但是通过这次访谈，他露出自信的微笑，戴维却在尼克松的讥讽与蔑视下，被这个在政治场上不择手段的巨人戏耍于手掌，那残存的自信与苦心经营的追求眼看要被捏的粉碎。 二.干酪汉堡与其说最后戴维把尼克松击败了，不如说尼克松自己把自己说服了，一则漫不经心的电话反而召唤起了戴维的小宇宙。撇开了亲人密友，对一个素昧平生的人推心置腹，尼克松在了解戴维成长经历过程中发现了自己的影子，人的一生，在卑微中自卑、在高贵时孤寂，电话两头的就像一个人的两面，深居于自己灵魂把种种人生的感叹糅杂在一起，自白的太过忘我，以至于事后都不记得是自己说的。戴维谎称不知道尼大爷在说什么，其实如拾真经般恍然大悟，那就是要去了解你的对手就需要站到对方的灵魂深处。干酪汉堡只是这次对话的引子，人人都有自己的一块干酪汉堡，只是时过境迁，变质的味道会将其侵蚀，尼克松的这块如他所言就变成了吃起来像塑料的夏威夷汉堡。 最后一场比赛前，尼克松收起笑脸甚至拒绝和戴维握手，渲染气氛的同时也证明了尼克松对对手的认同，尼克松的这种担忧得到的证实，纵使拿“婚前性行为”继续嘲弄戴维，但是比起接下来戴维暴风骤雨般直击对方心窝的发问显得微不足道了。尼克手足无措、猝不及防起来，结果一句：如果是总统干的就不算非法的事。让道出此言者自身都觉的荒谬。 高大的身躯再也裹不住尼克松的疲惫，无力摇起自己的手示意人群，不必再为自己的政治生涯摇旗呐喊，而是走到一位女士身边、抚摸着她怀里的一只小狗，让我想起《卡拉是条狗》的一句对白：也就能在狗身上找到点人样了。或许不是一种讽刺，是对一种辉煌到冷落的人生状态的关怀，到底是遗憾多一些、还是不甘多一些，这些味道交织起来的确困惑。 一步青云后的福斯特去看望尼克松，并送给他那双他一直嘲笑的鞋子，个人认为尼克松一直是喜欢这款鞋子的，只是出于性情的孤傲不加妥协、拒绝坦诚，就像对待他的人民那样。那么福斯特是出于洞察出尼克松的喜好呢？还是小人得志般的回送尼克松一个玩笑呢？尼克松在“干酪汉堡”中陷入了思索，可能那晚躲在电话后的阐述才是真正意义上的流露，然而对于真诚，人总是那么的健忘。 福斯特对话尼克松，其实核心是尼克松自己内心的搏击与拷问，福斯特只是在一旁下注的勇敢赌徒。 这是一场妙趣横生的游戏，游戏任务是让总统认错，不见硝烟的对战中尽显机智，很好玩。话剧改变成电影保留戏剧感同时，更好的凸出人物内心的特写。饰演福斯特的麦克·辛（Michael Sheen）通过勉强的笑脸来掩饰内心的焦虑，更绝的是没有人怀疑弗兰克·兰格拉（Frank Langella）饰演的尼克松就是尼克松，失意、孤独、懊悔、憔悴似乎从来没有在荧幕如此生动过，举手投足间充斥着张力。朗·霍华德无时无刻不在体现着这部影片的精致与大气，在我看来它是轻松愉快的，但同时也对人世间利欲、荣耀、得利者、失意者的各色形态做了深刻的描写与探讨。 由于此片大有挖掘讨论价值，网上网友评论都异常精彩纷呈，我只从一个狭隘的角度窥探，视角短浅，希望大家指正讨论。
@@ -387,7 +387,7 @@ http://evarnold7.spaces.live.com/blog/cns!3C4928A5D97A0C8E!1018.entry
 </review>
 <review>
 <作者>lyon</作者>
-<作者评分>4</作者评分>
+<标题>中国何日有水门</标题><作者评分>4</作者评分>
 <时间>2009-06-07 11:23:59</时间>
 <影评>
            水门**距今已经有些遥远，这一事件给今日世界带来的影响无非是拉链门，艳*门等等的大小丑闻，都能传承有序。
@@ -420,7 +420,7 @@ PS：当年真实的访问，Frost并没有那么的脓包，之前他也有过�
 </review>
 <review>
 <作者>Maverick</作者>
-<作者评分>4</作者评分>
+<标题>《弗罗斯特对话尼克松》电影剧本</标题><作者评分>4</作者评分>
 <时间>2022-01-21 16:29:28</时间>
 <影评>
 
@@ -2091,7 +2091,7 @@ PS：当年真实的访问，Frost并没有那么的脓包，之前他也有过�
 </review>
 <review>
 <作者>赱馬觀♣</作者>
-<作者评分>4</作者评分>
+<标题>性格互换与法庭剧</标题><作者评分>4</作者评分>
 <时间>2009-01-12 14:27:27</时间>
 <影评>
         本片在叙事和角色塑造方面都很有特点。 

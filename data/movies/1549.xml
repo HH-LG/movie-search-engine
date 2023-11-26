@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>维特根斯坦 Wittgenstein</电影名>
 <年份>1993</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>黑玺</作者>
-<作者评分>4</作者评分>
+<标题>冰上行人</标题><作者评分>4</作者评分>
 <时间>2008-06-16 18:01:40</时间>
 <影评>
             曾经有个年轻人，他想把世界简化到纯粹的逻辑里。因为他非常聪明，也确实做到了。他在完成时，回首看着、欣赏着。一个非常美丽，摒除了不完美和不确定的新世界，象闪耀的冰面无边无际的延伸到天边。那个聪明的年轻人环视他所创造的世界，决定探索它。可是当他向前迈出第一步，立即摔倒了。你看，他忘了摩擦力。冰面平坦光滑，洁净无瑕，但是人无法在上面行走。聪明的年轻人坐在那里不禁流下心碎的眼泪。 
@@ -32,7 +32,7 @@
 </review>
 <review>
 <作者>简简无</作者>
-<作者评分>4</作者评分>
+<标题>永远的维特根斯坦</标题><作者评分>4</作者评分>
 <时间>2008-09-15 19:17:16</时间>
 <影评>
         就像维特根斯坦自己说的：“电影就像一个冲淋浴，把讲义冲走。”他喜欢看电影，讨厌研讨会。 
@@ -78,7 +78,7 @@
 </review>
 <review>
 <作者>Fan</作者>
-<作者评分>4</作者评分>
+<标题>冰更冷</标题><作者评分>4</作者评分>
 <时间>2007-12-15 20:39:55</时间>
 <影评>
 
@@ -106,7 +106,7 @@
 </review>
 <review>
 <作者>荔蓁</作者>
-<作者评分>5</作者评分>
+<标题>Notes</标题><作者评分>5</作者评分>
 <时间>2014-02-08 15:09:36</时间>
 <影评>
             If people did not sometimes do silly things,nothing intelligent would ever get done.
@@ -123,7 +123,7 @@
 
  
 
-    We must improve ourselves. That&apos;s all we can do to better the world.
+    We must improve ourselves. That's all we can do to better the world.
 
     
 
@@ -139,7 +139,7 @@
     It is the philosophers who muddy the water.
 
 
-    When you want to know the meaning of words, don&apos;t look at the side of yourself.  
+    When you want to know the meaning of words, don't look at the side of yourself.  
 
  
 
@@ -157,10 +157,10 @@
 
     (Russel is talking about Johnny.)
 
-     -You&apos;re forcing your own self-hatred onto their son.(Johnny&apos;s parents are both labors.)
+     -You're forcing your own self-hatred onto their son.(Johnny's parents are both labors.)
 
 
-    -It&apos;s my business to stop you from infecting too many young men.
+    -It's my business to stop you from infecting too many young men.
 
 
     -All upper crust idealize to common folks.
@@ -176,17 +176,17 @@
     Living in a world such a love is illegal, to live open and honest is absolutely impossible.
 
 
-    The soul is the prisoner of his own body. And it&apos;s locked out from contact with others by the walls of their bodies.
+    The soul is the prisoner of his own body. And it's locked out from contact with others by the walls of their bodies.
 
 
     I want to get ride of this picture. We are what we are only because we share a common language and common forms of life.
 
 
-    Do You Understand What I&apos;m Saying ?
+    Do You Understand What I'm Saying ?
 
  
 
-    What I meant was that I tried to show the sort of things that philosophy could say, and these aren&apos;t really important. What&apos;s much more important is all the things it can&apos;t articulate. 
+    What I meant was that I tried to show the sort of things that philosophy could say, and these aren't really important. What's much more important is all the things it can't articulate. 
 
 
     Philosopher in no sense can question them.Philosophy leaves everything exactly what it is.
@@ -195,21 +195,21 @@
     We learn to use words because we belong to a culture,a form of life, a practical way of doing things.…All this is public affair.
 
 
-    Don&apos;t be afraid of dying. It is death that give life meaning and shape.
+    Don't be afraid of dying. It is death that give life meaning and shape.
 
 
-    -I&apos;d quite like to have composed a philosophy work which consists entirely of jokes.
+    -I'd quite like to have composed a philosophy work which consists entirely of jokes.
 
-    -Why didn&apos;t you?
+    -Why didn't you?
 
-    -Sadly I didn&apos;t have a sense of humor.
+    -Sadly I didn't have a sense of humor.
 
 
-    (Thinks to @queeniepku, I needn&apos;t to type in all these words!:)
+    (Thinks to @queeniepku, I needn't to type in all these words!:)
 
-    Let me tell you a little story. There was once a young man who dreamed of reducing the world to pure logic. Because he was a very clever young man, he actually managed to do it. And when he&apos;d finished his work, he stood back and admired it. It was beautiful. A world purged of imperfection and indeterminacy. Countless acres of gleaming ice stretching to the horizon. So the clever young man looked around the world he had created, and decided to explore it. He took one step forward and fell flat on his back. You see, he had forgotten about friction. The ice was smooth and level and stainless, but you couldn&apos;t walk there. So the clever young man sat down and wept bitter tears. 
+    Let me tell you a little story. There was once a young man who dreamed of reducing the world to pure logic. Because he was a very clever young man, he actually managed to do it. And when he'd finished his work, he stood back and admired it. It was beautiful. A world purged of imperfection and indeterminacy. Countless acres of gleaming ice stretching to the horizon. So the clever young man looked around the world he had created, and decided to explore it. He took one step forward and fell flat on his back. You see, he had forgotten about friction. The ice was smooth and level and stainless, but you couldn't walk there. So the clever young man sat down and wept bitter tears. 
 
-    But as he grew into a wise old man, he came to understand that roughness and ambiguity aren&apos;t imperfections. They&apos;re what make the world turn. He wanted to run and dance. And the words and things scattered upon this ground were all battered and tarnished and ambiguous, and the wise old man saw that that was the way things were. But something in him was still homesick for the ice, where everything was radiant and absolute and relentless. Though he had come to like the idea of the rough ground, he couldn&apos;t bring himself to live there. 
+    But as he grew into a wise old man, he came to understand that roughness and ambiguity aren't imperfections. They're what make the world turn. He wanted to run and dance. And the words and things scattered upon this ground were all battered and tarnished and ambiguous, and the wise old man saw that that was the way things were. But something in him was still homesick for the ice, where everything was radiant and absolute and relentless. Though he had come to like the idea of the rough ground, he couldn't bring himself to live there. 
 
      So now he was marooned between earth and ice, at home in neither. And this was the cause of all his grief.
 
@@ -223,7 +223,7 @@
 </review>
 <review>
 <作者>幸运儿与脱身术</作者>
-<作者评分>5</作者评分>
+<标题>《维特根斯坦》德吕克·贾曼</标题><作者评分>5</作者评分>
 <时间>2007-03-01 11:53:45</时间>
 <影评>
         在这部影片中贾曼利用舞台和电影的结合的方式，一种怪诞的戏剧氛围描述了著名分析哲学家、逻辑学家、语言学家维特根斯坦的一生和他的哲学观点。影片前半段简要叙述了维特根斯坦早期充满戏剧性的个人经历，而在维特根斯坦重返剑桥之后，电影主要截取了维特根斯坦前后哲学观点转换时期的生活为主要叙述事件，结合他同性倾向和卓然不群的性格，体现了他在现实之中不断追求形而上的理想的孤傲精神。维特根斯坦在早期《逻辑哲学论》中讲世界结构与命题结构归结于一种具有相同逻辑结构的图式，从而揭示人们通过语言命题认识世界的方式。之后，维特根斯坦又根据本体论的角度指出了语言的自我界限以及人的意志和对世界体验的神秘主义特性。然而，在对哲学问题进行了痛苦思考之后，维特根斯坦放弃了曾经“语言是世界图式”的主张，而提出了日常语言分析哲学的“语言-游戏”理论，并要求对语言的分析必须将语言置入特定的用法环境才能显示它的特定含义。联系日常语言分析，维特根斯坦通过纠正对语言的误解来消除哲学问题，他认为哲学困境的产生在于人们混淆的使用了不同性质的语言而造成的逻辑和意义上的误解。导演德吕克·贾曼在1993年拍摄了《维特根斯坦》和《蓝》，并随后死于艾滋病。
@@ -233,7 +233,7 @@
 </review>
 <review>
 <作者>槿生_Sarah</作者>
-<作者评分>4</作者评分>
+<标题>一个孤独的人</标题><作者评分>4</作者评分>
 <时间>2009-06-22 23:15:15</时间>
 <影评>
         这不是一部适合消闲娱乐的电影。一切场景仿佛发生在话剧的舞台上，只有打下的灯光、简单的布景和道具。许多演员都穿着色彩鲜艳夸张的衣服、化着只有舞台剧才化的那么浓的妆。比起一部电影来，它还更像许多话剧场景的串连。它甚至不能说像个传统的话剧，许多场景夹带了干巴巴的哲学讨论，另一些则极其平淡，仿佛不过是个情节过渡，那些看来可算在讲故事的片断则当真尽职尽责，它们把一个简单的故事讲清楚了——如此而已。无论哪一种，背景都是黑沉沉的，灯光往往只照亮了人物的半边脸，于是这些场景如同一些从鲜亮的世界中切下来的小碎屑。
@@ -293,7 +293,7 @@ http://www.douban.com/note/37090335/
 </review>
 <review>
 <作者>Quentin</作者>
-<作者评分>5</作者评分>
+<标题>不针对电影本身的评论</标题><作者评分>5</作者评分>
 <时间>2007-07-03 16:05:36</时间>
 <影评>
         似乎哲学家都在否定自己的研究成果,就如他的恩师罗素否定自己多年心血企图创立完整体系的中心一元论一样,鸟瞰他们的一生就像在画圈中前进,哲学没有实验基础,所以把各个学说合并之后，我们似乎又回到了这个平淡的世界。
@@ -303,7 +303,7 @@ http://www.douban.com/note/37090335/
 </review>
 <review>
 <作者>jimmy198360</作者>
-<作者评分>5</作者评分>
+<标题>不食人家烟火的“神人们”之间的情景爆笑喜剧</标题><作者评分>5</作者评分>
 <时间>2012-03-15 08:30:39</时间>
 <影评>
         舞台背景和道具很简约的爆笑情景话剧，但是看似又没有舞台，真人版拼接的人物情景模拟效果加上精选的台词，喜剧效果十分浓厚，当然要在对维特根斯坦的故事有一定的背景知识的情况下才能感受到。此片导演把艰深的话题轻松简约而又相对通俗的在展现在观众面前，对于舞台虚拟消失化的处理，以及简单道具的应用很到位，真是一次伟大的创作。看来庄重贵族绅士的英国人有着一流的讲故事的能力，而这样的优点也体现在今天的BBC的纪录片里面。
@@ -322,7 +322,7 @@ http://www.douban.com/note/37090335/
 </review>
 <review>
 <作者>谁家的帕特</作者>
-<作者评分>3</作者评分>
+<标题>补充说：封面很误导人</标题><作者评分>3</作者评分>
 <时间>2009-09-28 14:42:02</时间>
 <影评>
         周六去柜子蹭电影，看了维特根斯坦。
@@ -357,7 +357,7 @@ http://www.douban.com/note/37090335/
 </review>
 <review>
 <作者>Strafzumessung</作者>
-<作者评分></作者评分>
+<标题>和电影无关…又有关</标题><作者评分 />
 <时间>2023-05-14 05:40:19</时间>
 <影评>
 

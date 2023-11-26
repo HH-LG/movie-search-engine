@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>攀登梅鲁峰 Meru</电影名>
 <年份>2015</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>homecaty</作者>
-<作者评分>5</作者评分>
+<标题>行走在生死边缘</标题><作者评分>5</作者评分>
 <时间>2015-06-22 16:46:26</时间>
 <影评>
         当初刚刚关注本届上海国际电影节的时候，完全没有留意到这部片子；大部分精力都放在各大热门影片上了。直到开始刷票的时候，无意中看到了这一部，甚至不知道Meru是在哪里。第一次进电影院看纪录片，第一次看户外主题，果然带给我巨大的震撼与惊喜。
@@ -30,7 +30,7 @@ Meru的鲨鱼鳍，令人望而绝望，在他们脚下却被征服了。当这�
 </review>
 <review>
 <作者>llate</作者>
-<作者评分>4</作者评分>
+<标题>梅鲁峰</标题><作者评分>4</作者评分>
 <时间>2015-11-23 11:15:05</时间>
 <影评>
         梅鲁峰就是这样一个混合了多种魅力元素的山峰，我们如同朝圣一般沿着恒河一路溯源而上，然后攀登这样一座在喜马拉雅山脉中超凡卓绝的山峰，这是涤荡灵魂的探险之旅。
@@ -76,7 +76,7 @@ Meru的鲨鱼鳍，令人望而绝望，在他们脚下却被征服了。当这�
 </review>
 <review>
 <作者>skyshi</作者>
-<作者评分>5</作者评分>
+<标题>一眼着魔</标题><作者评分>5</作者评分>
 <时间>2015-09-19 16:08:53</时间>
 <影评>
         首先，我想讲一个和电影无关的小故事：
@@ -104,7 +104,7 @@ Meru的鲨鱼鳍，令人望而绝望，在他们脚下却被征服了。当这�
 </review>
 <review>
 <作者>虚弱橙</作者>
-<作者评分>5</作者评分>
+<标题>当你一无所有的时候，你还有什么梦</标题><作者评分>5</作者评分>
 <时间>2015-12-08 14:49:27</时间>
 <影评>
         近年来许多登山大片，但探讨起这冒险事业背后千丝万缕的联系，都远远被这部电影甩在身后。
@@ -147,7 +147,7 @@ Jimmy一直笑呵呵，到了山顶也没发表太多的感言，可是当你看
 </review>
 <review>
 <作者>CentralSquare</作者>
-<作者评分>5</作者评分>
+<标题>无以言表</标题><作者评分>5</作者评分>
 <时间>2015-11-07 20:57:42</时间>
 <影评>
         我有一次在美西自驾12天的经历。在黄石的北门有那么一刹那，我感觉到大自然的威力。那么压倒性覆盖性彻头彻尾的统治力。人是多莫的渺小。只能觉得自己身体里的火，是那么的微弱，不由自主的想被大自然吃掉，融为一体，才有安全感。
@@ -165,7 +165,7 @@ Jimmy一直笑呵呵，到了山顶也没发表太多的感言，可是当你看
 </review>
 <review>
 <作者>SG</作者>
-<作者评分>5</作者评分>
+<标题>用生命记录的纪录片</标题><作者评分>5</作者评分>
 <时间>2015-11-08 10:00:20</时间>
 <影评>
         一部超赞的记录攀登的电影，一部良心电影，一部没有浮躁只有纯粹的电影，一部打动心底的电影……小胖好样的！
@@ -181,7 +181,7 @@ Jimmy一直笑呵呵，到了山顶也没发表太多的感言，可是当你看
 </review>
 <review>
 <作者>Wanyou</作者>
-<作者评分>5</作者评分>
+<标题>Have your passion found you yet?</标题><作者评分>5</作者评分>
 <时间>2016-02-24 01:31:53</时间>
 <影评>
         今天早些时候, 用不到一天的时间刚刚读完Jon Krakauer所著《进入空气稀薄地带》，阅读体验酣畅淋漓，阅读中时常都有魂牵梦绕，身临其境的感觉。作为接受《户外》杂志派遣的，带着写稿的“预谋”而来的户外记者，Jon Krakauer并未预谋，却成了1996年珠峰那场著名山难的参与者，见证者，甚至是现在看起来效应最大的传播者。他的个人记录向我们重现了那个春夏之交的五月，4只登山队伍中有12人罹难的惨痛经历。可是，读完之后疑问重重。事情明知有危险，为什么还要攀登？事中亲眼看到亲密伙伴离去，却爱莫能助，是什么感受？事后无数次午夜梦回，又要如何面对内心的苦痛？作者也在书中寻找答案。
@@ -217,10 +217,10 @@ Jimmy一直笑呵呵，到了山顶也没发表太多的感言，可是当你看
 在极高峰极多的喜马拉雅山脉要按高度论资排辈，梅鲁峰完全入不了登山者的法眼。可是由于其如鲨鱼鳍一般绝妙的外形，她的地位也如“鱼翅”一般珍贵；更由于对专业攀登技巧的极高要求，更是尚未有人类站在过“鱼翅”之上。就这样，她的身上聚集了严肃的，追求卓越的攀登者们的渴望。她是经验丰富的登山者Conrad Anker仰望了二十年的梦想，《攀登梅鲁峰》记录的就是在他的带领下，和同样优秀的Jimmy Chin以及Renan Ozturk组队多次尝试，最终成功登顶的故事。
 
 
-&quot;The game in climbing is...&quot;
+"The game in climbing is..."
 
 
-”The game in climbing is cut that line as fine as you can. But you don&apos;t wan to take stupid risk. If you die taking  a stupid risk, not only are you dead, but you&apos;ve embarrassed yourself and you&apos;ve disgraced yourself. You&apos;re not supposed to take risk lightly. You&apos;re supposed to show that you&apos;re so good and so controlled, you can take it right to that line and go further.&quot; 
+”The game in climbing is cut that line as fine as you can. But you don't wan to take stupid risk. If you die taking  a stupid risk, not only are you dead, but you've embarrassed yourself and you've disgraced yourself. You're not supposed to take risk lightly. You're supposed to show that you're so good and so controlled, you can take it right to that line and go further." 
 
 
 片中三主角之一, 同时也是本片的导演和美国国家地理资深签约摄影师的Jimmy Chin会向自己病危的母亲做出承诺，不会让自己死在母亲的前面。所以他会在接连受到滑雪伙伴遭到几乎致命重伤和自己遭遇罕见雪崩却奇迹幸存的事件之后开始在“户外版图”中消失，进行严肃思考，要不要退出？要不要和高山告别？
@@ -255,7 +255,7 @@ Meru片头，Jimmy在对Conrad作为自己多年的攀登伙伴和精神导师�
 《攀登梅鲁峰》宣传记的时候，Jimmy Chin在自己的Instagram账号上分享了一段Jon Krakauer的话，是宣传，也是共勉。
 
 
-“I think if you&apos;re lucky in life, you have something that [you&apos;re] passionate about and good at, maybe. You gotta figure out who you are and what you are, and what here to do. And that&apos;s a lot harder than it sounds. You don&apos;t get to pick what your passion is, it finds you. To not be true to yourself...is the worst of that bad choices.&quot; --- Jon Krakauer
+“I think if you're lucky in life, you have something that [you're] passionate about and good at, maybe. You gotta figure out who you are and what you are, and what here to do. And that's a lot harder than it sounds. You don't get to pick what your passion is, it finds you. To not be true to yourself...is the worst of that bad choices." --- Jon Krakauer
 
 
 So, have your passion found you yet?
@@ -268,7 +268,7 @@ So, have your passion found you yet?
 </review>
 <review>
 <作者>郎官山客</作者>
-<作者评分>4</作者评分>
+<标题>无限风光在险峰</标题><作者评分>4</作者评分>
 <时间>2016-07-07 03:12:23</时间>
 <影评>
         平时我喜欢关注一些极限运动节目，例如攀岩登山、鸟人、高山滑雪。有时脑海里也会形成一些错觉，爱玩极限的基本都是西方人，本国人却很少见，都很怕死吗？这种错觉有时还会在社会文化层面讨论，特别是鸦片战争后，许多学者也在反思中国人的冒险精神基因是否自绝于郑和下西洋后的闭关锁国？
@@ -367,7 +367,7 @@ So, have your passion found you yet?
 </review>
 <review>
 <作者>飞行的奇奇</作者>
-<作者评分>5</作者评分>
+<标题>极限攀岩三部曲 | Free Solo 、The Down Wall 、Meru</标题><作者评分>5</作者评分>
 <时间>2019-03-04 11:26:35</时间>
 <影评>
 
@@ -375,7 +375,7 @@ So, have your passion found you yet?
  
 第一次去法国霞慕尼小镇，印象最深的地方是一条小街，用来纪念因爬山而逝去的人，一直在霞慕尼小镇居住的户外向导非常感慨的告诉我，像爬雪山这样的极限运动，生命是命悬一线，所以想做到长寿很难，与我而言冲浪、超百公里越野这些已经是极限运动，实际上从未真正的了解体验过极限运动，也是这次霞慕尼之行第一次近距离的接触了雪山攀爬、观摩了高山滑雪。但真正看过这三部极限运动的真实纪录片以后内心还是被深深的震撼，这种真实的极限程度远远要大于我之前所看见、所想象。
 
-   法国霞慕尼小镇，照片中人为被称为“瑞士机器&quot;的Ueli Steck（1976-2017.04.30）
+   法国霞慕尼小镇，照片中人为被称为“瑞士机器"的Ueli Steck（1976-2017.04.30）
 
 
 
@@ -422,8 +422,8 @@ Alex在这Free Solo部片说出了自己内心的一句话：生活的目的不�
 
                                       以初恋般的热情和宗教般的意志成就伟大
 普通运动需要健康的身体、坚持训极、掌握核心技巧，而极限运动需要勇气+魄力+专注到放弃一切，就算是这样付出成功的几率也低到可怜。这是非正常人类的非正常探险，拿出初恋般的热情和宗教般的意志成就了这样的伟大。做任何想要突破自己的事情想要提高成功的概率都需要极限运动者这样的精神。
-It wasn&apos;t just a climb. It was all consuming.
-It wasn&apos;t just a draw. It was all life.
+It wasn't just a climb. It was all consuming.
+It wasn't just a draw. It was all life.
 Focus and objective, breathe and practice, dream big and do small.
 
 
@@ -457,7 +457,7 @@ Meru中Conrad带着已故曾经最亲密伙伴的愿望登顶
 </review>
 <review>
 <作者>鸟倦知还</作者>
-<作者评分>5</作者评分>
+<标题>攀登</标题><作者评分>5</作者评分>
 <时间>2015-12-03 20:46:43</时间>
 <影评>
                                                                        &lt;图片1&gt;

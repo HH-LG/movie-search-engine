@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>遗愿清单 The Bucket List</电影名>
 <年份>2007</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>简单情节</作者>
-<作者评分>5</作者评分>
+<标题>像今天是末日一样</标题><作者评分>5</作者评分>
 <时间>2008-02-09 03:17:52</时间>
 <影评>
         The Bucket List，中文译名：遗愿清单
@@ -45,7 +45,7 @@
 </review>
 <review>
 <作者>一湄</作者>
-<作者评分>5</作者评分>
+<标题>当死亡就在前面</标题><作者评分>5</作者评分>
 <时间>2009-02-08 11:51:51</时间>
 <影评>
 
@@ -105,7 +105,7 @@
 </review>
 <review>
 <作者>艾小柯</作者>
-<作者评分>4</作者评分>
+<标题>了无遗憾</标题><作者评分>4</作者评分>
 <时间>2008-03-08 06:32:28</时间>
 <影评>
         我向来不爱看极尽煽情的chick flick好莱坞言情喜剧，连带那种让人一眼看破结局基本照煽情路线走的所有温情喜剧都不大喜欢，但这部《遗愿清单》先用强大的演员阵容便把人震住了：杰克·尼科尔森与摩根·弗里曼两位奥斯卡影帝联手压场子，能错到哪儿去？ 
@@ -146,7 +146,7 @@
 </review>
 <review>
 <作者>裸奔的鱼</作者>
-<作者评分>4</作者评分>
+<标题>人固有一死，活着的时候快乐就好</标题><作者评分>4</作者评分>
 <时间>2008-08-10 23:45:13</时间>
 <影评>
         生死问题和生活的意义，做为人存在的终极问题，每个人都有自己的答案。在《庄子》上有个故事，曾经坐怀不乱的鲁国大夫柳下惠（季）有个弟弟叫盗跖，他是我国盗贼行业的创始人。据说他有手下九千，横行天下，侵暴诸侯。穴室枢户，驱人牛马，取人妇女。贪得忘亲，不顾父母兄弟，不祭先祖。所过之邑，大国守城，小国入保，万民苦之。NB哄哄一脸正义的孔老二和柳下惠是好朋友，自己的好朋友有一个臭名昭著的弟弟让自己觉着很丢面子，于是就说要帮柳下惠教育弟弟清理门户。孔老二好不容易见到盗跖后，先给盗跖带了一大堆高帽然后自以为是的讲了一大堆道理，盗亦有道的盗跖不吃那一套，把孔老二好一顿反驳和埋汰。具体怎么埋汰的不说了，有兴趣的自己查，反正埋汰的孔子四肢麻木，双眼失神，面如死灰，垂头丧气，落荒而逃，埋怨自己是没病吃药，虎口拔须，闲的蛋疼。
@@ -177,7 +177,7 @@ http://www.luobenyu.cn/read.php?129
 </review>
 <review>
 <作者>是灰小猫啊</作者>
-<作者评分>5</作者评分>
+<标题>最后的三段话</标题><作者评分>5</作者评分>
 <时间>2008-09-11 18:38:28</时间>
 <影评>
         看到最后，听到这三段话的时候哭了。
@@ -185,52 +185,52 @@ http://www.luobenyu.cn/read.php?129
 
 (Carter)
 
-&quot;Dear Edward,
+"Dear Edward,
 
-I&apos;ve gone back and forth the last few days, trying to decide whether or not I should even write this.
+I've gone back and forth the last few days, trying to decide whether or not I should even write this.
 
-In the end, I realized I would regret it if I didn&apos;t, so here goes.
+In the end, I realized I would regret it if I didn't, so here goes.
 
 
-I know the last time we saw each other, we weren&apos;t exactly hitting the sweetest notes.
+I know the last time we saw each other, we weren't exactly hitting the sweetest notes.
 
-It certainly wasn&apos;t the way I wanted the trip to end.
+It certainly wasn't the way I wanted the trip to end.
 
-I suppose I&apos;m responsible, and for that I&apos;m sorry.
+I suppose I'm responsible, and for that I'm sorry.
 
-But in all honesty, if I had the chance, I&apos;d do it again.
+But in all honesty, if I had the chance, I'd do it again.
 
 
 Virginia said I left a stranger and came back a husband. I owe that to you.
 
-There&apos;s no way I can repay you for all you&apos;ve done for me,
+There's no way I can repay you for all you've done for me,
 
-so rather than try, I&apos;m just goingn to ask you to do something else for me.
+so rather than try, I'm just goingn to ask you to do something else for me.
 
 Find the joy in your life.
 
 
-You once said you&apos;re not everyone.
+You once said you're not everyone.
 
-Well, that&apos;s true.
+Well, that's true.
 
-You&apos;re certainly not everyone.
+You're certainly not everyone.
 
 But, everyone is everyone.
 
 
 My parents always said, 
 
-&apos;Our lives are streams, flowing into the same river,
+'Our lives are streams, flowing into the same river,
 
-towards whatever heaven lies in the mist beyond the falls.&apos;
+towards whatever heaven lies in the mist beyond the falls.'
 
 
 Find the joy in your life, Edward.
 
 My dear friend, 
 
-close your eyes and let the waters take you home...&quot;
+close your eyes and let the waters take you home..."
 
 
 ====================================
@@ -238,25 +238,25 @@ close your eyes and let the waters take you home...&quot;
 
 (Edward)
 
-&quot;Good afternoon. My name is Edward Cole.
+"Good afternoon. My name is Edward Cole.
 
-I don&apos;t know what most people say at these occasions, because...in all honesty, I...I&apos;ve tried to avoid them.
+I don't know what most people say at these occasions, because...in all honesty, I...I've tried to avoid them.
 
 The simplest thing is, I loved him and I miss him.
 
 
 Carter and I saw the world together, which is amazing, when you think that only three months ago, we were complete strangers.
 
-I hope that it doesn&apos;t sound selfish of me, but the last months of his life, were the best months of mine.
+I hope that it doesn't sound selfish of me, but the last months of his life, were the best months of mine.
 
 He saved my life. And he knew it before I did.
 
 
-I&apos;m deeply pround that this man, found it worth his while, to know me.
+I'm deeply pround that this man, found it worth his while, to know me.
 
-In the end, I think it&apos;s safe to say that we brought some joy to one another&apos;s lives.
+In the end, I think it's safe to say that we brought some joy to one another's lives.
 
-So, one day, when I go to some final resting place, if I happen to wake up next to a certain wall with a gate, I hope that Carter&apos;s there, to vouch for me, and show me the ropes on the other side.&quot;
+So, one day, when I go to some final resting place, if I happen to wake up next to a certain wall with a gate, I hope that Carter's there, to vouch for me, and show me the ropes on the other side."
 
 
 ====================================
@@ -264,25 +264,25 @@ So, one day, when I go to some final resting place, if I happen to wake up next 
 
 (Thomas)
 
-&quot;Edward Perriman Cole died in May.
+"Edward Perriman Cole died in May.
 
-It was a sunday, in the afternoon, and there wasn&apos;t a cloud in the sky.
+It was a sunday, in the afternoon, and there wasn't a cloud in the sky.
 
 He was 81 years old.
 
 
-Even now, I can&apos;t claim to understand the measure of a life.
+Even now, I can't claim to understand the measure of a life.
 
 But I can tell you this, I know that when he died, his eyes were closed, and his heart was open.
 
-And I&apos;m pretty sure he was happy with his final resting place, because he was buried on the mountain, and that was against the law.&quot;
+And I'm pretty sure he was happy with his final resting place, because he was buried on the mountain, and that was against the law."
       </影评>
 <有用数>196</有用数>
 <没用数>4</没用数>
 </review>
 <review>
 <作者>角島之蛹</作者>
-<作者评分>5</作者评分>
+<标题>笑到哭</标题><作者评分>5</作者评分>
 <时间>2011-03-25 21:04:45</时间>
 <影评>
         我今年大四了，从很小的时候开始，一路奔跑到现在，塞在背包里的那些理想都稀里哗啦地撒了一地。如今拖着越来越轻的背包和越来越重的身体凑合活着。
@@ -335,7 +335,7 @@ And I&apos;m pretty sure he was happy with his final resting place, because he w
 </review>
 <review>
 <作者>直布罗陀岩石</作者>
-<作者评分>4</作者评分>
+<标题>给自己快乐，给别人快乐，然后告诉上帝</标题><作者评分>4</作者评分>
 <时间>2008-02-02 16:42:38</时间>
 <影评>
         人活着常常夹杂许多遗憾，人活着也有许多的事情需要去做，但如果生命进行到了最后的关头，你还有什么遗憾，还有什么事情需要迫切的去做？是否需要一个清单呢？我们叫这个清单，遗愿清单。
@@ -366,7 +366,7 @@ And I&apos;m pretty sure he was happy with his final resting place, because he w
 </review>
 <review>
 <作者>灵舞魂歌</作者>
-<作者评分>2</作者评分>
+<标题>鸡肋</标题><作者评分>2</作者评分>
 <时间>2012-11-15 23:15:35</时间>
 <影评>
               《遗愿清单》多好的题材，让人浮想联翩：关于生的意义，死的理解，生命不可承受之轻，生活难能可贵的经历······
@@ -386,7 +386,7 @@ And I&apos;m pretty sure he was happy with his final resting place, because he w
 </review>
 <review>
 <作者>坐看云起处</作者>
-<作者评分>5</作者评分>
+<标题>珍惜当下！生如夏花！</标题><作者评分>5</作者评分>
 <时间>2015-07-29 17:37:30</时间>
 <影评>
         　
@@ -418,7 +418,7 @@ And I&apos;m pretty sure he was happy with his final resting place, because he w
 </review>
 <review>
 <作者>May Xue</作者>
-<作者评分>5</作者评分>
+<标题>如何解读《遗愿清单》这部电影中，爱德华与卡特的友情？</标题><作者评分>5</作者评分>
 <时间>2020-04-09 10:13:46</时间>
 <影评>
 

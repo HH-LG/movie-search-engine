@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>梵高：画语人生 Vincent Van Gogh: Painted with Words</电影名>
 <年份>2010</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>翔樹。</作者>
-<作者评分>5</作者评分>
+<标题>在看之前；印象，传记与真迹。令人心碎的天才</标题><作者评分>5</作者评分>
 <时间>2011-04-20 03:25:53</时间>
 <影评>
         小时候学过画画，可是那时候上色只会一片一片的涂。大家都这么画，直到有一天有一个大点的孩子，用一条一条的色彩描绘出阴影和层次。老师很欣喜地表扬了她，而我在一旁咬着画笔，感觉到一点点震撼。
@@ -69,7 +69,7 @@ Benedict Cumberbatch 是个好演员，很好很好的演员。
 </review>
 <review>
 <作者>蛙影</作者>
-<作者评分>5</作者评分>
+<标题>在我胸口用力的开一枪</标题><作者评分>5</作者评分>
 <时间>2012-10-10 23:58:46</时间>
 <影评>
                本来只是抱着进一步了解梵高的目的找到了这部影片，却意外发现扮演梵高的竟然是BC。好吧，其实一开始会有点担心，毕竟卷福已经是他的脸了，再有神经质表情恐怕也演不好梵高吧？
@@ -114,7 +114,7 @@ Benedict Cumberbatch 是个好演员，很好很好的演员。
 </review>
 <review>
 <作者>西西里的云</作者>
-<作者评分>5</作者评分>
+<标题>“The sadness will last forever." ——Van Gogh</标题><作者评分>5</作者评分>
 <时间>2011-07-06 03:16:45</时间>
 <影评>
         -To suffer without complaining is the only lesson that has to be learned in this life.
@@ -129,13 +129,13 @@ Benedict Cumberbatch 是个好演员，很好很好的演员。
 -The very best and the most effective medicine is still love and at home
 
 
--I wanted to give the idea of a way of life wholely different from ours. I certainly don&apos;t just want everyone to admire it or prove of it without knowing why.
+-I wanted to give the idea of a way of life wholely different from ours. I certainly don't just want everyone to admire it or prove of it without knowing why.
 
 
--My painting of the night cafe I&apos;ve tried to express the idea that the cafe is the place where you can ruin yourself, got mad, commit crimes.
+-My painting of the night cafe I've tried to express the idea that the cafe is the place where you can ruin yourself, got mad, commit crimes.
 
 
--We&apos;re living here in the world of painting, where everything is occupied by people who all intercept money. And you mustn’t think that I’m imagining this. People pay a lot for the work when the painter himself is dead.
+-We're living here in the world of painting, where everything is occupied by people who all intercept money. And you mustn’t think that I’m imagining this. People pay a lot for the work when the painter himself is dead.
 
 
 </影评>
@@ -144,7 +144,7 @@ Benedict Cumberbatch 是个好演员，很好很好的演员。
 </review>
 <review>
 <作者>Paratus</作者>
-<作者评分>5</作者评分>
+<标题>他是诗人</标题><作者评分>5</作者评分>
 <时间>2012-04-20 03:13:48</时间>
 <影评>
         重读这些由他的书信组成的字幕，突然发现，在极为孤独的世界里，有颗孩子的心，和诗人的臆想，他要将画笔演成音符唱最动人的颂歌赞美这不曾温暖过他的世界。
@@ -153,26 +153,26 @@ Benedict Cumberbatch 是个好演员，很好很好的演员。
 When we think of Van Gogh, we see him as a strange, mad genius who somehow, through sheer instinct, found a way of pouring out the blaze of his inner feelings onto canvas.
 
 
-Let me quietly continue my work. if it&apos;s that or the madman, well, then too bad. and i can&apos;t do anything about it. 
+Let me quietly continue my work. if it's that or the madman, well, then too bad. and i can't do anything about it. 
 
 
 1.
 
 My dear Theo,
 
-where can i go that&apos;s worse than where i&apos;ve already been? Shut up for long days under lock and key and in the isolation cell. I still have a certain &quot;what&apos;s the good of getting better?&quot; feeling. however the unbearable hallucinations have stopped. Reducing themselves to simple nightmares. Physically, i&apos;m well. The wound is closing very well and the great loss of blood is balancing out. The most fearsome thing is the insomnia. I feel weak, a little anxious and fearful.
+where can i go that's worse than where i've already been? Shut up for long days under lock and key and in the isolation cell. I still have a certain "what's the good of getting better?" feeling. however the unbearable hallucinations have stopped. Reducing themselves to simple nightmares. Physically, i'm well. The wound is closing very well and the great loss of blood is balancing out. The most fearsome thing is the insomnia. I feel weak, a little anxious and fearful.
 
 
 2.
 
-I won&apos;t hide from you that I would prefer to die than cause and bear so much trouble.
+I won't hide from you that I would prefer to die than cause and bear so much trouble.
 
 To suffer without complaining is the only lesson that has to be learned in this life.
 
 
 3. 
 
-The love between two brothers is a great support in life, that&apos;s an age-old truth. Let the fire of love between us not be extinguished. But let instead the experience of life make that bond even stronger, let us remain upright and candid with each other.
+The love between two brothers is a great support in life, that's an age-old truth. Let the fire of love between us not be extinguished. But let instead the experience of life make that bond even stronger, let us remain upright and candid with each other.
 
 Let there be no secrets, as things stand today.
 
@@ -184,17 +184,17 @@ Going down in a mine is an unpleasant business, in a kind of basket or cage like
 
 5.
 
-I for one, a man of passions, capable and liable to do rather foolish things for which I sometimes feel rather sorry. For example, you know well that I&apos;ve neglected my appearance. I admit it&apos;s rather shocking. Must consider oneself a dangerous man incapable of anything at all? I don&apos;t think so. Money troubles-ha! And poverty have something to do with it. Now you say, from such and such a time, you&apos;ve been going downhill, you&apos;ve faded away, you&apos;ve down nothing. Now that being so, what&apos;s to be done?
+I for one, a man of passions, capable and liable to do rather foolish things for which I sometimes feel rather sorry. For example, you know well that I've neglected my appearance. I admit it's rather shocking. Must consider oneself a dangerous man incapable of anything at all? I don't think so. Money troubles-ha! And poverty have something to do with it. Now you say, from such and such a time, you've been going downhill, you've faded away, you've down nothing. Now that being so, what's to be done?
 
 
 6.
 
-My plan is not to spare myself, not to avoid a lot of difficulties and emotions. It&apos;s of a relative indifference to me whether I live a long or short time. I&apos;m concerned with the world only in that I have a certain obligation, or duty, if you like. Having walked the world for 30 years to leave a souvenir of gratitude in the form of paintings or drawings.
+My plan is not to spare myself, not to avoid a lot of difficulties and emotions. It's of a relative indifference to me whether I live a long or short time. I'm concerned with the world only in that I have a certain obligation, or duty, if you like. Having walked the world for 30 years to leave a souvenir of gratitude in the form of paintings or drawings.
 
 
 7.
 
-From the beginning of this love I&apos;ve felt that unless I threw myself into it unreservedly, committing myself to it whole-heartedly, fully and forever, then there would be absolutely no chance for me.
+From the beginning of this love I've felt that unless I threw myself into it unreservedly, committing myself to it whole-heartedly, fully and forever, then there would be absolutely no chance for me.
 
 But does it matter to me if the chance is smaller or larger? I mean, must I, can I, take that into accounts when I love? No. No thought to the winnings. One loves because one loves.
 
@@ -204,7 +204,7 @@ To love. What a business.
 
 8.
 
-I find in her exactly what I need. Life has given her a drubbing and sorrow. Sorrow and adversity have left their mark. She posed for my very best drawing, Sorrow. I want to make drawings that move some people. Sorrow is a small beginning. At least it contains something straight from my own feelings. I couldn&apos;t draw Sorrow if I didn&apos;t feel it myself.
+I find in her exactly what I need. Life has given her a drubbing and sorrow. Sorrow and adversity have left their mark. She posed for my very best drawing, Sorrow. I want to make drawings that move some people. Sorrow is a small beginning. At least it contains something straight from my own feelings. I couldn't draw Sorrow if I didn't feel it myself.
 
 In all of nature, trees for instance, I see expression and soul.
 
@@ -223,7 +223,7 @@ The very best and most effective medicine is still love and a home.
 
 11.
 
-I want to give the idea of a way of life wholly different from ours. I certainly don&apos;t just want everyone to admire it or approve of it without knowing why.
+I want to give the idea of a way of life wholly different from ours. I certainly don't just want everyone to admire it or approve of it without knowing why.
 
 
 12.
@@ -233,12 +233,12 @@ I want to begin by telling you that this part of the world seems to me as beauti
 
 13.
 
-So many days pass without me saying a word to anyone except to order supper or a coffee. It&apos;s been like that from the start. For my part, it worries me to spend so much time by myself, alone.
+So many days pass without me saying a word to anyone except to order supper or a coffee. It's been like that from the start. For my part, it worries me to spend so much time by myself, alone.
 
 
 14.
 
-I shall count myself very happy if I manage to work enough to earn my living. It makes me very worried when I tell myself that I&apos;ve done so many paintings and drawings without ever selling any.
+I shall count myself very happy if I manage to work enough to earn my living. It makes me very worried when I tell myself that I've done so many paintings and drawings without ever selling any.
 
 
 15. 
@@ -250,19 +250,19 @@ So then my brush goes between my fingers as if it were the bow on a violin and a
 
 16.
 
-Since my illness, the feelings of loneliness takes hold of me in the fields in such a fearsome way that i hesitate to go out. With time, though, that will change. It&apos;s only in front of the easel while painting that I feel a little of life. I feel a failure. That&apos;s it is regards me. I feel that that&apos;s the fate I&apos;m accepting and which won&apos;t change any more.
+Since my illness, the feelings of loneliness takes hold of me in the fields in such a fearsome way that i hesitate to go out. With time, though, that will change. It's only in front of the easel while painting that I feel a little of life. I feel a failure. That's it is regards me. I feel that that's the fate I'm accepting and which won't change any more.
 
 
 17.
 
 I feared, not completely but a little nonetheless, that I was a danger to you, living at your expense. Perhaps like to write to you about many things. Profess the desire has passed to such a degree that I feel the pointlessness of it.
 
-I&apos;m applying myself to my canvases with all my attention. They&apos;re immense stretches of wheat fields under turbulent skies. And I made a point of trying to express sadness, extreme loneliness.
+I'm applying myself to my canvases with all my attention. They're immense stretches of wheat fields under turbulent skies. And I made a point of trying to express sadness, extreme loneliness.
 
 
 18.
 
-We&apos;re now living here in a world of painting where everything is occupied by people, who all intercept money. And you mustn&apos;t think that I&apos;m imagining things. People pay a lot for the work when the painter himself is dead.
+We're now living here in a world of painting where everything is occupied by people, who all intercept money. And you mustn't think that I'm imagining things. People pay a lot for the work when the painter himself is dead.
 
 
 </影评>
@@ -271,7 +271,7 @@ We&apos;re now living here in a world of painting where everything is occupied b
 </review>
 <review>
 <作者>碾</作者>
-<作者评分>4</作者评分>
+<标题>认识了梵高</标题><作者评分>4</作者评分>
 <时间>2015-06-07 22:04:18</时间>
 <影评>
         这算是精致的纪录片，不算剧情电影。
@@ -302,7 +302,7 @@ We&apos;re now living here in a world of painting where everything is occupied b
 </review>
 <review>
 <作者>magicmeowo</作者>
-<作者评分>5</作者评分>
+<标题>《画语人生》</标题><作者评分>5</作者评分>
 <时间>2020-01-28 01:16:14</时间>
 <影评>
 
@@ -323,7 +323,7 @@ We&apos;re now living here in a world of painting where everything is occupied b
 </review>
 <review>
 <作者>Chelsea in KA</作者>
-<作者评分>4</作者评分>
+<标题>无题</标题><作者评分>4</作者评分>
 <时间>2016-06-12 08:21:55</时间>
 <影评>
         “没有任何方法可以检验哪种抉择是好的。因为不存在任何比较。一切都是马上经历，仅此一次，不能准备，好像一个演员没有排练就上了舞台。如果生命的初次排练就已经是生命本身，那么生命到底会有什么价值？正因为这样，生命才总是像一张草图。但“草图”这个词还不确切，因为一张草图是某件事物的雏形，比如一幅画的草稿，而我们生命的草图却不是任何东西的草稿，它是一张成不了画的草图。”
@@ -342,7 +342,7 @@ We&apos;re now living here in a world of painting where everything is occupied b
 </review>
 <review>
 <作者>炯初 Jerong</作者>
-<作者评分>4</作者评分>
+<标题>梵高：画语人生—不能自爱的灵魂是悲剧的</标题><作者评分>4</作者评分>
 <时间>2020-02-05 20:10:26</时间>
 <影评>
 
@@ -372,7 +372,7 @@ We&apos;re now living here in a world of painting where everything is occupied b
 </review>
 <review>
 <作者>老羊</作者>
-<作者评分>4</作者评分>
+<标题>《三个梵高》</标题><作者评分>4</作者评分>
 <时间>2012-06-26 00:23:14</时间>
 <影评>
         《三个梵高》
@@ -427,7 +427,7 @@ We&apos;re now living here in a world of painting where everything is occupied b
 </review>
 <review>
 <作者>玖月</作者>
-<作者评分>5</作者评分>
+<标题>For loving Vincent</标题><作者评分>5</作者评分>
 <时间>2018-02-12 20:30:15</时间>
 <影评>
 

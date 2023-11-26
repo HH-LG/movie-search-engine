@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>珊瑚礁 Coral Reef Adventure</电影名>
 <年份>2003</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>valencia21</作者>
-<作者评分>5</作者评分>
+<标题>beautiful !</标题><作者评分>5</作者评分>
 <时间>2010-03-23 13:48:58</时间>
 <影评>
         i think everybody of us should see this amazing movie , the impression from this movie will be stayed  in our heart  forever ! 
@@ -27,7 +27,7 @@ another way this movie tells us the major goal  to protect  the earth  is really
 </review>
 <review>
 <作者>Clarissa</作者>
-<作者评分>4</作者评分>
+<标题>Coral lives with strong ties with others</标题><作者评分>4</作者评分>
 <时间>2009-02-22 20:49:24</时间>
 <影评>
           And now it depends on you and me.
@@ -41,7 +41,7 @@ another way this movie tells us the major goal  to protect  the earth  is really
 </review>
 <review>
 <作者>尾巴</作者>
-<作者评分>4</作者评分>
+<标题>珊瑚礁奇觀</标题><作者评分>4</作者评分>
 <时间>2008-07-29 18:33:08</时间>
 <影评>
         請小蝦當牙醫

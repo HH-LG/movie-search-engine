@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
-<电影名>暗号 The &apos;High Sign&apos;</电影名>
+<电影名>暗号 The 'High Sign'</电影名>
 <年份>1921</年份>
 <评分>8.5</评分>
 <封面>https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2512769353.jpg</封面>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>阿尔伐</作者>
-<作者评分>5</作者评分>
+<标题>达达主义者——巴斯特基顿</标题><作者评分>5</作者评分>
 <时间>2021-12-21 01:31:52</时间>
 <影评>
 

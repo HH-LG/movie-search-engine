@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>桂河大桥 The Bridge on the River Kwai</电影名>
 <年份>1957</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>安昙野</作者>
-<作者评分>4</作者评分>
+<标题>被遗忘的“人”</标题><作者评分>4</作者评分>
 <时间>2009-07-19 00:20:02</时间>
 <影评>
            一部能“引人入胜”的电影，绝不可能没有冲突。《桂河大桥》也不例外。
@@ -44,7 +44,7 @@
     说到这，尼尔森与希尔兹之间的不同特性变得更加清晰起来。对于二人所代表的这种矛盾，我更愿意称之为是一种“个体存在的内在矛盾”，只不过在二人身上这种特性被放大了一些而已。作为生活在社会中的个体来说，一方面，个体要个体本身的生存而付出，我们称之为“自私”的一面；但另一方面，个体也要为整体的生存而付出，甚至不得不放弃自己的利益，甚至是生命，我们称之为“无私”的一面。这里，我用的是引号，意思是这两个词的使用并不带感性色彩，也无意贴上或好或坏的标签，只是为了说明而用。举个例子，你有生理反应，比如打喷嚏、打嗝或放屁，出于健康考虑，你这么肆无忌惮的反应一下无可厚非，但如果你周围有人，你就不得不会收敛许多，搞不好还要不顾及健康因素而努力憋住。为什么？因为你大公无私，怕损害别人的利益吗？不，因为你和尼尔森上校一样，受制于社会的某种规则、法律或道德要求，自然会这么做，不去问理由。同样，尼尔森算不上无私，俘虏营的士兵待遇提高并不是他的目的，他的目的只是为了坚持所谓的原则。幸运的是，他成功了。
 
 
-    但不幸的是，他也失败了。当他将坚持过了头，终于忘记了些什么时，他所秉持的到最后竟成了他所反对的。“What I have done?&quot; 尼尔森说出最后一句话时，是否明白自己做了什么吗？在我看来，他是太投入修桥以至于忘记了自己是谁了。第二轮里，二人的再次碰面让彼此吃惊不小，电影却只安排一句了极为简单的台词，那就是”You&quot;。这一会面意味深长，又极富戏剧性，我认为，这正是电影的经典之处。这一次二人的碰面，不仅让尼尔森幡然醒悟。同时，也让观众对二者的不同之处足以明了于心，表面上，希尔兹虽显得圆滑世故、总是服从于本能而不循于人们普遍遵守的社会教条，可在关键时刻，他却能同样不惜生命为了正确的选择；而尼尔森，他只知道誓死捍卫他的原则外，并不会真正思考这些原则背后的意义。正如希尔兹对负伤的英军上尉所言，什么所谓的军事任务也好，狗屁命令也好，有什么比人的生命更重要的呢？战争让人忘却了人性，只让人记住仇恨，为的只是博一个输赢，为此，千千万万的人失去了生命。又有几人能象尼尔森上校一样最后幡然醒悟，问一问自己，我到底做了什么？为了什么？
+    但不幸的是，他也失败了。当他将坚持过了头，终于忘记了些什么时，他所秉持的到最后竟成了他所反对的。“What I have done?" 尼尔森说出最后一句话时，是否明白自己做了什么吗？在我看来，他是太投入修桥以至于忘记了自己是谁了。第二轮里，二人的再次碰面让彼此吃惊不小，电影却只安排一句了极为简单的台词，那就是”You"。这一会面意味深长，又极富戏剧性，我认为，这正是电影的经典之处。这一次二人的碰面，不仅让尼尔森幡然醒悟。同时，也让观众对二者的不同之处足以明了于心，表面上，希尔兹虽显得圆滑世故、总是服从于本能而不循于人们普遍遵守的社会教条，可在关键时刻，他却能同样不惜生命为了正确的选择；而尼尔森，他只知道誓死捍卫他的原则外，并不会真正思考这些原则背后的意义。正如希尔兹对负伤的英军上尉所言，什么所谓的军事任务也好，狗屁命令也好，有什么比人的生命更重要的呢？战争让人忘却了人性，只让人记住仇恨，为的只是博一个输赢，为此，千千万万的人失去了生命。又有几人能象尼尔森上校一样最后幡然醒悟，问一问自己，我到底做了什么？为了什么？
 
 
      
@@ -56,7 +56,7 @@
 </review>
 <review>
 <作者>阿拉玎</作者>
-<作者评分>3</作者评分>
+<标题>最后时刻的人性</标题><作者评分>3</作者评分>
 <时间>2010-04-12 17:50:37</时间>
 <影评>
 
@@ -75,7 +75,7 @@
 </review>
 <review>
 <作者>光影如画</作者>
-<作者评分>4</作者评分>
+<标题>反高潮的英雄</标题><作者评分>4</作者评分>
 <时间>2009-11-11 08:35:40</时间>
 <影评>
         美国人拍的《桂河大桥》是部经典电影。有些电影经典在于它的历史地位，由于它先行的探索，使后来人从这里找到前进的方向，并把这条小路变成柏油马路。另有一些经典属于很难被超越的巅峰之作，作品本身独辟捷径，很难被复制。电影世界所蕴含的艺术深度与创作灵感，不是高科技制作的问题，这一点就是翻拍电影与首拍版本的区别。
@@ -121,7 +121,7 @@
 </review>
 <review>
 <作者>槑槑</作者>
-<作者评分>4</作者评分>
+<标题>桂河大桥</标题><作者评分>4</作者评分>
 <时间>2017-08-29 09:58:48</时间>
 <影评>
 
@@ -136,39 +136,39 @@
 </review>
 <review>
 <作者>未及</作者>
-<作者评分>4</作者评分>
+<标题>在方寸间周旋——桂河大桥的人物</标题><作者评分>4</作者评分>
 <时间>2008-08-17 21:24:26</时间>
 <影评>
-        片中有一段场景很感人，是那首著名的英国歌谣，For He&apos;s A Jolly Good Fellow。
+        片中有一段场景很感人，是那首著名的英国歌谣，For He's A Jolly Good Fellow。
 
 
 以下引自维基
 
-http://en.wikipedia.org/wiki/For_He&apos;s_a_Jolly_Good_Fellow
+http://en.wikipedia.org/wiki/For_He's_a_Jolly_Good_Fellow
 
 
-&quot;For He&apos;s A Jolly Good Fellow&quot; is a British and American song which is sung to congratulate a person on a significant event, such as a retirement. The melody originates from that of the French song &quot;Marlbrough s&apos;en va-t-en guerre.&quot;
+"For He's A Jolly Good Fellow" is a British and American song which is sung to congratulate a person on a significant event, such as a retirement. The melody originates from that of the French song "Marlbrough s'en va-t-en guerre."
 
-&quot;For He&apos;s A Jolly Good Fellow&quot;（他是一个快乐的好小伙）是一首英国和美国歌谣，通常为某人庆祝一个重要事件时唱诵，例如退休仪式。此歌谣源自一首法国歌谣&quot;Marlbrough s&apos;en va-t-en guerre&quot;。
+"For He's A Jolly Good Fellow"（他是一个快乐的好小伙）是一首英国和美国歌谣，通常为某人庆祝一个重要事件时唱诵，例如退休仪式。此歌谣源自一首法国歌谣"Marlbrough s'en va-t-en guerre"。
 
 
-According to the Guinness Book of World Records, &quot;For He&apos;s a Jolly Good Fellow&quot; is the second-most popular song in the English language, following &quot;Happy Birthday to You&quot; and followed by &quot;Auld Lang Syne.&quot;
+According to the Guinness Book of World Records, "For He's a Jolly Good Fellow" is the second-most popular song in the English language, following "Happy Birthday to You" and followed by "Auld Lang Syne."
 
-根据世界吉尼斯记录大全，For He&apos;s a Jolly Good Fellow在所有英语流行歌谣中排名第二，排名第一的是Happy Birthday to You（祝你生日快乐），排名第三的是Auld Lang Syne（友谊地久天长）。
+根据世界吉尼斯记录大全，For He's a Jolly Good Fellow在所有英语流行歌谣中排名第二，排名第一的是Happy Birthday to You（祝你生日快乐），排名第三的是Auld Lang Syne（友谊地久天长）。
 
 
 British and Australian lyrics 英国和澳大利亚版歌词
 
 
-    For he&apos;s a jolly good fellow, for he&apos;s a jolly good fellow
+    For he's a jolly good fellow, for he's a jolly good fellow
 
-    For he&apos;s a jolly good fellow (pause), and so say all of us
+    For he's a jolly good fellow (pause), and so say all of us
 
     And so say all of us, and so say all of us
 
-    For he&apos;s a jolly good fellow, for he&apos;s a jolly good fellow
+    For he's a jolly good fellow, for he's a jolly good fellow
 
-    For he&apos;s a jolly good fellow (pause), and so say all of us
+    For he's a jolly good fellow (pause), and so say all of us
 
 
 他是一个快乐的好小伙，他是一个快乐的好小伙
@@ -185,13 +185,13 @@ British and Australian lyrics 英国和澳大利亚版歌词
 American lyrics 美国版歌词
 
 
-    For he&apos;s a jolly good fellow, for he&apos;s a jolly good fellow
+    For he's a jolly good fellow, for he's a jolly good fellow
 
-    For he&apos;s a jolly good fellow (pause), which nobody can deny
+    For he's a jolly good fellow (pause), which nobody can deny
 
     Which nobody can deny, which nobody can deny
 
-    For he&apos;s a jolly good fellow (pause), which nobody can deny 
+    For he's a jolly good fellow (pause), which nobody can deny 
 
 
 他是一个快乐的好小伙，他是一个快乐的好小伙
@@ -207,7 +207,7 @@ American lyrics 美国版歌词
 </review>
 <review>
 <作者>东林君</作者>
-<作者评分>5</作者评分>
+<标题>For He's A Jolly Good Fellow</标题><作者评分>5</作者评分>
 <时间>2013-08-26 01:22:12</时间>
 <影评>
         （我将桂河大桥列为我的TOP1，如果不写点什么实在是说不过去。）
@@ -317,7 +317,7 @@ American lyrics 美国版歌词
 </review>
 <review>
 <作者>石之海动画了吗</作者>
-<作者评分>5</作者评分>
+<标题>人生就是一出无可奈何的悲剧</标题><作者评分>5</作者评分>
 <时间>2011-09-21 00:02:17</时间>
 <影评>
         《桂河大桥》咋看给我的感觉是色调不怎么明丽，开片就是挖坟树十字架的情节又给正片定下一个略显沉重的基调，衣衫褴褛的英军俘虏再加上凶狠矮胖的日军军官，以及我那时间轴对不好的字幕和长达161分钟的片长，使得我开始看这部影片时不期待会得到多好的观影感受。当然，本片的情节胜出了。本来打算看一半就睡觉第二天起来上大物课的我凝神屏气看完了最后30分钟才洗漱上床。短评我只写了四个字：老人与海。因为撇去正义和非正义的价值判断，Nicolson上校的遭遇确实与老渔夫十分相似：历经千辛万苦达成目标，然后眼睁睁的看着成果毁于一旦。
@@ -342,7 +342,7 @@ PS.电影中有一个情节是斋藤在桂河大桥建成之夜写了一封书�
 </review>
 <review>
 <作者>photon</作者>
-<作者评分>5</作者评分>
+<标题>谈谈尼尔森炸桥</标题><作者评分>5</作者评分>
 <时间>2013-01-21 00:45:54</时间>
 <影评>
         　　战争的输赢对尼尔森已经不是最重要的。他自己也曾说过，服役二十八年，一切像回到了原点。为什么呢？一场战争接着又一场战争，和平只是中间的小小点缀。如果一切都只不过是一个循环的话，那么军人的胜利或者失败又有何意义呢？我觉得尼尔森逐渐意识到，只有创造才是有意义的。他也曾说过，重要的是当战争结束后使用这座桥的人会想到是英国人造的，而这是值得他们骄傲的。荒谬的是，战争恰恰意味着毁灭。因此，当他发现有人要炸桥的时候，他才会奋不顾身地阻止。但是身为军人，毁灭对手又是天职。战争的荒谬性在此一览无余：毁灭掉有价值的东西。从整个人类的角度上看，战争不就是在毁灭人类亲手创造的有价值的事物么?在尼尔森问出What have I done?的那一刻，他并不是幡然悔悟，而是处于深深的困惑。他不明白自己为什么要保护敌人的大桥。其实，那根本不是敌人的大桥，而是尼尔森带领英国士兵建造的造福人类的财富。是尼尔森人生的意义所在。但是战争把他推到了这个荒谬的位置，他是英国军官，大桥当时供日本人用，他必须毁灭它。尼尔森最后未必炸毁了大桥，但大桥必须被炸毁，否则尼尔森的战友的牺牲就变得没有价值，而尼尔森也将成为罪人。战争让人在毁灭中找到价值，这是另一层荒谬所在。 
@@ -352,7 +352,7 @@ PS.电影中有一个情节是斋藤在桂河大桥建成之夜写了一封书�
 </review>
 <review>
 <作者>征羽</作者>
-<作者评分>5</作者评分>
+<标题>连个鸟都没打出来，你们到底图个啥</标题><作者评分>5</作者评分>
 <时间>2014-01-28 22:36:14</时间>
 <影评>
         桂河大桥，久闻大名，一直没看，私底下还和卡桑德拉大桥傻傻分不清楚。
@@ -423,7 +423,7 @@ PS.电影中有一个情节是斋藤在桂河大桥建成之夜写了一封书�
 </review>
 <review>
 <作者>二亩山药蛋</作者>
-<作者评分>5</作者评分>
+<标题>战争背景下的英伦精神（一）</标题><作者评分>5</作者评分>
 <时间>2017-07-05 20:30:48</时间>
 <影评>
         由英国著名电影导演大卫•里恩执导，威廉•霍尔登、杰克•霍金斯、亚历克•吉尼斯、早川雪州、詹姆斯•唐纳德等主演的经典反战电影《桂河大桥》获得了第三十届1958年奥斯卡最佳影片、最佳剧本、最佳导演、最佳男主角、最佳摄影、最佳剪辑、最佳音乐等七项奖及英国电影学院奖最佳影片等四项大奖。名列美国评选的世界100部最惊心动魄的电影第58位。英军上校尼尔森的扮演者，英国明星亚历克•吉尼斯则因其在该片中的出色表演荣登当年奥斯卡影帝宝座。这是自《西线无战事》二十年来，战争题材影片的第二次夺魁；也是继《王子复仇记》后，英国影片又一次捧走了金像奖。本片根据法国皮埃尔•布勒的同名小说改编，总投资300万美元，在斯里兰卡的原始森林中全程拍摄，被称为50年代最雄伟的战争片。整部影片虽是战争故事，但只有片尾出现少许战争场面，片长2小时45分钟，与原著相比，影片虽消解了些许幽默感，但扣人心弦，在刻画人物与视听语言方面发挥到了极致。影片叙事手法独具匠心，开篇气势恢宏，根据乐曲《鲍吉上校》改编的《波基上校进行曲》被士兵们用口哨演绎的异常精彩，而结尾部分作为全片的高潮，炸桥这一镜头震撼人心，影片给观众带来的思考与视觉享受无与伦比。

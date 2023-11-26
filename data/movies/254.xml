@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>指环王2：双塔奇兵 The Lord of the Rings: The Two Towers</电影名>
 <年份>2002</年份>
@@ -16,7 +16,7 @@
 <reviews>
 <review>
 <作者>尘海苍芒</作者>
-<作者评分>4</作者评分>
+<标题>又是经典台词</标题><作者评分>4</作者评分>
 <时间>2008-07-24 12:58:48</时间>
 <影评>
         最近第十放映室在讲三部曲。魔戒三部曲又让我想起了Sam那段美妙绝伦的台词：
@@ -76,7 +76,7 @@ Sam: There is some good in this world, Mr. Frodo. And it’s worth fighting for.
 </review>
 <review>
 <作者>海边的西塞罗</作者>
-<作者评分>5</作者评分>
+<标题>《指环王》密码（上）：欧洲文明在惧怕谁？</标题><作者评分>5</作者评分>
 <时间>2021-04-24 14:11:23</时间>
 <影评>
 
@@ -211,7 +211,7 @@ History became legend, legend became myth.
 </review>
 <review>
 <作者>力克巧浣熊</作者>
-<作者评分>5</作者评分>
+<标题>加长版和院线版的区别</标题><作者评分>5</作者评分>
 <时间>2021-04-20 19:16:10</时间>
 <影评>
 
@@ -264,7 +264,7 @@ History became legend, legend became myth.
 </review>
 <review>
 <作者>z厘米。</作者>
-<作者评分>5</作者评分>
+<标题>山姆的伟大使命感！</标题><作者评分>5</作者评分>
 <时间>2010-02-26 01:16:44</时间>
 <影评>
               A wonderful ending deserved so much hard-fighting...
@@ -282,7 +282,7 @@ History became legend, legend became myth.
     黑森林，高雪峰，深洞穴，低沼泽，炽火岩…… 佛罗多一行魔戒远征队历经千般艰难万般险阻，终抵圆满美好的胜利彼岸。太多曲折的怜惋，太多高歌的感叹，佛罗多一路走来令我百般惊喜。特别是最后当他伤愈醒来的时候，曙光般明亮璀璨的光线铺满全身，甘道夫站在床后绽放着灿烂无比的笑颜，远征队伙伴们一个个向他微笑走来，怀着崇高的敬意，怀着深深的情谊。最后出现在房门口的是山姆——男主角最重要的伙伴，可以这样说：没有山姆，绝对没有佛罗多美满的结局……
 
 
-    其实三部曲看下来，故事中最令我记忆犹新的人物不是男主角佛罗多，而是一直任劳任怨陪伴在他身边的好友——山姆卫斯·詹吉。这里标写山姆名字全称完完全全是代表对他饱含敬意，山姆没有别的什么能耐，甚至他可以被称为远征队里最容易受欺负的死胖子。但是！他没有别的任何贪念意图，他仅凭着甘道夫一句“Don&apos;t you lose him, Samwise Gamgee.”（紧跟着他，山姆卫斯·詹吉）他便紧跟着男主角佛罗多一直坚持到最后。Great Man！这是我对山姆这个配角发出内心最高的评价。
+    其实三部曲看下来，故事中最令我记忆犹新的人物不是男主角佛罗多，而是一直任劳任怨陪伴在他身边的好友——山姆卫斯·詹吉。这里标写山姆名字全称完完全全是代表对他饱含敬意，山姆没有别的什么能耐，甚至他可以被称为远征队里最容易受欺负的死胖子。但是！他没有别的任何贪念意图，他仅凭着甘道夫一句“Don't you lose him, Samwise Gamgee.”（紧跟着他，山姆卫斯·詹吉）他便紧跟着男主角佛罗多一直坚持到最后。Great Man！这是我对山姆这个配角发出内心最高的评价。
 
 
     影片的内容我不多说，为的是给予读者更多遐想空间，如您想满足好奇心不妨分期安排个小假好好观赏一番，厘米包管您必觉美不胜收。
@@ -294,13 +294,13 @@ History became legend, legend became myth.
  
 
 
-    &quot;I wish the Ring had never come to me. I wish none of this had happened.&quot;
+    "I wish the Ring had never come to me. I wish none of this had happened."
 
 
-    &quot;So do all who live to see such times. But that is not for them to decide.
+    "So do all who live to see such times. But that is not for them to decide.
 
 
-     All we have to decide is... what to do with the time that is given to us.&quot;
+     All we have to decide is... what to do with the time that is given to us."
 
 
    
@@ -324,13 +324,13 @@ History became legend, legend became myth.
  
 
 
-     &quot;I know. It&apos;s all wrong. By rights, we shouldn&apos;t even be here. 
+     "I know. It's all wrong. By rights, we shouldn't even be here. 
 
 
       But we are.
 
 
-      It&apos;s like in the great stories, Mr. Frodo.
+      It's like in the great stories, Mr. Frodo.
 
 
       The ones that really mattered.
@@ -339,7 +339,7 @@ History became legend, legend became myth.
       Full of darkness and danger they were.
 
 
-      And sometimes you didn&apos;t want to know the end.
+      And sometimes you didn't want to know the end.
 
 
       ... because how could the end be happy?
@@ -354,7 +354,7 @@ History became legend, legend became myth.
       But in the end,
 
 
-      It&apos;s only a passing thing this shadow.
+      It's only a passing thing this shadow.
 
 
       Even darkness must pass.
@@ -384,22 +384,22 @@ History became legend, legend became myth.
       Folk in those stories...
 
 
-      ...had lots of chances of turning back, only they didn&apos;t.
+      ...had lots of chances of turning back, only they didn't.
 
 
       They kept going...
 
 
-      ...because they were holding on to something.&quot;
+      ...because they were holding on to something."
 
 
-     &quot;What are we holding on to, Sam?&quot;
+     "What are we holding on to, Sam?"
 
 
-     &quot;That there&apos;s some good in this world, Mr. Frodo.
+     "That there's some good in this world, Mr. Frodo.
 
 
-      And it&apos;s worth fighting for.&quot;
+      And it's worth fighting for."
 
 
  
@@ -492,17 +492,17 @@ History became legend, legend became myth.
    “使命”，这个词深深地叩问了我的内心世界，我由此启发了考研对于中国教育技术最真实的情感来源。对，就是使命感！
 
 
-    在教育技术奋斗旅途中，路漫漫，而幸能上下求索，夫复何求焉？呵呵，今日在QQ签名写着“离我事业高峰期~ 才要开始下半场！＾＾大家好，我的代号是C&apos;ET”。于此正式拉开明年初“华山论剑”的备考序幕——
+    在教育技术奋斗旅途中，路漫漫，而幸能上下求索，夫复何求焉？呵呵，今日在QQ签名写着“离我事业高峰期~ 才要开始下半场！＾＾大家好，我的代号是C'ET”。于此正式拉开明年初“华山论剑”的备考序幕——
 
 
-    Yeah, it&apos;s worth fighting for！
+    Yeah, it's worth fighting for！
       </影评>
 <有用数>350</有用数>
 <没用数>18</没用数>
 </review>
 <review>
 <作者>ariseNshine</作者>
-<作者评分>4</作者评分>
+<标题>魔戒种族在人类身上的映射与思考</标题><作者评分>4</作者评分>
 <时间>2007-08-16 22:07:05</时间>
 <影评>
 
@@ -530,7 +530,7 @@ hobbit人——孩子，拥有孩子般的单纯，满足于自己所拥有的�
 </review>
 <review>
 <作者>泥鳅也是蛇</作者>
-<作者评分>5</作者评分>
+<标题>相信信念的力量</标题><作者评分>5</作者评分>
 <时间>2015-10-05 16:03:27</时间>
 <影评>
                 《指环王》三部曲用战争的悲壮来表达对信念的执着与坚定。从走出夏尔庄园开始,佛罗多与山姆便开始了他们的“毁戒”之旅。两位伙伴一路相互扶持,相互鼓励,在最危险的时候也没有抛弃对方独自而去。人们深深感动于他们的善良与坚定,但彼得?杰克逊并没有局限于对个人品德情操的赞颂,而是借片中人物宣扬他一直坚持的普世情感。
@@ -544,7 +544,7 @@ hobbit人——孩子，拥有孩子般的单纯，满足于自己所拥有的�
 </review>
 <review>
 <作者>流。</作者>
-<作者评分>5</作者评分>
+<标题>失语</标题><作者评分>5</作者评分>
 <时间>2007-09-02 03:11:17</时间>
 <影评>
         偶翻魔戒II最后一碟..最后一战圣盔谷..现听may it be..摘录某些深情感慨..如下:
@@ -555,7 +555,7 @@ hobbit人——孩子，拥有孩子般的单纯，满足于自己所拥有的�
 
  
 
-树人决定开战时也很煽情..&quot;它们还是种子的时候我就认识..它们有自己的声音..&quot;
+树人决定开战时也很煽情.."它们还是种子的时候我就认识..它们有自己的声音.."
 
  
 
@@ -569,13 +569,13 @@ hobbit人——孩子，拥有孩子般的单纯，满足于自己所拥有的�
 
 山姆独白那一段..巨煽情..其中穿插着美好事物..独白开始..
 
-&quot;但是最后.阴影终会消失.崭新的一天即将来临,连太阳都散发更明亮的光芒..这才是让人永生难忘的故事..
+"但是最后.阴影终会消失.崭新的一天即将来临,连太阳都散发更明亮的光芒..这才是让人永生难忘的故事..
 
-故事中的主角,有很多机会放弃,但他们没有.他们决定勇往直前.因为他们抱着一种信念.我们也是.这世上一定存在着善良..值得我们奋战到底..&quot;
+故事中的主角,有很多机会放弃,但他们没有.他们决定勇往直前.因为他们抱着一种信念.我们也是.这世上一定存在着善良..值得我们奋战到底.."
 
 每个人的眼底都涌出泪水.包括那只可怜可恨的小生物.
 
-大水洗净所有黑暗.&quot;我们胜利了.&quot;
+大水洗净所有黑暗."我们胜利了."
 
 王子的脸上挂着疲惫.还与矮人比着最后结局.
 
@@ -596,7 +596,7 @@ hobbit人——孩子，拥有孩子般的单纯，满足于自己所拥有的�
 </review>
 <review>
 <作者>被遗弃的孩子</作者>
-<作者评分>5</作者评分>
+<标题>但是太阳终会出来</标题><作者评分>5</作者评分>
 <时间>2011-11-04 13:03:03</时间>
 <影评>
              与第一部衔接得非常好，整部片子节奏也很紧凑，剪辑也很棒，一气呵成的感觉。出色的视觉效果和配乐显出史诗的磅礴大气，这么长的片子花了一两次就看完了。
@@ -612,7 +612,7 @@ hobbit人——孩子，拥有孩子般的单纯，满足于自己所拥有的�
 </review>
 <review>
 <作者>冲鸭</作者>
-<作者评分>5</作者评分>
+<标题>法拉秘，波罗秘的好弟弟</标题><作者评分>5</作者评分>
 <时间>2020-03-31 21:52:59</时间>
 <影评>
 
@@ -660,7 +660,7 @@ hobbit人——孩子，拥有孩子般的单纯，满足于自己所拥有的�
 </review>
 <review>
 <作者>耳东某</作者>
-<作者评分>5</作者评分>
+<标题>重返中土之双塔奇兵——PJ vs 托尔金</标题><作者评分>5</作者评分>
 <时间>2021-04-24 23:18:38</时间>
 <影评>
 

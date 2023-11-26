@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>霍金传 Hawking</电影名>
 <年份>2004</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>普通读者</作者>
-<作者评分>5</作者评分>
+<标题>爱情，存在感，和作为信仰的学术——After Hawking</标题><作者评分>5</作者评分>
 <时间>2010-12-29 00:20:37</时间>
 <影评>
 
@@ -35,7 +35,7 @@ Hawking: Can you hear me? Can you hear me? Can you hear me?
 </review>
 <review>
 <作者>lisa|离</作者>
-<作者评分>5</作者评分>
+<标题>有了物理，要艺术干嘛</标题><作者评分>5</作者评分>
 <时间>2012-01-19 04:39:50</时间>
 <影评>
         在没看这部片子之前，看过霍金年轻时的照片，我毫不怀疑他曾经是个性感的男人：一身简洁的西装，浅色打着半温莎结的细领带，规矩白色的口袋帕，以及满脑子的宇宙。而找bc这样的演员来演，竟然也丝毫没有显得多么戏剧化的美化他的帅气，只是身高的差异一时让人不太习惯而已。
@@ -60,7 +60,7 @@ Hawking: Can you hear me? Can you hear me? Can you hear me?
 </review>
 <review>
 <作者>派特里克星</作者>
-<作者评分>5</作者评分>
+<标题>I believe in Stephen Hawking more than Sherlock Holmes</标题><作者评分>5</作者评分>
 <时间>2012-02-13 09:33:30</时间>
 <影评>
         如果有感动世界这种奖的话，霍金一定榜上有名。
@@ -214,7 +214,7 @@ I believe in Stephen Hawking, he is not fake, and he CAN be so clever. He is not
 </review>
 <review>
 <作者>小斑</作者>
-<作者评分>5</作者评分>
+<标题>Beautiful</标题><作者评分>5</作者评分>
 <时间>2012-10-26 06:05:05</时间>
 <影评>
 
@@ -262,7 +262,7 @@ Hawking来中国的时候有幸见到了本尊。当其时对任何学科，包�
 </review>
 <review>
 <作者>Wicky_</作者>
-<作者评分>5</作者评分>
+<标题>用生命去拥抱宇宙。。</标题><作者评分>5</作者评分>
 <时间>2011-01-23 17:06:25</时间>
 <影评>
                我是为了BC才来看这部片子的。。
@@ -286,7 +286,7 @@ Hawking来中国的时候有幸见到了本尊。当其时对任何学科，包�
 </review>
 <review>
 <作者>片桐</作者>
-<作者评分>5</作者评分>
+<标题>印象最深得还是那个教授说的话</标题><作者评分>5</作者评分>
 <时间>2011-07-16 21:38:29</时间>
 <影评>
         我知道你前行的路上多出个障碍的滋味
@@ -310,7 +310,7 @@ Hawking来中国的时候有幸见到了本尊。当其时对任何学科，包�
 </review>
 <review>
 <作者>叉叉小箭猪</作者>
-<作者评分>4</作者评分>
+<标题>电影里的霍金，以及其他科学家</标题><作者评分>4</作者评分>
 <时间>2018-03-24 20:21:06</时间>
 <影评>
         因为存在像引力这样的法则，所以宇宙能够“无中生有”，自发生成可以解释宇宙为什么存在，我们为什么存在。
@@ -413,7 +413,7 @@ Hawking来中国的时候有幸见到了本尊。当其时对任何学科，包�
 </review>
 <review>
 <作者>撒冷的乌凌</作者>
-<作者评分>5</作者评分>
+<标题>有些美丽，即使不懂，也会为之动容。</标题><作者评分>5</作者评分>
 <时间>2012-08-04 22:36:27</时间>
 <影评>
           桌面上放着黑色硬皮的《时间简史》，以及零零散散的几张天文学笔记。
@@ -535,12 +535,12 @@ Can you hear me?
 </review>
 <review>
 <作者>孙琰淼</作者>
-<作者评分>5</作者评分>
+<标题>I can feel U</标题><作者评分>5</作者评分>
 <时间>2013-03-19 23:39:34</时间>
 <影评>
         　　超五星的片子！传记就该这样拍！
 
-　　不是一个人的，也不是几个人或某个领域的传记。这是一部关于真理和梦想的传记。是用了一主（Howing&apos;s theory）两副（Howing&apos;s romance &amp; rebellion&apos;s fossil）线条穿插构架起的伟大的传记。
+　　不是一个人的，也不是几个人或某个领域的传记。这是一部关于真理和梦想的传记。是用了一主（Howing's theory）两副（Howing's romance &amp; rebellion's fossil）线条穿插构架起的伟大的传记。
 
 　　影片中三次出现的潜水屏气，独具匠心地诠释了TIME的迟缓、停滞、压缩和反向。这又何尝不是人在追逐梦想过程中的写照？
 
@@ -557,22 +557,22 @@ Can you hear me?
 </review>
 <review>
 <作者>南山有桑</作者>
-<作者评分>5</作者评分>
+<标题>一个成功男人背后的三个男人</标题><作者评分>5</作者评分>
 <时间>2012-01-03 19:55:40</时间>
 <影评>
         父亲
 
-他等候在儿子导师的办公楼前，恳求他能够给自己的儿子一个容易完成的课题。&quot;Physics means everything to him.&quot; He said。&quot;
+他等候在儿子导师的办公楼前，恳求他能够给自己的儿子一个容易完成的课题。"Physics means everything to him." He said。"
 
 导师：
 
-My students and my science are everything to me&quot; is the answer.
+My students and my science are everything to me" is the answer.
 
-而在霍金公开指出霍伊尔错误的时候，同样支持静态宇宙模型的Sciama对自己的学生说&quot;I would never ever stop a student of mine from pursuing something.I know what is it like to be told you can&apos;t do something,that&apos;s why I became a teacher.I know you can do more than make brilliant attacks on others.Do something,all of your own.&quot;一个父亲是儿子坚实的后盾，一位优秀的导师为学生指明前行的方向。
+而在霍金公开指出霍伊尔错误的时候，同样支持静态宇宙模型的Sciama对自己的学生说"I would never ever stop a student of mine from pursuing something.I know what is it like to be told you can't do something,that's why I became a teacher.I know you can do more than make brilliant attacks on others.Do something,all of your own."一个父亲是儿子坚实的后盾，一位优秀的导师为学生指明前行的方向。
 
 Roger Penrose
 
-影片的最后，完成了自己博士论文的霍金说&quot;That Roger Penrose,clever of me to find him.&quot;
+影片的最后，完成了自己博士论文的霍金说"That Roger Penrose,clever of me to find him."
 
 最后要说的是，其实开始是冲着BC来的，演的真好。
 

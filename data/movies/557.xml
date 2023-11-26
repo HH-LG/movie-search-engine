@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>稻草人 The Scarecrow</电影名>
 <年份>1920</年份>
@@ -10,11 +10,11 @@
 <reviews>
 <review>
 <作者>在职社会观察员</作者>
-<作者评分>5</作者评分>
+<标题>Luke the dog is an actor</标题><作者评分>5</作者评分>
 <时间>2022-03-31 12:40:36</时间>
 <影评>
 
-i&apos;m drowning in your big empty eyes
+i'm drowning in your big empty eyes
 
 Slowly and majestically the sun stealed gradually over the hill-tops
 
@@ -26,14 +26,14 @@ Hurry up! My stomach is empty as a saloon
 
 What is home without a mother
 
-Stung by her father&apos;s treatment she planned to ruin his rurual stomach~so she baked him a cream pie
+Stung by her father's treatment she planned to ruin his rurual stomach~so she baked him a cream pie
 
 crutch  iodine arnica gauze
 whistle blew
 this is so sudden
 harness shop
-he&apos;s running away to get married with your horse
-where&apos;s the ring
+he's running away to get married with your horse
+where's the ring
 
 i pronounce you~man and wife
 
@@ -45,7 +45,7 @@ i pronounce you~man and wife
 </review>
 <review>
 <作者>Chloe</作者>
-<作者评分>5</作者评分>
+<标题>观看《稻草人》</标题><作者评分>5</作者评分>
 <时间>2022-03-08 15:30:57</时间>
 <影评>
 
@@ -59,7 +59,7 @@ i pronounce you~man and wife
 </review>
 <review>
 <作者>平安喜乐</作者>
-<作者评分>5</作者评分>
+<标题>先驱</标题><作者评分>5</作者评分>
 <时间>2016-12-11 15:44:26</时间>
 <影评>
         哇哦，第一篇。

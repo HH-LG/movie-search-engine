@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>米尔克 Milk</电影名>
 <年份>2008</年份>
@@ -16,7 +16,7 @@
 <reviews>
 <review>
 <作者>艾小柯</作者>
-<作者评分>5</作者评分>
+<标题>希望在人间</标题><作者评分>5</作者评分>
 <时间>2009-01-01 15:31:51</时间>
 <影评>
         哈维.米尔克（Harvey Milk）是美国时代杂志评选出的20世纪百大英雄人物之一，他是美国（也是全世界）第一位公开以同性恋身份从政的政治家。哈维亲手缔造了美国旧金山的卡斯特罗同性恋区，推动了七十年代的同性恋民权运动，他年仅48岁，在职位上被刺杀，身中五枪，震惊全国。
@@ -65,7 +65,7 @@ Gus Van Sant这位个人风格强烈的导演，在这部传记电影中几乎�
 </review>
 <review>
 <作者>笔名代替所有</作者>
-<作者评分>5</作者评分>
+<标题>伪直男，让你做开路先锋，也难。</标题><作者评分>5</作者评分>
 <时间>2009-02-06 22:40:51</时间>
 <影评>
 
@@ -256,7 +256,7 @@ Gus Van Sant这位个人风格强烈的导演，在这部传记电影中几乎�
 </review>
 <review>
 <作者>sabretooth</作者>
-<作者评分>5</作者评分>
+<标题>You Have to Give People Hope</标题><作者评分>5</作者评分>
 <时间>2009-03-02 16:23:09</时间>
 <影评>
         本文与其说是我对于这部伟大的电影的评论，倒不如说是我观后发自灵魂深处的忏悔，以及感悟。
@@ -274,9 +274,9 @@ Gus Van Sant这位个人风格强烈的导演，在这部传记电影中几乎�
 
 Sean Penn在Kodak Theater授奖时如是说:
 
-And finally, for those, two last finallies, for those who saw the signs of hatred as our cars drove in tonight, I think that it is a good time for those who voted for the ban against gay marriage to sit and reflect and anticipate their great shame and the shame in their grandchildren&apos;s eyes if they continue that way of support. We&apos;ve got to have equal rights for everyone. 
+And finally, for those, two last finallies, for those who saw the signs of hatred as our cars drove in tonight, I think that it is a good time for those who voted for the ban against gay marriage to sit and reflect and anticipate their great shame and the shame in their grandchildren's eyes if they continue that way of support. We've got to have equal rights for everyone. 
 
-回忆去年11月4日选举的那一个早上我在认为与自己无关痛痒的Prop.8选案上投赞成的那一霎那，我的灵魂是可耻的。我被那些所谓的虔诚的信徒包括我的至亲至友所唬住了，认为在这个议案上投反对票就等于为自己预定了下地狱的直达车票。他们认为，这个议案在并没有剥夺同性恋任何权益的同时，只是捍卫了“婚姻”这一在宗教中具有神圣意义的字眼的定义。它是仅应存在于一个男人和一个女人之间的信约。而同性恋的法定结合方式&quot;civil union&quot;在美国享有和婚姻家庭同样的权益。
+回忆去年11月4日选举的那一个早上我在认为与自己无关痛痒的Prop.8选案上投赞成的那一霎那，我的灵魂是可耻的。我被那些所谓的虔诚的信徒包括我的至亲至友所唬住了，认为在这个议案上投反对票就等于为自己预定了下地狱的直达车票。他们认为，这个议案在并没有剥夺同性恋任何权益的同时，只是捍卫了“婚姻”这一在宗教中具有神圣意义的字眼的定义。它是仅应存在于一个男人和一个女人之间的信约。而同性恋的法定结合方式"civil union"在美国享有和婚姻家庭同样的权益。
 
 当我看了本片而热泪盈眶后，我知道自己当时愚蠢得有多离谱。如果这个世界上有人为了捍卫一个字眼而去剥夺其他人对于它享有的权利，那么他们与剥夺了他人其它权利之间又有什么分别，与纳粹或者种族主义者又有什么区别，与那些我曾经鄙视和不屑的人又有什么区别？这个法案终将会在美国最为自由派的加州再次出台，就如同影片中Harvey Milk为竞选第5区的Supervisor而不懈努力一样，而这一次我不会再无关痛痒于我的政治信仰。
 
@@ -286,13 +286,13 @@ And finally, for those, two last finallies, for those who saw the signs of hatre
 下面我摘录一段Harvey Milk生前精彩的演讲稿的内容与大家分享:
 
 
-I can&apos;t forget the looks on faces of people who&apos;ve lost hope. Be they gay, be they seniors, be they blacks looking for an almost-impossilbe job, be they Latins trying to explain their problems and aspirations in a tongue that&apos;s foreign to them. I personally will never forget that people are more important than buildings. I use the word &quot;I&quot; because I&apos;m proud. I stand here tonight in front of my gay sisters, brothers and friends because I&apos;m proud of you. I think it&apos;s time that we have many legislators who are gay and proud of that fact and do not have to remain in the closet. I think that a gay person, up-front, will not walk away from a responsibility and be afraid of being tossed out of office. After Dade County, I walked among the angry and the frustrated night after night and I looked at their faces. And in San Francisco, three days before Gay Pride Day, a person was killed just because he was gay. And that night, I walked among the sad and the frustrated at City Hall in San Francisco and later that night as they lit candles on Castro Street and stood in silence, reaching out for some symbolic thing that would give them hope. These were strong people, whose faces I knew from the shop, the streets, meetings and people who I never saw before but I knew. They were strong, but even they needed hope.
+I can't forget the looks on faces of people who've lost hope. Be they gay, be they seniors, be they blacks looking for an almost-impossilbe job, be they Latins trying to explain their problems and aspirations in a tongue that's foreign to them. I personally will never forget that people are more important than buildings. I use the word "I" because I'm proud. I stand here tonight in front of my gay sisters, brothers and friends because I'm proud of you. I think it's time that we have many legislators who are gay and proud of that fact and do not have to remain in the closet. I think that a gay person, up-front, will not walk away from a responsibility and be afraid of being tossed out of office. After Dade County, I walked among the angry and the frustrated night after night and I looked at their faces. And in San Francisco, three days before Gay Pride Day, a person was killed just because he was gay. And that night, I walked among the sad and the frustrated at City Hall in San Francisco and later that night as they lit candles on Castro Street and stood in silence, reaching out for some symbolic thing that would give them hope. These were strong people, whose faces I knew from the shop, the streets, meetings and people who I never saw before but I knew. They were strong, but even they needed hope.
 
 
-And the young gay people in the Altoona, Pennsylvanias and the Richmond, Minnesotas who are coming out and hear Anita Bryant on television and her story. The only thing they have to look forward to is hope. And you have to give them hope. Hope for a better world, hope for a better tomorrow, hope for a better place to come to if the pressures at home are too great. Hope that all will be all right. Without hope, not only gays, but the blacks, the seniors, the handicapped, the us&apos;es, the us&apos;es will give up. And if you help elect to the central committee and other offices, more gay people, that gives a green light to all who feel disenfranchised, a green light to move forward. It means hope to a nation that has given up, because if a gay person makes it, the doors are open to everyone.
+And the young gay people in the Altoona, Pennsylvanias and the Richmond, Minnesotas who are coming out and hear Anita Bryant on television and her story. The only thing they have to look forward to is hope. And you have to give them hope. Hope for a better world, hope for a better tomorrow, hope for a better place to come to if the pressures at home are too great. Hope that all will be all right. Without hope, not only gays, but the blacks, the seniors, the handicapped, the us'es, the us'es will give up. And if you help elect to the central committee and other offices, more gay people, that gives a green light to all who feel disenfranchised, a green light to move forward. It means hope to a nation that has given up, because if a gay person makes it, the doors are open to everyone.
 
 
-So if there is a message I have to give, it is that I&apos;ve found one overriding thing about my personal election, it&apos;s the fact that if a gay person can be elected, it&apos;s a green light. And you and you and you, you have to give people hope. Thank you very much. 
+So if there is a message I have to give, it is that I've found one overriding thing about my personal election, it's the fact that if a gay person can be elected, it's a green light. And you and you and you, you have to give people hope. Thank you very much. 
 
 
 --------------------------------------------------------------------
@@ -309,13 +309,13 @@ updated on 10/26/2009
 
      这半个世纪以来，旧金山出了不少传奇的政客。从前国防部长Robert McNamara到老妖婆＃1 Nancy Pelosi, #2 Dianne Feinstein. 但是如果不出意外，他们当中的任何一人也不会有出同名电影的机会了。幸运的Dianne Feinstein在本片中有大概10秒的镜头--作为宣布Harvey Milk死亡的发言人（当时她是 President of the San Francisco Board of Supervisors）。
 
-     然而如果没有得到刺客Dan White的&quot;一臂之力&quot;，也许今天的Harvey Milk就是老妖婆＃3。那么这位白先生到底是一个怎样的人呢？他是如何从一名&quot;all-American boy&quot;转变为“the most hated man in San Francisco&apos;s history”的呢？
+     然而如果没有得到刺客Dan White的"一臂之力"，也许今天的Harvey Milk就是老妖婆＃3。那么这位白先生到底是一个怎样的人呢？他是如何从一名"all-American boy"转变为“the most hated man in San Francisco's history”的呢？
 
      请大家务必阅读他在维基百科的条目
 http://en.wikipedia.org/wiki/Dan_White
 ， 因为这实在是一个曲折而富有戏剧性的故事，有很多内容是电影当中未能提及的。以下是我的中文梗概：
 
-     白先生在高中是全班第一的毕业生。他在越战中服役直到1972年退伍。之后他成为一名警察，在离任前他制止了另一名警察企图对双手被拷的某黑人囚犯的殴打。然后他成为了一名消防员，期间他成功的将一名妇女与她的小孩从正在着火的7层楼公寓中救出。于是旧金山地方报纸The San Francisco Chronicle(影片中提到过该报广告并支持Milk参选市议员)赞颂他为&quot;an all-American boy&quot;。参选市议员时纽约时报称他所代表的第8选区大部分是排斥正不断壮大中的同性恋社区的中产阶级白人。白先生视自己为议会中家庭观念和宗教信仰的守护者，是反对同性恋、大麻吸食者以及犬儒主义者的先锋。其中有个有趣的故事，说是当时的天主教会提议在第8选区内建立一个社区监狱用来禁闭那些杀人纵火以及强奸犯。白先生严词反对，但米克尔却支持教会。其余直到刺杀的部分电影都描述的很明白了，特别是白和米克尔还有过一段关系融洽的时期（米克尔是仅被白邀请参加其新生儿洗礼仪式的三名议员之一）。白的法庭诉讼是另外一个戏剧化的看点所在，经过几位白的心理医生的强有力的证明，他在案发时患有严重的抑郁障碍，因此罪名由谋杀而减低致故意杀人（注意这里不同于中国法律当中的故意杀人罪，而几乎等同于过失杀人），只判七年。五年后他被假释到洛杉矶，而后他返回旧金山居住（时任市长的Dianne Feinstein担心他的安全劝他不要返回）。两年后白在自家车库中用煤气自杀，车里的磁带播放着Paddy Reilly翻版的The Town I Loved So Well。另外一个由白的法庭诉讼而诞生的词组叫做&quot;Twinkie defense&quot;：当时他的心理医生出示他患有抑郁症的证据之一是，得病前白是位健康饮食者，而病后他开始大量服用垃圾食品，包括Twinkie和可口可乐。
+     白先生在高中是全班第一的毕业生。他在越战中服役直到1972年退伍。之后他成为一名警察，在离任前他制止了另一名警察企图对双手被拷的某黑人囚犯的殴打。然后他成为了一名消防员，期间他成功的将一名妇女与她的小孩从正在着火的7层楼公寓中救出。于是旧金山地方报纸The San Francisco Chronicle(影片中提到过该报广告并支持Milk参选市议员)赞颂他为"an all-American boy"。参选市议员时纽约时报称他所代表的第8选区大部分是排斥正不断壮大中的同性恋社区的中产阶级白人。白先生视自己为议会中家庭观念和宗教信仰的守护者，是反对同性恋、大麻吸食者以及犬儒主义者的先锋。其中有个有趣的故事，说是当时的天主教会提议在第8选区内建立一个社区监狱用来禁闭那些杀人纵火以及强奸犯。白先生严词反对，但米克尔却支持教会。其余直到刺杀的部分电影都描述的很明白了，特别是白和米克尔还有过一段关系融洽的时期（米克尔是仅被白邀请参加其新生儿洗礼仪式的三名议员之一）。白的法庭诉讼是另外一个戏剧化的看点所在，经过几位白的心理医生的强有力的证明，他在案发时患有严重的抑郁障碍，因此罪名由谋杀而减低致故意杀人（注意这里不同于中国法律当中的故意杀人罪，而几乎等同于过失杀人），只判七年。五年后他被假释到洛杉矶，而后他返回旧金山居住（时任市长的Dianne Feinstein担心他的安全劝他不要返回）。两年后白在自家车库中用煤气自杀，车里的磁带播放着Paddy Reilly翻版的The Town I Loved So Well。另外一个由白的法庭诉讼而诞生的词组叫做"Twinkie defense"：当时他的心理医生出示他患有抑郁症的证据之一是，得病前白是位健康饮食者，而病后他开始大量服用垃圾食品，包括Twinkie和可口可乐。
 
      Now, that would be another great movie for hollywood.
 
@@ -329,7 +329,7 @@ http://en.wikipedia.org/wiki/Dan_White
 </review>
 <review>
 <作者>Bono</作者>
-<作者评分>3</作者评分>
+<标题>还能离咋地</标题><作者评分>3</作者评分>
 <时间>2009-03-04 21:04:02</时间>
 <影评>
             实话实说，片子不错，但没想象中那么好，要是把同志换成宅男或者待业青年，我保证看得飙泪拍巴掌叫好，而同志这个群体离我的生活太远，满大街也抓不着一个，倒是听个朋友说过，他爸是当警察的，前些年胜利公园里有个厕所，很有点名堂，他爸在里面逮到过不少人，连踢带打的，也顾不上冲天的臭气，战果辉煌，现在已经做到局长了，朋友说他也是才知道，闹半天王小波的《东宫西宫》不是胡编的啊，八成他爹以前看他年纪小不知好歹，怕一好奇也跑到那厕所溜达玩，被某个痴汉晃着下体拉下水，现在看儿子老大不小，又是娶了媳妇的人，茅坑诱惑也不好使了，就把当年那点事儿讲了出来。
@@ -375,7 +375,7 @@ http://en.wikipedia.org/wiki/Dan_White
 </review>
 <review>
 <作者>灵子</作者>
-<作者评分>5</作者评分>
+<标题>米尔克：三十年后仍要黯然心碎</标题><作者评分>5</作者评分>
 <时间>2009-02-10 22:14:01</时间>
 <影评>
         　当哈维·米尔克在地铁站下意识拦住自己未来的情人时，他是多么的风情万种，那羞赧的笑容和深情的眼神，传递出一种带着孤独味道的温暖。
@@ -439,7 +439,7 @@ http://en.wikipedia.org/wiki/Dan_White
 </review>
 <review>
 <作者>空空孙</作者>
-<作者评分>5</作者评分>
+<标题>牛奶</标题><作者评分>5</作者评分>
 <时间>2009-03-29 11:14:55</时间>
 <影评>
         入山的路比想象中的崎岖了些，负担比我预期的要大。
@@ -501,7 +501,7 @@ http://en.wikipedia.org/wiki/Dan_White
 </review>
 <review>
 <作者>墨白</作者>
-<作者评分>5</作者评分>
+<标题>若我为gay</标题><作者评分>5</作者评分>
 <时间>2010-10-13 14:40:26</时间>
 <影评>
 
@@ -533,7 +533,7 @@ http://en.wikipedia.org/wiki/Dan_White
 </review>
 <review>
 <作者>yanryo</作者>
-<作者评分>5</作者评分>
+<标题>很感动！</标题><作者评分>5</作者评分>
 <时间>2009-02-28 10:35:19</时间>
 <影评>
             一直没看过西恩潘的电影，直到这部，真的让我完全被感动，不但是MILK本人的人格魅力感动。在那么坚难的时势。一直不放弃地去坚持。影片很多地方都让我深深体会到如旧时服装也是对人束缚至身，裙由长变短又经历了多少人和年的抗争？？？
@@ -543,7 +543,7 @@ http://en.wikipedia.org/wiki/Dan_White
 </review>
 <review>
 <作者>owen</作者>
-<作者评分>5</作者评分>
+<标题>记忆</标题><作者评分>5</作者评分>
 <时间>2009-01-01 12:00:03</时间>
 <影评>
         如果在google上搜索“加州八号法案”，在第一页就会看到这样的话：“2008年11月5日 ... 加州8号法案通过了！（一男一女婚姻是唯一被承认的婚姻）神实在听了我们的祷告，一个多月来的辛劳没有白费。但这只是起步，美国要复兴，要回归真神， ...”。 历史与现实相对应，30年前，当Harvey Milk领导众人与侵害同性恋人权的六号法案相对抗时，他付出的是生命的代价。影片里有一段场景让人印象深刻：在斗争的最艰难时刻，Milk为了引起公众的关注，与试图推动六号法案通过的政客Briggs在恐同情绪严重的桔子镇进行辩论。Milk说：“正如你自己说过的，异性恋中也有猥亵儿童的现象，那为什么不开除异性恋者呢？”。台下一片不满不屑的喧哗之声。Briggs说：“...几乎95%的人都是异性恋，如果我们同时开除同性恋和异性恋，就没有老师了......我们没法消除猥亵儿童的现象，所以我们只能通过赶走同性恋，留下异性恋来减少猥亵儿童的可能性。”然后台下一片雀跃欢呼之声。这个场景让我想起了经典影片《杀死一只知更鸟》里面的场景，在那场著名的法庭辩论中，只要有正常思维的人都能判断出那个被诬陷的黑人是无罪的，但是在那个充满种族仇恨的年代，黑人依旧被白人们判处了死刑。偏见贯穿着整个人类的历史，也深植于每个人的内心中。它是人性的一部分。而当偏见被激化和放大之后，就会演变成敌视与仇恨。而Milk所要与之对抗的，正是人内心中根深蒂固的难以消除的偏见。而他，只是历史的一个剪影。
@@ -563,7 +563,7 @@ Gus Van Sant在影片的一开始就抓住了我的心。一组纪录片的黑�
 </review>
 <review>
 <作者>我是一只小小李</作者>
-<作者评分>5</作者评分>
+<标题>愿得一心人，白首不相离</标题><作者评分>5</作者评分>
 <时间>2009-03-21 18:09:05</时间>
 <影评>
         看过，想哭。
@@ -572,7 +572,7 @@ Gus Van Sant在影片的一开始就抓住了我的心。一组纪录片的黑�
 应该是被片尾街巷上成千上万手捧蜡烛的人感动了，听着耳边很平实很坚定的男声说着：“I would want five, ten, a hundred, a thousand to rise.”然后镜头扯远，一条街巷蔓延成烛光的海洋。
 
 
-许是希望，以这样强大的力量超越了其他。“I know you can&apos;t live on hope alone, but without hope, life is not worth living.”
+许是希望，以这样强大的力量超越了其他。“I know you can't live on hope alone, but without hope, life is not worth living.”
 
 
 Milk四十岁之后的生活，就是为了希望。印象很深是他和Scott的争吵，Scott怒斥他曾经是藏得最深柜的gay，而现在却一次次地呼吁着所有人出柜。就是在那一瞬间猛地懂得Milk之所以伟大的原因。没有人希望被歧视，被鄙夷，但大多数人选择藏起自己，以伪装来换取一个暂时平和的假象，而Milk则要毫不留情地摧毁这世上的其他人自以为是的信仰，他向那守旧的、陈腐的世界下了战书，执意要掀开一场至今尚未结束的战争的帷幕。他希望自己能被当作正常人，享有权利、被尊重，而他追寻希望的方式不是掩盖，而是以一种无比坦然的态度昭告天下他所身处的群体和这世界上其他人没有任何差异，同样享有被尊重，理解的权利。当你对某些事物司空见惯，习以为常，你就不会大惊小怪什么，当某些群体强大到你无法忽视，无法匹敌，就如同这自然界千百年来优胜劣汰的规律一样，你要么作为上一个时代遗留下来的腐朽的思想代表灭亡，要么接受、妥协，以和平共处的方式继续生活。
@@ -581,7 +581,7 @@ Milk四十岁之后的生活，就是为了希望。印象很深是他和Scott�
 不会说豪言壮语的话，所以文字会在此刻拙劣得可怕，那心里澎湃的波澜，此刻竟无语凝噎。然而还是不能不说Milk和Scott的感情，看到心痛的情感。
 
 
-时光流转，有一份真情抽离一切繁华之外，只剩一份铅华洗尽的安然。即使这世界在身边飞速流逝，总有一个人的容颜你这辈子无法忘记，叫作刻骨铭心。他会在生日会上说想念他，然后吻他，再落寞地离开；他会在他失去爱人时陪在他身边，安慰他；他会在他的辩论中坐在第一排，我想这将是个许多年无法忘却的镜头，他只是坐在那里，眼中却有我读不懂化不开的深情。然后他给他打电话，让他看日出，然后他说：“I&apos;m proud of you, Harvey,&quot;。我想这是那句他从四十岁生日就开始等待的话。所以才有力量看他痛彻心肺的死亡，因为他得到的是超越生命的感情，更足已超越死亡。
+时光流转，有一份真情抽离一切繁华之外，只剩一份铅华洗尽的安然。即使这世界在身边飞速流逝，总有一个人的容颜你这辈子无法忘记，叫作刻骨铭心。他会在生日会上说想念他，然后吻他，再落寞地离开；他会在他失去爱人时陪在他身边，安慰他；他会在他的辩论中坐在第一排，我想这将是个许多年无法忘却的镜头，他只是坐在那里，眼中却有我读不懂化不开的深情。然后他给他打电话，让他看日出，然后他说：“I'm proud of you, Harvey,"。我想这是那句他从四十岁生日就开始等待的话。所以才有力量看他痛彻心肺的死亡，因为他得到的是超越生命的感情，更足已超越死亡。
 
 
 如果，那些被某些人唾弃的，鄙夷的事物，却有他们穷其一生都寻找不到的温暖与纯净，那只能说他们自己才是那些虚伪，恶劣的生物。如果，这个世界上所谓的正统意味着欺骗与背叛，那我愿得一心人与我携手逆流而行，白首不相离……

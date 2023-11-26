@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>恋恋笔记本 The Notebook</电影名>
 <年份>2004</年份>
@@ -14,7 +14,7 @@
 <reviews>
 <review>
 <作者>南桥</作者>
-<作者评分>4</作者评分>
+<标题>当你找不着北时</标题><作者评分>4</作者评分>
 <时间>2008-11-08 01:29:23</时间>
 <影评>
         有一个年轻朋友最近写信给我，说到自己职业的选择，说感到茫然，他说常看我的博客，问我的建议。这让我有些受宠若惊，因为我不知道这是怎么一回事。我的理解是遇到情感问题大家应该去问连岳，遇到职业发展问题应该去问徐小平。我没有答案，不过我可以帮你思考：
@@ -77,7 +77,7 @@ Is it about security?
 </review>
 <review>
 <作者>W小姐（吴桐）</作者>
-<作者评分>4</作者评分>
+<标题>如果爱情不能圆满，只能说明爱的不够。</标题><作者评分>4</作者评分>
 <时间>2007-02-07 14:09:58</时间>
 <影评>
         凌晨的时候看了一部非常像童话的电影——《恋恋笔记本》。
@@ -147,7 +147,7 @@ Is it about security?
 </review>
 <review>
 <作者>安东尼</作者>
-<作者评分>5</作者评分>
+<标题>如果 我爱你</标题><作者评分>5</作者评分>
 <时间>2007-08-26 01:36:27</时间>
 <影评>
         我们开车路过打工的庄园 爱慕软 和我说 旁边的湖 和鸭子 让他想起来一个 电影 notebook 他说 你应该看看
@@ -203,7 +203,7 @@ joel 红了眼圈 我也不知道要说什么 默默的退出了 dvd
 </review>
 <review>
 <作者>知笑</作者>
-<作者评分>5</作者评分>
+<标题>为爱而奋斗</标题><作者评分>5</作者评分>
 <时间>2007-09-05 23:54:02</时间>
 <影评>
         我想所有的人，都应该去看看这部电影，那样美好那样迷人那样温暖。
@@ -336,7 +336,7 @@ joel 红了眼圈 我也不知道要说什么 默默的退出了 dvd
 
 他们的故事浓缩在一本用笔记录的笔记本上，他每天念一小段给她听，为了救助她科学无法治疗的病疾，为了唤醒她失去的记忆。
 
-我亦相信，她在忆起他说“If you are a bird, I&apos;m a bird. You are my home.”时会有多么的开心，虽然她的牙齿也许已经泛黄，可是她笑起来的样子，在他心里永远会是最美的。
+我亦相信，她在忆起他说“If you are a bird, I'm a bird. You are my home.”时会有多么的开心，虽然她的牙齿也许已经泛黄，可是她笑起来的样子，在他心里永远会是最美的。
 
 这就足够，当一切为爱而奋斗的人，最终终于在一起的时候，应该好好珍惜。
 
@@ -376,10 +376,10 @@ joel 红了眼圈 我也不知道要说什么 默默的退出了 dvd
 </review>
 <review>
 <作者>普拉</作者>
-<作者评分>5</作者评分>
+<标题>your mother is my home</标题><作者评分>5</作者评分>
 <时间>2007-08-19 15:41:05</时间>
 <影评>
-          &quot;your mother is my home&quot;。很久很久这句话一直在耳边，开始很傻地又哭起来。
+          "your mother is my home"。很久很久这句话一直在耳边，开始很傻地又哭起来。
 
   很久都没有看爱情片了。看着《绝望主妇》，翻着《读者》的告诉你的爱情真理，让我对爱情，婚姻有些失望。
 
@@ -441,7 +441,7 @@ joel 红了眼圈 我也不知道要说什么 默默的退出了 dvd
 </review>
 <review>
 <作者>koala</作者>
-<作者评分>5</作者评分>
+<标题>真爱可造出奇迹</标题><作者评分>5</作者评分>
 <时间>2007-10-10 02:39:01</时间>
 <影评>
         爱能创造奇迹。这句话有种老派的笨拙，很久没有人这样提。前几日旧友聚会，朋友讲起来室友网恋被骗的事情，嘲讽地说，他是个相信真爱的人。我随了大家一起笑，心中却被刺得惊了一下，原来我也早就不再相信年少无知时候读的那些真爱无敌的故事。
@@ -477,7 +477,7 @@ Death。死亡，才是不肯分离的人的最终的归宿。他握着她的手
 </review>
 <review>
 <作者>浓语</作者>
-<作者评分>2</作者评分>
+<标题>所谓的爱情……</标题><作者评分>2</作者评分>
 <时间>2010-06-12 23:19:22</时间>
 <影评>
         丹丹推荐我看《恋恋笔记本》，她说感动地哭了。以前也曾经在一些电影排行榜上看过这部电影的评分，总是很高，评论者都称之为一个关于纯粹爱情的故事。或许是自己对电影过于乐观，抑或者事先看了大量评论后，早就对故事情节，甚至每一个细节都了如指掌，所以整部电影看下来，完全没有想象中能得到的感觉，甚至有些疲惫，以至于最好巴不得快点剧终。平心而论，这确实是纯粹的一部爱情电影，无论浪漫的邂逅，缠绵的经历，阶层的隔阂，战乱的分离，执着的等待，勇敢的追求，完美的结局……所有关于完美爱情的元素，全都包含其中，这也是所有世人向往的爱情和结局。然而，在这所谓完美爱情的背后，我更感受到的，却是心计、背叛、堕落、愚昧……诺亚想约会艾丽，被拒绝后，就爬上摩天轮，吊在艾丽眼前，并威胁到，不约会，就跳下去。善良的艾丽在这痞子般的手段面前，只能违心地说愿意。其后的日子，两人堕入爱河，并有着许多浪漫的经历，比如躺在马路上看红绿灯，在海边嬉戏，读诗，弹琴，跳舞……这些不用花钱的小把戏，让艾丽更加迷恋诺亚。其间艾丽父母邀请诺亚参加聚会，诺亚很实在地告之自己的工作情况，并表示，虽然薪水很低，但开销很小，还能攒钱。夏天结束，艾丽即将离开，这时诺亚的窘相毕露，艾丽让他一起去巴黎，可是诺亚说，去了能做什么呢，他只是一个伐木工。是的，他只是个伐木工，哪怕为了爱情，他也不愿脱掉伐木工的身份，去创造想要的生活。他只想让艾丽做一辈子伐木工的女人，蜷在那小木屋里度过一生。艾丽离开后，诺亚每天都给艾丽写信，哪怕没有回讯，365封，整整一年。不得不承认，诺亚确实很爱艾丽，也很执着，可是，仅有执着是不够的。诺亚参加了部队，在目睹好友阵亡之后，毫发无损地退役回家。父亲为了满足当初诺亚对艾丽许下的承诺，卖掉栖息之处让诺亚买下那栋旧别墅。诺亚精心修葺着别墅，怀恋着那份情感，期待着当别墅修缮完成，艾丽就会回到他身边。这或许是种执着，可是当初爬上摩天轮的勇气荡然无存，只剩下幻想中的爱情麻木自己。别墅修葺一新，可诺亚又开始无所事事，心想着是否烧掉别墅，继而又登广告打算卖掉别墅。就这样，诺亚期期艾艾地过着日子，整日酗酒放纵，找来军妓填补自己的空虚，明知她对自己有情感，却不给予承诺。新婚在即，艾丽在报纸上看见诺亚的售房广告，旧日的心绪涌上心头，不顾未婚的丈夫，仍然去见诺亚。几番接触之后，爱火重燃，诺亚乘势得到艾丽。艾丽母亲发现这一切，把艾丽带到自己初恋情人的工作的矿场，看着那卖力做苦工的初恋情人，现身说法，现实和浪漫，孰重孰轻，留给艾丽自己选择。当艾丽犹豫不定时，诺亚怂恿她，不要管别人想要什么，而是你自己想要什么。就这样，艾丽抛弃未婚夫和父母，重新回到诺亚身边，美满的爱情继续下去。诺亚对艾丽的感情确实很真挚，可是这里面，充满了自私和狭隘。没有努力和奋斗，有的只是期期艾艾，不思进取。或许漫长的等待可以称为执着，这种执着却只是消极幻想。相比之下，隆虽然出场不多，却每个场景都能和诺亚形成鲜明对比。同样作为士兵，富家子弟的隆在战场上身负重伤，而诺亚却能全身而退。同样是和艾丽约会，诺亚以自残相威胁，隆却是以重伤之身向艾丽提出邀请，并耐心等到痊愈之后去实现愿望。隆风趣幽默，舞姿翩翩，对于艾丽而言，看红绿灯这种浪漫相形见拙。家境富裕的隆仍然努力从商，创造财富，伐木工诺亚却不愿褪掉自己的身份。他唯一所做的，是把旧别墅按照承诺修葺一新，可这买别墅的钱，却是父亲卖掉安身之所得来。当与艾丽重逢，诺亚引诱，怂恿她做出选择，隆发觉未婚妻和诺亚之事，仍然报以宽容，给予其自由。究竟谁对艾丽的感情最深，其实不予而言。
@@ -487,7 +487,7 @@ Death。死亡，才是不肯分离的人的最终的归宿。他握着她的手
 </review>
 <review>
 <作者>倾囧囧囧</作者>
-<作者评分>5</作者评分>
+<标题>这就是我要的爱情。</标题><作者评分>5</作者评分>
 <时间>2008-06-05 23:55:38</时间>
 <影评>
         这就是我要的爱情。
@@ -583,7 +583,7 @@ Noah想去抱她。她不肯。
 
 她去找他，问他“if you are ok”
 
-直到，那个早晨，看到了过去的憧憬，过去的承诺。it isn&apos;t over.
+直到，那个早晨，看到了过去的憧憬，过去的承诺。it isn't over.
 
 
 关上NOTEBOOK。
@@ -635,11 +635,11 @@ Alie骂着Noah，son of bitch.
 他们99%会吵架，100%会和好。
 
 
-&quot;That&apos;s ur problem. u don&apos;t do what u want.&quot;
+"That's ur problem. u don't do what u want."
 
 Noah一开始这样对Alie说。
 
-7年后，Noah问她，&quot;what do you want&quot;
+7年后，Noah问她，"what do you want"
 
 Alie最终选择了what she wants。
 
@@ -703,9 +703,9 @@ Alie最终选择了what she wants。
 
 写了这么多，也许这就是我对初恋的救赎。
 
-Alie: you and me, such a long time ago, just are couple of kids, but we really loved each other, didn&apos;t we.
+Alie: you and me, such a long time ago, just are couple of kids, but we really loved each other, didn't we.
 
-Noah: i couldn&apos;t sleep last night, because i know it&apos;s over between us. i am not better any more, because i know that what we had was real.
+Noah: i couldn't sleep last night, because i know it's over between us. i am not better any more, because i know that what we had was real.
 
 
 Alie和Noah第一次约会，他们在马路上跳舞。
@@ -714,7 +714,7 @@ Noah哼着一首曲子。
 
 慢慢的，背景音乐代替人声。
 
-那唯一一首插曲叫做&quot;i will be seeing you&quot;.
+那唯一一首插曲叫做"i will be seeing you".
 
 
 
@@ -724,7 +724,7 @@ Noah哼着一首曲子。
 
 
 
-I&apos;ll be seeing you
+I'll be seeing you
 
 In all the old familiar places
 
@@ -737,58 +737,58 @@ In that small cafe;
 
 The park across the way;
 
-The children&apos;s carousel;
+The children's carousel;
 
 The chestnut trees;
 
-The wishin&apos; well.
+The wishin' well.
 
 
-I&apos;ll be seeing you
+I'll be seeing you
 
-In every lovely summer&apos;s day;
+In every lovely summer's day;
 
-In every thing that&apos;s light and gay.
+In every thing that's light and gay.
 
-I&apos;ll always think of you that way.
-
-
-I&apos;ll find you
-
-In the morning sun
-
-And when the night is new.
-
-I&apos;ll be looking at the moon,
-
-But I&apos;ll be seeing you.
+I'll always think of you that way.
 
 
-I&apos;ll be seeing you
-
-In every lovely summer&apos;s day;
-
-In every thing that&apos;s light and gay.
-
-I&apos;ll always think of you that way.
-
-
-I&apos;ll find you
+I'll find you
 
 In the morning sun
 
 And when the night is new.
 
-I&apos;ll be looking at the moon,
+I'll be looking at the moon,
 
-But I&apos;ll be seeing you.
+But I'll be seeing you.
+
+
+I'll be seeing you
+
+In every lovely summer's day;
+
+In every thing that's light and gay.
+
+I'll always think of you that way.
+
+
+I'll find you
+
+In the morning sun
+
+And when the night is new.
+
+I'll be looking at the moon,
+
+But I'll be seeing you.
       </影评>
 <有用数>247</有用数>
 <没用数>4</没用数>
 </review>
 <review>
 <作者>暖言巷陌</作者>
-<作者评分>4</作者评分>
+<标题>爱情是文字最美的结局</标题><作者评分>4</作者评分>
 <时间>2010-11-23 17:48:14</时间>
 <影评>
 
@@ -831,10 +831,10 @@ But I&apos;ll be seeing you.
 </review>
 <review>
 <作者>momo</作者>
-<作者评分>4</作者评分>
+<标题>恋恋笔记本</标题><作者评分>4</作者评分>
 <时间>2017-04-09 22:57:24</时间>
 <影评>
-        Noah: My Dearest Allie. I couldn&apos;t sleep last night because I know that it&apos;s over between us. I&apos;m not bitter anymore, because I know that what we had was real. And if in some distant place in the future we see each other in our new lives, I&apos;ll smile at you with joy and remember how we spent the summer beneath the trees, learning from each other and growing in love. The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds, and that&apos;s what you&apos;ve given me. That&apos;s what I hope to give to you forever. I love you. I&apos;ll be seeing you.
+        Noah: My Dearest Allie. I couldn't sleep last night because I know that it's over between us. I'm not bitter anymore, because I know that what we had was real. And if in some distant place in the future we see each other in our new lives, I'll smile at you with joy and remember how we spent the summer beneath the trees, learning from each other and growing in love. The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds, and that's what you've given me. That's what I hope to give to you forever. I love you. I'll be seeing you.
 
 
 诺亚：“我最亲爱的艾丽。昨晚我彻夜难眠，因为我知道我们的爱情就这样结束了。我并不感到痛苦，因为我知道我们是真心相爱。如果在将来我们能在新生活中重逢，我会欣喜的朝你微笑，会想起我们在树下的夏日时光、对彼此的了解和渐入佳境的爱。极致之爱能唤醒灵魂，它让我们追求更多，让我们心火熊熊、凝神静气，那就是你给予我的。那也是我希望给予你的。我爱你。再见了。”

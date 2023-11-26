@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>谍影重重 The Bourne Identity</电影名>
 <年份>2002</年份>
@@ -14,7 +14,7 @@
 <reviews>
 <review>
 <作者>Jason Bourne</作者>
-<作者评分>5</作者评分>
+<标题>根据影片自己总结的特工技巧【散乱，不成熟，欢迎补充！】</标题><作者评分>5</作者评分>
 <时间>2007-12-05 14:31:12</时间>
 <影评>
         【Bourne系列三部中的技巧均已总结，详情参见另外两部】自我出生以来，看过的最具个人高技术、高智商含量的电影！如果还有哪部，各位认为是超出这部的，恳请赐教！ 
@@ -228,7 +228,7 @@ Skills from The Bourne Identity
 </review>
 <review>
 <作者>我是一只调羹</作者>
-<作者评分>5</作者评分>
+<标题>虽然你脖子长得和大腿一样粗……</标题><作者评分>5</作者评分>
 <时间>2007-11-25 20:56:37</时间>
 <影评>
 
@@ -299,7 +299,7 @@ Skills from The Bourne Identity
 </review>
 <review>
 <作者>steven</作者>
-<作者评分>3</作者评分>
+<标题>越是出色的男人，越不属于她</标题><作者评分>3</作者评分>
 <时间>2009-08-16 20:22:54</时间>
 <影评>
         一个帅哥，而且还是看起来很忠厚可靠的那种，非常诚恳地，不惜拿一万块，就是为了搭讪；面对这么有诚意的追求，作为一个恰好挺孤寂的美女，怎么可能拒绝得了涅？
@@ -328,7 +328,7 @@ Skills from The Bourne Identity
 </review>
 <review>
 <作者>玄辂Hyunlu</作者>
-<作者评分>5</作者评分>
+<标题>十五年后，我仍然认为这是当下最好的特工谍战片</标题><作者评分>5</作者评分>
 <时间>2018-02-19 22:39:01</时间>
 <影评>
 
@@ -345,8 +345,8 @@ Skills from The Bourne Identity
 谍影重重第一部第一个镜头
 
 谍影重重第三部最后一个镜头
- 3、失忆后的杰森·伯恩在船上看着镜子说&quot;Weet je wie ik ben? Hou dan godverdomme op met dat gezeik en zeg het me&quot;。
-个别字幕错误注解为德语，其实这是荷兰语，意思是&quot;你知道我是谁吗？那么就不要说那么多废话，快点告诉我吧。&quot;
+ 3、失忆后的杰森·伯恩在船上看着镜子说"Weet je wie ik ben? Hou dan godverdomme op met dat gezeik en zeg het me"。
+个别字幕错误注解为德语，其实这是荷兰语，意思是"你知道我是谁吗？那么就不要说那么多废话，快点告诉我吧。"
 
 4、救起伯恩的那艘船叫Aventura号，这是西班牙语，意思是冒险、奇遇。鉴于法国马赛是个人口混杂的城市，这艘来自法国的船起个西班牙语名字也不算穿帮。
 
@@ -472,7 +472,7 @@ SIG-Pro SP2009
 </review>
 <review>
 <作者>行色匆匆</作者>
-<作者评分>4</作者评分>
+<标题>又是一个关于“我是谁”的故事</标题><作者评分>4</作者评分>
 <时间>2006-02-04 20:18:09</时间>
 <影评>
         特工的影片看得太多太多，失忆特工的影片也不在少数，所以这部影片唯一能吸引我的不过是Matt Damom。
@@ -488,7 +488,7 @@ SIG-Pro SP2009
 </review>
 <review>
 <作者>沙坪坝的夏天</作者>
-<作者评分>5</作者评分>
+<标题>最终兵器：Jason Bourne</标题><作者评分>5</作者评分>
 <时间>2010-04-02 14:58:00</时间>
 <影评>
         本人只想从技术层面看待这部影片，之前看过很多很多的间谍片，之前也看过Bourne，但是没有像现在这样仔细仔细 从头到尾地回味，我很少会将电影看过3遍。我从2009年才开始看这部电影，三部曲一并看完，实在是很享受，这是电影的初衷，但是，我喜欢从现象，细节，任何蛛丝马迹去探索，而且很享受~电影看得还算是不少，但是很难再花1个半小时去回味，觉得不值或者实在是没那么太好的精神。不过谍影重重，绝对是我见过最好的间谍片，动作片。Excellent！强力推荐！还是写点东西，希望能跟大家一起分享。暂时就写Bourne Identity里面的吧。顺便说一下，本影片的音乐灰常Nice! 
@@ -605,7 +605,7 @@ C.心理素质 1.身处危机时刻的临机判断和决定  2.瞬间将各类�
 镜头切换到Zorn和Conklin这边。CIA知道了Bourne去过苏黎世，然后他们开始猜测Bourne的动机。为什么他行动失败之后，还要去银行？（难道Bourne不知道银行有摄像头，不知道银行有线人？前提是Bourne没有失忆……）为什么他拿走了钱，却留下了枪。两大疑点，围绕着Bourne。这样一个超级特工脱离了组织的控制，实在是难以预计，他这是在威胁CIA?局势已经Out Of Control。Conklin对Bourne已经动了杀机了。
 
 
-Marie与Bourne的第一次对话。（剧情需要！！剧情需要！！）注意Bourne选择的目标，你可以说他在利用Marie，Marie需要Money，他需要搭便车去巴黎。而且此时他已经大闹了领事馆，不可能再乘火车，飞机，甚至是公共长途汽车去巴黎，这样很容易暴露目标。时间有限。当下用10000 Bucks甩给Marie。当Marie看到Bourne躲避着警车声时，Marie有了疑问。但是Bourne强调了“You Drive I Pay.That&apos;s Simple.”重赏之下必有勇夫，何况Bourne对Marie的弱点有所一定的了解。他需要Marie的配合。
+Marie与Bourne的第一次对话。（剧情需要！！剧情需要！！）注意Bourne选择的目标，你可以说他在利用Marie，Marie需要Money，他需要搭便车去巴黎。而且此时他已经大闹了领事馆，不可能再乘火车，飞机，甚至是公共长途汽车去巴黎，这样很容易暴露目标。时间有限。当下用10000 Bucks甩给Marie。当Marie看到Bourne躲避着警车声时，Marie有了疑问。但是Bourne强调了“You Drive I Pay.That's Simple.”重赏之下必有勇夫，何况Bourne对Marie的弱点有所一定的了解。他需要Marie的配合。
 
 Marie：“I got enough trouble OK? (我已经有太多的麻烦了)”
 
@@ -635,7 +635,7 @@ Bourne：“OK.Can I have my money back?(OK，我能把我的钱拿回来么？�
 </review>
 <review>
 <作者>一匹讲故事的马</作者>
-<作者评分>4</作者评分>
+<标题>拉片</标题><作者评分>4</作者评分>
 <时间>2015-10-08 23:49:54</时间>
 <影评>
         9:13 
@@ -847,7 +847,7 @@ boss1对boss2非常不满，把他暗杀了。原来之前的暗杀小组当中�
 </review>
 <review>
 <作者>五号屠场</作者>
-<作者评分>5</作者评分>
+<标题>[关于谍影重重系列]</标题><作者评分>5</作者评分>
 <时间>2011-07-16 19:32:44</时间>
 <影评>
         在碟战题材的系列电影里面，恐怕没有哪个系列可以和谍影重重叫板。
@@ -987,11 +987,11 @@ boss1对boss2非常不满，把他暗杀了。原来之前的暗杀小组当中�
 
 extreme ways are back again 再次踏上无尽之路 　　
 
-extreme places i didn&apos;t know 朝向生疏未知远方 　　
+extreme places i didn't know 朝向生疏未知远方 　　
 
 I broke everything new again 一切重新来过 　　
 
-everything that i&apos;d owned 我将我的一切 　　
+everything that i'd owned 我将我的一切 　　
 
 i threw it out the windows, came along 沿途抛向窗外 　　
 
@@ -1019,7 +1019,7 @@ did you ever like it planned 可曾喜欢按部就班 　　
 
 i would stand in line for this 我愿为此经受等待 　　
 
-there&apos;s always room in life for this 生命之中总有机会 　　
+there's always room in life for this 生命之中总有机会 　　
 
 oh baby, oh baby 哦 宝贝，哦 宝贝 　　
 
@@ -1041,9 +1041,9 @@ extreme songs that told me 遥远之声在耳际 　　
 
 they helped me down every night 我夜夜辗转难眠 　　
 
-i didn&apos;t have much to say 我不想多说什么 　　
+i didn't have much to say 我不想多说什么 　　
 
-i didn&apos;t get above the light 我并未放弃光明 　　
+i didn't get above the light 我并未放弃光明 　　
 
 i closed my eyes and closed myself 闭上双眼和自我 　　
 
@@ -1061,17 +1061,17 @@ too many things to cover me 太多事蒙蔽了我 　　
 
 too much can make me blind 太多事让我盲目 　　
 
-i&apos;ve seen so much in so many places 见识过沧海桑田 　　
+i've seen so much in so many places 见识过沧海桑田 　　
 
 so many heartaches, so many faces 太多心痛太多面孔 　　
 
 so many dirty things 太多不堪如目的事 　　
 
-you couldn&apos;t believe 你根本无法去相信 　　
+you couldn't believe 你根本无法去相信 　　
 
 i would stand in line for this 我愿为此排队等候 　　
 
-it&apos;s always good in life for this 生命之中总有机会 　　
+it's always good in life for this 生命之中总有机会 　　
 
 oh baby, oh baby 哦 宝贝，哦 宝贝 　　
 
@@ -1097,12 +1097,12 @@ like it always does, always does然后瓦解，四分五裂
 </review>
 <review>
 <作者>平衡基面</作者>
-<作者评分>5</作者评分>
+<标题>关于片中Treadstone计划的解释</标题><作者评分>5</作者评分>
 <时间>2018-11-14 01:26:54</时间>
 <影评>
 
      刚看完第一部，来看看影评发现好多说bug多的，我来解释一下其中一个所谓的bug就是主角的感情问题，一个杀手应该莫得感情，伯恩却显得很有爱，我就基于片中的一些线索大概解释一下（要睡觉了明天看2、3部，如果有新发现会来补充）：
-       里面那个被他杀的代号罗马的杀手死之前说了一些信息，应该跟这个有关系，就是他们做到这么强，接近全能其实是有药物作用的，所谓的treadstone（踏脚石）计划就是止痛药计划，原话“treadstone said pills.&quot;我看的版本翻译是 踩石行动意味着止痛药，这个翻译应该是错误的，因为treadstone是垫脚石的意思，而pills是药丸的意思，并不单指止痛药，这个药应该是说他们训练的时候吃的药，药物有副作用，副作用就是头痛失忆这些，上下文还描述了头痛的症状，应该是共性问题，如果你看得够仔细，你会发现里面启用的暗桩，也就是CIA的杀手没有一个是有笑容的，除了失忆的伯恩。
+       里面那个被他杀的代号罗马的杀手死之前说了一些信息，应该跟这个有关系，就是他们做到这么强，接近全能其实是有药物作用的，所谓的treadstone（踏脚石）计划就是止痛药计划，原话“treadstone said pills."我看的版本翻译是 踩石行动意味着止痛药，这个翻译应该是错误的，因为treadstone是垫脚石的意思，而pills是药丸的意思，并不单指止痛药，这个药应该是说他们训练的时候吃的药，药物有副作用，副作用就是头痛失忆这些，上下文还描述了头痛的症状，应该是共性问题，如果你看得够仔细，你会发现里面启用的暗桩，也就是CIA的杀手没有一个是有笑容的，除了失忆的伯恩。
       所以我认为这个计划应该是基于一项美国研发的药物，这种药物可以刺激人的大脑和身体接受知识的能力以至于他们可以在面临问题的时候形成条件反射，并且可以使得人莫得感情，这从里面的特工们一个个都冷着脸跟谁欠他钱一样，但是药物研发很贵，所以才说伯恩价值3000万美金（当然我个人认为他肯定超值），药物研发并投入使用之后才发现问题，发现问题的不是CIA，而是这些计划制造出来的成品，那个杀手罗马描述症状就是头痛，伯恩杀那个黑人时正好犯病，他犯病之后头痛，然后视线模糊，之后应该是药物抑制感情的药效消除，他才会不忍下手，之后被枪击并泡在水里，可能是药物作用也可能是大脑缺氧导致选择性失忆，并且变得很有感情，比如尽量不伤及路人，开始时各种不拿枪，最后在那个屋里对峙也没有杀人，杀的人好像都是来杀他的。
 所以这些都是有迹可循的，当然也有可能是我过度解读。
 第一次补充，2018/11/14 23:54   
@@ -1117,7 +1117,7 @@ like it always does, always does然后瓦解，四分五裂
 </review>
 <review>
 <作者>洒小飞</作者>
-<作者评分>5</作者评分>
+<标题>你是美国政府的财产，你是一件价值3000万美元的武器</标题><作者评分>5</作者评分>
 <时间>2006-02-04 00:12:50</时间>
 <影评>
          很男人的一部片子，象港片中《枪火》和《暗战》一样。情节紧凑，只是比起《反恐24小时》还是可以稍微喘过来气些。背景是一个美国秘密组织训练的特工在一次行动中受伤并且失去记忆。好象特工片都爱选这个背景，很早的那部《特工狂花》也有类似的失忆情节。

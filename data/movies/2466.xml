@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>醉拳</电影名>
 <年份>1978</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>亢蒙</作者>
-<作者评分>4</作者评分>
+<标题>套路和非套路</标题><作者评分>4</作者评分>
 <时间>2011-07-10 22:36:32</时间>
 <影评>
 
@@ -25,7 +25,7 @@
 </review>
 <review>
 <作者>解影天下</作者>
-<作者评分>3</作者评分>
+<标题>功夫片承前启后</标题><作者评分>3</作者评分>
 <时间>2018-10-28 21:19:31</时间>
 <影评>
 
@@ -39,7 +39,7 @@
 </review>
 <review>
 <作者>仙玉</作者>
-<作者评分></作者评分>
+<标题>剧作分析</标题><作者评分 />
 <时间>2023-06-07 22:21:28</时间>
 <影评>
 
@@ -52,7 +52,7 @@
 </review>
 <review>
 <作者>思想起</作者>
-<作者评分>5</作者评分>
+<标题>《醉拳（Drunken Master）》：混小子学艺【华语百佳（033）】</标题><作者评分>5</作者评分>
 <时间>2013-09-20 17:03:54</时间>
 <影评>
 
@@ -99,7 +99,7 @@ Drunken.Master.1978.HDTV.720p.x264.2Audio.AC3-CnSCG
 </review>
 <review>
 <作者>nicasso</作者>
-<作者评分>5</作者评分>
+<标题>The Use of Props in Jackie Chan’s Action Comedy</标题><作者评分>5</作者评分>
 <时间>2018-03-10 09:06:14</时间>
 <影评>
         Introduction
@@ -139,12 +139,12 @@ Bordwell, David. Planet Hong Kong - Popular Cinema and the Art of Entertainment 
 Drunken Master. Dir. Woo-ping Yuen. Seasonal Film Corporation. 1978.
 
 
-Kehr, Dave. &quot;Chan Can Do.&quot; May/June 1988. Film Comment. 
+Kehr, Dave. "Chan Can Do." May/June 1988. Film Comment. 
 https://www.filmcomment.com/article/jackie-chan-samo-hung-profile/.
  14 February 2018.
 
 
-Zhou, Tony. &quot;Jackie Chan - How to Do Action Comedy?&quot; 2 December 2014. Every Frame A Painting. 
+Zhou, Tony. "Jackie Chan - How to Do Action Comedy?" 2 December 2014. Every Frame A Painting. 
 https://www.youtube.com/watch?v=Z1PCtIaM_GQ.
  14 February 2018.
       </影评>
@@ -153,7 +153,7 @@ https://www.youtube.com/watch?v=Z1PCtIaM_GQ.
 </review>
 <review>
 <作者>近忧</作者>
-<作者评分>4</作者评分>
+<标题>假作真时真亦假</标题><作者评分>4</作者评分>
 <时间>2015-03-08 00:02:41</时间>
 <影评>
         1.对醉拳认识：似醉非醉，以醉态、醉意来迷惑对方
@@ -179,7 +179,7 @@ https://www.youtube.com/watch?v=Z1PCtIaM_GQ.
 </review>
 <review>
 <作者>Elvinyuan</作者>
-<作者评分>5</作者评分>
+<标题>四十年了，二十四岁的成龙</标题><作者评分>5</作者评分>
 <时间>2018-10-25 16:37:11</时间>
 <影评>
 
@@ -196,7 +196,7 @@ https://www.youtube.com/watch?v=Z1PCtIaM_GQ.
 </review>
 <review>
 <作者>‭‭‭‭</作者>
-<作者评分>4</作者评分>
+<标题>醉拳——曾经一板一眼的武术片</标题><作者评分>4</作者评分>
 <时间>2023-08-26 01:17:14</时间>
 <影评>
 
@@ -210,7 +210,7 @@ https://www.youtube.com/watch?v=Z1PCtIaM_GQ.
 </review>
 <review>
 <作者>夜来幽梦</作者>
-<作者评分></作者评分>
+<标题>《醉拳》:武术套路与自由搏击的激烈对决</标题><作者评分 />
 <时间>2023-07-31 00:28:19</时间>
 <影评>
 
@@ -230,7 +230,7 @@ https://www.youtube.com/watch?v=Z1PCtIaM_GQ.
 </review>
 <review>
 <作者>豆友HdfwwABGy0</作者>
-<作者评分></作者评分>
+<标题>醉拳</标题><作者评分 />
 <时间>2021-11-30 14:31:47</时间>
 <影评>
 

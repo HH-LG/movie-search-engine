@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>星期天与乔治同游公园 Sunday in the Park with George</电影名>
 <年份>1986</年份>
@@ -14,7 +14,7 @@
 <reviews>
 <review>
 <作者>Mamula</作者>
-<作者评分>5</作者评分>
+<标题>Being in the Theatre with George</标题><作者评分>5</作者评分>
 <时间>2012-01-04 09:29:24</时间>
 <影评>
         对百老汇的印象由美剧《欢乐合唱团》开始。由于刚开始看时是高三前补课的暑假，正需要一种发泄巨大压力的方式，于是我立马迷上了这部充满音乐的剧集。这部剧从主演到客串都集合了一批百老汇演员，并且在剧中表演过很多百老汇音乐剧的唱段。和剧中表演的其他流行音乐相比，这些曲目的内容更加丰富，语言更加优美，旋律更加多变，情感也更加明确和强烈。正因为这些原因，On My Own, Defying Gravity和Don＇t Rain on My Parade这几首来自音乐剧的唱段成了我在整部剧中最爱的部分。
@@ -46,13 +46,13 @@ Concentration, 全剧最核心的主题。这一个词在剧中又大概可以�
 
 这一切都解释了在第一幕刚开场时，George的母亲一直望着水边游泳的少年出神，都忘记了身边的George是自己的儿子，那一定是因为她以为回到了年轻时候。更可爱的是老妇人出场的第一句话：“那棵树到哪儿去了？”护士说这里并不曾有过树，而老人一直坚持说她一直都在那里休息。就是这棵树代表了她的全部青春和回忆。
 
-在Beautiful这个唱段里，母亲一直在唱：“Changing…It keeps fading…When things were beautiful.”而George很显然不同意她的想法，他关注的是现在，关注的是光影的变化，当下的景物——“Pretty is what changes, what the eye arranges is what is beautiful.”但让整个唱段充满温情的是其后的唱词：“I&apos;ll draw us now before we fade，Mother.”他把刚开始去掉的树又放回了原处，不去惊醒母亲对青春的憧憬，永远的把这一刻的母亲留在了画面里。人对老去死去消失的恐惧，对青春的迷恋与母子之间的温情就这样被表现出来，让人不禁一遍一遍的回味。这里算是Sondheim的悲观之处么？青春的消逝与回忆开得可爱却令人叹息的玩笑。即使这是种悲观，但至少还找得出一丝暖意“Draw it now…You make it beautiful.”
+在Beautiful这个唱段里，母亲一直在唱：“Changing…It keeps fading…When things were beautiful.”而George很显然不同意她的想法，他关注的是现在，关注的是光影的变化，当下的景物——“Pretty is what changes, what the eye arranges is what is beautiful.”但让整个唱段充满温情的是其后的唱词：“I'll draw us now before we fade，Mother.”他把刚开始去掉的树又放回了原处，不去惊醒母亲对青春的憧憬，永远的把这一刻的母亲留在了画面里。人对老去死去消失的恐惧，对青春的迷恋与母子之间的温情就这样被表现出来，让人不禁一遍一遍的回味。这里算是Sondheim的悲观之处么？青春的消逝与回忆开得可爱却令人叹息的玩笑。即使这是种悲观，但至少还找得出一丝暖意“Draw it now…You make it beautiful.”
 
 这也正是艺术的作用，抵抗时间与死亡，永恒地存在下去。对于剧中人来说，应该可以用未来二字形容。
 
 Dot开场第二个独白的唱段里就有这样一段话:
 
-If you want instead when you&apos;re dead
+If you want instead when you're dead
 
 Some more public and more permanent expression
 
@@ -62,7 +62,7 @@ You want a painter, poet, sculptor preferably
 
 Marble, granite, bronze
 
-That&apos;s durable forever
+That's durable forever
 
 大碗岛上的人们都讨厌画家，却又同时有求于他，希望借由他而永远不被忘记。然而实际上，人们记住的只有George,没有人会真正在乎画上究竟是谁。就像后来的George在大碗岛上唱的：“George too may fade, leaving no mark, just passing through, just like the people out strolling on Sunday.”
 
@@ -79,7 +79,7 @@ P.S. 亲爱的百老汇课的期末论文~
 </review>
 <review>
 <作者>dreamer</作者>
-<作者评分>5</作者评分>
+<标题>作为乔治.修拉的画迷，我诚心推荐这个音乐剧</标题><作者评分>5</作者评分>
 <时间>2011-08-28 22:56:16</时间>
 <影评>
           昨天在爱丁堡艺术节看了Sunday in the park with George，觉得特别特别有趣，尤其在中场休息的十分钟，全部演员摆成画里面的pose静止了十分钟，然后观众都纷纷跑到前排去和这幅“画”合影。
@@ -105,7 +105,7 @@ http://zh.wikipedia.org/wiki/%E5%96%AC%E6%B2%BB%C2%B7%E7%A7%80%E6%8B%89
 </review>
 <review>
 <作者>乔乔伊</作者>
-<作者评分>5</作者评分>
+<标题>Sunday in the park with George</标题><作者评分>5</作者评分>
 <时间>2020-02-13 20:23:39</时间>
 <影评>
 
@@ -153,7 +153,7 @@ Move on
 </review>
 <review>
 <作者>Cherub</作者>
-<作者评分>5</作者评分>
+<标题>Towards the Verticals of Trees</标题><作者评分>5</作者评分>
 <时间>2020-05-11 17:31:17</时间>
 <影评>
 
@@ -168,7 +168,7 @@ Sunday讲述了点描主义画家George Seurate创作名作&lt;A Sunday Afternoo
 三、Sunday背后的哲思——“父亲”与“婴儿”的迭代 
 笔者将通过“父亲”形象的迭代和结构的开放闭环对这部概念音乐剧进行评析。“父亲”形象的对面是“婴儿”。婴儿代表了本源的无秩序的欲望。弗洛伊德认为代表“超我”的父亲有两 个:一种是俄狄浦斯式的父亲，他代表了秩序和法律，作为高于婴儿的秩序，阻止了婴儿对 母亲的乱伦欲望;第二种是《图腾与禁忌》的父亲，他代表了权力和暴力，他占有所有的女 人和生殖的权力，并且为了确保自己的地位会想尽一切消除异己，这当中也包括了婴儿和敌 人。婴儿在观察父亲的举动当中会发现自己的生理性缺乏，并由于这种缺乏产生焦虑从而尝 试模仿父亲的行为，这就是所谓的“阉割焦虑”。1
 Sunday作品当中两种父亲的形象和婴儿的形象都在不停地迭代，在第一幕当中， George是第一种父亲，在他的绘画世界当中他就是创造者和“超我”，在Character
-Song&lt;Color and Light&gt;以及开场的独白当中这种秩序和法律性体现明显: “Aren&apos;t you proper today, miss?
+Song&lt;Color and Light&gt;以及开场的独白当中这种秩序和法律性体现明显: “Aren't you proper today, miss?
 Your parasol so properly cocked,
 your bustle so perfectly upright.
 And you, sir. Your hat so black.
@@ -187,7 +187,7 @@ And harmony”
 [YVONNE]:Oh, my dear
 [JULES]:It has no prescence
 [YVONNE]:No passion
-[JULES]:No life.It’s neither pastoral.Nor lyrical [YVONNE]:You don&apos;t suppose that it&apos;s satirical? [JULES]:Just density.Without intensity
+[JULES]:No life.It’s neither pastoral.Nor lyrical [YVONNE]:You don't suppose that it's satirical? [JULES]:Just density.Without intensity
 [YVONNE]:No life.Boys with their clothes off
 [JULES]:I must paint a factory next!
 [YVONNE]:It’s so mechanical
@@ -229,7 +229,7 @@ Soundheim前期的一部作品&lt;Company&gt;也运用了类似结构，通过�
 </review>
 <review>
 <作者>银青条纹</作者>
-<作者评分>5</作者评分>
+<标题>星期天的下午</标题><作者评分>5</作者评分>
 <时间>2013-07-31 18:18:22</时间>
 <影评>
             伯娜黛特阿姨和桑德海姆的音乐剧绝对是绝配啊，唱功很厉害，说话的腔调听着也很独特。
@@ -245,7 +245,7 @@ Soundheim前期的一部作品&lt;Company&gt;也运用了类似结构，通过�
 </review>
 <review>
 <作者>网络透明人</作者>
-<作者评分>5</作者评分>
+<标题>到画里去。</标题><作者评分>5</作者评分>
 <时间>2022-06-06 09:14:14</时间>
 <影评>
 
@@ -263,7 +263,7 @@ Order，design，tension，composition，balance，light，harmony，so much lov
 </review>
 <review>
 <作者>Ivan</作者>
-<作者评分>5</作者评分>
+<标题>工作日与乔治同游公园</标题><作者评分>5</作者评分>
 <时间>2022-02-18 12:25:58</时间>
 <影评>
 
@@ -279,7 +279,7 @@ Order，design，tension，composition，balance，light，harmony，so much lov
 </review>
 <review>
 <作者>呼吸氧</作者>
-<作者评分>5</作者评分>
+<标题>补：我的第一部桑剧</标题><作者评分>5</作者评分>
 <时间>2022-02-07 00:22:28</时间>
 <影评>
 
@@ -300,7 +300,7 @@ Order，design，tension，composition，balance，light，harmony，so much lov
 </review>
 <review>
 <作者>Holocene</作者>
-<作者评分>5</作者评分>
+<标题>桑爷与修拉的同游</标题><作者评分>5</作者评分>
 <时间>2022-02-04 01:56:01</时间>
 <影评>
 
@@ -314,7 +314,7 @@ R.I.P
 </review>
 <review>
 <作者>菇菇怪</作者>
-<作者评分>5</作者评分>
+<标题>纽约时报剧评</标题><作者评分>5</作者评分>
 <时间>2020-09-20 14:48:34</时间>
 <影评>
 

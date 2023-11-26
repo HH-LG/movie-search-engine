@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>莫里斯 Maurice</电影名>
 <年份>1987</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>shu</作者>
-<作者评分>5</作者评分>
+<标题>有人睡去，有人醒来</标题><作者评分>5</作者评分>
 <时间>2009-05-22 16:01:50</时间>
 <影评>
         最后一幕，当Clive走上前，欲关上最后一扇窗，映上心头的却是几年前在剑桥读书时的情景，不曾动身一同前往，于是挥手告别。而此刻眼睛所流露出的不止是怅然，因为自此心间有了一道永久的缺失。
@@ -59,7 +59,7 @@ Clive不是什么小人，Maurice也不是圣人，Alec这个角色的讨喜和�
 </review>
 <review>
 <作者>feeling</作者>
-<作者评分>4</作者评分>
+<标题>《莫瑞斯》：三个男人的故事</标题><作者评分>4</作者评分>
 <时间>2008-12-11 15:20:58</时间>
 <影评>
 
@@ -129,7 +129,7 @@ Clive不是什么小人，Maurice也不是圣人，Alec这个角色的讨喜和�
 </review>
 <review>
 <作者>阿底</作者>
-<作者评分>5</作者评分>
+<标题>那道缺口，谁来填补——[墨里斯]</标题><作者评分>5</作者评分>
 <时间>2006-05-22 16:28:49</时间>
 <影评>
             贲贲曾经说，连自己也不知道为什么，就是那么喜欢它。看了十多遍。
@@ -179,7 +179,7 @@ Clive不是什么小人，Maurice也不是圣人，Alec这个角色的讨喜和�
 </review>
 <review>
 <作者>微豆</作者>
-<作者评分>5</作者评分>
+<标题>当男人爱上男人</标题><作者评分>5</作者评分>
 <时间>2011-03-11 22:53:34</时间>
 <影评>
                 英国人不管是写作也好，拍电影也好，人物故事都在其次，重要的是一种腔调——英国腔调，永远地置身事外因此保持一成不变的从容。英国电影和英国文学非常接近，我看《看得见风景的房间》就如同读一本英国小说，《莫里斯的情人》也是如此，只是更激情一些。
@@ -241,7 +241,7 @@ Clive不是什么小人，Maurice也不是圣人，Alec这个角色的讨喜和�
 </review>
 <review>
 <作者>vyajana</作者>
-<作者评分>4</作者评分>
+<标题>What an ending</标题><作者评分>4</作者评分>
 <时间>2008-03-13 23:05:45</时间>
 <影评>
         2004
@@ -280,13 +280,13 @@ Clive站在百叶窗前，眼前似乎就是笑容满面的青年站在楼下，
 </review>
 <review>
 <作者>春三十</作者>
-<作者评分>5</作者评分>
+<标题>最后删减片段里莫里斯的告白和告别</标题><作者评分>5</作者评分>
 <时间>2014-11-12 21:59:48</时间>
 <影评>
         正片末尾，Maurice对Clive说的最后一句话是：
 
 
-No, you may not ask. I&apos;ll tell you everything up to this minute—not a word beyond.
+No, you may not ask. I'll tell you everything up to this minute—not a word beyond.
 
 
 不，你不可以问。我以前的事什么都可以告诉你，但是以后一个字也不会了。
@@ -298,7 +298,7 @@ No, you may not ask. I&apos;ll tell you everything up to this minute—not a wor
 Clive:
 
 
-No, I care of you a little bit, otherwise I wouldn&apos;t stand what you just told me.
+No, I care of you a little bit, otherwise I wouldn't stand what you just told me.
 
 
 我还是有点喜欢你的，不然我不会忍受得了你刚刚说的话。
@@ -307,7 +307,7 @@ No, I care of you a little bit, otherwise I wouldn&apos;t stand what you just to
 Maurice:
 
 
-You care for me a little bit, I do think, but I can&apos;t hang all my life on a little bit. You hang yours on Anne. You don&apos;t worry whether your relation with her is platonic, you just know it&apos;s big enough to hang a life on. I can&apos;t hang mine on the five minutes you spare me from her and politics. You&apos;ll make me free of the house, and take endless bother to marry me off, because that puts me off your hands. You won&apos;t see me, and you don&apos;t love me. I was yours till death if you&apos;d cared to keep me once. But I&apos;m someone else&apos;s now.
+You care for me a little bit, I do think, but I can't hang all my life on a little bit. You hang yours on Anne. You don't worry whether your relation with her is platonic, you just know it's big enough to hang a life on. I can't hang mine on the five minutes you spare me from her and politics. You'll make me free of the house, and take endless bother to marry me off, because that puts me off your hands. You won't see me, and you don't love me. I was yours till death if you'd cared to keep me once. But I'm someone else's now.
 
 
 我知道你“有点”喜欢我，但是我不能把我一生押在你这“一点”上。你已经有Anne了，你和她在一起不用担心够不够柏拉图，反正知道这种感情很好，一生无忧。你从她和政治之外只能挤出五分钟给我，我不能把我的一生放在这五分钟上。你让我随便住在这儿，没完没了地给我找女人结婚，觉得这样就能把我推开了。你不愿意见我，你也不爱我。如果你在乎我你不推开我，我会至死属于你。但我现在属于别人了。
@@ -316,7 +316,7 @@ You care for me a little bit, I do think, but I can&apos;t hang all my life on a
 --------------------------------------------
 
 
-You won&apos;t see me, and you don&apos;t love me. I was yours till death if you&apos;d cared to keep me once.
+You won't see me, and you don't love me. I was yours till death if you'd cared to keep me once.
 
 
 有这两句话我就够了TAT TAT TAT TAT TAT
@@ -329,7 +329,7 @@ You won&apos;t see me, and you don&apos;t love me. I was yours till death if you
 </review>
 <review>
 <作者>玉面狐狸</作者>
-<作者评分>5</作者评分>
+<标题>牛津王尔德，剑桥莫里斯</标题><作者评分>5</作者评分>
 <时间>2009-08-12 18:09:12</时间>
 <影评>
 
@@ -442,7 +442,7 @@ Clive依窗，对着臆想中的Maurice喃喃低诉。
 </review>
 <review>
 <作者>冬菇猫</作者>
-<作者评分>5</作者评分>
+<标题>Maurice</标题><作者评分>5</作者评分>
 <时间>2006-07-10 20:43:11</时间>
 <影评>
         很奇怪，最初小说看罢只是留下个比较好的印象罢了，以个人的性格，最常不齿的就是勉强铺设美好结局的故事。然这部作品就像因经费不足而修改结局的Crying Game一样，第一次只是觉得美好罢了，未给人心底留下太多烙印，却给自己有想看第二遍的冲动。于是很快我又看了一遍，不觉被其吸引，还忍不住找了电影版来看，由此对它又有了更加立体的概念。
@@ -479,7 +479,7 @@ ps:Graves实在太帅拉&gt;&lt;...
 </review>
 <review>
 <作者>高冷了又怎么样</作者>
-<作者评分>5</作者评分>
+<标题>结束与新生</标题><作者评分>5</作者评分>
 <时间>2013-01-25 12:50:49</时间>
 <影评>
         事实上这篇影评起源于半年前一场和朋友之间的争论，修改了一下
@@ -533,7 +533,7 @@ Clive对Maurice说，如果你抛下我，我的余生将在半梦半醒中度�
 </review>
 <review>
 <作者>春三十</作者>
-<作者评分>5</作者评分>
+<标题>在五月的剑桥</标题><作者评分>5</作者评分>
 <时间>2015-02-28 16:22:04</时间>
 <影评>
         【附图版日志】
@@ -619,11 +619,11 @@ Maurice的理智都扔出了脑袋，他抓住窗棂一下跳了进去。却发�
 
 　　 
 
-Twelve o&apos;clock struck, one, two, and he was still planning what to say when there is nothing to say and the resources of speech are ended. Then asvage, reckless, drenched with the rain, he saw in the first glimmer of dawn the window of Durham&apos;s room, and his heart leapt alive and shock him to pieces. It cried &quot;You love and are loved.&quot; He look round the court. It cried &quot;You are strong, he weak and alone,&quot; won over his will. Terrified at what he must do, he caught hold of the mullion and sprang. 
+Twelve o'clock struck, one, two, and he was still planning what to say when there is nothing to say and the resources of speech are ended. Then asvage, reckless, drenched with the rain, he saw in the first glimmer of dawn the window of Durham's room, and his heart leapt alive and shock him to pieces. It cried "You love and are loved." He look round the court. It cried "You are strong, he weak and alone," won over his will. Terrified at what he must do, he caught hold of the mullion and sprang. 
 
-&quot;Maurice——&quot; 
+"Maurice——" 
 
-As he alighted his name had been called out of dreams. The violence went out of his heart, and a purity that he had never imagined dwelt there instead. His friend had called him. He stood for a moment entranced, then the new emotion found him words, and laying his hands very gently upon the pillows he answered, &quot;Clive!&quot; 
+As he alighted his name had been called out of dreams. The violence went out of his heart, and a purity that he had never imagined dwelt there instead. His friend had called him. He stood for a moment entranced, then the new emotion found him words, and laying his hands very gently upon the pillows he answered, "Clive!" 
 
 　　 
 
@@ -659,7 +659,7 @@ Clive说的这句话，“你有没有想过，如果你高抬贵手放过我，
 
 　　 
 
-&quot;I say, will you kiss me?&quot; asked Maurice……Clive shook his head, and smiling they parted…… 
+"I say, will you kiss me?" asked Maurice……Clive shook his head, and smiling they parted…… 
 
 　　 
 
@@ -690,7 +690,7 @@ Clive的家庭提醒了Maurice，他们两个，他和他挚爱的朋友，都�
 
 　　 
 
-但是Clive说：&quot;Why children? Why always children? For love to end where it begins is far more beautiful, and Nature knows it.&quot; 
+但是Clive说："Why children? Why always children? For love to end where it begins is far more beautiful, and Nature knows it." 
 
 　　 
 
@@ -729,13 +729,13 @@ When he opened his eyes it was to the knowledge that love had died, so that he w
 
 　　 
 
-&quot;Can I come into your bed?&quot; 
+"Can I come into your bed?" 
 
-&quot;Come along.&quot; said Maurice, making room. 
+"Come along." said Maurice, making room. 
 
-&quot;I&apos;m cold and miserable generally. I can&apos;t sleep. I don&apos;t know why.&quot; 
+"I'm cold and miserable generally. I can't sleep. I don't know why." 
 
-Maurice did not misunderstand him. He knew and shared his opinions on this point. They lay side by side without touching. Presently Clive said,&quot; It&apos;s not better here. I shall go.&quot; Maurice was not sorry, for he could not get to sleep either, though for a different reason, and he was afraid Clive might hear the drumming of his heart, and guess what it was. 
+Maurice did not misunderstand him. He knew and shared his opinions on this point. They lay side by side without touching. Presently Clive said," It's not better here. I shall go." Maurice was not sorry, for he could not get to sleep either, though for a different reason, and he was afraid Clive might hear the drumming of his heart, and guess what it was. 
 
 　　 
 
@@ -771,7 +771,7 @@ It was all so complicated. When love flies it is remembered not as love but as s
 
 　　 
 
-“Against my will I have become normal. I cannot help it.&quot; 
+“Against my will I have become normal. I cannot help it." 
 
 　　 
 
@@ -799,7 +799,7 @@ What an ending.
 
 　　 
 
-He was practically alone, and why should he go on living? There was really no reason, yet he had a dreary feeling he should, because he had not got Death either; she, like Love, had a glanced at him for a minute, then turned away, and left him &quot;play the game&quot;. 
+He was practically alone, and why should he go on living? There was really no reason, yet he had a dreary feeling he should, because he had not got Death either; she, like Love, had a glanced at him for a minute, then turned away, and left him "play the game". 
 
 　　 
 
@@ -825,17 +825,17 @@ Maurice一次比一次彻底的死心，他把希望寄托在一个催眠医生�
 
 　　 
 
-&quot;Miss Edna May is not only beautiful, she is attractive.&quot; 
+"Miss Edna May is not only beautiful, she is attractive." 
 
-&quot;She doesn&apos;t attract me.&quot; 
+"She doesn't attract me." 
 
-&quot;Oh Mr Hall, what an ungallant remark. Look at her lovely hair.&quot; 
+"Oh Mr Hall, what an ungallant remark. Look at her lovely hair." 
 
-&quot;I like short hair best.&quot; 
+"I like short hair best." 
 
-&quot;Why?&quot; 
+"Why?" 
 
-&quot;Because I can stroke it——&quot; and he began to cry. 
+"Because I can stroke it——" and he began to cry. 
 
 　　 
 
@@ -863,7 +863,7 @@ Stroke。爱抚。在过去三年时间里，多少次他爱抚过Clive的短发
 
 　　 
 
-&quot;Why did he thunder up that special night when I was weakest? I&apos;d never let him touch me with my friend in the house, damn it all. I&apos;m more or less a gentleman—public school, varsity, and so on—I can&apos;t even believe that was with him.&quot; Regretting he had not possessed Clive in the hour of their passion, he left, left his last shelter. 
+"Why did he thunder up that special night when I was weakest? I'd never let him touch me with my friend in the house, damn it all. I'm more or less a gentleman—public school, varsity, and so on—I can't even believe that was with him." Regretting he had not possessed Clive in the hour of their passion, he left, left his last shelter. 
 
 　　 
 
@@ -899,7 +899,7 @@ Stroke。爱抚。在过去三年时间里，多少次他爱抚过Clive的短发
 
 　　 
 
-Nothing had changed in his life. Nothing remained in it. He was back with his loneliness as it had been before Clive, as it was after Clive, and would now be forever. He had failed, and that wasn&apos;t the saddest; he had seen Alec fail. In a way they were one person. Love had failed. Love was an emotion through which you occasionally enjoyed yourself. It could not do things. 
+Nothing had changed in his life. Nothing remained in it. He was back with his loneliness as it had been before Clive, as it was after Clive, and would now be forever. He had failed, and that wasn't the saddest; he had seen Alec fail. In a way they were one person. Love had failed. Love was an emotion through which you occasionally enjoyed yourself. It could not do things. 
 
 　　 
 
@@ -933,25 +933,25 @@ Maurice对Clive做了最后的告别，然后义无反顾地去拥抱了Alec。
 
 　　 
 
-Clive说，“Maurice, quo vadis? You&apos;re going mad. You&apos;ve lost all sense of—May I ask whether you intend—” 
+Clive说，“Maurice, quo vadis? You're going mad. You've lost all sense of—May I ask whether you intend—” 
 
 你疯了么？你这是——我能不能问问你—— 
 
 　　 
 
-“No, you may not ask. You belong to the past. I&apos;ll tell you everything up to this moment—not a word beyond. &quot; 
+“No, you may not ask. You belong to the past. I'll tell you everything up to this moment—not a word beyond. " 
 
 不，你不可以问。你属于我的过去。以前的事我什么都可以告诉你，但是以后一个字也不会了。 
 
 　　 
 
-&quot;Maurice, Maurice, I care a little bit for you, you know, or I wouldn&apos;t stand what you have told me.&quot; 
+"Maurice, Maurice, I care a little bit for you, you know, or I wouldn't stand what you have told me." 
 
 我还是有点喜欢你的，你知道，不然我不会站在这儿忍受你刚刚说的东西。 
 
 　　 
 
-&quot;You care for me a little bit, I do think, but I can&apos;t hang all my life on a little bit. You don&apos;t. You hang yours on Anne. You don&apos;t worry whether your relation with her is platonic or not, you only know it&apos;s big enough to hang a life on. I can&apos;t hang mine on to the five minutes you spare me from her and politics. You&apos;ll do anything for me except see me. That&apos;s been it for this whole year of Hell. You&apos;ll make me free for this house, and take endless bother to marry me off, because that puts me off your hands. You do care a little for me, I konw, but nothing to speak of, and you don&apos;t love me. I was yours once till death if you&apos;d cared to keep me, but I&apos;m someone else&apos;s now. &quot; 
+"You care for me a little bit, I do think, but I can't hang all my life on a little bit. You don't. You hang yours on Anne. You don't worry whether your relation with her is platonic or not, you only know it's big enough to hang a life on. I can't hang mine on to the five minutes you spare me from her and politics. You'll do anything for me except see me. That's been it for this whole year of Hell. You'll make me free for this house, and take endless bother to marry me off, because that puts me off your hands. You do care a little for me, I konw, but nothing to speak of, and you don't love me. I was yours once till death if you'd cared to keep me, but I'm someone else's now. " 
 
 我知道你“有点”喜欢我，但是我不能把我一生押在“一点”上。你也没有，你选择了Anne。你和她在一起不担心够不够柏拉图，反正知道这种感情很好，一生无忧。你从她和政治之外只能挤出五分钟给我，我不能把我的一生放在这五分钟上。你什么都愿意为我做，除了见我。你让我随意住在这儿，没完没了地给我找女人结婚，觉得这样就能把我推开了。你确实有”一点“喜欢我，我知道，但是有什么用呢，你不爱我。如果你在乎我你不推开我，我会至死属于你。但我现在属于别人了。 
 
@@ -963,7 +963,7 @@ Clive说，“Maurice, quo vadis? You&apos;re going mad. You&apos;ve lost all se
 
 Clive终生不清楚莫瑞斯离去的准确时间。随着进入暮年，对于是否确实发生过此等事，他开始拿不准了。蓝屋发出微光，羊齿丛摇曳着。他的朋友在剑桥校园里朝他招起手来。朋友沐浴在阳光下，散发出五月这个学期的花香与喧哗。他不曾领悟到这是终结，既没有黄昏，也没有妥协。更料想不到今后再也不会跟莫瑞斯相遇了，甚至没跟那些看见了莫瑞斯的人说过话。 
 
-To the end of his life Clive was not sure of the exact moment of departure, and with the approach of old age he grew uncertain whether the moment had yet occurred. The Blue Room would glimmer, ferns undulate. Out of some external Cambridge his friend began backoning to him, clothed in the sun, and shaking out the scents and sounds of the May term. He did not realize that this was the end, without twilight or compromise, that he should never cross Maurice&apos;s track again, nor speak to those who had seen him. 
+To the end of his life Clive was not sure of the exact moment of departure, and with the approach of old age he grew uncertain whether the moment had yet occurred. The Blue Room would glimmer, ferns undulate. Out of some external Cambridge his friend began backoning to him, clothed in the sun, and shaking out the scents and sounds of the May term. He did not realize that this was the end, without twilight or compromise, that he should never cross Maurice's track again, nor speak to those who had seen him. 
 
 　　 
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>恐惧与欲望 Fear and Desire</电影名>
 <年份>1953</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>发不沾霓</作者>
-<作者评分>4</作者评分>
+<标题>自毁之旅</标题><作者评分>4</作者评分>
 <时间>2015-11-02 10:24:30</时间>
 <影评>
 
@@ -40,7 +40,7 @@
 </review>
 <review>
 <作者>hikari</作者>
-<作者评分>4</作者评分>
+<标题>Everyone is an island</标题><作者评分>4</作者评分>
 <时间>2016-09-15 03:41:39</时间>
 <影评>
         每个人都是一座孤岛，孤岛和孤岛们漂浮在海面上。有时我们相遇，像星球相撞一般摧毁彼此，更多的时候我们从不曾见过彼此真实的样子，只是兀自漂浮着。
@@ -76,7 +76,7 @@ Magic是什么？
 #2. Fear is desire?
 
 
-Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a little scared thought, just a little, like kissing my great grandmother when she was dying.&quot;这也许是编剧/导演的一个真实经历。
+Sidney乘筏去向刺杀将军的路上有一段独白，他说"I'm a little scared thought, just a little, like kissing my great grandmother when she was dying."这也许是编剧/导演的一个真实经历。
 
 
 最原始的fear是死，desire却是源于不能轰轰烈烈地生，或者说，比死更令人畏惧的是，死得轻于鸿毛。
@@ -91,7 +91,7 @@ Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a 
 </review>
 <review>
 <作者>榛言</作者>
-<作者评分>4</作者评分>
+<标题>成神的前奏</标题><作者评分>4</作者评分>
 <时间>2023-09-30 22:26:06</时间>
 <影评>
 
@@ -108,7 +108,7 @@ Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a 
 </review>
 <review>
 <作者>梨落春尽1900</作者>
-<作者评分>5</作者评分>
+<标题>只是一座孤島啊</标题><作者评分>5</作者评分>
 <时间>2021-08-23 21:08:19</时间>
 <影评>
 
@@ -128,7 +128,7 @@ Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a 
 </review>
 <review>
 <作者>领域</作者>
-<作者评分></作者评分>
+<标题>恐惧与欲望</标题><作者评分 />
 <时间>2020-03-22 18:06:22</时间>
 <影评>
 
@@ -145,7 +145,7 @@ Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a 
 </review>
 <review>
 <作者>水云身</作者>
-<作者评分></作者评分>
+<标题>恐惧战胜欲望则走向死亡，欲望战胜恐惧则走向癫狂</标题><作者评分 />
 <时间>2021-06-08 00:16:48</时间>
 <影评>
 
@@ -168,7 +168,7 @@ Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a 
 </review>
 <review>
 <作者>唐宁</作者>
-<作者评分></作者评分>
+<标题>战争的恐惧和求生的欲望</标题><作者评分 />
 <时间>2022-09-27 07:24:48</时间>
 <影评>
 
@@ -205,20 +205,20 @@ Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a 
 </review>
 <review>
 <作者>口矣</作者>
-<作者评分>4</作者评分>
+<标题>Fear and Desire Lines</标题><作者评分>4</作者评分>
 <时间>2022-05-29 21:59:54</时间>
 <影评>
 
-&quot;There is war in this forest.Not a war that&apos;s been fought,or one that will be,but any war.And the enemies who struggle here do not exist,unless we call them into being.This forest,then,and all that happens now,is outside History.Only the unchanging shapes of fear and doubt and death are from our world.These soldiers that you see keep our language and our time,but have no other country but the mind.&quot;莫名喜欢这段旁白。
-&quot;Once you understand how a mousetrap works,if you&apos;re clever enough,you can use it as a springboard.&quot;
-&quot;Cold stew on a blazing island.We&apos;ve just made a perfect definition of war,Mac.&quot;
-&quot;We spend our lives running our fingers down the lists and dictionaries,looking for our real names,our permanent adresses.No man is an island?Perhaps that was true a long time ago,before the Ice Age.The glaciers have melted away and now we&apos;re all islands,parts of the world made of islands only.&quot;
-&quot;I&apos;d give anything to trade places with that dog we chased yesterday.Seems like whenever people get in a hole they get to get jealous of dogs.&quot;
-&quot;Well,it&apos;s not that I wanna seem important.Half the trouble in the world happens because of some people do,but I think half the good things happen that way too.&quot;
-&quot;Sometimes,talk is an indispensable medicine.&quot;&quot;Yeah,but you get sicker later.&quot;
-&quot;It&apos;s better to roll up your life into one night and one man and one gun.It hurts too much to keep hurting everyone else in every direction and to be hurt with all the seperate hates exploding day after day.You can&apos;t help it.A curse buzzes out of your mouth with every word you say and nobody alive can tell which is which or what you mean.Yeah.You try door after door when you hear voices you like behind them,but the knobs come off in your hand…&quot;
-&quot;I&apos;m not sure yet whether even we&apos;ve come back.I think we&apos;ve travelled too far from our own private boundraies to be certain about these other things anymore…Or come back to ourselves.Part of me is glad,but…&quot;&quot;I&apos;m glad in a way too.And I feel free all of a sudden.But somehow I don&apos;t want what I wanted before.I know it&apos;s good.There&apos;s nothing else I can want.I&apos;m all mixed up…I wish I could want what I wanted before.&quot;
-&quot;It&apos;s all a trick we perform when we&apos;d rather not die…immediately.&quot;
+"There is war in this forest.Not a war that's been fought,or one that will be,but any war.And the enemies who struggle here do not exist,unless we call them into being.This forest,then,and all that happens now,is outside History.Only the unchanging shapes of fear and doubt and death are from our world.These soldiers that you see keep our language and our time,but have no other country but the mind."莫名喜欢这段旁白。
+"Once you understand how a mousetrap works,if you're clever enough,you can use it as a springboard."
+"Cold stew on a blazing island.We've just made a perfect definition of war,Mac."
+"We spend our lives running our fingers down the lists and dictionaries,looking for our real names,our permanent adresses.No man is an island?Perhaps that was true a long time ago,before the Ice Age.The glaciers have melted away and now we're all islands,parts of the world made of islands only."
+"I'd give anything to trade places with that dog we chased yesterday.Seems like whenever people get in a hole they get to get jealous of dogs."
+"Well,it's not that I wanna seem important.Half the trouble in the world happens because of some people do,but I think half the good things happen that way too."
+"Sometimes,talk is an indispensable medicine.""Yeah,but you get sicker later."
+"It's better to roll up your life into one night and one man and one gun.It hurts too much to keep hurting everyone else in every direction and to be hurt with all the seperate hates exploding day after day.You can't help it.A curse buzzes out of your mouth with every word you say and nobody alive can tell which is which or what you mean.Yeah.You try door after door when you hear voices you like behind them,but the knobs come off in your hand…"
+"I'm not sure yet whether even we've come back.I think we've travelled too far from our own private boundraies to be certain about these other things anymore…Or come back to ourselves.Part of me is glad,but…""I'm glad in a way too.And I feel free all of a sudden.But somehow I don't want what I wanted before.I know it's good.There's nothing else I can want.I'm all mixed up…I wish I could want what I wanted before."
+"It's all a trick we perform when we'd rather not die…immediately."
 
 
 
@@ -229,7 +229,7 @@ Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a 
 </review>
 <review>
 <作者>Ginger</作者>
-<作者评分></作者评分>
+<标题>忧郁的看待这个世界</标题><作者评分 />
 <时间>2021-10-31 13:15:40</时间>
 <影评>
 
@@ -244,7 +244,7 @@ Sidney乘筏去向刺杀将军的路上有一段独白，他说&quot;I&apos;m a 
 </review>
 <review>
 <作者>早上好</作者>
-<作者评分>3</作者评分>
+<标题>《恐惧与欲望》与《机动警察2剧场版》河边独白</标题><作者评分>3</作者评分>
 <时间>2021-05-02 11:50:15</时间>
 <影评>
 

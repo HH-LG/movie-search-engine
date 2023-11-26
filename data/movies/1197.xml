@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>大号的我2：圣鸡！ Super Size Me 2: Holy Chicken!</电影名>
 <年份>2017</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>从前以后的</作者>
-<作者评分></作者评分>
+<标题>鸡肉供应链</标题><作者评分 />
 <时间>2021-10-01 21:55:57</时间>
 <影评>
 

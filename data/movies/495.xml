@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>甘地传 Gandhi</电影名>
 <年份>1982</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>艾小柯</作者>
-<作者评分>5</作者评分>
+<标题>非暴力的两难抉择</标题><作者评分>5</作者评分>
 <时间>2009-09-10 07:34:11</时间>
 <影评>
         印度圣雄甘地24岁时在南非就提出了“非暴力，不合作”的民权斗争理念。比起历史上血溅疆场你死我活的正面冲突抗争，他的方法消极得近乎天方夜谭；但就是这样一个貌似不合理的斗争方法，却在印度独立运动中取得空前成功，震动整个西方世界。
@@ -70,7 +70,7 @@
 </review>
 <review>
 <作者>贾三变</作者>
-<作者评分>5</作者评分>
+<标题>从电影《甘地传》看甘地</标题><作者评分>5</作者评分>
 <时间>2005-10-08 13:28:52</时间>
 <影评>
         《Gandhi》获得1982年55届奥斯卡最佳影片、最佳男主角、最佳导演、最佳创作剧本 、最佳摄影、最佳服装设计、最佳剪接七项奥斯卡奖。 
@@ -121,7 +121,7 @@
 </review>
 <review>
 <作者>南桥</作者>
-<作者评分>5</作者评分>
+<标题>马马雅虎</标题><作者评分>5</作者评分>
 <时间>2009-01-20 02:20:11</时间>
 <影评>
         今天是马丁路德金日，是美国一公共假日。明天，马丁路德金的一个梦想将成为现实：黑人奥巴马将宣誓担任总统。
@@ -149,7 +149,7 @@
 </review>
 <review>
 <作者>刘康康</作者>
-<作者评分>4</作者评分>
+<标题>原来非暴力的成功还是要靠暴力</标题><作者评分>4</作者评分>
 <时间>2012-07-26 14:31:28</时间>
 <影评>
         《甘地》这电影我记得小时候在电影频道佳片有约上看过一次，那会儿佳片有约还是走精英路线，放的都是大师级的片儿，不像现在《斯密斯夫妇》之类的都可以上了，完全不知道取向何在。
@@ -183,7 +183,7 @@
 </review>
 <review>
 <作者>祖贤</作者>
-<作者评分>5</作者评分>
+<标题>那些甘地教我的事。。</标题><作者评分>5</作者评分>
 <时间>2011-03-13 12:35:18</时间>
 <影评>
 
@@ -232,7 +232,7 @@
 </review>
 <review>
 <作者>总饭二郎</作者>
-<作者评分>3</作者评分>
+<标题>孤独的甘地</标题><作者评分>3</作者评分>
 <时间>2005-06-10 01:55:51</时间>
 <影评>
         文/halleybachelor
@@ -266,11 +266,11 @@
 　　可惜的是，直到如今印巴依然各执一端、冲突不断，很多地方还是因为民族和政治偏见走不出暴力的泥潭。甘地只能成为二十世纪孤独的先知者，他所创造的奇迹也只能遗作近现代史的绝响了。
 
 
-&quot;An eye for an eye makes the whole world blind.&quot; 
+"An eye for an eye makes the whole world blind." 
 
 以眼还眼，世界只会更盲目。 
 
-&quot;Live as if you were to die tomorrow. Learn as if you were to live forever.&quot; 
+"Live as if you were to die tomorrow. Learn as if you were to live forever." 
 
 活着，就好像明天你就会死去。学习，就好像你会永远活着。 
 
@@ -281,7 +281,7 @@
 </review>
 <review>
 <作者>快乐卟卟</作者>
-<作者评分>5</作者评分>
+<标题>伟大的甘地</标题><作者评分>5</作者评分>
 <时间>2017-07-25 14:12:36</时间>
 <影评>
 
@@ -293,7 +293,7 @@
 </review>
 <review>
 <作者>integrity</作者>
-<作者评分>2</作者评分>
+<标题>看过所谓的文明，庆幸自己活在暴政之下。</标题><作者评分>2</作者评分>
 <时间>2011-03-26 10:10:57</时间>
 <影评>
             剧情简介的第一句话是这么着的：本片记录了印度圣雄甘地史诗般传奇伟大的一生。
@@ -317,7 +317,7 @@
 </review>
 <review>
 <作者>Maverick</作者>
-<作者评分>4</作者评分>
+<标题>《甘地》电影剧本</标题><作者评分>4</作者评分>
 <时间>2020-08-25 09:45:31</时间>
 <影评>
 
@@ -2969,24 +2969,24 @@ I段。在一艘轮船的甲板上，甘地坐在椅子上，裹着毛毯，忧�
 </review>
 <review>
 <作者>Albatross</作者>
-<作者评分>5</作者评分>
+<标题>Winners don't punish</标题><作者评分>5</作者评分>
 <时间>2008-04-16 22:06:24</时间>
 <影评>
-            &quot;You have heard that it was said, &apos;An eye for an eye, and a tooth for a tooth.&apos; But I tell you, do not resist an evil person. If someone strikes you on the right cheek, turn to him the other also. And if someone wants to sue you and take your tunic, let him have your cloak as well. If someone forces you to go one mile, go with him two miles. Give to the one who asks you, and do not turn away from the one who wants to borrow from you.&quot;
+            "You have heard that it was said, 'An eye for an eye, and a tooth for a tooth.' But I tell you, do not resist an evil person. If someone strikes you on the right cheek, turn to him the other also. And if someone wants to sue you and take your tunic, let him have your cloak as well. If someone forces you to go one mile, go with him two miles. Give to the one who asks you, and do not turn away from the one who wants to borrow from you."
 
     —Matthew 5:38-42, NIV
 
 
-周末在礼堂看了《甘地传》，三个小时的片子，稀稀拉拉十几个人，看完了呆坐在椅子上好半天。脑子里一个问题在回响：“Winners don&apos;t punish, but why?”
+周末在礼堂看了《甘地传》，三个小时的片子，稀稀拉拉十几个人，看完了呆坐在椅子上好半天。脑子里一个问题在回响：“Winners don't punish, but why?”
 
 
-Winners don&apos;t punish ——
+Winners don't punish ——
 
 
 这是上个月Nowak小组发表在Nature上一篇文章。我认为此文的结论有些问题，这是后话且不谈。本文的关键亮点在于首次将报复与反报复的机制放置于实验当中，结果确实很震撼。Milinski在同期发表的评论中将Gandhi作为一个典型的例子，我认为这个例子极好。
 
 
-作恶之人有何惩罚不得？Gandhi有一句名言：“An eye for an eye makes the whole world blind.&quot;我想它就是来自于《马太福音》中的那一段话，虽然他是一个印度教信徒。这世上真正的执意作恶之人并不多，所犯错事多半属无意之举或是不得已而为之，对此类行为如缺乏宽容之心而严加处罚，往往会触发报复心理并使之蒙蔽心智。世间之绵绵战乱纷争大多起于此，如家族之世仇、民族之矛盾、国家之冲突、宗教之纠葛。
+作恶之人有何惩罚不得？Gandhi有一句名言：“An eye for an eye makes the whole world blind."我想它就是来自于《马太福音》中的那一段话，虽然他是一个印度教信徒。这世上真正的执意作恶之人并不多，所犯错事多半属无意之举或是不得已而为之，对此类行为如缺乏宽容之心而严加处罚，往往会触发报复心理并使之蒙蔽心智。世间之绵绵战乱纷争大多起于此，如家族之世仇、民族之矛盾、国家之冲突、宗教之纠葛。
 
 
 有人作恶，却惩罚不得，该当如何是好？耶稣说：转过另一边的脸给他打。这很愚蠢吗？不，至少在某些情况下，这样做很聪明。因为人类，至少是绝大多数人，并不是纯粹自私的经济动物，他们有这样一种奇怪的生理和心理反应，叫做“感动”，所以亚当斯密才要同时写两本书：《国富论》和《道德情操论》。无论是乞丐还是君王，发觉自己做了亏心事以后都不免“内疚”，这乃是人之常情。转过脸去给他打，正是为了唤起对方的愧疚，至少是尴尬。而若从耶稣那里算起，人们明白这个道理也至少有两千年了。不知道其他动物是否也有类似的感动现象，如果没有，那么人类的这种本能又是如何进化得来的呢？这是一个值得研究的问题。

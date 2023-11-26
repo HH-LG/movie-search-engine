@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>阿凡提的故事之种金子</电影名>
 <年份>1979</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>五月一</作者>
-<作者评分>4</作者评分>
+<标题>看阿凡达觉得不如阿凡提</标题><作者评分>4</作者评分>
 <时间>2010-11-07 19:26:14</时间>
 <影评>
         花了很多银子去看首映的3D阿凡达之后，最后的感觉是不如在家抱着枕头看阿凡提。
@@ -27,7 +27,7 @@
 </review>
 <review>
 <作者>Tell Why</作者>
-<作者评分>4</作者评分>
+<标题>还在路上的阿凡提</标题><作者评分>4</作者评分>
 <时间>2012-11-30 10:31:33</时间>
 <影评>
         前段时间回家，正好赶上表哥来家里做客
@@ -138,7 +138,7 @@
 </review>
 <review>
 <作者>亢蒙</作者>
-<作者评分>4</作者评分>
+<标题>智慧</标题><作者评分>4</作者评分>
 <时间>2009-02-11 19:35:02</时间>
 <影评>
 
@@ -150,7 +150,7 @@
 </review>
 <review>
 <作者>欣欣</作者>
-<作者评分>5</作者评分>
+<标题>小时候的回忆</标题><作者评分>5</作者评分>
 <时间>2008-12-15 10:36:41</时间>
 <影评>
         一提起这部动画就想起小时候无忧无虑的时光
@@ -172,7 +172,7 @@
 </review>
 <review>
 <作者>小豆子看电影</作者>
-<作者评分>5</作者评分>
+<标题>贪婪失便宜</标题><作者评分>5</作者评分>
 <时间>2015-01-30 13:46:17</时间>
 <影评>
                 
@@ -186,7 +186,7 @@
 </review>
 <review>
 <作者>洋洋懒</作者>
-<作者评分></作者评分>
+<标题>想带孩子一起</标题><作者评分 />
 <时间>2023-01-08 13:04:43</时间>
 <影评>
 
@@ -199,11 +199,11 @@
 </review>
 <review>
 <作者>Fu</作者>
-<作者评分></作者评分>
+<标题>Qiu Yuefeng's Century</标题><作者评分 />
 <时间>2022-06-13 09:06:58</时间>
 <影评>
 
-Qiu Yuefeng&apos;s Century
+Qiu Yuefeng's Century
 There are many myths about Shanghai Translation Studio, and Qiu Yuefeng is one of the most divine.
 His voice is not very pleasant among voice actors. Some people say that he has a hoarse voice, but he has poured his skills in manipulating his voice into a deep understanding of human nature and art, and the role he plays can even show Brilliant beyond the original. When his unremarkable voice in daily life is transformed into a character, he can be low and powerful, noble and perverse, and he can freely shuttle between calm and elegant, humble and cowardly, fierce and ruthless.
 
@@ -213,7 +213,7 @@ His voice is not very pleasant among voice actors. Some people say that he has a
 </review>
 <review>
 <作者>😲</作者>
-<作者评分>4</作者评分>
+<标题>经典</标题><作者评分>4</作者评分>
 <时间>2021-07-13 13:04:54</时间>
 <影评>
 
@@ -225,7 +225,7 @@ His voice is not very pleasant among voice actors. Some people say that he has a
 </review>
 <review>
 <作者>2000年小龙女</作者>
-<作者评分>4</作者评分>
+<标题>阿凡提的故事。</标题><作者评分>4</作者评分>
 <时间>2020-12-03 16:57:20</时间>
 <影评>
 
@@ -237,7 +237,7 @@ His voice is not very pleasant among voice actors. Some people say that he has a
 </review>
 <review>
 <作者>三七</作者>
-<作者评分></作者评分>
+<标题>种金子</标题><作者评分 />
 <时间>2020-10-08 20:53:45</时间>
 <影评>
 

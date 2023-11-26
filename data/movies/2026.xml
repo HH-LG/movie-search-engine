@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>豺狼时刻 Vargtimmen</电影名>
 <年份>1968</年份>
@@ -16,7 +16,7 @@
 <reviews>
 <review>
 <作者>三浦是条狗</作者>
-<作者评分>5</作者评分>
+<标题>苹果树下的理由，你说世上有我这种人很重要</标题><作者评分>5</作者评分>
 <时间>2014-03-30 21:22:19</时间>
 <影评>
 
@@ -43,7 +43,7 @@
 </review>
 <review>
 <作者>貓公子</作者>
-<作者评分>5</作者评分>
+<标题>城堡</标题><作者评分>5</作者评分>
 <时间>2018-08-24 00:19:44</时间>
 <影评>
 
@@ -60,7 +60,7 @@
 </review>
 <review>
 <作者>上帝在高处吸烟</作者>
-<作者评分>4</作者评分>
+<标题>魔由心生：关于《狼之时刻》的絮叨</标题><作者评分>4</作者评分>
 <时间>2010-12-10 15:03:48</时间>
 <影评>
              《狼之时刻》，伯格曼的恐怖片，连幽灵都彬彬有礼，热爱艺术。
@@ -124,7 +124,7 @@
 </review>
 <review>
 <作者>April</作者>
-<作者评分>4</作者评分>
+<标题>吸血鬼一支</标题><作者评分>4</作者评分>
 <时间>2006-06-07 16:02:37</时间>
 <影评>
            在伯格曼的Vampire电影里，吸血鬼和食人族都在夜里“狼的时刻”出现，还有鸟人，昆虫精。   评论都用了“哥特(Gothic) ”一词，可能是指气氛相象。
@@ -157,7 +157,7 @@
 </review>
 <review>
 <作者>囍弗斯</作者>
-<作者评分>4</作者评分>
+<标题>如果字幕有点穿越</标题><作者评分>4</作者评分>
 <时间>2021-04-03 13:23:22</时间>
 <影评>
 
@@ -181,7 +181,7 @@ from his home on Baltrum in the Frisian Islands.
 4
 00:01:02,355 --&gt; 00:01:08,153
 随后 他的妻子艾尔玛给我看了约翰的日记
-His wife, Alma, subsequently left me Johan&apos;s diary,
+His wife, Alma, subsequently left me Johan's diary,
 
 5
 00:01:08,236 --&gt; 00:01:12,699
@@ -191,7 +191,7 @@ which she had found among his papers.
 6
 00:01:12,782 --&gt; 00:01:14,743
 这部影片是以这本日记
-It is this diary along with Alma&apos;s verbal account
+It is this diary along with Alma's verbal account
 
 7
 00:01:14,826 --&gt; 00:01:16,494
@@ -247,17 +247,17 @@ No. I have nothing more to tell.
 17
 00:03:20,285 --&gt; 00:03:22,495
 我已经把日记交给你了
-I&apos;ve given you the diary.
+I've given you the diary.
 
 18
 00:03:26,291 --&gt; 00:03:29,294
 你一定很奇怪我为什么还住在这里
-You&apos;re wondering why I&apos;m going to stay here.
+You're wondering why I'm going to stay here.
 
 19
 00:03:30,920 --&gt; 00:03:34,257
 我们在这里一起生活了7年
-We&apos;ve lived together in this house
+We've lived together in this house
 for almost seven years.
 
 20
@@ -268,13 +268,13 @@ Come winter, I can move to the mainland and work in the store.
 21
 00:03:40,221 --&gt; 00:03:44,142
 之前我们缺钱的时候 我就是这样做的
-I&apos;ve done it in previous years
+I've done it in previous years
 when we were short on money.
 
 22
 00:03:50,940 --&gt; 00:03:53,651
 当时医生说预产期就在一个月内
-The doctor said the baby&apos;s due in a month.
+The doctor said the baby's due in a month.
 
 23
 00:03:54,986 --&gt; 00:03:58,698
@@ -310,7 +310,7 @@ We were going to be completely alone.
 29
 00:04:29,103 --&gt; 00:04:31,564
 他不想在这里见到其他任何人
-He didn&apos;t want to see another human being here.
+He didn't want to see another human being here.
 
 30
 00:04:31,648 --&gt; 00:04:33,524
@@ -377,12 +377,12 @@ Johan was a bit worried.
 00:05:44,053 --&gt; 00:05:46,681
 当工作不顺利的时候 他总是很忧虑
 He was always worried
-when work wasn&apos;t going well
+when work wasn't going well
 
 43
 00:05:46,764 --&gt; 00:05:49,267
 而当时的确不太顺利
-and lately it hadn&apos;t been.
+and lately it hadn't been.
 
 44
 00:05:52,145 --&gt; 00:05:54,772
@@ -412,7 +412,7 @@ It had gotten worse the last few years.
 49
 00:09:23,147 --&gt; 00:09:24,857
 - 我要画你 - 不要
-- I&apos;m going to draw you. - No.
+- I'm going to draw you. - No.
 
 50
 00:09:24,941 --&gt; 00:09:25,983
@@ -452,7 +452,7 @@ I knew that.
 57
 00:09:42,583 --&gt; 00:09:46,295
 不是这样 就像你平时那样坐着 不要挺直后背
-No, sit like you usually do. Don&apos;t straighten your back.
+No, sit like you usually do. Don't straighten your back.
 
 58
 00:09:46,379 --&gt; 00:09:49,298
@@ -497,32 +497,32 @@ Look here.
 66
 00:12:01,847 --&gt; 00:12:03,933
 我之前没给任何人看过
-I haven&apos;t shown these to anybody.
+I haven't shown these to anybody.
 
 67
 00:12:04,016 --&gt; 00:12:06,018
 你瞧 我把他们画下来了
-You see, I&apos;ve drawn them.
+You see, I've drawn them.
 
 68
 00:12:07,603 --&gt; 00:12:11,607
 这是最普通的一个 基本无害
-This is the most common figure. He&apos;s almost harmless.
+This is the most common figure. He's almost harmless.
 
 69
 00:12:12,900 --&gt; 00:12:14,777
 我觉得他是个同性恋
-I think he&apos;s homosexual.
+I think he's homosexual.
 
 70
 00:12:17,863 --&gt; 00:12:19,824
 这是个老妇人
-Then there&apos;s the old lady.
+Then there's the old lady.
 
 71
 00:12:19,907 --&gt; 00:12:22,451
 她总是威胁说要摘下帽子
-Who&apos;s always threatening to take off her hat.
+Who's always threatening to take off her hat.
 
 72
 00:12:22,535 --&gt; 00:12:24,703
@@ -552,12 +552,12 @@ I call him the Bird Man.
 77
 00:12:39,343 --&gt; 00:12:42,847
 我不知道这是真的喙还是面具
-I don&apos;t know if it&apos;s a real beak or if it&apos;s only a mask.
+I don't know if it's a real beak or if it's only a mask.
 
 78
 00:12:44,890 --&gt; 00:12:47,226
 他的动作异常地迅速
-He&apos;s so remarkably fast.
+He's so remarkably fast.
 
 79
 00:12:48,394 --&gt; 00:12:51,272
@@ -597,7 +597,7 @@ You have to stay awake a while.
 86
 00:13:34,899 --&gt; 00:13:37,067
 一个小时后天就亮了
-In an hour or so it&apos;ll be day.
+In an hour or so it'll be day.
 
 87
 00:13:40,196 --&gt; 00:13:41,614
@@ -642,7 +642,7 @@ Finally.
 95
 00:15:17,668 --&gt; 00:15:19,587
 都过去了
-Now it&apos;s passed.
+Now it's passed.
 
 96
 00:15:27,970 --&gt; 00:15:30,723
@@ -657,7 +657,7 @@ Talk to me, Alma.
 98
 00:15:37,396 --&gt; 00:15:42,443
 你知道 我一直在想一些事情
-You know, there&apos;s something I&apos;ve been thinking for quite a while.
+You know, there's something I've been thinking for quite a while.
 
 99
 00:15:44,403 --&gt; 00:15:46,488
@@ -667,12 +667,12 @@ Are you listening?
 100
 00:15:50,784 --&gt; 00:15:53,996
 我们已经同居7年了
-We&apos;ve lived together for seven years now.
+We've lived together for seven years now.
 
 101
 00:15:55,080 --&gt; 00:15:57,416
 不 这不是我要说的
-No, that&apos;s not what I was going to say.
+No, that's not what I was going to say.
 
 102
 00:15:57,499 --&gt; 00:15:59,501
@@ -682,7 +682,7 @@ Now I know.
 103
 00:16:00,294 --&gt; 00:16:04,798
 不是有句话说 一起生活一辈子的老夫妻
-Is it not true that old people, who&apos;ve spent a lifetime together,
+Is it not true that old people, who've spent a lifetime together,
 
 104
 00:16:04,882 --&gt; 00:16:06,884
@@ -712,7 +712,7 @@ Why do you think that is?
 109
 00:16:26,236 --&gt; 00:16:33,077
 我希望我们能一起变老 然后有相同的想法
-I hope we become so old that we share each other&apos;s thoughts...
+I hope we become so old that we share each other's thoughts...
 
 110
 00:16:35,537 --&gt; 00:16:41,460
@@ -732,12 +732,12 @@ Are you sleeping?
 113
 00:16:52,179 --&gt; 00:16:54,682
 来吧 快起来
-Come. Come, let&apos;s go.
+Come. Come, let's go.
 
 114
 00:16:55,641 --&gt; 00:16:57,142
 上床去睡
-Come, let&apos;s go to bed.
+Come, let's go to bed.
 
 115
 00:16:58,060 --&gt; 00:16:59,812
@@ -752,12 +752,12 @@ Yes.
 117
 00:18:28,150 --&gt; 00:18:31,069
 别害怕 亲爱的孩子
-Don&apos;t look so frightened, dear child.
+Don't look so frightened, dear child.
 
 118
 00:18:31,153 --&gt; 00:18:33,071
 我不会伤害你
-I&apos;m not dangerous.
+I'm not dangerous.
 
 119
 00:18:34,114 --&gt; 00:18:35,574
@@ -782,7 +782,7 @@ At my age, the hands are a bit cold.
 123
 00:18:49,838 --&gt; 00:18:52,883
 毕竟也已经216岁了
-I&apos;m 216 years old after all.
+I'm 216 years old after all.
 
 124
 00:18:53,759 --&gt; 00:18:56,094
@@ -857,7 +857,7 @@ DIARY
 138
 00:21:23,533 --&gt; 00:21:27,621
 &lt;i&gt;7月22日 星期三 我生病了
-Wednesday, July 22nd. I&apos;ve just been ill.&lt;/i&gt;
+Wednesday, July 22nd. I've just been ill.&lt;/i&gt;
 
 139
 00:21:27,704 --&gt; 00:21:30,999
@@ -867,7 +867,7 @@ Not too bad, but still unpleasant enough.&lt;/i&gt;
 140
 00:22:08,328 --&gt; 00:22:11,039
 请恕我冒昧 这些天我一直在想
-Forgive my interruption, but I&apos;ve contemplated for days
+Forgive my interruption, but I've contemplated for days
 
 141
 00:22:11,123 --&gt; 00:22:13,417
@@ -877,7 +877,7 @@ the best way to approach you.
 142
 00:22:14,042 --&gt; 00:22:16,586
 我想还是直入主题最有礼貌
-I decided it&apos;s most polite to get straight to the point.
+I decided it's most polite to get straight to the point.
 
 143
 00:22:16,670 --&gt; 00:22:19,214
@@ -908,7 +908,7 @@ in a simple family supper at our place?
 148
 00:22:31,351 --&gt; 00:22:32,811
 您太客气了
-That&apos;s very kind of you.
+That's very kind of you.
 
 149
 00:22:32,894 --&gt; 00:22:34,896
@@ -968,7 +968,7 @@ or it will end in disaster.
 160
 00:24:43,483 --&gt; 00:24:45,110
 你不记得了吗
-Don&apos;t you remember?
+Don't you remember?
 
 161
 00:24:45,193 --&gt; 00:24:48,697
@@ -993,7 +993,7 @@ I have something I need to speak to you about.
 165
 00:25:03,044 --&gt; 00:25:05,589
 我有一封信需要给你看
-I&apos;ve received a letter that I need to show you.
+I've received a letter that I need to show you.
 
 166
 00:25:06,214 --&gt; 00:25:08,008
@@ -1008,7 +1008,7 @@ It goes like this:
 168
 00:25:11,386 --&gt; 00:25:14,723
 &lt;i&gt;“你看不到我们 但是我们能看到你
-&quot;You don&apos;t see us, but we see you.&lt;/i&gt;
+"You don't see us, but we see you.&lt;/i&gt;
 
 169
 00:25:15,432 --&gt; 00:25:17,434
@@ -1038,7 +1038,7 @@ and other liquids will moisten your white loins.&lt;/i&gt;
 174
 00:25:31,698 --&gt; 00:25:33,658
 &lt;i&gt;而这是早已决定之事。”
-So it has been decided.&quot;&lt;/i&gt;
+So it has been decided."&lt;/i&gt;
 
 175
 00:25:36,328 --&gt; 00:25:38,872
@@ -1058,7 +1058,7 @@ Do you have a fever?
 178
 00:25:51,635 --&gt; 00:25:54,596
 每次要见你时我总是很激动
-I always get so excited when I&apos;m going to meet you.
+I always get so excited when I'm going to meet you.
 
 179
 00:25:54,679 --&gt; 00:25:56,640
@@ -1068,7 +1068,7 @@ Can you understand that?
 180
 00:25:57,766 --&gt; 00:26:01,353
 仿佛整个下午都是一场梦境
-It&apos;s as if I&apos;m in a dream all afternoon.
+It's as if I'm in a dream all afternoon.
 
 181
 00:26:02,354 --&gt; 00:26:05,982
@@ -1088,7 +1088,7 @@ It always gets stuck.
 184
 00:27:09,838 --&gt; 00:27:13,466
 虽然风很大 但景色真的很美 你不觉得吗
-It&apos;s really windy, but beautiful, don&apos;t you think?
+It's really windy, but beautiful, don't you think?
 
 185
 00:27:13,550 --&gt; 00:27:16,886
@@ -1098,7 +1098,7 @@ This has to be a dream spot for painting.
 186
 00:27:17,554 --&gt; 00:27:20,181
 你已经在这住了一段时间了
-You&apos;ve lived here for quite some time.
+You've lived here for quite some time.
 
 187
 00:27:20,265 --&gt; 00:27:24,436
@@ -1108,7 +1108,7 @@ You return to the scene of the crime, so to speak. And commit new crimes.
 188
 00:27:25,061 --&gt; 00:27:27,772
 你看起来很疲惫 别把自己累垮了
-You look tired. Don&apos;t overexert yourself.
+You look tired. Don't overexert yourself.
 
 189
 00:27:27,856 --&gt; 00:27:30,817
@@ -1123,7 +1123,7 @@ Youth is much hardier.
 191
 00:27:33,987 --&gt; 00:27:35,739
 我知道我在说什么
-I know what I&apos;m talking about.
+I know what I'm talking about.
 
 192
 00:27:35,822 --&gt; 00:27:37,949
@@ -1133,22 +1133,22 @@ My name is Heerbrand, school counselor.
 193
 00:27:38,783 --&gt; 00:27:41,745
 我探究人们的心灵 并将其引导出来
-I probe people&apos;s souls and turn the inside out.
+I probe people's souls and turn the inside out.
 
 194
 00:27:41,828 --&gt; 00:27:44,539
 然后我们能发现什么呢 我想不用我来告诉你
-And what do we see? Well, I don&apos;t need to tell you.
+And what do we see? Well, I don't need to tell you.
 
 195
 00:27:44,622 --&gt; 00:27:47,500
 你是个艺术家 你懂得人性
-You&apos;re an artist, you know the human heart.
+You're an artist, you know the human heart.
 
 196
 00:27:47,584 --&gt; 00:27:51,588
 大家都看过你的肖像画 更别提你的自画像
-Who hasn&apos;t seen your facial studies, not to mention your self-portraits?
+Who hasn't seen your facial studies, not to mention your self-portraits?
 
 197
 00:27:52,172 --&gt; 00:27:54,966
@@ -1183,17 +1183,17 @@ I have to pay the store next time we go to the mainland.
 203
 00:29:24,222 --&gt; 00:29:28,977
 账单是176.50克朗 我还要买点牛奶
-The bill is 176.50, and then there&apos;s the milk.
+The bill is 176.50, and then there's the milk.
 
 204
 00:29:31,146 --&gt; 00:29:35,650
 别总是这样把钱塞给我 看一眼我记的账单
-No, don&apos;t just fork over money like that, take a look at my accounting.
+No, don't just fork over money like that, take a look at my accounting.
 
 205
 00:29:36,276 --&gt; 00:29:38,570
 至少对我来说 这非常重要
-It&apos;s actually important, at least for me.
+It's actually important, at least for me.
 
 206
 00:29:39,571 --&gt; 00:29:42,949
@@ -1208,12 +1208,12 @@ You got me that blanket. It was rather expensive, it cost 35.
 208
 00:29:47,787 --&gt; 00:29:50,373
 但躺在上面真的又舒服又暖和
-But it&apos;s nice and warm when you&apos;re lying alone.
+But it's nice and warm when you're lying alone.
 
 209
 00:29:51,207 --&gt; 00:29:53,626
 然后就是那个要付给商店的账单
-And then there&apos;s the last bill from the store.
+And then there's the last bill from the store.
 
 210
 00:29:53,710 --&gt; 00:29:57,338
@@ -1228,7 +1228,7 @@ It was over 200 kronor — 219.
 212
 00:30:04,179 --&gt; 00:30:07,432
 然后还有零花钱和邮票钱
-And then there&apos;s pocket money and stamps,
+And then there's pocket money and stamps,
 
 213
 00:30:07,515 --&gt; 00:30:11,519
@@ -1243,7 +1243,7 @@ and the potato peeler.
 215
 00:30:17,567 --&gt; 00:30:21,738
 还有肥皂 洗涤剂 指甲刷
-There&apos;s soap, washing detergent and a nail brush.
+There's soap, washing detergent and a nail brush.
 
 216
 00:30:21,821 --&gt; 00:30:25,200
@@ -1258,7 +1258,7 @@ You need to buy a new toothbrush. The one you have looks terrible.
 218
 00:30:31,831 --&gt; 00:30:37,045
 然后花了50克朗给你儿子买生日礼物 加上0.75克朗邮费
-Then 50 kronor for your boy&apos;s birthday and 0.75 for postage.
+Then 50 kronor for your boy's birthday and 0.75 for postage.
 
 219
 00:30:37,128 --&gt; 00:30:42,175
@@ -1268,12 +1268,12 @@ That leaves 7.36 out of 500.
 220
 00:30:46,554 --&gt; 00:30:49,057
 你可以检查一下是否正确
-You can check it to see if it&apos;s correct.
+You can check it to see if it's correct.
 
 221
 00:31:03,905 --&gt; 00:31:07,450
 - 我们被邀请周五去城堡赴约 - 我知道
-- We&apos;re invited to the castle on Friday. - I know.
+- We're invited to the castle on Friday. - I know.
 
 222
 00:31:10,578 --&gt; 00:31:12,580
@@ -1293,7 +1293,7 @@ Let me present my wife, Corinne.
 225
 00:31:22,298 --&gt; 00:31:24,425
 非常欢迎
-You&apos;re most welcome. Welcome.
+You're most welcome. Welcome.
 
 226
 00:31:24,509 --&gt; 00:31:26,928
@@ -1308,7 +1308,7 @@ My brother, Ernst.
 228
 00:31:31,391 --&gt; 00:31:33,560
 很高兴认识你
-A pleasure. It&apos;s a pleasure.
+A pleasure. It's a pleasure.
 
 229
 00:31:33,643 --&gt; 00:31:36,020
@@ -1318,7 +1318,7 @@ This is archivist Lindhorst.
 230
 00:31:36,813 --&gt; 00:31:39,566
 很高兴认识您 我是您忠实的仰慕者
-It&apos;s nice to meet you. I am one of your fondest admirers.
+It's nice to meet you. I am one of your fondest admirers.
 
 231
 00:31:39,649 --&gt; 00:31:42,068
@@ -1328,7 +1328,7 @@ And this is Counselor Heerbrand.
 232
 00:31:42,151 --&gt; 00:31:44,654
 你好 是的 我们之前就见过
-Pleasure. Yes, we&apos;ve met before.
+Pleasure. Yes, we've met before.
 
 233
 00:31:44,737 --&gt; 00:31:46,573
@@ -1338,12 +1338,12 @@ Would you like a drink?
 234
 00:32:04,382 --&gt; 00:32:06,718
 我想你们已经在这里住了几个月了
-I thought you&apos;d been living here for months.
+I thought you'd been living here for months.
 
 235
 00:32:06,801 --&gt; 00:32:09,345
 久仰大名
-We&apos;ve heard of you for so long.
+We've heard of you for so long.
 
 236
 00:32:09,429 --&gt; 00:32:11,848
@@ -1353,22 +1353,22 @@ Time flies so quickly.
 237
 00:32:11,931 --&gt; 00:32:14,267
 你们愿意来赴宴我们真的很高兴
-We&apos;re so happy you wanted to come.
+We're so happy you wanted to come.
 
 238
 00:32:21,024 --&gt; 00:32:24,319
 这女仆真是差劲 但是毫无疑问佣金很低
-What an awful maidservant. But she&apos;s cheap, of course.
+What an awful maidservant. But she's cheap, of course.
 
 239
 00:32:24,402 --&gt; 00:32:27,697
 我弟弟请不起更好的女仆 请注意这个汤—
-My brother can&apos;t afford better. Please observe that the reason the soup —
+My brother can't afford better. Please observe that the reason the soup —
 
 240
 00:32:27,780 --&gt; 00:32:31,075
 安静点 亲爱的厄斯特 现在我们变得恋家了
-Quiet, dear Ernst. Nowadays we&apos;re homebodies.
+Quiet, dear Ernst. Nowadays we're homebodies.
 
 241
 00:32:31,159 --&gt; 00:32:33,494
@@ -1378,7 +1378,7 @@ In the past we traveled a lot. Do you like travel?
 242
 00:32:33,578 --&gt; 00:32:36,539
 我喜欢旅行 没有比这更激动人心的了
-I love to travel. There&apos;s nothing more stimulating.
+I love to travel. There's nothing more stimulating.
 
 243
 00:32:36,623 --&gt; 00:32:38,791
@@ -1388,7 +1388,7 @@ Alma is an unusual and beautiful name.
 244
 00:32:38,875 --&gt; 00:32:41,461
 就我个人而言 我无法感觉到受了冒犯
-Personally, I&apos;m unable to feel aggression.
+Personally, I'm unable to feel aggression.
 
 245
 00:32:41,544 --&gt; 00:32:43,755
@@ -1398,12 +1398,12 @@ Well, I can manage some bureaucratic vengefulness.
 246
 00:32:43,838 --&gt; 00:32:45,590
 在这栋房子里 我们习惯了羞辱
-In this house we&apos;re used to humiliation.
+In this house we're used to humiliation.
 
 247
 00:32:45,673 --&gt; 00:32:47,759
 被羞辱是应该令人高兴的
-It&apos;s supposed to be pleasurable to be humiliated.
+It's supposed to be pleasurable to be humiliated.
 
 248
 00:32:47,842 --&gt; 00:32:49,522
@@ -1444,7 +1444,7 @@ We had a good laugh at the time. God, how we laughed.
 255
 00:33:07,236 --&gt; 00:33:10,031
 你怎么想 艺术家先生 那不是很幽默吗
-What do you say, Mr. Artist? Wasn&apos;t that a funny joke?
+What do you say, Mr. Artist? Wasn't that a funny joke?
 
 256
 00:33:11,282 --&gt; 00:33:15,119
@@ -1464,12 +1464,12 @@ Then it goes faster or slower towards the end.
 259
 00:33:20,083 --&gt; 00:33:22,919
 决定因素是心脏的抵抗力
-The determining factor is the heart&apos;s resistance.
+The determining factor is the heart's resistance.
 
 260
 00:33:23,002 --&gt; 00:33:27,674
 我的体重一直在下降 我跑遍世界去咨询专家
-I&apos;m constantly losing weight. I travel the world consulting specialists.
+I'm constantly losing weight. I travel the world consulting specialists.
 
 261
 00:33:27,757 --&gt; 00:33:32,762
@@ -1479,22 +1479,22 @@ Sometimes it stops as it has this summer, but then it starts up again.
 262
 00:33:32,845 --&gt; 00:33:36,933
 我丈夫说这是我们亏钱而导致的心理疾病
-My husband says it&apos;s psychological, that it started when we lost our money.
+My husband says it's psychological, that it started when we lost our money.
 
 263
 00:33:37,016 --&gt; 00:33:39,936
 是从我盗用家族基金的时候开始的 我就是罪魁祸首
-When I embezzled the family money. I&apos;m the guilty one.
+When I embezzled the family money. I'm the guilty one.
 
 264
 00:33:40,019 --&gt; 00:33:42,522
 - 别再旧话重提了 - 都我的欺诈导致的
-- Please don&apos;t start. - My dishonesty.
+- Please don't start. - My dishonesty.
 
 265
 00:33:42,605 --&gt; 00:33:47,276
 为什么林德霍斯特跟我们坐在一起 我们何不卖掉房子离开
-Why is Lindhorst at our table? Why can&apos;t we sell and leave?
+Why is Lindhorst at our table? Why can't we sell and leave?
 
 266
 00:33:47,360 --&gt; 00:33:51,698
@@ -1504,12 +1504,12 @@ My fault. My fault. All this suffering. My fault!
 267
 00:33:51,781 --&gt; 00:33:56,035
 然后我大喊：“你的药毫无用处
-And then I shouted, &quot;Your medicine is worthless.
+And then I shouted, "Your medicine is worthless.
 
 268
 00:33:56,119 --&gt; 00:33:59,247
 我的病没好 永远都好不了
-It won&apos;t go away. It will never go away.
+It won't go away. It will never go away.
 
 269
 00:33:59,330 --&gt; 00:34:02,834
@@ -1519,7 +1519,7 @@ You must remove it during operation. Cut it out.
 270
 00:34:02,917 --&gt; 00:34:06,462
 不 我是个老妇人 肯定有一些限制”
-No, I&apos;m an old woman. There has to be some limit.&quot;
+No, I'm an old woman. There has to be some limit."
 
 271
 00:34:06,546 --&gt; 00:34:09,966
@@ -1529,7 +1529,7 @@ Then the professor laughed and said,
 272
 00:34:10,049 --&gt; 00:34:15,680
 “不 伯爵夫人 我没听说过什么限制”
-&quot;No, Countess, I&apos;ve never heard of any limits.&quot;
+"No, Countess, I've never heard of any limits."
 
 273
 00:34:17,724 --&gt; 00:34:20,017
@@ -1544,7 +1544,7 @@ Not here. Oh, no, they live with an uncle.
 275
 00:34:23,688 --&gt; 00:34:26,482
 顺便说一句 他们是你的熟人
-They&apos;re acquaintances of yours, by the way.
+They're acquaintances of yours, by the way.
 
 276
 00:34:26,566 --&gt; 00:34:30,862
@@ -1579,12 +1579,12 @@ Fredrik, the cacti you planted in the park need to go.
 282
 00:34:53,426 --&gt; 00:34:56,095
 我的猫一点都不喜欢它们
-My cats don&apos;t like them at all.
+My cats don't like them at all.
 
 283
 00:35:24,999 --&gt; 00:35:27,919
 我们去书房喝咖啡吧
-We&apos;ll have coffee in the library.
+We'll have coffee in the library.
 
 284
 00:35:54,862 --&gt; 00:35:56,614
@@ -1634,12 +1634,12 @@ Music.
 293
 00:38:39,026 --&gt; 00:38:43,531
 &lt;i&gt;《魔笛》&lt;/i&gt;是最好的经典 我等下就向您证明
-&lt;i&gt;The Magic Flute&lt;/i&gt; is the prime example. One moment and I&apos;ll prove it to you.
+&lt;i&gt;The Magic Flute&lt;/i&gt; is the prime example. One moment and I'll prove it to you.
 
 294
 00:38:46,617 --&gt; 00:38:50,079
 这一幕 塔米诺的向导刚把他抛弃在
-Tamino&apos;s guide has just left him in the dark palace courtyard
+Tamino's guide has just left him in the dark palace courtyard
 
 295
 00:38:50,162 --&gt; 00:38:52,164
@@ -1654,12 +1654,12 @@ And the young man cries out in despair:
 297
 00:38:54,792 --&gt; 00:38:57,878
 “哦！永远的黑暗，你何时消失？
-&quot;O eternal night, when will you come to an end?
+"O eternal night, when will you come to an end?
 
 298
 00:38:58,713 --&gt; 00:39:02,383
 我的眼睛何时能见到光明？”
-When shall the light find my eyes?&quot;
+When shall the light find my eyes?"
 
 299
 00:39:04,051 --&gt; 00:39:08,681
@@ -1674,7 +1674,7 @@ The reply from the choir and orchestra is also,
 301
 00:39:12,810 --&gt; 00:39:17,189
 “快了，快了，年轻人，要么永远不能！”
-&quot;Soon, soon, youth, or never.&quot;
+"Soon, soon, youth, or never."
 
 302
 00:39:19,775 --&gt; 00:39:26,073
@@ -1689,7 +1689,7 @@ Tamino asks:
 304
 00:39:29,952 --&gt; 00:39:32,079
 “帕米娜还活着吗？”
-&quot;Is Pamina still alive?&quot;
+"Is Pamina still alive?"
 
 305
 00:39:33,205 --&gt; 00:39:35,541
@@ -1699,7 +1699,7 @@ The invisible choir answers,
 306
 00:39:36,083 --&gt; 00:39:38,878
 “帕米娜还活着！”
-&quot;Pamina. Pamina is still alive.&quot;
+"Pamina. Pamina is still alive."
 
 307
 00:39:40,796 --&gt; 00:39:47,428
@@ -1724,7 +1724,7 @@ This is no longer the name of a young woman.
 311
 00:40:01,901 --&gt; 00:40:05,988
 而是一个魔法 一个咒语
-It&apos;s a spell, an incantation.
+It's a spell, an incantation.
 
 312
 00:40:06,822 --&gt; 00:40:10,242
@@ -1739,7 +1739,7 @@ and yet the greatest manifestation of art.
 314
 00:40:14,246 --&gt; 00:40:16,457
 你不这么想吗 艺术家先生
-Isn&apos;t that so, Mr. Artist?
+Isn't that so, Mr. Artist?
 
 315
 00:40:17,666 --&gt; 00:40:21,879
@@ -1804,7 +1804,7 @@ to be brought back down to earth.
 327
 00:40:55,037 --&gt; 00:40:57,832
 然而 这并不能妨碍我创作的冲动
-However, that doesn&apos;t inhibit the compulsion.
+However, that doesn't inhibit the compulsion.
 
 328
 00:40:57,915 --&gt; 00:41:00,709
@@ -1824,12 +1824,12 @@ I propose a toast to our artist.
 331
 00:41:05,339 --&gt; 00:41:07,800
 他不仅是个天才 还是个深刻的思想家
-He&apos;s not only a genius, but a deep thinker as well.
+He's not only a genius, but a deep thinker as well.
 
 332
 00:41:07,883 --&gt; 00:41:09,802
 完蛋 我没料到会这样
-I&apos;ll be damned. I didn&apos;t expect that.
+I'll be damned. I didn't expect that.
 
 333
 00:41:09,885 --&gt; 00:41:12,805
@@ -1844,12 +1844,12 @@ I must have gotten your cheek with my fingernail.
 335
 00:41:16,934 --&gt; 00:41:20,271
 让我看看 哦 你在流血 用我的手帕
-Let&apos;s see. Oh, you&apos;re bleeding. Here&apos;s my handkerchief.
+Let's see. Oh, you're bleeding. Here's my handkerchief.
 
 336
 00:41:20,354 --&gt; 00:41:23,357
 - 别动 这很干净 - 我们的艺术家受伤了
-- No, it&apos;s clean. - Our artist has been wounded.
+- No, it's clean. - Our artist has been wounded.
 
 337
 00:41:23,440 --&gt; 00:41:26,610
@@ -1859,7 +1859,7 @@ Imagine that I would be so clumsy.
 338
 00:41:29,446 --&gt; 00:41:32,241
 冷静点 你喝多了
-Be calm. You&apos;ve had too much to drink.
+Be calm. You've had too much to drink.
 
 339
 00:41:32,324 --&gt; 00:41:34,410
@@ -1869,32 +1869,32 @@ Stay with me now.
 340
 00:41:34,493 --&gt; 00:41:37,121
 他昨晚失眠了 所以他不能应酬太久
-He doesn&apos;t sleep at night. That&apos;s why he can&apos;t handle too much.
+He doesn't sleep at night. That's why he can't handle too much.
 
 341
 00:41:37,204 --&gt; 00:41:39,540
 来吧 我们出去透透气
-Come, let&apos;s get some air.
+Come, let's get some air.
 
 342
 00:41:43,294 --&gt; 00:41:46,380
 城堡的核心区域建于15世纪
-The castle&apos;s core is actually from the 1400s.
+The castle's core is actually from the 1400s.
 
 343
 00:41:46,922 --&gt; 00:41:49,717
 直到16世纪晚期才属于我们家族
-It&apos;s belonged to the family since the late 1500s.
+It's belonged to the family since the late 1500s.
 
 344
 00:41:49,800 --&gt; 00:41:53,470
 我们有点激动 这是在所难免的 我们一直以来都与世隔绝
-We got a little excited. It&apos;s no wonder, we are so isolated here.
+We got a little excited. It's no wonder, we are so isolated here.
 
 345
 00:41:53,554 --&gt; 00:41:56,765
 我们吓到你了 但你不会疏远我们的 对不对
-We simply frightened you. But now you won&apos;t leave us, will you?
+We simply frightened you. But now you won't leave us, will you?
 
 346
 00:41:56,849 --&gt; 00:41:59,852
@@ -1919,7 +1919,7 @@ Where did Ernst go? Ernst, my friend, where are you?
 350
 00:42:09,403 --&gt; 00:42:14,617
 我离开了一会儿 我为花园被荒废而感到羞耻
-I went off a little. I&apos;m ashamed that the park is so neglected.
+I went off a little. I'm ashamed that the park is so neglected.
 
 351
 00:42:14,700 --&gt; 00:42:17,786
@@ -1964,7 +1964,7 @@ His face is deathly pale, his eyes filled with hate.
 359
 00:42:41,101 --&gt; 00:42:44,647
 我整个人都懵掉了 我感觉不舒服并且开始流鼻血
-I don&apos;t understand anything. I just feel sick and get a nosebleed.
+I don't understand anything. I just feel sick and get a nosebleed.
 
 360
 00:42:44,730 --&gt; 00:42:48,734
@@ -1979,17 +1979,17 @@ And after the man has disappeared, I ask myself,
 362
 00:42:52,029 --&gt; 00:42:55,074
 “就是这样吗 一定要变成这样的局面吗”
-&quot;Is this how it is? Does it have to be like this?&quot;
+"Is this how it is? Does it have to be like this?"
 
 363
 00:42:55,157 --&gt; 00:42:58,285
 我永远都忘不了那个人的眼睛
-I&apos;ll never forget the man&apos;s eyes.
+I'll never forget the man's eyes.
 
 364
 00:42:59,620 --&gt; 00:43:01,538
 不用担心
-It&apos;s nothing to worry about.
+It's nothing to worry about.
 
 365
 00:43:01,622 --&gt; 00:43:06,001
@@ -2015,12 +2015,12 @@ Alma, dear, come along.
 369
 00:43:16,220 --&gt; 00:43:18,180
 她睡着了 我们别打扰她了
-She&apos;s sleeping. Let&apos;s not bother her.
+She's sleeping. Let's not bother her.
 
 370
 00:43:18,264 --&gt; 00:43:20,057
 不 我没有睡着
-No, I&apos;m not sleeping.
+No, I'm not sleeping.
 
 371
 00:43:20,140 --&gt; 00:43:23,602
@@ -2030,17 +2030,17 @@ No, I&apos;m not sleeping.
 372
 00:43:23,686 --&gt; 00:43:25,062
 很快的
-It won&apos;t take long.
+It won't take long.
 
 373
 00:43:25,938 --&gt; 00:43:30,025
 艾尔玛 你将看到你丈夫创作的精美杰作
-Alma, you&apos;re going to see something very beautiful your husband has made.
+Alma, you're going to see something very beautiful your husband has made.
 
 374
 00:43:30,526 --&gt; 00:43:32,111
 这就是那幅画
-Here&apos;s the painting,
+Here's the painting,
 
 375
 00:43:32,695 --&gt; 00:43:34,613
@@ -2055,7 +2055,7 @@ I can see it every morning and night.
 377
 00:43:37,825 --&gt; 00:43:40,536
 它已经成为了我寂寞的生活的一部分
-It&apos;s become part of my lonely life.
+It's become part of my lonely life.
 
 378
 00:43:44,623 --&gt; 00:43:46,625
@@ -2080,17 +2080,17 @@ Forgive me for asking something so personal.
 382
 00:43:58,053 --&gt; 00:43:59,555
 他说过关于她的事吗
-He&apos;s told you?
+He's told you?
 
 383
 00:44:00,389 --&gt; 00:44:02,182
 他爱她 不是吗
-He loved her, didn&apos;t he?
+He loved her, didn't he?
 
 384
 00:44:02,850 --&gt; 00:44:04,643
 甚至不需要问
-I don&apos;t need to ask.
+I don't need to ask.
 
 385
 00:44:05,936 --&gt; 00:44:08,480
@@ -2110,12 +2110,12 @@ Jealous?
 388
 00:44:14,320 --&gt; 00:44:17,031
 - 我不相信 - 我的丈夫非常嫉妒
-- I don&apos;t believe so. - My husband is quite jealous.
+- I don't believe so. - My husband is quite jealous.
 
 389
 00:44:17,114 --&gt; 00:44:19,450
 他是个绝佳的情人
-He&apos;s an excellent lover.
+He's an excellent lover.
 
 390
 00:44:21,076 --&gt; 00:44:23,287
@@ -2125,7 +2125,7 @@ Look at this mark, by the way.
 391
 00:44:24,038 --&gt; 00:44:27,750
 这是其他男人 应该怎么说 求爱时留下的
-It&apos;s a scar from another man&apos;s, shall we say, advances.
+It's a scar from another man's, shall we say, advances.
 
 392
 00:44:27,833 --&gt; 00:44:30,627
@@ -2135,17 +2135,17 @@ An eternal spring of renewed excitement.
 393
 00:44:32,629 --&gt; 00:44:37,343
 当然 这些看似微不足道 但对我来说却如同春药
-All of it is very trivial, of course, but for me it&apos;s stimulating.
+All of it is very trivial, of course, but for me it's stimulating.
 
 394
 00:44:37,426 --&gt; 00:44:39,303
 很快我就需要增添一块新的疤痕
-Soon I&apos;ll have to come up with something new.
+Soon I'll have to come up with something new.
 
 395
 00:44:39,386 --&gt; 00:44:42,514
 这块不可能永远历久弥新
-That scar won&apos;t remain fascinating forever.
+That scar won't remain fascinating forever.
 
 396
 00:44:42,598 --&gt; 00:44:44,350
@@ -2155,12 +2155,12 @@ Can you help me?
 397
 00:44:44,433 --&gt; 00:44:46,727
 艾尔玛 亲爱的 别生气
-Alma, dear, don&apos;t get angry.
+Alma, dear, don't get angry.
 
 398
 00:44:46,810 --&gt; 00:44:49,229
 我只是开玩笑的
-I&apos;m only kidding.
+I'm only kidding.
 
 399
 00:44:49,813 --&gt; 00:44:51,231
@@ -2170,7 +2170,7 @@ It was a silly joke.
 400
 00:44:51,315 --&gt; 00:44:53,400
 来吧 我们去跟其他人汇合
-Come now. Let&apos;s go join the others.
+Come now. Let's go join the others.
 
 401
 00:44:58,781 --&gt; 00:45:02,284
@@ -2180,17 +2180,17 @@ I have at least bought a fairly significant piece of your husband.
 402
 00:45:04,286 --&gt; 00:45:06,246
 你不这样认为吗
-Don&apos;t you think?
+Don't you think?
 
 403
 00:45:27,643 --&gt; 00:45:30,104
 我应该告诉你我读了你的日记
-I should tell you that I&apos;ve read your diary,
+I should tell you that I've read your diary,
 
 404
 00:45:30,187 --&gt; 00:45:32,773
 我害怕得快要吐出来了
-and I&apos;m almost sick with fear.
+and I'm almost sick with fear.
 
 405
 00:45:32,856 --&gt; 00:45:35,317
@@ -2200,12 +2200,12 @@ Wait! Let me finish talking.
 406
 00:45:35,401 --&gt; 00:45:38,529
 我想让你知道这几天我在想什么
-I want you to hear what I&apos;ve been thinking these past few days.
+I want you to hear what I've been thinking these past few days.
 
 407
 00:45:38,612 --&gt; 00:45:40,322
 我想的是
-This is what I&apos;ve been thinking.
+This is what I've been thinking.
 
 408
 00:45:40,406 --&gt; 00:45:43,200
@@ -2215,17 +2215,17 @@ I can see something is going to happen, something evil.
 409
 00:45:43,283 --&gt; 00:45:45,786
 我不知道如何定义它
-I don&apos;t know what to call it.
+I don't know what to call it.
 
 410
 00:45:46,537 --&gt; 00:45:49,331
 但如果你认为我会逃走—
-But if you think I&apos;m going to run away —
+But if you think I'm going to run away —
 
 411
 00:45:49,415 --&gt; 00:45:52,459
 不管我多么害怕 我都不会逃走的
-I&apos;m not going to run away, no matter how frightened I am.
+I'm not going to run away, no matter how frightened I am.
 
 412
 00:45:54,294 --&gt; 00:45:56,171
@@ -2240,7 +2240,7 @@ They want to separate us. They want you for themselves.
 414
 00:46:00,050 --&gt; 00:46:02,719
 只要我跟你在一起 他们就不会轻易成功
-As long as I&apos;m with you, it&apos;ll be more difficult.
+As long as I'm with you, it'll be more difficult.
 
 415
 00:46:04,096 --&gt; 00:46:05,097
@@ -2250,12 +2250,12 @@ Johan.
 416
 00:46:06,140 --&gt; 00:46:09,476
 不管他们想要做什么 我都不会逃走的
-I&apos;m not going to run away, no matter what they try.
+I'm not going to run away, no matter what they try.
 
 417
 00:46:10,269 --&gt; 00:46:12,855
 我会留下来 我会陪着你
-I&apos;ll stay, I will. I&apos;ll stay.
+I'll stay, I will. I'll stay.
 
 418
 00:46:14,356 --&gt; 00:46:16,400
@@ -2275,7 +2275,7 @@ HOUR OF THE WOLF
 421
 00:47:50,869 --&gt; 00:47:54,831
 - 你听 多么寂静 - 是啊 寂静
-- Do you hear how quiet it is? - Yes, it&apos;s quiet.
+- Do you hear how quiet it is? - Yes, it's quiet.
 
 422
 00:48:00,712 --&gt; 00:48:04,383
@@ -2310,7 +2310,7 @@ Waking up without fear.
 428
 00:48:24,152 --&gt; 00:48:27,531
 我们要注视着黑夜直到黎明降临
-Now we&apos;ve kept watch every night until dawn.
+Now we've kept watch every night until dawn.
 
 429
 00:48:30,617 --&gt; 00:48:33,078
@@ -2320,17 +2320,17 @@ This hour is the most difficult.
 430
 00:48:36,123 --&gt; 00:48:38,125
 - 你知道人们怎么说吗 - 不知道
-- Do you know what it&apos;s called? - No.
+- Do you know what it's called? - No.
 
 431
 00:48:39,167 --&gt; 00:48:41,878
 老人们称之为“豺狼时刻”
-Old people used to call it the &quot;hour of the wolf.&quot;
+Old people used to call it the "hour of the wolf."
 
 432
 00:48:42,879 --&gt; 00:48:45,173
 大多数人会在这一个小时里死去
-It&apos;s the hour when the most people die,
+It's the hour when the most people die,
 
 433
 00:48:45,882 --&gt; 00:48:47,968
@@ -2340,7 +2340,7 @@ when the most babies are born.
 434
 00:48:48,552 --&gt; 00:48:50,971
 这是梦魇主宰我们的时刻
-It&apos;s the hour when nightmares come to us.
+It's the hour when nightmares come to us.
 
 435
 00:48:52,639 --&gt; 00:48:55,434
@@ -2360,7 +2360,7 @@ What is it?
 438
 00:49:06,069 --&gt; 00:49:09,281
 没事 只是突然想起小时候的事情
-It&apos;s nothing. I just thought of something from my childhood.
+It's nothing. I just thought of something from my childhood.
 
 439
 00:49:10,032 --&gt; 00:49:14,661
@@ -2475,22 +2475,22 @@ My father said,
 461
 00:50:26,358 --&gt; 00:50:29,069
 “你的母亲告诉你在祈求宽恕”
-&quot;Mother tells me that you beg for forgiveness.&quot;
+"Mother tells me that you beg for forgiveness."
 
 462
 00:50:29,903 --&gt; 00:50:33,782
 我回答：“是的 我诚恳地祈求宽恕”
-And I said, &quot;Yes, I beg so much for forgiveness.&quot;
+And I said, "Yes, I beg so much for forgiveness."
 
 463
 00:50:35,075 --&gt; 00:50:38,161
 “去把沙发惩罚准备好”他说
-&quot;Prepare the couch then,&quot; he said.
+"Prepare the couch then," he said.
 
 464
 00:50:39,246 --&gt; 00:50:42,457
 我走到父亲房间的绿色沙发前
-I went to the green couch in my father&apos;s room,
+I went to the green couch in my father's room,
 
 465
 00:50:42,541 --&gt; 00:50:47,796
@@ -2510,12 +2510,12 @@ and laid down over the pillows.
 468
 00:50:56,763 --&gt; 00:51:01,435
 父亲问我：“汝罪有几”
-Father asked, &quot;How many strokes do you deserve?&quot;
+Father asked, "How many strokes do you deserve?"
 
 469
 00:51:03,061 --&gt; 00:51:06,648
 我说：“擢发难数 任凭发落”
-And I said, &quot;As many strokes as possible.&quot;
+And I said, "As many strokes as possible."
 
 470
 00:51:08,150 --&gt; 00:51:10,652
@@ -2535,12 +2535,12 @@ When the punishment was over I turned towards Mother and asked,
 473
 00:51:24,416 --&gt; 00:51:26,251
 “请问母亲原谅我了吗”
-&quot;Can Mother forgive me now?&quot;
+"Can Mother forgive me now?"
 
 474
 00:51:27,085 --&gt; 00:51:32,215
 她哭着说：“我当然原谅你了”
-And she cried, and said, &quot;Of course I forgive you.&quot;
+And she cried, and said, "Of course I forgive you."
 
 475
 00:51:35,010 --&gt; 00:51:37,596
@@ -2560,7 +2560,7 @@ Alma, are you listening? Are you sleeping?
 478
 00:51:55,113 --&gt; 00:51:57,157
 不 我醒着呢
-No, I&apos;m awake.
+No, I'm awake.
 
 479
 00:51:58,867 --&gt; 00:52:01,119
@@ -2570,7 +2570,7 @@ My back hurts.
 480
 00:52:03,371 --&gt; 00:52:05,957
 你能相信外面还是漆黑一片吗
-Can you believe that it&apos;s pitch-black out there still?
+Can you believe that it's pitch-black out there still?
 
 481
 00:52:08,084 --&gt; 00:52:10,128
@@ -2580,7 +2580,7 @@ Do you hear how quiet it is?
 482
 00:52:11,296 --&gt; 00:52:14,674
 大海平静的时候我就会觉得奇怪
-It&apos;s strange when the sea is completely calm.
+It's strange when the sea is completely calm.
 
 483
 00:52:15,425 --&gt; 00:52:17,135
@@ -2590,7 +2590,7 @@ Scary somehow.
 484
 00:52:17,719 --&gt; 00:52:19,262
 你不这样觉得吗
-Don&apos;t you think?
+Don't you think?
 
 485
 00:52:19,346 --&gt; 00:52:20,847
@@ -2600,12 +2600,12 @@ Are you crying?
 486
 00:52:20,931 --&gt; 00:52:22,140
 不 我没有
-No, I&apos;m not.
+No, I'm not.
 
 487
 00:52:24,100 --&gt; 00:52:26,186
 我只是在想孩子
-I&apos;m thinking of the child...
+I'm thinking of the child...
 
 488
 00:52:27,187 --&gt; 00:52:30,190
@@ -2615,7 +2615,7 @@ and of this great, silent darkness.
 489
 00:52:30,857 --&gt; 00:52:33,401
 仿佛光明永远都不会重现
-It&apos;s almost as if it will never be light again.
+It's almost as if it will never be light again.
 
 490
 00:52:34,319 --&gt; 00:52:35,779
@@ -2630,12 +2630,12 @@ Give me your hand.
 492
 00:52:41,785 --&gt; 00:52:43,829
 这样好多了
-That&apos;s much better.
+That's much better.
 
 493
 00:52:49,125 --&gt; 00:52:53,213
 你还记得有一天我回来说我被蛇咬了吗
-Remember that day I came home and said I&apos;d been bitten by a snake?
+Remember that day I came home and said I'd been bitten by a snake?
 
 494
 00:52:53,296 --&gt; 00:52:55,006
@@ -2650,12 +2650,12 @@ It was no snake bite.
 496
 00:52:59,928 --&gt; 00:53:01,847
 不是蛇吗
-It wasn&apos;t a snake bite?
+It wasn't a snake bite?
 
 497
 00:53:04,683 --&gt; 00:53:07,727
 我本不打算告诉任何人 我甚至不知道—
-I never thought I&apos;d tell anybody. I don&apos;t even know if —
+I never thought I'd tell anybody. I don't even know if —
 
 498
 00:53:08,979 --&gt; 00:53:10,730
@@ -2670,7 +2670,7 @@ You can never tell anybody.
 500
 00:53:13,692 --&gt; 00:53:17,487
 我保证 我绝不告诉任何人
-No, I promise. I&apos;ll never tell anybody.
+No, I promise. I'll never tell anybody.
 
 501
 00:53:18,154 --&gt; 00:53:20,365
@@ -2705,7 +2705,7 @@ Sorry to disturb you. A thousand pardons.
 507
 01:00:07,814 --&gt; 01:00:11,734
 看起来风暴要来了 所以我想最好进来躲一躲
-It looks like a storm is coming, so I thought I&apos;d stop in for a while.
+It looks like a storm is coming, so I thought I'd stop in for a while.
 
 508
 01:00:12,485 --&gt; 01:00:14,696
@@ -2715,17 +2715,17 @@ I have an errand as well.
 509
 01:00:15,655 --&gt; 01:00:19,075
 我能坐下吗 我保证不会叨扰你们太久
-May I sit down? I promise I won&apos;t be long-winded.
+May I sit down? I promise I won't be long-winded.
 
 510
 01:00:23,121 --&gt; 01:00:24,998
 我是来送来自城堡的邀请函的
-I&apos;m here with an invitation from the castle.
+I'm here with an invitation from the castle.
 
 511
 01:00:25,081 --&gt; 01:00:26,916
 我们要举行一个小派对
-We&apos;re going to have a little party.
+We're going to have a little party.
 
 512
 01:00:27,000 --&gt; 01:00:29,419
@@ -2755,17 +2755,17 @@ But it will interest you.
 517
 01:00:40,596 --&gt; 01:00:43,850
 维罗妮卡也会赴约
-Veronica Vogler has accepted. She&apos;ll be there.
+Veronica Vogler has accepted. She'll be there.
 
 518
 01:00:44,892 --&gt; 01:00:46,894
 你也会来的 不是吗
-And you&apos;ll come as well, won&apos;t you?
+And you'll come as well, won't you?
 
 519
 01:00:47,603 --&gt; 01:00:49,105
 那就这么说定了
-Then it&apos;s agreed.
+Then it's agreed.
 
 520
 01:00:51,357 --&gt; 01:00:54,152
@@ -2785,7 +2785,7 @@ I mean, against all the small game on the island.
 523
 01:01:01,909 --&gt; 01:01:03,870
 大概就这些事了
-That&apos;s all for the moment.
+That's all for the moment.
 
 524
 01:01:03,953 --&gt; 01:01:07,165
@@ -2795,7 +2795,7 @@ Good morning, dear friends. Hope to see you at our little party.
 525
 01:01:13,421 --&gt; 01:01:15,757
 你不把枪锁起来吗
-Shouldn&apos;t you lock up that weapon?
+Shouldn't you lock up that weapon?
 
 526
 01:01:15,840 --&gt; 01:01:17,467
@@ -2810,7 +2810,7 @@ What are we going to do now?
 528
 01:01:25,516 --&gt; 01:01:28,061
 你要告诉我关于维罗妮卡的事情
-You&apos;re going to tell me about Veronica Vogler.
+You're going to tell me about Veronica Vogler.
 
 529
 01:01:33,066 --&gt; 01:01:35,276
@@ -2845,12 +2845,12 @@ Then it ended.
 535
 01:01:45,286 --&gt; 01:01:47,580
 你日记里可不是这样写的
-That&apos;s not what it says in your diary.
+That's not what it says in your diary.
 
 536
 01:01:55,338 --&gt; 01:01:58,883
 “我对维罗妮卡的爱意逐渐成为我们两人的枷锁
-&quot;My attachment to Veronica finally became agonizing for both of us.
+"My attachment to Veronica finally became agonizing for both of us.
 
 537
 01:01:59,384 --&gt; 01:02:03,262
@@ -2880,7 +2880,7 @@ that lacked any semblance of reason.
 542
 01:02:14,732 --&gt; 01:02:18,569
 我们四处躲藏 以便不被她的家人和律师发现”
-We traveled from town to town to evade her relatives and lawyers.&quot;
+We traveled from town to town to evade her relatives and lawyers."
 
 543
 01:02:20,988 --&gt; 01:02:22,323
@@ -2890,7 +2890,7 @@ No!
 544
 01:02:26,202 --&gt; 01:02:28,496
 “我们真正意义上地映证了圣经里说的——
-&quot;We truly embodied the words of the Bible
+"We truly embodied the words of the Bible
 
 545
 01:02:28,579 --&gt; 01:02:31,624
@@ -2910,7 +2910,7 @@ I was taken to the hospital.
 548
 01:02:38,089 --&gt; 01:02:40,299
 几年间我们再也没有见过对方”
-We didn&apos;t see each other for several years.&quot;
+We didn't see each other for several years."
 
 549
 01:02:47,140 --&gt; 01:02:49,392
@@ -2950,17 +2950,17 @@ I was wrong.
 556
 01:03:24,844 --&gt; 01:03:26,679
 我一无所知
-I don&apos;t understand a thing.
+I don't understand a thing.
 
 557
 01:03:30,099 --&gt; 01:03:33,603
 我对世界一无所知 我对你一无所知
-I don&apos;t understand a thing. I don&apos;t understand you.
+I don't understand a thing. I don't understand you.
 
 558
 01:03:34,645 --&gt; 01:03:36,939
 现在 我只剩下恐惧
-Now I&apos;m only frightened.
+Now I'm only frightened.
 
 559
 01:03:38,232 --&gt; 01:03:42,403
@@ -3010,7 +3010,7 @@ Walk down the steps.
 568
 01:05:07,363 --&gt; 01:05:09,407
 天已经亮了 你能找到路
-It&apos;s not dark anymore, you&apos;ll find your way.
+It's not dark anymore, you'll find your way.
 
 569
 01:05:36,434 --&gt; 01:05:39,312
@@ -3035,12 +3035,12 @@ There you go.
 573
 01:05:45,026 --&gt; 01:05:48,487
 谢谢你 这是我的晚餐
-Thank you. It&apos;s my evening meal, you see.
+Thank you. It's my evening meal, you see.
 
 574
 01:05:49,155 --&gt; 01:05:51,282
 林德霍斯特——这个世界上最智慧的人
-Lindhorst, who&apos;s wise in the way of the world,
+Lindhorst, who's wise in the way of the world,
 
 575
 01:05:51,365 --&gt; 01:05:53,618
@@ -3060,7 +3060,7 @@ Are you sure you do not want any?
 578
 01:06:01,000 --&gt; 01:06:02,835
 今晚不是有个派对吗
-Isn&apos;t there a party this evening?
+Isn't there a party this evening?
 
 579
 01:06:03,502 --&gt; 01:06:05,212
@@ -3070,7 +3070,7 @@ Not as far as I know.
 580
 01:06:06,839 --&gt; 01:06:10,009
 不 不 别急着走
-No, no. Don&apos;t go.
+No, no. Don't go.
 
 581
 01:06:12,928 --&gt; 01:06:15,097
@@ -3080,7 +3080,7 @@ Please help me remove my stockings.
 582
 01:06:18,184 --&gt; 01:06:20,227
 你不愿意碰我
-You don&apos;t like touching me.
+You don't like touching me.
 
 583
 01:06:20,978 --&gt; 01:06:23,189
@@ -3090,7 +3090,7 @@ I can sense it clearly.
 584
 01:06:23,814 --&gt; 01:06:25,775
 我搞不懂你
-I don&apos;t understand you.
+I don't understand you.
 
 585
 01:06:27,193 --&gt; 01:06:29,904
@@ -3100,7 +3100,7 @@ Veronica Vogler has arrived...
 586
 01:06:31,489 --&gt; 01:06:34,325
 而我是唯一一个能告诉你她在哪里的人
-and I&apos;m the only one who can tell you where she is.
+and I'm the only one who can tell you where she is.
 
 587
 01:06:36,661 --&gt; 01:06:39,705
@@ -3120,7 +3120,7 @@ Look closely. Look at my heel.
 590
 01:06:46,420 --&gt; 01:06:48,631
 如此光滑美丽
-It&apos;s so smooth and nice.
+It's so smooth and nice.
 
 591
 01:06:49,215 --&gt; 01:06:53,469
@@ -3145,12 +3145,12 @@ There you go.
 595
 01:07:01,018 --&gt; 01:07:02,728
 你表现得很好
-You&apos;ve been kind,
+You've been kind,
 
 596
 01:07:03,270 --&gt; 01:07:06,941
 我会告诉你她在哪
-so I&apos;ll tell you where she is.
+so I'll tell you where she is.
 
 597
 01:07:10,403 --&gt; 01:07:13,239
@@ -3165,7 +3165,7 @@ At least she was there five minutes ago.
 599
 01:07:51,360 --&gt; 01:07:54,155
 - 请原谅 我以为— - 这里永远欢迎你 亲爱的朋友
-- Forgive me, I thought — - You&apos;re always welcome, dear friend.
+- Forgive me, I thought — - You're always welcome, dear friend.
 
 600
 01:07:54,697 --&gt; 01:07:58,159
@@ -3180,7 +3180,7 @@ Let us speak candidly.
 602
 01:08:01,662 --&gt; 01:08:03,873
 你是来找维罗妮卡的
-You&apos;re here looking for Veronica Vogler.
+You're here looking for Veronica Vogler.
 
 603
 01:08:05,416 --&gt; 01:08:10,546
@@ -3195,7 +3195,7 @@ Your shared past has kindly been detailed for me.
 605
 01:08:17,052 --&gt; 01:08:19,388
 我坦白 这让我非常痛苦
-I can assure you I&apos;m suffering.
+I can assure you I'm suffering.
 
 606
 01:08:20,639 --&gt; 01:08:22,850
@@ -3215,12 +3215,12 @@ I will be spared nothing.
 609
 01:08:29,732 --&gt; 01:08:31,525
 来吧 我给你带路
-Come, I&apos;ll show you the way.
+Come, I'll show you the way.
 
 610
 01:09:13,567 --&gt; 01:09:16,612
 我只是太嫉妒了 请你离开
-It&apos;s only my jealousy. Please go away.
+It's only my jealousy. Please go away.
 
 611
 01:09:17,947 --&gt; 01:09:19,365
@@ -3236,7 +3236,7 @@ Of course. Naturally.
 01:10:15,790 --&gt; 01:10:18,590
 （弗里茨·克莱斯勒 奥地利音乐家 于1962年逝世）
 指挥家克莱斯勒在演奏
-It&apos;s Conductor Kreisler playing.
+It's Conductor Kreisler playing.
 
 614
 01:10:21,510 --&gt; 01:10:25,764
@@ -3246,7 +3246,7 @@ Conductor Kreisler is a master of his instrument.
 615
 01:10:30,728 --&gt; 01:10:33,731
 你不觉得维罗妮卡等得太久了吗
-Don&apos;t you think Veronica has waited long enough?
+Don't you think Veronica has waited long enough?
 
 616
 01:10:34,440 --&gt; 01:10:37,818
@@ -3256,7 +3256,7 @@ She started to prepare for your visit early this morning.
 617
 01:10:40,321 --&gt; 01:10:42,156
 她变得比之前更动人了
-She&apos;s become even more beautiful.
+She's become even more beautiful.
 
 618
 01:10:43,324 --&gt; 01:10:44,867
@@ -3266,7 +3266,7 @@ My husband is suffering.
 619
 01:10:45,492 --&gt; 01:10:47,077
 他很嫉妒
-He&apos;s jealous.
+He's jealous.
 
 620
 01:10:49,163 --&gt; 01:10:51,665
@@ -3296,27 +3296,27 @@ It really smells of glue.
 625
 01:11:28,035 --&gt; 01:11:30,955
 尽管她坚持声称那是合成物
-Though she insists it&apos;s all synthetic.
+Though she insists it's all synthetic.
 
 626
 01:11:31,038 --&gt; 01:11:33,791
 但胶水就是胶水 她骗不到我
-But regular glue is what it is. She doesn&apos;t fool me.
+But regular glue is what it is. She doesn't fool me.
 
 627
 01:12:00,526 --&gt; 01:12:02,486
 对这种事我们都轻车熟路了 不是吗
-We know our tricks, don&apos;t we?
+We know our tricks, don't we?
 
 628
 01:12:02,569 --&gt; 01:12:05,364
 检查一下有没有准备好
-Let&apos;s see if we&apos;re presentable.
+Let's see if we're presentable.
 
 629
 01:12:05,447 --&gt; 01:12:09,660
 亲爱的朋友 你太苍白了 看起来不太好
-You&apos;re so pale, dear friend. What a sight you are.
+You're so pale, dear friend. What a sight you are.
 
 630
 01:12:09,743 --&gt; 01:12:13,497
@@ -3326,7 +3326,7 @@ Your lips are as blue as blueberries. We have to do something about that. Sit.
 631
 01:12:14,957 --&gt; 01:12:18,544
 看看我们能想出什么办法
-Let&apos;s see what we can come up with.
+Let's see what we can come up with.
 
 632
 01:12:20,254 --&gt; 01:12:21,463
@@ -3336,7 +3336,7 @@ Yes!
 633
 01:12:23,924 --&gt; 01:12:26,301
 画一个丘比特的弯弓
-A beautiful Cupid&apos;s bow...
+A beautiful Cupid's bow...
 
 634
 01:12:28,012 --&gt; 01:12:32,683
@@ -3356,7 +3356,7 @@ Oh, my dear.
 637
 01:12:48,490 --&gt; 01:12:52,828
 我们再画几道眼线
-We&apos;ll draw a few lines on your eyelids.
+We'll draw a few lines on your eyelids.
 
 638
 01:12:54,246 --&gt; 01:12:56,081
@@ -3366,7 +3366,7 @@ There we are.
 639
 01:12:59,710 --&gt; 01:13:02,963
 红润的肤色有益无害
-A healthier skin color wouldn&apos;t hurt.
+A healthier skin color wouldn't hurt.
 
 640
 01:13:09,678 --&gt; 01:13:14,516
@@ -3466,12 +3466,12 @@ No. No, no.
 659
 01:17:50,375 --&gt; 01:17:52,878
 不用管他们 不用管他们
-Don&apos;t worry about them. Don&apos;t worry about them.
+Don't worry about them. Don't worry about them.
 
 660
 01:17:52,961 --&gt; 01:17:54,421
 - 放开我 - 不用管—
-- Let me be. - Don&apos;t worry —
+- Let me be. - Don't worry —
 
 661
 01:18:58,693 --&gt; 01:19:00,362
@@ -3556,7 +3556,7 @@ and then he came running back.
 677
 01:20:49,262 --&gt; 01:20:51,223
 为了安全起见 我躲了起来
-I hid for safety&apos;s sake.
+I hid for safety's sake.
 
 678
 01:20:52,057 --&gt; 01:20:54,184
@@ -3601,7 +3601,7 @@ Johan.
 686
 01:22:04,045 --&gt; 01:22:05,505
 你看得见我吗
-Don&apos;t you see me?
+Don't you see me?
 
 687
 01:22:08,842 --&gt; 01:22:10,218
@@ -3626,7 +3626,7 @@ Come.
 691
 01:25:53,024 --&gt; 01:25:55,652
 我一直很好奇一件事
-I&apos;ve been wondering one thing.
+I've been wondering one thing.
 
 692
 01:25:56,653 --&gt; 01:25:58,404
@@ -3636,22 +3636,22 @@ Are you in a hurry?
 693
 01:25:58,863 --&gt; 01:26:01,032
 我想问点事情
-I&apos;d like to ask something.
+I'd like to ask something.
 
 694
 01:26:02,033 --&gt; 01:26:03,535
 就是
-It&apos;s like this...
+It's like this...
 
 695
 01:26:05,370 --&gt; 01:26:09,499
 当一个女人跟一个男人一起生活了很长时间后—
-Isn&apos;t it true that when a woman has lived with a man for a long time —
+Isn't it true that when a woman has lived with a man for a long time —
 
 696
 01:26:10,875 --&gt; 01:26:13,962
 她是不是真的会越来越像那个男人
-Isn&apos;t it true that she eventually becomes like the man?
+Isn't it true that she eventually becomes like the man?
 
 697
 01:26:15,296 --&gt; 01:26:17,257
@@ -3666,7 +3666,7 @@ tries to think like him, and see things like him.
 699
 01:26:22,720 --&gt; 01:26:25,473
 据说这样会改变一个人
-It&apos;s said that it can change a person.
+It's said that it can change a person.
 
 700
 01:26:28,518 --&gt; 01:26:31,437
@@ -3696,7 +3696,7 @@ would I have been able to protect him better?
 705
 01:26:52,834 --&gt; 01:26:56,337
 还是说 其实我根本不够爱他
-Or was it that I didn&apos;t love him enough...
+Or was it that I didn't love him enough...
 
 706
 01:26:57,338 --&gt; 01:26:59,549
@@ -3706,7 +3706,7 @@ that made me jealous?
 707
 01:27:01,593 --&gt; 01:27:06,472
 或者说是因为那些“食人者” 他是这样叫他们的
-Was it because of those &quot;man eaters,&quot;
+Was it because of those "man eaters,"
 as he called them —
 
 708
@@ -3747,7 +3747,7 @@ So many questions —
 715
 01:27:50,308 --&gt; 01:27:53,603
 有些时候 你会觉得自己一无所知 然后你就完全地…
-Sometimes you don&apos;t know up from down, and you get completely...
+Sometimes you don't know up from down, and you get completely...
 
 716
 01:28:02,000 --&gt; 01:28:10,000
@@ -3762,7 +3762,7 @@ Sometimes you don&apos;t know up from down, and you get completely...
 </review>
 <review>
 <作者>沉砾的戲碼</作者>
-<作者评分>4</作者评分>
+<标题>黑暗的另一半 他们未曾拥抱过</标题><作者评分>4</作者评分>
 <时间>2017-10-22 04:41:44</时间>
 <影评>
 
@@ -3783,7 +3783,7 @@ Sometimes you don&apos;t know up from down, and you get completely...
 </review>
 <review>
 <作者>巫力旺卡</作者>
-<作者评分>5</作者评分>
+<标题>写给我的爱人</标题><作者评分>5</作者评分>
 <时间>2022-03-27 00:09:33</时间>
 <影评>
 
@@ -3807,7 +3807,7 @@ Sometimes you don&apos;t know up from down, and you get completely...
 </review>
 <review>
 <作者>破碎杰里鱼</作者>
-<作者评分>4</作者评分>
+<标题>Pamina labet noch  爱还存在</标题><作者评分>4</作者评分>
 <时间>2022-03-10 11:57:32</时间>
 <影评>
 
@@ -3832,7 +3832,7 @@ Persona时期，伯格曼与丽芙相爱。而到了本片，丽芙已经怀孕�
 </review>
 <review>
 <作者>emfrosztovis</作者>
-<作者评分>3</作者评分>
+<标题>笔记（2023.1.12）</标题><作者评分>3</作者评分>
 <时间>2023-01-12 23:55:27</时间>
 <影评>
 
@@ -3846,11 +3846,11 @@ B
 </review>
 <review>
 <作者>Sylvia</作者>
-<作者评分></作者评分>
+<标题>Puppet: an essay on uncanny life</标题><作者评分 />
 <时间>2020-06-16 00:11:57</时间>
 <影评>
 
-Standing before the temple of wisdom, the young hero Tamino laments the darkness, wondering if daylight will ever reach his eyes, and whether his beloved is alive. The tiny puppet enters the stage slid along a groove, like a paper cutout, but we quickly see that Tamino is a living performer singing but standing stiffly, whose image has been filmed and shrunk down to fit on the puppet stage. It looks at once human and like a tiny doll. The show - staged by an ingratiating, precise, slightly vampirish aristocrat - seems designed specifically to torment the troubled painter who watches his wife, guests at the great house, fellow in habitants of an island in the North Sea. Indeed, the show at once mirrors and mocks what we know of the painter&apos;s confusion, his isolation, his sleepless terror, his waiting for light, his sense of being watched, tormented by the eyes of others. By the film&apos;s end he has become mainly the puppet of his own nightmares.
+Standing before the temple of wisdom, the young hero Tamino laments the darkness, wondering if daylight will ever reach his eyes, and whether his beloved is alive. The tiny puppet enters the stage slid along a groove, like a paper cutout, but we quickly see that Tamino is a living performer singing but standing stiffly, whose image has been filmed and shrunk down to fit on the puppet stage. It looks at once human and like a tiny doll. The show - staged by an ingratiating, precise, slightly vampirish aristocrat - seems designed specifically to torment the troubled painter who watches his wife, guests at the great house, fellow in habitants of an island in the North Sea. Indeed, the show at once mirrors and mocks what we know of the painter's confusion, his isolation, his sleepless terror, his waiting for light, his sense of being watched, tormented by the eyes of others. By the film's end he has become mainly the puppet of his own nightmares.
 
 </影评>
 <有用数>2</有用数>

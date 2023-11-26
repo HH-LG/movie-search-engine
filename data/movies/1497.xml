@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>爱丽丝梦游仙境 Alice in Wonderland</电影名>
 <年份>2010</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>天津饭</作者>
-<作者评分>2</作者评分>
+<标题>为什么乌鸦像写字台？</标题><作者评分>2</作者评分>
 <时间>2010-03-29 00:22:02</时间>
 <影评>
         （看完电影后对这句话百思不得其解，于是搜了一下，结合自己理解，大概搞清楚了这个问题的意思，写下来，希望可以帮到更多人。）
@@ -53,10 +53,10 @@
 
 序言原文：
 
-Auther&apos;s Note
+Auther's Note
 
 
-Enquiries have been so often addressed to me, as to whether any answer to the Hatter&apos;s Riddle can be imagined, that I may as well put on record here what seems to me to be a fairly appropriate answer, viz.    &apos;Because it can produce a few notes, though they are very flat; and it is nevar put with the wrong end in front!&apos;    This, however, is merely an afterthought: the Riddle, as originally invented, had no answer at all.
+Enquiries have been so often addressed to me, as to whether any answer to the Hatter's Riddle can be imagined, that I may as well put on record here what seems to me to be a fairly appropriate answer, viz.    'Because it can produce a few notes, though they are very flat; and it is nevar put with the wrong end in front!'    This, however, is merely an afterthought: the Riddle, as originally invented, had no answer at all.
 
 
 Christmas 1896
@@ -65,7 +65,7 @@ Christmas 1896
 （作者序
 
 
-读者们频繁地给我来信，询问书中疯帽匠的谜语到底有没有答案，我不妨在这里给出一个自己认为还算恰当答案，那就是“&apos;Because it can produce a few notes, though they are very flat; and it is nevar put with the wrong end in front!”。这是我后来才想出来的，最初写下谜语的时候根本就没有答案。
+读者们频繁地给我来信，询问书中疯帽匠的谜语到底有没有答案，我不妨在这里给出一个自己认为还算恰当答案，那就是“'Because it can produce a few notes, though they are very flat; and it is nevar put with the wrong end in front!”。这是我后来才想出来的，最初写下谜语的时候根本就没有答案。
 
 
 1896年圣诞节）
@@ -160,7 +160,7 @@ flat有“平坦的”和“（色彩）单调的”意思，对于乌鸦来说�
 </review>
 <review>
 <作者>Huanhuan</作者>
-<作者评分>4</作者评分>
+<标题>Tim, you did it again!</标题><作者评分>4</作者评分>
 <时间>2010-03-06 16:04:09</时间>
 <影评>
         （有剧透）
@@ -254,7 +254,7 @@ P.S.
 </review>
 <review>
 <作者>小隐隐于浆糊</作者>
-<作者评分>4</作者评分>
+<标题>红桃皇后是可爱而善良的恶人</标题><作者评分>4</作者评分>
 <时间>2010-04-01 23:32:13</时间>
 <影评>
         不知道是不是因为红桃皇后是导演的老婆的关系。
@@ -364,7 +364,7 @@ try to be nice。
 </review>
 <review>
 <作者>猫一</作者>
-<作者评分>5</作者评分>
+<标题>你会忘了我的</标题><作者评分>5</作者评分>
 <时间>2010-04-05 03:43:46</时间>
 <影评>
                 这是一个童话故事，因为只有在童话故事中，你最爱的人才会悄悄对你说：“你会忘了我的。”
@@ -402,7 +402,7 @@ try to be nice。
 </review>
 <review>
 <作者>祥瑞御兔</作者>
-<作者评分>3</作者评分>
+<标题>《爱丽丝梦游仙境》：关于电影的六个变为可能的不可能（另附卡洛尔的爱丽丝棋谱）</标题><作者评分>3</作者评分>
 <时间>2010-03-08 23:15:34</时间>
 <影评>
         可能之一，剧本：其混搭风格可能模仿了犀利哥。女编剧将两本原著、D&amp;D屠龙流程及迪斯尼经典桥段一勺烩，为观众献上一道五味杂陈的黑色童话快餐（缩小饮料X1+增长蛋糕X1），保证您像Alice一样被抻得欲仙欲死，哭笑不得。
@@ -530,7 +530,7 @@ try to be nice。
 </review>
 <review>
 <作者>意闲</作者>
-<作者评分>3</作者评分>
+<标题>十三年后</标题><作者评分>3</作者评分>
 <时间>2010-03-09 03:21:32</时间>
 <影评>
         新映3D版《爱丽丝漫游奇境记》(Alice in Wonderland）集合了不少熟悉可喜的元素，比如主要人物像红白皇后（Red Queen and White Queen）、柴郡猫（the Cheshire Cat）、制帽人（the Mad Hatter），抽水烟的毛虫（the hookah-smoking Caterpillar）等等均出自刘易斯.卡罗尔（Lewis Carroll）原本及续集《镜中奇缘》（Through The Looking-Glass)，尤其值得一提的是那只巨大的龙形怪兽，原是卡罗尔著名歪诗Jabberwocky里的同名主角，配图作者约翰.特尼尔（John Tenniel）给它赋予了血肉之躯，电影里羊皮卷轴纸上幼儿屠龙的瞬间基本上复制了特尼尔的造型，怪兽的面目，也没离开他给的模子。
@@ -542,7 +542,7 @@ try to be nice。
 电影对原著改动，只要合理，其实我并不觉得不妥。好像《爱丽丝》的酷烈角色是红心皇后，领军扑克牌，《镜中》一方是脾气火爆的象棋红皇后，电影把她俩揉成一个角色，特地做大海莲娜.波翰.卡特（Helena Bonham Carter）本来就膨膨的头，夸张之余，倒是符合象棋体态；红白对垒时，俯瞰双边整齐划一的迈步，也仿若一张大棋盘。电影浓缩了原著的高潮，亦即门球游戏及判断馅饼失窃案，移用来刻画人物，红皇后挥持火烈鸟击中蜷缩的刺猬，和她轻巧地抹去青蛙侍卫嘴角的草莓酱，不怒自威当即拿下，不过一二镜头，很可突现这位暴君的个性。
 
 
-再如爱丽丝初长高时，她惊讶得有点语无伦次，连声说，“Curiouser and curiouser!” ，电影里的独白场次换到进入花园，把她压在视界边角，浩茂深远地拉一个远景，四围充斥着艳异招摇的花草，这一刻的拍案惊奇，实在比身高更合适。然而，爱丽丝功德圆满即将离别时，导演突然天外塞一句乌鸦与书桌的谜语“Why is a raven like a writing-desk？”，疯帽人强尼.德普（Johnny Depp）泫然欲泣回答“I haven&apos;t the slightest idea&quot;，这典故，虽然也很有名，卡罗尔后来公布的答语也充满了谐音异意的智趣，不过我还是以为，如同书里，摆在茶桌上打发时间比较好，兼做唤醒回忆与依依惜别之用，实在唐突得很。
+再如爱丽丝初长高时，她惊讶得有点语无伦次，连声说，“Curiouser and curiouser!” ，电影里的独白场次换到进入花园，把她压在视界边角，浩茂深远地拉一个远景，四围充斥着艳异招摇的花草，这一刻的拍案惊奇，实在比身高更合适。然而，爱丽丝功德圆满即将离别时，导演突然天外塞一句乌鸦与书桌的谜语“Why is a raven like a writing-desk？”，疯帽人强尼.德普（Johnny Depp）泫然欲泣回答“I haven't the slightest idea"，这典故，虽然也很有名，卡罗尔后来公布的答语也充满了谐音异意的智趣，不过我还是以为，如同书里，摆在茶桌上打发时间比较好，兼做唤醒回忆与依依惜别之用，实在唐突得很。
 
 
 更唐突的是，电影布置的所有梦境人物都恰如其分，独独这位主角爱丽丝，变成一个成年后不堪现实，避忌寻梦的人。由此，原来比较松散、时现梦呓、移步换景都好似不需要什么特别理由的事件，这时候切入了些刚硬棱角。好比无论在《爱丽丝》还是《镜中》，爱丽丝就是很认真去做梦，她不会边做梦边意识自己在做梦，她只说，curiouser and curiouser，昨天之前还一切正常而今怎么变了样，她会问别人，你疯了吗？还是我疯了？而成人爱丽丝，则不断提醒自己，这是梦一场，马上会水过无痕。她处理实务，不愿直面，做梦，又不敢放手去梦，正因为这种成人理念腔，故事变得有点不伦不类，于是乎，读原著人们明知写梦，却是任性随意地好梦，人物丰俏，嘴皮子耍得不亦乐乎，即或梦醒，也有恬然余韵，天然童趣，而电影呢，哪怕交代此Wonderland（又或者所谓Underland）根本真实，观者却简直被爱丽丝的执着碎念搅得没脾气，梦过她偏偏又较真，所为何来呢？
@@ -563,7 +563,7 @@ Nor heard thy silver laughter;
 No thought of me shall find a place
 
 
-In thy young life&apos;s hereafter--
+In thy young life's hereafter--
 
 
 Enough that now thou wilt not fail
@@ -588,7 +588,7 @@ The rhythm of our rowing--
 Whose echoes live in memory yet.
 
 
-Though envious years would say &quot;forget.&quot;
+Though envious years would say "forget."
 
 
 我读之是有点心酸的。可是成长就是这样吧，花事点滴活在心里，而envious years would say “forget”。没有必要放大这种遗忘，遗忘之后又以长大后的心态去拼命回顾。如果真地选择回味，那么我情愿带着这点酸楚，重新进入那本一百多年前的、童言无忌的书里面。儿童记忆，便像小门背后的神秘花园，花木扶疏，云淡风轻。换做视觉，我也但愿，哪怕仍然不乏这些杀杀打打，还是交由小爱丽丝完成吧，那么我会做一个用心的听者观者。
@@ -605,7 +605,7 @@ http://ciyunw.blogbus.com/logs/60160293.html
 </review>
 <review>
 <作者>天津饭</作者>
-<作者评分>2</作者评分>
+<标题>白色迪斯尼与红色波顿。</标题><作者评分>2</作者评分>
 <时间>2010-03-28 01:50:49</时间>
 <影评>
         从小姑娘爱丽丝第一次梦游仙境至今，已经145年了。
@@ -701,7 +701,7 @@ http://ciyunw.blogbus.com/logs/60160293.html
 </review>
 <review>
 <作者>光軍大哥</作者>
-<作者评分>5</作者评分>
+<标题>我就是那个爱丽丝</标题><作者评分>5</作者评分>
 <时间>2010-03-07 15:12:35</时间>
 <影评>
         因为本人对于英音比较不熟悉，所以必然降低了我对这部片子的理解。
@@ -873,7 +873,7 @@ LOL.
 </review>
 <review>
 <作者>新桥妖妖</作者>
-<作者评分>3</作者评分>
+<标题>爱丽丝带我们一起做梦</标题><作者评分>3</作者评分>
 <时间>2017-05-17 13:59:35</时间>
 <影评>
 
@@ -890,7 +890,7 @@ LOL.
 </review>
 <review>
 <作者>Estelle. Q</作者>
-<作者评分>3</作者评分>
+<标题>红皇后，你要的不过是爱</标题><作者评分>3</作者评分>
 <时间>2010-04-07 11:23:58</时间>
 <影评>
         你只是喜欢红色。你只是有点任性刁蛮。你想要什么就说什么。你只是一不小心有一个奇怪的大脑袋。可是那也不能怪你，要怪只能怪爸爸妈妈没优生优育。可是你想不通，为什么就没有人讨厌你妹妹的大嘴巴？为什么就没有人看不惯她木偶一样的手势？为什么就没有人看出她的伪善？为什么就没有人看到她天真楚楚的表情后那张得逞后得意的嘴脸？

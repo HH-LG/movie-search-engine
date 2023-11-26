@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>流浪地球</电影名>
 <年份>2019</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>某猪·坑坑洼洼</作者>
-<作者评分>5</作者评分>
+<标题>【球2再次成功，笑看某些人破防】全面驳斥《流浪地球不及格》</标题><作者评分>5</作者评分>
 <时间>2019-02-06 23:25:32</时间>
 <影评>
 
@@ -170,7 +170,7 @@ https://www.zhihu.com/question/284128568/answer/590970522?utm_source=wechat_sess
 </review>
 <review>
 <作者>左丘失明</作者>
-<作者评分>1</作者评分>
+<标题>带上地球跟我走！5大问题+10大科普，看懂《流浪地球》</标题><作者评分>1</作者评分>
 <时间>2019-02-05 03:42:22</时间>
 <影评>
 
@@ -262,7 +262,7 @@ https://www.zhihu.com/question/284128568/answer/590970522?utm_source=wechat_sess
 </review>
 <review>
 <作者>乌鸦火堂</作者>
-<作者评分>5</作者评分>
+<标题>流浪地球，不及格。</标题><作者评分>5</作者评分>
 <时间>2019-02-04 23:58:11</时间>
 <影评>
 
@@ -671,7 +671,7 @@ PS，本片并不是第一部用到该原理的电影，还有一部就是迈克
 </review>
 <review>
 <作者>所有团的团长</作者>
-<作者评分>3</作者评分>
+<标题>希望你因浩瀚宇宙流泪，而不是刻意煽情</标题><作者评分>3</作者评分>
 <时间>2019-02-05 20:43:44</时间>
 <影评>
 
@@ -696,7 +696,7 @@ PS，本片并不是第一部用到该原理的电影，还有一部就是迈克
 </review>
 <review>
 <作者>青木刺猬</作者>
-<作者评分>5</作者评分>
+<标题>《流浪地球》有哪些精彩看点？</标题><作者评分>5</作者评分>
 <时间>2019-02-05 12:30:35</时间>
 <影评>
 
@@ -910,7 +910,7 @@ moss给刘培强展示的五份火种计划授权书，分别来自美、英、�
 </review>
 <review>
 <作者>Neo</作者>
-<作者评分>5</作者评分>
+<标题>流浪地球细节与彩蛋整理</标题><作者评分>5</作者评分>
 <时间>2019-01-29 04:04:19</时间>
 <影评>
 
@@ -1270,7 +1270,7 @@ https://m.weibo.cn/6988275414/4337063853468276
 </review>
 <review>
 <作者>逐鹿人</作者>
-<作者评分>4</作者评分>
+<标题>凭什么《星际穿越》硬伤很多也是神作，《流浪地球》有硬伤就要被喷呢？因为.......</标题><作者评分>4</作者评分>
 <时间>2019-02-11 19:56:48</时间>
 <影评>
 
@@ -1461,15 +1461,15 @@ Everett:@Everett
 但是，最近三四年间（略晚于《星际穿越》的时间点），物理学界对这个问题的认识发生了颠覆性的革命！人们认识到，广义相对论对引力的理解是经典的，因此其关于黑洞和虫洞的解释未必完全正确。虽然我们现在还没有一个完整的量子引力理论，但是意识到量子信息和量子引力之间的密切关系，已经深刻地改变了我们对黑洞和虫洞的看法。物理学家们发现，穿越一个虫洞原则上相当于宏观版本的量子超距传送[3-6]。而以人类目前的量子信息技术，已经可以实现若干个量子比特在地面和人造卫星之间的超距传送，这就相当于在地面和人造卫星之间建立了一个可以穿越的微观虫洞。假以时日，当人类发展出越来越强大的量子计算机，利用虫洞做时空旅行也可能不再是科幻小说的一个梦想。值得一提的是，在这项技术上，中国目前处于国际领先的地位。
 同样，量子计算也可以用来将落入黑洞中的人从事件视界后面重新挽（计）救（算）出来。大致的思路是在黑洞附近收集一些霍金辐射，只要收集到足够信息量的辐射，就可以拿回实验室以量子搜索算法重构这个人的量子信息，使落入黑洞的人从这些霍金辐射中重新涌现出来，从而达到一种“死而复生”的效果（但这个人并不会觉得自己死过）。具体的算法可以参考论文[7,8]（我在这里有点不要脸地附上了一篇自己的论文，因为我组也在从事有关“黑洞捞人”的理论研究）。
 从这些进展来看，《星际穿越》中对黑洞和虫洞的设定不但不是硬伤，反而是超前于物理学进展的神来之笔。我想这和2017年诺贝尔物理学奖得主K. Thorne曾经担任《星际穿越》的科学指导有很大关系。虽然可穿越虫洞和黑洞信息复现的理论在当时还处于萌芽状态，但是Thorne教授凭借其惊人的洞察力和卓越的物理直觉，大胆地打破成见，为大众展现了一幕幕令人震撼、为之着迷的量子引力现象。
-[1] J. Maldacena, L. Susskind. &quot;Cool horizons for entangled black holes&quot; https://arxiv.org/abs/1306.0533
-[2] L. Susskind. &quot;Copenhagen vs Everett, Teleportation, and ER=EPR&quot; https://arxiv.org/abs/1604.02589
+[1] J. Maldacena, L. Susskind. "Cool horizons for entangled black holes" https://arxiv.org/abs/1306.0533
+[2] L. Susskind. "Copenhagen vs Everett, Teleportation, and ER=EPR" https://arxiv.org/abs/1604.02589
 [3] P. Gao, D. L. Jafferis, and A. Wall, “Traversable Wormholes via a Double Trace
 Deformation” https://arxiv.org/abs/1608.05687
 [4] J. Maldacena, D. Stanford, and Z. Yang, “Diving into traversable wormholes” https://arxiv.org/abs/1704.05333
 [5] J. Maldacena and X.-L. Qi. “Eternal traversable wormhole” https://arxiv.org/abs/1804.00491
-[6] J. Maldacena, A. Milekhin, F. Popov. &quot;Traversable wormholes in four dimensions&quot; https://arxiv.org/abs/1807.04726
-[7] Beni Yoshida, Alexei Kitaev. &quot;Efficient decoding for the Hayden-Preskill protocol&quot; https://arxiv.org/abs/1710.03363
-[8] Yi-Zhuang You, Yingfei Gu. &quot;Entanglement Features of Random Hamiltonian Dynamics&quot; https://arxiv.org/abs/1803.10425
+[6] J. Maldacena, A. Milekhin, F. Popov. "Traversable wormholes in four dimensions" https://arxiv.org/abs/1807.04726
+[7] Beni Yoshida, Alexei Kitaev. "Efficient decoding for the Hayden-Preskill protocol" https://arxiv.org/abs/1710.03363
+[8] Yi-Zhuang You, Yingfei Gu. "Entanglement Features of Random Hamiltonian Dynamics" https://arxiv.org/abs/1803.10425
 
 
 </影评>
@@ -1478,7 +1478,7 @@ Deformation” https://arxiv.org/abs/1608.05687
 </review>
 <review>
 <作者>嘟角獣</作者>
-<作者评分>2</作者评分>
+<标题>《流浪地球》是华语科幻之光吗？是！它烂吗？烂！（2月28日第二次看片后更新回复）</标题><作者评分>2</作者评分>
 <时间>2019-02-02 16:22:22</时间>
 <影评>
 
@@ -1631,7 +1631,7 @@ https://www.douban.com/doubanapp/dispatch/review/9966535?dt_dapp=1
 </review>
 <review>
 <作者>无非</作者>
-<作者评分>4</作者评分>
+<标题>“人类一思考，上帝就发笑”：《流浪地球》原著小说与电影解析</标题><作者评分>4</作者评分>
 <时间>2019-02-05 21:47:26</时间>
 <影评>
 
@@ -1721,7 +1721,7 @@ https://www.douban.com/doubanapp/dispatch/review/9966535?dt_dapp=1
 </review>
 <review>
 <作者>慕明</作者>
-<作者评分>4</作者评分>
+<标题>小明的故事 ——《流浪地球》剧本问题研究</标题><作者评分>4</作者评分>
 <时间>2019-02-19 23:03:30</时间>
 <影评>
 

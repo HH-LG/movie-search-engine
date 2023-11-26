@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>皮罗斯马尼 ფიროსმანი</电影名>
 <年份>1969</年份>
@@ -14,7 +14,7 @@
 <reviews>
 <review>
 <作者>不流ᝰ</作者>
-<作者评分>5</作者评分>
+<标题>皮罗斯马尼和一百万朵玫瑰</标题><作者评分>5</作者评分>
 <时间>2015-03-08 04:06:17</时间>
 <影评>
         《百万束玫瑰花》
@@ -138,7 +138,7 @@ http://movie.douban.com/review/6368907/
 </review>
 <review>
 <作者>AME影视计划</作者>
-<作者评分>5</作者评分>
+<标题>他倾其所有，只为献给她百万朵玫瑰花</标题><作者评分>5</作者评分>
 <时间>2019-03-07 11:23:55</时间>
 <影评>
 
@@ -239,7 +239,7 @@ http://movie.douban.com/review/6368907/
 
 
 《酿造的（Vintage）》
-尼科8岁那年，父亲病逝，年幼的尼科已经开始给母亲打下手。之后又辗转到富人家中做帮佣，负责煮沸&apos;茶炊&apos;（煮沸水的大锅），带水和洗碗。空闲时间他开始学习读书和画画。
+尼科8岁那年，父亲病逝，年幼的尼科已经开始给母亲打下手。之后又辗转到富人家中做帮佣，负责煮沸'茶炊'（煮沸水的大锅），带水和洗碗。空闲时间他开始学习读书和画画。
 《皮罗斯马尼》的故事便是从他另一段挫败的爱情开始。
 01
 “我知道我们之间的差距很大，但是我知道你是杰出的受过良好教育的女性，我希望你不要太在意，接受我的求婚。我向你保证——我对你的爱是最真挚最亲爱的。“
@@ -474,19 +474,19 @@ K. Zdanevich在他的书中描述了这次邂逅：
 </review>
 <review>
 <作者>塔惹</作者>
-<作者评分>5</作者评分>
+<标题>一些台词摘抄</标题><作者评分>5</作者评分>
 <时间>2019-05-16 02:13:37</时间>
 <影评>
 
-10&apos;31&apos;&apos;
+10'31''
 不过日子啊，就像是浪里开破船。
 风往哪里吹，你就往哪儿飘。
 
-40&apos;27&apos;&apos;
+40'27''
 -给我画画吧。
 -我不能戴镣铐。
 
-45&apos;32&quot;
+45'32"
 -尼科洛，在想什么呢？
 -我这一辈子能分到多少酒。我是慢慢喝，长
  久煎熬；还是一口气喝了，早点结束拉倒？
@@ -498,14 +498,14 @@ K. Zdanevich在他的书中描述了这次邂逅：
  我卡在这该死的生活的喉咙里了。
   它又不把我吞下去，也不想把我吐出来。
 
-53&apos;05&apos;&apos;
+53'05''
 我说啊，我们去找塔玛拉女王和绍塔的墓吧？
 就算能看一眼他们的墓，看一眼那太阳永不落的山谷也好。让我们为这些很神圣的名字再干一杯。现在我不想死了，想在这不落的太阳下活着。有人知道我的画了，我的名字不会从历史里平白无故地消失了。
 
-55&apos;57&quot;
+55'57"
 要不这么着：我们在市中心造一座木头大房子，买个茶炊。坐在一起喝喝茶、谈谈艺术。
 
-67&apos;03&quot;
+67'03"
 过去我怎么耕土、播种，将来也这么继续。
 我画的都是向我呈现的。圣乔治拿着鞭子站在我头上，对我说：画，尼科洛，画！
 
@@ -515,7 +515,7 @@ K. Zdanevich在他的书中描述了这次邂逅：
 </review>
 <review>
 <作者>栖迟</作者>
-<作者评分>5</作者评分>
+<标题>艺术家的一生</标题><作者评分>5</作者评分>
 <时间>2017-06-02 22:26:13</时间>
 <影评>
 
@@ -542,7 +542,7 @@ K. Zdanevich在他的书中描述了这次邂逅：
 </review>
 <review>
 <作者>🫥 ૮ ºﻌºა</作者>
-<作者评分>4</作者评分>
+<标题>格鲁吉亚的天才</标题><作者评分>4</作者评分>
 <时间>2018-08-25 04:27:45</时间>
 <影评>
 
@@ -557,7 +557,7 @@ K. Zdanevich在他的书中描述了这次邂逅：
 </review>
 <review>
 <作者>荆棘鸟</作者>
-<作者评分>4</作者评分>
+<标题>Niko Pirosmani</标题><作者评分>4</作者评分>
 <时间>2013-11-01 22:07:15</时间>
 <影评>
         Niko Pirosmani, whose real complete name was Nikolai Aslanovich Pirosmanashvili, was born on May 5th, 1862 in a peasant family in the Georgian village of Mirzaani, province of Kakheti, a region widely regarded as the home of the best wines of Georgia.
@@ -584,7 +584,7 @@ In 1890 he worked as a train conductor, in 1895 as a designer of signs, in 1893 
 Niko Pirosmani lived and died in poverty, in life his talent was never recognized by his countrymen. 
 
 
-His reputation, sadly posthumously, was awarded for his special painting technique called &quot;primitive&quot;. Among his best known works, now we can quote: &quot;Women with children of Georgia&quot;, &quot;A woman with flower and umbrella &quot;,&quot; Actress Margarita &quot;,&quot; the feast of the five princes. &quot; 
+His reputation, sadly posthumously, was awarded for his special painting technique called "primitive". Among his best known works, now we can quote: "Women with children of Georgia", "A woman with flower and umbrella "," Actress Margarita "," the feast of the five princes. " 
 
 
 Pirosmani deeply loved  Margarita, a French actress who visited Georgia. 
@@ -599,7 +599,7 @@ In his manuscript, the writer Konstantin Paustovskii describing the place overfl
 Pirosmani’s special love became so famous, and it was later told in a poem by Andrei Andreyevich Voznesensky.
 
 
-The fantastic, surreal love story between Niko and Margarita, also gave inspiration for a song by Alla Pugacheva, entitled &quot;A million red roses&quot;.
+The fantastic, surreal love story between Niko and Margarita, also gave inspiration for a song by Alla Pugacheva, entitled "A million red roses".
 
 
 Margarita was also a great source of inspiration for Pirosmani, and she almost always appears in every painting of him.
@@ -611,7 +611,7 @@ He died very poor for malnutrition and liver failure, in a cellar that he used a
 He was buried in the cemetery of the town of Nino.
 
 
-Many other directors got him as subject for short films or documentaries, and he was the subject of the film &quot;Pirosmani&quot; by Shengelaya Giorgi (1969) which won the Grand Prix at the Chicago Film Festival in 1972.
+Many other directors got him as subject for short films or documentaries, and he was the subject of the film "Pirosmani" by Shengelaya Giorgi (1969) which won the Grand Prix at the Chicago Film Festival in 1972.
 
 
  
@@ -621,7 +621,7 @@ Many other directors got him as subject for short films or documentaries, and he
 </review>
 <review>
 <作者>嘻兵</作者>
-<作者评分>5</作者评分>
+<标题>尼科洛……</标题><作者评分>5</作者评分>
 <时间>2016-04-15 15:56:41</时间>
 <影评>
         当发现自己与世人格格不入，是改变自己还是恪守性情？
@@ -639,7 +639,7 @@ Many other directors got him as subject for short films or documentaries, and he
 </review>
 <review>
 <作者>YukioPB</作者>
-<作者评分></作者评分>
+<标题>我卡在这该死的生活当中</标题><作者评分 />
 <时间>2022-07-21 22:20:19</时间>
 <影评>
 
@@ -654,7 +654,7 @@ Many other directors got him as subject for short films or documentaries, and he
 </review>
 <review>
 <作者>永夏之人</作者>
-<作者评分></作者评分>
+<标题>为什么</标题><作者评分 />
 <时间>2022-02-17 09:48:53</时间>
 <影评>
 
@@ -681,7 +681,7 @@ Many other directors got him as subject for short films or documentaries, and he
 </review>
 <review>
 <作者>Karola</作者>
-<作者评分>5</作者评分>
+<标题>格鲁吉亚的光</标题><作者评分>5</作者评分>
 <时间>2020-07-29 09:00:59</时间>
 <影评>
 

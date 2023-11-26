@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>死亡诗社 Dead Poets Society</电影名>
 <年份>1989</年份>
@@ -14,7 +14,7 @@
 <reviews>
 <review>
 <作者>南桥</作者>
-<作者评分>5</作者评分>
+<标题>这个世界是异类的</标题><作者评分>5</作者评分>
 <时间>2009-08-01 14:52:49</时间>
 <影评>
 
@@ -41,7 +41,7 @@
 </review>
 <review>
 <作者>woodyallen</作者>
-<作者评分>4</作者评分>
+<标题>死亡诗社里的一段话，四首诗</标题><作者评分>4</作者评分>
 <时间>2006-12-24 01:56:00</时间>
 <影评>
         写在诗社”宝书”的扉页上的那段话来自美国作家THOREAU(1818-1862)的《瓦尔登湖》.
@@ -53,7 +53,7 @@
 中文版里徐迟的本子算是最最有名的了(上海译文和吉林人民出版社都出过,包装不同,内容是一样的).个人以为这样的书非徐迟这样有底气又有定力的老一辈学者(我见过他的照片,一个清澄平和的老人)不能译.毕竟是150多年前的文章了,而且讲的又是”人如何通过纯感官与具有神性的大自然交流沟通”的超验主义问题,不实际得一塌糊涂,不和时宜得一塌糊涂.现在的译者心都比较活泼,对待此类作品的态度怕只会是句简单的”理你都傻”.
 
 
-I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms, and, if it proved to be mean, why then to get the whole and genuine meanness of it, and publish its meanness to the world; or if it were sublime, to know it by experience, and be able to give a true account of it in my next excursion. For most men, it appears to me, are in a strange uncertainty about it, whether it is of the devil or of God, and have somewhat hastily concluded that it is the chief end of man here to &quot;glorify God and enjoy him forever.&quot;
+I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms, and, if it proved to be mean, why then to get the whole and genuine meanness of it, and publish its meanness to the world; or if it were sublime, to know it by experience, and be able to give a true account of it in my next excursion. For most men, it appears to me, are in a strange uncertainty about it, whether it is of the devil or of God, and have somewhat hastily concluded that it is the chief end of man here to "glorify God and enjoy him forever."
 
 
 Henry David Thoreau:Walden,or Life in the Woods
@@ -70,7 +70,7 @@ O CAPTAIN! MY CAPTAIN!
 
 O Captain! my Captain! our fearful trip is done,
 
-The ship has weather&apos;d every rack, the prize we sought is won,
+The ship has weather'd every rack, the prize we sought is won,
 
 The port is near, the bells I hear, the people all exulting,
 
@@ -90,7 +90,7 @@ O Captain! my Captain! rise up and hear the bells;
 
 Rise up&amp;emdash;for you the flag is flung&amp;emdash;for you the bugle trills,
 
-For you bouquets and ribbon&apos;d wreaths&amp;emdash;for you the shores a-crowding,
+For you bouquets and ribbon'd wreaths&amp;emdash;for you the shores a-crowding,
 
 For you they call, the swaying mass, their eager faces turning;
 
@@ -100,14 +100,14 @@ The arm beneath your head!
 
 It is some dream that on the deck,
 
-You&apos;ve fallen cold and dead.
+You've fallen cold and dead.
 
 
 My Captain does not answer, his lips are pale and still,
 
 My father does not feel my arm, he has no pulse nor will,
 
-The ship is anchor&apos;d safe and sound, its voyage closed and done,
+The ship is anchor'd safe and sound, its voyage closed and done,
 
 From fearful trip the victor ship comes in with object won:
 
@@ -179,13 +179,13 @@ And that has made all the difference.
 　　　　　　　　　　Sonnet 18
 
 
-Shall I compare thee to a summer&apos;s day?
+Shall I compare thee to a summer's day?
 
 Thou art more lovely and more temperate:
 
 Rough winds do shake the darling buds of May,
 
-And summer&apos;s lease hath all too short a date:
+And summer's lease hath all too short a date:
 
 Sometime too hot the eye of heaven shines,
 
@@ -193,15 +193,15 @@ And often is his gold complexion dimmed,
 
 And every fair from fair sometime declines,
 
-By chance, or nature&apos;s changing course untrimmed:
+By chance, or nature's changing course untrimmed:
 
 But thy eternal summer shall not fade,
 
-Nor lose possession of that fair thou ow&apos;st,
+Nor lose possession of that fair thou ow'st,
 
-Nor shall death brag thou wand&apos;rest in his shade,
+Nor shall death brag thou wand'rest in his shade,
 
-When in eternal lines to time thou grow&apos;st,
+When in eternal lines to time thou grow'st,
 
 So long as men can breathe or eyes can see,
 
@@ -307,7 +307,7 @@ George Gorden Byron
 </review>
 <review>
 <作者>秋之萤</作者>
-<作者评分>5</作者评分>
+<标题>《死亡诗社》经典台词欣赏（转）</标题><作者评分>5</作者评分>
 <时间>2010-06-27 16:12:33</时间>
 <影评>
         一、及时行乐，让你的生命超越凡俗
@@ -323,10 +323,10 @@ Gather ye rosebuds while ye may/Old time is still a-flying/And this same flowers
 
 　　因为信不信由你，这个房间里的每个人，总有一天都要停止呼吸，僵冷，死亡。我要你们向前到这儿来，细细玩味过去的面孔，你们经过这儿无数次，但从未真正看过他们，和你的差异并不大，对吧？同样的发型，和你们一样精力旺盛，和你们一样不可一世，世界都在他们的掌握之中，他们认为注定要成就大事，和大多数的你们一样，他们的双眼充满了希望，和你们一样。他们是否虚度时光，到最后一无所成？因为各位所见到的……这些男孩现在都已化为尘土了，如果你们仔细倾听，便能听见他们在低声耳语，附耳过去，仔细听，听见了？CARPE..。听见了吗？CARPE... CARPE DIEM 及时行乐，孩子们，让你的生命超越凡俗。
 
-    Becuase believe or not, each one of us in this room is one day going to stop breathing, turn cold and die. I&apos;d like you to step forward of you and peruse some of the faces from the past. They&apos;re not that different from you , are they? Same haircuts.
+    Becuase believe or not, each one of us in this room is one day going to stop breathing, turn cold and die. I'd like you to step forward of you and peruse some of the faces from the past. They're not that different from you , are they? Same haircuts.
 
 
-    Full of hormones. Just like you. Invincible just like you fell. The world is their oyster. They belive they&apos;re destined for great things, just like many of you, their eyes are full of hope, just like you. Did they wait until it was too late to make from their lives evenone iota of what they were capable? Because, you see gentelman, these boys are now fertilising daffodils.
+    Full of hormones. Just like you. Invincible just like you fell. The world is their oyster. They belive they're destined for great things, just like many of you, their eyes are full of hope, just like you. Did they wait until it was too late to make from their lives evenone iota of what they were capable? Because, you see gentelman, these boys are now fertilising daffodils.
 
 
     But if you listen real close, you can hear them whisper their legacy to you. Go on, lean in. Listen, you hear it ? Carpe...hear it?...Carpe, carpe diem, seize the day, boys, make your lives extrordinary。
@@ -340,7 +340,7 @@ Gather ye rosebuds while ye may/Old time is still a-flying/And this same flowers
     To fully understand poetry, we must first be fluent with its meter, rhyme and figures of speech, then ask two questions: 1) How artfully has the objective of the poem been rendered and 2) How important is that objective?
 
 
-　　我们不是在接水管。We&apos;re not laying pipe。
+　　我们不是在接水管。We're not laying pipe。
 
 
 　　惟有在梦中，人们才是真正自由的。Only in their dreams can men be truly free。
@@ -353,17 +353,17 @@ Gather ye rosebuds while ye may/Old time is still a-flying/And this same flowers
 
 　　 我们读诗、写诗并不是因为它们好玩，而是因为我们是人类的一分子，而人类是充满激情的。没错，医学、法律、商业、工程，这些都是崇高的追求，足以支撑人的一生。但诗歌、美丽、浪漫、爱情，这些才是我们活着的意义。
 
-    We don&apos;t read and write poetry because it&apos;s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering -- these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love -- these are what we stay alive for。
+    We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering -- these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love -- these are what we stay alive for。
 
 
 　　(梭罗)死亡诗人致力于吸取生命的精华。
 
-    The Dead Poets was dedicated to &quot;sucking the marrow out of life&quot;。
+    The Dead Poets was dedicated to "sucking the marrow out of life"。
 
 
 　　我们是一群浪漫主义者。我们不仅仅是念诗，诗从我们舌间滑落，就像蜜糖。情绪高涨，女人亢奋，灵魂驰骋。
 
-    We weren&apos;t a Greek organization. We were Romantics. We didn&apos;t just read poetry, we let it drip from our tongues like honey. Spirits soared, women swooned and gods were created。
+    We weren't a Greek organization. We were Romantics. We didn't just read poetry, we let it drip from our tongues like honey. Spirits soared, women swooned and gods were created。
 
 
 　　(梭罗)我步入丛林／因为我希望生活得有意义／我希望活得深刻／吸取生命中所有的精华／把非生命的一切都击溃／以免当我生命终结／发现自己从没有活过
@@ -373,7 +373,7 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 
 　　(丁尼生)来吧，我的朋友／寻找更新世界尚为时不晚／我决心已定，要驶过夕阳尽头／尽管我们不再有昔日的伟力，可以震天撼地／我们仍有着，同样的英雄的心／时间和命运，使它衰老／但坚强意志仍在／让我们去奋斗，去探索，去发现／永不屈服
 
-    (Alfred Lord Tennyson)Come my friends, &apos;Tis not too late to seek a newer world for my purpose holds to sail beyond the sunset. And though we are not now that strength which in old days Moved earth and heaven; that which we are, we are;-- One equal temper of heroic hearts, Made weak by time and fate, but strong in will. To strive, to seek, to find, and not to yield。
+    (Alfred Lord Tennyson)Come my friends, 'Tis not too late to seek a newer world for my purpose holds to sail beyond the sunset. And though we are not now that strength which in old days Moved earth and heaven; that which we are, we are;-- One equal temper of heroic hearts, Made weak by time and fate, but strong in will. To strive, to seek, to find, and not to yield。
 
 
 　　然后我有了信仰／然后我有了想象／我被他们沉迷的嘲笑所感染／然后我看见刚果河／在黑土地上流过／在森林中划下一道金色的沟壑(语言的节奏感)
@@ -398,7 +398,7 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 
 　　一旦觉得自己懂得，就必须换一种角度来看。这可能显得有些荒唐，或者愚蠢，但必须试一下。同样读书的时候，不要只想作者怎么看，想想你自己怎么看。
 
-    Just when you think you know something, you have to look at it in another way. Even though it may seem silly or wrong, you must try! Now, when you read, don&apos;t just consider what the author thinks. Consider what you think。
+    Just when you think you know something, you have to look at it in another way. Even though it may seem silly or wrong, you must try! Now, when you read, don't just consider what the author thinks. Consider what you think。
 
 
 　　你们必须努力寻找自己的声音，因为你越迟开始寻找，找到的可能性就越小。
@@ -408,7 +408,7 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 
 　　梭罗说“大多数人都生活在平静的绝望中”。别陷入这种境地，冲出来。别像老鼠逃跑似的，看看你的周围，要敢于开拓自己的天地。
 
-    Most men lead lives of quiet desperation。(Thoreau)Don&apos;t be resigned to that. Break out! Don&apos;t just walk off the edge like lemmings。
+    Most men lead lives of quiet desperation。(Thoreau)Don't be resigned to that. Break out! Don't just walk off the edge like lemmings。
 
 
 　　四、做一个真正的上帝！
@@ -460,12 +460,12 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 
     我在她微笑中看到了甜蜜／她的眼睛闪烁着光芒／但生活如此复杂／我已满意／只要知道／只要知道／她还活着
 
-    I see a sweetness in her smile. Blight light shines from her eyes. But life is complete; contentment is mine, Just knowing that... just knowing that she&apos;s alive。
+    I see a sweetness in her smile. Blight light shines from her eyes. But life is complete; contentment is mine, Just knowing that... just knowing that she's alive。
 
 
 　　2。主题简单无妨，只是不要太俗套
 
-    Sometimes the most beautiful poetry can be about simple things. Just don&apos;t let your poems be ordinary。
+    Sometimes the most beautiful poetry can be about simple things. Just don't let your poems be ordinary。
 
 
 　　3。惠特曼“站在世界屋脊上，我喊出我野性的狂叫”I sound my barbaric yawp over the rooftops of the world。
@@ -478,12 +478,12 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 
     他伸出手，掐信我的脖子His hands reach out and choke me。
 
-    他一直在念叨真理all the time he&apos;s mumbling.Truth。
+    他一直在念叨真理all the time he's mumbling.Truth。
 
     真理就像一床总让你双脚冰凉的毯子／你怎么扯，怎么拽，总也不够／踢也好，打也好，它总也盖不住我们／从我们哭着降生／到我们奄奄一息／它只会盖住你的脸／不管你如何痛苦／不管你如何痛苦／如何叫喊
 
 
-    Truth is like, like a blanket that always leaves your feet cold. You push it, stretch it, it&apos;ll never be enough. You kick at it, beat it, it&apos;ll never cover any of us. From the moment we enter crying to the moment we leave dying, it will just cover your face as you wail and cry and scream。
+    Truth is like, like a blanket that always leaves your feet cold. You push it, stretch it, it'll never be enough. You kick at it, beat it, it'll never cover any of us. From the moment we enter crying to the moment we leave dying, it will just cover your face as you wail and cry and scream。
 
 
 　　六、你们用不着表演，完全为你自己。
@@ -501,10 +501,10 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 
 　　罗伯特·弗洛斯特：希望你们也找到自己的路，找到自己的步伐、步调，任何方向，任何东西都行，不管是自负也好，愚蠢也好，什么都行。
 
-    I want you to find your own walk right now. Your own way of striding, pacing. Any direction. Anything you want. Whether it&apos;s proud, whether it&apos;s silly, anything. Gentlemen, the courtyard is yours。
+    I want you to find your own walk right now. Your own way of striding, pacing. Any direction. Anything you want. Whether it's proud, whether it's silly, anything. Gentlemen, the courtyard is yours。
 
 
-　　你们用不着表演，完全为你自己。You don&apos;t have to perform. Just make it for yourself。
+　　你们用不着表演，完全为你自己。You don't have to perform. Just make it for yourself。
 
 
 　　要敢于逆流而上。Swim against the stream。
@@ -518,7 +518,7 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 </review>
 <review>
 <作者>che</作者>
-<作者评分>5</作者评分>
+<标题>《死亡诗社》：这一刻，我开始懂得自己</标题><作者评分>5</作者评分>
 <时间>2006-05-25 14:22:43</时间>
 <影评>
         原本想从网上直接拷贝一些文章来推荐这部电影给大家，但后面想想还是自己写点什么，当是我对于这部电影和导演的敬意。
@@ -573,7 +573,7 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 </review>
 <review>
 <作者>tt</作者>
-<作者评分>5</作者评分>
+<标题>作为一个大学毕业生的有感而发</标题><作者评分>5</作者评分>
 <时间>2007-12-10 01:32:26</时间>
 <影评>
         看到底下的评论当中，有些人从老师的立场上讲，认为老师并不应该传道，我觉得难以理解，totaly反对。
@@ -599,7 +599,7 @@ I went to the woods because I wanted to live deliberately. I wanted to live deep
 </review>
 <review>
 <作者>苏凌然</作者>
-<作者评分>4</作者评分>
+<标题>哦，船长，我的船长，我能不能像人一样活着？</标题><作者评分>4</作者评分>
 <时间>2011-02-05 15:25:19</时间>
 <影评>
 
@@ -700,7 +700,7 @@ Keating钻进教室的时候，那些孩子们桌子上还是放着一叠厚厚�
 </review>
 <review>
 <作者>feiyafei</作者>
-<作者评分>5</作者评分>
+<标题>这个时候，我想起了Dead Poets Society</标题><作者评分>5</作者评分>
 <时间>2005-06-10 12:24:32</时间>
 <影评>
 
@@ -749,7 +749,7 @@ http://blog.cathayan.org/item/976
 </review>
 <review>
 <作者>十一月的雨</作者>
-<作者评分>5</作者评分>
+<标题>【我最喜欢的十大外语片】之首【死亡诗社】(dead poet society)</标题><作者评分>5</作者评分>
 <时间>2006-10-05 10:36:35</时间>
 <影评>
 
@@ -851,7 +851,7 @@ http://blog.cathayan.org/item/976
 </review>
 <review>
 <作者>hinta</作者>
-<作者评分>4</作者评分>
+<标题>第二遍看，关于基廷老师。</标题><作者评分>4</作者评分>
 <时间>2007-10-27 12:50:42</时间>
 <影评>
           第二遍看，因为无聊，数镜头。有点小诧异，两个小时的电影，总体很纾缓的节奏下，竟然有950个左右镜头。
@@ -890,7 +890,7 @@ http://blog.cathayan.org/item/976
 </review>
 <review>
 <作者>Ryeland</作者>
-<作者评分>4</作者评分>
+<标题>根据叔本华的人生理论：在意欲层面对于高考的批判</标题><作者评分>4</作者评分>
 <时间>2009-11-14 13:38:52</时间>
 <影评>
         叔本华把人的不幸福原因归结为两点：痛苦和无聊。他说：人生就像一个钟摆，在痛苦和无聊之间永不停歇。所以，对于这位具有很深宿命论思想的哲学家来说，人生的最大痛苦就是无法实现自己永无止尽的欲望。

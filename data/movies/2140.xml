@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>上帝也疯狂 The Gods Must Be Crazy</电影名>
 <年份>1980</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>慕来慕去</作者>
-<作者评分>5</作者评分>
+<标题>自己的上帝</标题><作者评分>5</作者评分>
 <时间>2005-09-06 20:10:39</时间>
 <影评>
         当历苏站在那个美丽的悬崖边上，一扬手，可乐瓶子在空中划出一道完美的抛物线，然后不见踪影的时候，我总是在想，这会不会意味着一轮新的涅磐？
@@ -48,7 +48,7 @@
 </review>
 <review>
 <作者>Albatross</作者>
-<作者评分>5</作者评分>
+<标题>伊甸的沦陷</标题><作者评分>5</作者评分>
 <时间>2006-05-06 03:39:01</时间>
 <影评>
         他们是谁？他们从哪里来？我们是谁？我们往哪里去？
@@ -63,10 +63,10 @@
 在Uzy的镜头里，赤身裸体的布须曼人自由自在无忧无虑地享受着生活，没有私欲，当然也没有纷争，不必每天被6点钟的闹钟吵醒，也不必整天担心被老板炒掉，这样的场景难免会让人想到伊甸园，想到《黄金时代》。然而实际情况是，或许布须曼人真的很快乐，但至少从物质上来讲他们从没有生活在天堂里，现在更不是。想想吧，有谁会主动选择Kalahari这块不毛之地作为家园呢？有谁想尝试一下在零度以下的冬季夜晚光着身子睡在沙地上？反正这不是我所想象的天堂的样子。但他们别无选择，那里是这个古老民族最后的“保留地”。
 
 
-&quot;THE Bushmen were members of a division of the human species that in all probability once occupied the whole, or nearly the whole, of the African continent. It would seem that they were either totally exterminated or partly exterminated and partly absorbed by more robust races pressing down from the north, except in a few secluded localities where they could manage to hold their own, and that as a distinct people they bad disappeared from nearly the whole of Northern and Central Africa before white men made their first appearance there.&quot;
+"THE Bushmen were members of a division of the human species that in all probability once occupied the whole, or nearly the whole, of the African continent. It would seem that they were either totally exterminated or partly exterminated and partly absorbed by more robust races pressing down from the north, except in a few secluded localities where they could manage to hold their own, and that as a distinct people they bad disappeared from nearly the whole of Northern and Central Africa before white men made their first appearance there."
 
 
-从Bleek和Lloyd1911年发表的研究笔记中可以清晰地勾勒出这个人种的命运：布须曼人(Bushman, or later &apos;San&apos;)曾经几乎是整个非洲大陆的主人，只是由于进化缓慢，逐渐被发展出更高文明水平的Hottentot人和Bantu人所取代（这是一个相对文雅的词汇，它掩盖了征服的血腥过程，想象一下白人是如何取代新大陆的印第安人的吧），所以当后来的白人殖民者发现他们时，他们的生存区域已经收缩到了沙漠腹地。当然，也正是由于与世隔绝，这最后的一小部分布须曼人才得以幸运的存活下来，得以出现在那个神奇的相机镜头前。
+从Bleek和Lloyd1911年发表的研究笔记中可以清晰地勾勒出这个人种的命运：布须曼人(Bushman, or later 'San')曾经几乎是整个非洲大陆的主人，只是由于进化缓慢，逐渐被发展出更高文明水平的Hottentot人和Bantu人所取代（这是一个相对文雅的词汇，它掩盖了征服的血腥过程，想象一下白人是如何取代新大陆的印第安人的吧），所以当后来的白人殖民者发现他们时，他们的生存区域已经收缩到了沙漠腹地。当然，也正是由于与世隔绝，这最后的一小部分布须曼人才得以幸运的存活下来，得以出现在那个神奇的相机镜头前。
 
 
 下面这张来自《国家地理》的地图清楚地标明了布须曼人领地不断萎缩的过程。
@@ -98,7 +98,7 @@ http://naturalist.bokee.com/4989502.html
 </review>
 <review>
 <作者>圣墟</作者>
-<作者评分>4</作者评分>
+<标题>一起疯狂吧</标题><作者评分>4</作者评分>
 <时间>2017-05-12 19:30:41</时间>
 <影评>
         影片流露出对人类社会初始状态的赞美。卡拉哈里地区是地球上最后的伊甸园，布希族是原始的乌托邦，没有私有财产、生活无忧无虑，导演JamieUys（杰米•尤易斯）毫不掩饰对这一理想国度的向往之情。正因为如此，西图打了猎物要与人分享却被指控侵犯了私有财产，在狱中呈现出的呆滞与深受伤害的表情令观众印象深刻。
@@ -114,7 +114,7 @@ http://naturalist.bokee.com/4989502.html
 </review>
 <review>
 <作者>亲亲小才鸟</作者>
-<作者评分>4</作者评分>
+<标题>被时间遗忘的人</标题><作者评分>4</作者评分>
 <时间>2007-07-20 15:00:19</时间>
 <影评>
         有两种电影会让我看过之后十分高兴.一是未经别人介绍,没有看过宣传,不经意看到然后发现惊喜连连.还有一种是一开始看一会觉得很不好看,耐着性子逼着自己看却渐入佳境,一发不可收拾的好看.这种感觉像是捡来的喜欢.
@@ -150,7 +150,7 @@ http://naturalist.bokee.com/4989502.html
 </review>
 <review>
 <作者>棉麻主义</作者>
-<作者评分>5</作者评分>
+<标题>听朋友说土著人死了，太可怜了。想哭。这是我看过最快乐、单纯的电影之一。</标题><作者评分>5</作者评分>
 <时间>2011-02-16 20:16:28</时间>
 <影评>
         中文名：历苏
@@ -232,7 +232,7 @@ http://naturalist.bokee.com/4989502.html
 </review>
 <review>
 <作者>都不贱 拧巴莫问天</作者>
-<作者评分>5</作者评分>
+<标题>上帝也疯狂——自然战胜论</标题><作者评分>5</作者评分>
 <时间>2007-06-29 06:03:16</时间>
 <影评>
           这是一个很显著的，自然战胜。
@@ -273,7 +273,7 @@ http://naturalist.bokee.com/4989502.html
 </review>
 <review>
 <作者>豬院長</作者>
-<作者评分>5</作者评分>
+<标题>从不丧失希望</标题><作者评分>5</作者评分>
 <时间>2008-01-05 13:04:46</时间>
 <影评>
         在我尚未出生时，这部电影就诞生了。直到今天我才与它相遇。
@@ -316,7 +316,7 @@ http://naturalist.bokee.com/4989502.html
 </review>
 <review>
 <作者>宇飞</作者>
-<作者评分>4</作者评分>
+<标题>上帝的错</标题><作者评分>4</作者评分>
 <时间>2007-07-17 09:28:28</时间>
 <影评>
         　　对于一个原始家庭来说，出现一个不可分配只能独占的生活非必需品时，种种麻烦也就随这出现了。
@@ -343,17 +343,17 @@ http://naturalist.bokee.com/4989502.html
 </review>
 <review>
 <作者>Tony</作者>
-<作者评分>5</作者评分>
+<标题>充满智慧和机敏的幽默</标题><作者评分>5</作者评分>
 <时间>2006-09-17 09:42:30</时间>
 <影评>
-        虽然整部片子看不到什么特别有名的演员但是情节真的非常吸引人，可以让大家全程开怀大笑忘记生活中的烦心事情，非常佩服导演和编剧的&quot;功夫&quot;，佩服佩服佩服。更没有想到的是居然是1980年的片子，简直是先知拍的哦
+        虽然整部片子看不到什么特别有名的演员但是情节真的非常吸引人，可以让大家全程开怀大笑忘记生活中的烦心事情，非常佩服导演和编剧的"功夫"，佩服佩服佩服。更没有想到的是居然是1980年的片子，简直是先知拍的哦
       </影评>
 <有用数>24</有用数>
 <没用数>7</没用数>
 </review>
 <review>
 <作者>叶洲</作者>
-<作者评分>5</作者评分>
+<标题>值得花时间反复观看的影片</标题><作者评分>5</作者评分>
 <时间>2008-06-19 22:15:57</时间>
 <影评>
         这部电影太经典了，它的幽默的境界恰恰合我的口味。不是令我目瞪口呆的英国黑色幽默，也不是日本动漫的囧式搞笑，更不是美国视觉搞笑剧的粗俗无聊。它是充满智慧和机敏的一种幽默。许多地方都用了快镜头，也大大增加了幽默之处。光是最后一段男主角向女主角告白时丑态百出，在一旁观看的朋友的无奈的表情和动作就已经让我不能自已了。

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>爱尔兰人 The Irishman</电影名>
 <年份>2019</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>Finrod</作者>
-<作者评分>5</作者评分>
+<标题>我听说你刷第二遍之前或许可以看一下这个</标题><作者评分>5</作者评分>
 <时间>2019-11-06 07:54:46</时间>
 <影评>
 
@@ -25,7 +25,7 @@
 -Kiss of death（意语作 Il bacio della morte）：帮派老大发给黑帮成员的死亡预订，西西里传统，起源并不可考，有人认为是犹大亲吻耶稣。通常而言，帮派成员，尤其是made man，是动不得的，除非上头达成一致要除掉他，给杀手下了命令，“have him KISSED”。
 -Ticket to Australia：“送他去下边”的意思，很好理解，也是暗杀指令。
 -La Cosa Nostra：西西里黑手党，家族式犯罪帝国，美国1957年开始调查他们时，在政府电报里这么称呼他们，意为“this thing of ours”。黑手党则自称“the honoured society”。
--Made man：正式黑帮家族成员。纯意大利血统（所以《好家伙》里只有乔佩西的角色有资格被made，而《爱尔兰人》Frank Sheeran即使是当时全美黑帮人物top26之一也不是made man），有两个担保人（其中一个至少认识10-15年），完成一次家族指派的暗杀（earning one&apos;s button，所以made man也叫button man），经家族同意，被带去参加一个流程因家族而异的秘密宣誓祭典后，才算是入会，从此享受家族的所有特权。
+-Made man：正式黑帮家族成员。纯意大利血统（所以《好家伙》里只有乔佩西的角色有资格被made，而《爱尔兰人》Frank Sheeran即使是当时全美黑帮人物top26之一也不是made man），有两个担保人（其中一个至少认识10-15年），完成一次家族指派的暗杀（earning one's button，所以made man也叫button man），经家族同意，被带去参加一个流程因家族而异的秘密宣誓祭典后，才算是入会，从此享受家族的所有特权。
 -Friend：黑帮成员互相介绍时称”friend”/“friend of ours”（影片中Frank和Jimmy对话提及Russell时多次使用“friend”指代），如果是介绍平民朋友则会特意说明是“friend of mine”。
 -“McGee”：Russell Bufalino的昵称。这个不算黑话，Russell本名Rosario，一般人叫他Russell，寥寥至交可以叫他McGee。
 一些藏在电影里的原著细节
@@ -33,7 +33,7 @@
 - Frank有点口吃。很显然电影把这点用得恰到好处，德老板也通过这个细节，将很多电影来不及仔细呈现的人物特质，敏感内敛困惑幽默等等，带到观众面前。
 - 关于Russell不抽烟。电影里解释了一些。他本人因为和 Jimmy Blue Eyes（Meyer Lansky的人）打赌，顺便戒烟了。1960卡斯特罗吞了他们在古巴的赌场，乘船离开一边抽烟一边骂的时候两人拿两万五千美金赌一年不抽烟，Russ当场掐了烟，一年后收了赌金也没再复吸。
 - 因为Frank爬升速度太快，坑他去炸Angelo洗衣厂的Whisper。Whisper之所以叫Whisper是因为他口臭过于严重，说话时别人只准他小声低语。即使电影里没有明说，但餐桌交谈戏拍得挺有，味道，的。
-- Frank和Russell一起撕面包沾红酒吃（年老时在狱中是沾葡萄汁）。原著中Frank尚在混入黑帮圈子的边缘无知试探时，还不懂Russell是干什么行当的，在费城餐馆Villa d’Roma（是Angelo的店）看到这位曾在纽约郊外公路边上帮他修过车的小个子男人时，有些困惑他来费城做什么。Russell说他很经常为了procsiutto bread（夹了帕尔玛薄火腿和马苏里拉奶酪烘烤的意式面包）过来费城。然后Frank当真了，从此开车运货时如果遇得上，总会给Russell带面包，两人从此越来越经常分享面包，沾红酒吃，Frank也在不知不觉中进入了圈子。电影没有这么多篇幅表现面包交情，但也确实将两人撕面包沾葡萄酒/汁的场景，作为缔结lifelong bond的仪式在拍。以及面包和红酒总是使我想到客西马尼园的耶稣，尤其电影最后，拿面包沾葡萄汁时沉痛的“fuck&apos;em”，啖其血肉的感觉太鲜明了。几乎每部电影都带有Catholic mark甚至拍过《基督最后的诱惑》的老马也许有这个意指吧。
+- Frank和Russell一起撕面包沾红酒吃（年老时在狱中是沾葡萄汁）。原著中Frank尚在混入黑帮圈子的边缘无知试探时，还不懂Russell是干什么行当的，在费城餐馆Villa d’Roma（是Angelo的店）看到这位曾在纽约郊外公路边上帮他修过车的小个子男人时，有些困惑他来费城做什么。Russell说他很经常为了procsiutto bread（夹了帕尔玛薄火腿和马苏里拉奶酪烘烤的意式面包）过来费城。然后Frank当真了，从此开车运货时如果遇得上，总会给Russell带面包，两人从此越来越经常分享面包，沾红酒吃，Frank也在不知不觉中进入了圈子。电影没有这么多篇幅表现面包交情，但也确实将两人撕面包沾葡萄酒/汁的场景，作为缔结lifelong bond的仪式在拍。以及面包和红酒总是使我想到客西马尼园的耶稣，尤其电影最后，拿面包沾葡萄汁时沉痛的“fuck'em”，啖其血肉的感觉太鲜明了。几乎每部电影都带有Catholic mark甚至拍过《基督最后的诱惑》的老马也许有这个意指吧。
 - Russell向Frank告知Jimmy Hoffa最终命运时在做菜。Russell其人极度警觉，基本不吃经手别人的东西，除非是自家餐馆信得过的厨师，不然就自己下厨。Frank认为其厨艺了得。
 - Jimmy养子车后座运过鱼，留有味道。通过一系列黑帮电影比如《教父》，我们知道死鱼在黑帮文化中有死亡威胁的意味。原著中没讲死鱼，但讲过黑帮其实不太会在车上杀人，因为一旦这么做了这味道是挥之不去的，这车就成了没法再用的死人车。留有鱼腥味的车子载着Jimmy Hoffa走完了最后一程。而受朋友之托运鱼却对鱼一无所知的养子，开车载着这些人，对逼近养父的死亡亦是一无所知。
 - 处决Jimmy的棕色屋子属于一个对事件毫不知情的老太太。原著给我的感觉是，黑手党生活在表层世界之下，比如此处，他们详细掌握大量平民的信息，包括这位老太太的作息和日程，所以在她外出的时候，神不知鬼不觉地借用了这座，看起来充满生活气息看似安全无害的房子。
@@ -49,30 +49,30 @@
 1957年10月，教父Albert Anastasia（现代美国黑手党的创始人之一，纽约甘比诺家族老板）在纽约Park-Sheraton酒店的理发店里被暗杀。
 同年11月，经由Russell组织，全国教父来到Apalachin（阿巴拉钦）会面，想解决问题。警察突袭了会议地点，抓捕了58名顶级黑帮成员，另外50名穿过森林逃走了。于是当年全美人民都在激情看电视，毕竟报纸无法展示听证会上不停对着议员和罗伯特肯尼迪甩第五修正案的黑手党们是何等珠光宝气。
 这也是美国黑帮被迫首次在公众面前现出大概形貌，毕竟直到1957这个事件之前，FBI的胡佛都在全身心忙于搞麦卡锡主义，坚信只有不成规模的街头冲突，并不存在什么大型犯罪集团。
-*（wiki: On the morning of October 25, 1957, Anastasia entered the barber shop of the Park Sheraton Hotel, at 56th Street and 7th Avenue in Midtown Manhattan. Anastasia&apos;s driver parked the car in an underground garage and then took a walk outside, leaving him unprotected. As Anastasia relaxed in the barber&apos;s chair, two men—scarves covering their faces—rushed in, shoved the barber out of the way, and fired at Anastasia. After the first volley of bullets, Anastasia allegedly lunged at his killers. However, the stunned Anastasia had actually attacked the gunmen&apos;s reflections in the wall mirror of the barber shop. The gunmen continued firing until Anastasia finally fell dead on the floor.）Jimmy Hoffa和Albert Anastasia都是charge持枪者的猛士..
+*（wiki: On the morning of October 25, 1957, Anastasia entered the barber shop of the Park Sheraton Hotel, at 56th Street and 7th Avenue in Midtown Manhattan. Anastasia's driver parked the car in an underground garage and then took a walk outside, leaving him unprotected. As Anastasia relaxed in the barber's chair, two men—scarves covering their faces—rushed in, shoved the barber out of the way, and fired at Anastasia. After the first volley of bullets, Anastasia allegedly lunged at his killers. However, the stunned Anastasia had actually attacked the gunmen's reflections in the wall mirror of the barber shop. The gunmen continued firing until Anastasia finally fell dead on the floor.）Jimmy Hoffa和Albert Anastasia都是charge持枪者的猛士..
 - Bay of Pigs Invasion。猪湾事件，又称吉隆滩事件，1961年4月17日，CIA协助逃亡美国的古巴人，在古巴西南海岸猪湾向卡斯特罗领导的古巴革命政府发动入侵，肯尼迪最终决定不派空军支援，战力直接少了一半，撑了三天后军队投降，行动失败。猪湾事件让卡斯特罗地位更稳固，古巴和苏联的联系更紧密，肯尼迪形象变得弱势，被视为美国foreign policy的重大失败，最终导致了1962年的导弹危机。
 此次事件有黑手党的参与，毕竟大家都想拿回被卡斯特罗吞了的场子。除了Frank Sheeran这种运送弹药的，还有一些黑帮成员也参与了枪击、投毒之类的暗杀卡斯特罗计划。
 *Sam “Momo” Giancana，和Frank Sinatra开过赌场芝加哥黑帮巨佬boss，曾帮助肯尼迪竞选总统成功，和肯尼迪共用一个情妇（Judith Campbell）的交情，因嘴不够严，使Time报道了他和Russ为CIA参与了1961古巴猪湾事件以及1962暗杀卡斯特罗，见报四天后在自家厨房被杀，脑后一枪颧骨下六枪，西西里风格的多嘴判决。
 - 肯尼迪。肯尼迪竞选成功有很大原因是因为拿下了伊利诺伊斯州，而据原著，黑帮在其中操作了很多，包括通过顶替死人名额投票之类的选票欺诈，这个在电影里拍出来了。约翰肯尼迪当选之后，和弟弟罗伯特肯尼迪（司法部长）一起转头对黑帮穷追猛打，罗伯特尤其针对Jimmy Hoffa，而Russell一直指望老肯尼迪可以管一管他俩。原著暗示了Frank参与了暗杀肯尼迪的枪支运送（虽然最终没用上他运的枪），很多人不信，电影里也没拍。
 - 尼克松。Jimmy Hoffa获刑13年，1967年入狱，一直在上诉，近乎desperate地试图早日出来赶上工会5年一次的选举，重新夺回自己的一切（再等到1980年的选举，他就已经六十多岁了，且13年间经过各种人的操作，支持者将所剩无几）。尼克松与其进行了漫长曲折的拉锯战，拿赦免Jimmy换取公会支持尼克松竞选，Jimmy期间经历了来自多方的各种背叛，最后同意交易了。1971年被释放后又被尼克松出其不意捅刀：赦免条件突然包括“直到1980年Jimmy Hoffa都不能参与工会竞选”。Jimmy彻底失去耐心为重回公会无所畏惧，引起多方忧虑，由此引发后来的事。
-- Joe “Crazy Joe” Gallo雇人枪击Joseph Anthony &quot;Joe&quot; Colombo, Sr.事件。
+- Joe “Crazy Joe” Gallo雇人枪击Joseph Anthony "Joe" Colombo, Sr.事件。
 1970年，Colombo家族族长Joe Colombo组织了Italian-American Civil Rights League，如电影所示，logo是美国地图上写着个由组织名字圈起来的数字“1”，指意大利人哥伦布（Columbus/Colombo）是找到美国的第一人。组织称要和针对意大利人的不公刻板印象作斗争（甚至成功阻止了电影《教父》使用“Mafia” 和“Cosa Nostra”等词）（Frank Sinatra为该组织在麦迪逊花园广场开过演唱会），实则将自己的力量从与甘比诺家族的联系中独立出去。
 Colombo家族前身是Profaci家族，Crazy Joe属于该家族，多次试图夺位（手段包括意图绑架族长）。Crazy Joe后入狱，Profaci族长病逝，家族被交给了Joe Colombo，从此变成Colombo家族。出狱后Crazy Joe与Joe Colombo两人未谈妥条件，于是1971年Italian-American Civil Rights League组织在曼哈顿哥伦布环游行时，Crazy Joe（有甘比诺家族帮助）雇了25岁的Jerome A. Johnson暗杀Joe Colombo。Joe Colombo在家人面前头颈共中三枪，但并未死亡（成为植物人，几年后去世），Jerome A. Johnson被Joe Colombo的保镖当场击毙。
 Crazy Joe也是理发店暗杀Albert Anastasia的两名刺客之一，曾被诊断出精神分裂，入狱期间熟读卡夫卡雨果托尔斯泰，精神偶像马基雅维利。
 - 这条不是什么历史事件，就是很想顺嘴说一句，这部又出现了黑帮电影中（尤其老马电影里）熟悉的老伙计Copacabana夜总会，甚是亲切。
-- 这条也不是历史事件，姑且放这里。有两位朋友问了Jimmy的养子Chuckie O&apos;Brien在事件中的作用/位置，以及为何他事后不提供线索，我尝试解释一下。没人知道真相，以下内容来自书中Frank的叙述：
+- 这条也不是历史事件，姑且放这里。有两位朋友问了Jimmy的养子Chuckie O'Brien在事件中的作用/位置，以及为何他事后不提供线索，我尝试解释一下。没人知道真相，以下内容来自书中Frank的叙述：
 Chuckie是无辜的，他对暗杀Jimmy的计划一无所知，他只知道自己奉命来载几个人，再一起去接Jimmy参加一个很重要的会面。Chuckie是一个略爱吹嘘但外强中干的人，他如果事先知道自己参与了什么，绝对无法装作平静的样子完成这个流程，而不被警觉度极高的Jimmy识破。
 事情过后Chuckie没有提起过一句，他并不是会为人出头的人（他也是Hoffa家族里唯一低头在Fitz手下保住饭碗的），即使事后明白过来自己参与了什么，也会因为暗杀计划牵扯之深而恐惧不言，并因为自己在其中的位置而极为尴尬。
 在Frank看来整件事算计得非常巧妙：
 Sally Bugs（Tony Pro的左臂右膀）出面表示确实安排好了会面（其实他也是在监视Frank确保他不会为了Jimmy破坏计划，所以Jimmy和Frank进了房子他就可以走了，房子里收尸的两兄弟会继续替他盯Frank）；无知而心态轻松的Chuckie开车，使熟悉Chuckie的Jimmy放松部分警惕；Frank的出现，使Jimmy相信Russell确实来了，会面地点临时变更很合理（Russell很老派&amp;重隐私，不喜欢在公开场合会面），并再因熟悉Frank放松一部分警惕。
 他们在Jimmy进自己车子之前截住了他，这样他就正好没法拿车里的枪。他们迟到了一会儿，暴躁如Jimmy一开始肯定会因此生气叫嚷，引起一些侧目，这样在看清车内几人相信了Russell临时加入会议，他会因为避免引起更多注意，快速上车，放弃问更多问题或者拿枪。因为Russell的重量级和做派，Jimmy不仅不会坚持自己来开车或是做一些别的自卫举措，而且还会更相信此次会面的效率和成果，因而把刚刚的等待都算作沉没成本（甚至因此更加跃跃欲试决定make the most of this meeting），变得比平时更加配合。
-*Jimmy自家亲生的孩子有两个：儿子James Phillip Hoffa，现任Teamster工会主席；女儿 Barbara Ann Crancer，法官，曾从法院致电Frank以个人身份恳求Frank说出他所知道的真相。Charles &quot;Chuckie&quot; O&apos;brien是Jimmy Hoffa养子（传闻电影《教父》中二哥Tom的原型是他），6岁亲生父亲去世后被收养， Chuckie后来一度和Jimmy闹得不太开心，因为Jimmy不支持他竞选底特律299分会主席（Jimmy几十年来自己的大本营），且Chuckie对外称Jimmy出狱后暗中给FBI传信。
+*Jimmy自家亲生的孩子有两个：儿子James Phillip Hoffa，现任Teamster工会主席；女儿 Barbara Ann Crancer，法官，曾从法院致电Frank以个人身份恳求Frank说出他所知道的真相。Charles "Chuckie" O'brien是Jimmy Hoffa养子（传闻电影《教父》中二哥Tom的原型是他），6岁亲生父亲去世后被收养， Chuckie后来一度和Jimmy闹得不太开心，因为Jimmy不支持他竞选底特律299分会主席（Jimmy几十年来自己的大本营），且Chuckie对外称Jimmy出狱后暗中给FBI传信。
 *Chuckie载着Sally开走后把他送到了Pete Vitale的肉店，此人是底特律Purple Gang的老成员，店内可完成切分和焚烧。屋内收尸兄弟完工后开车去肉店接Sally并飞回新泽西，向Tony Pro报到。事后Russell曾小声跟Frank说毁尸灭迹并非在肉店完成而是在底特律某个殡仪馆，Frank认为Russell可能是出于某种考虑给他放了个烟雾弹，但他也清楚不该知道的东西不要多问。
 *Frank直到最后和Jimmy走进那座房子的前一秒都在希望，事先停在门口的棕色别克或者灰色福特已经开走一辆，因为这会意味着暗杀已被取消了。Jimmy直到被枪杀的前一秒都以为两人同生共死，发现屋内无人，知晓事情不对时，第一反应就是回身开门，想迅速带Frank离开。
 电影与原著的一些出入
 - Russell左手的拇指和食指都在（which is fine by me）；人设也和蔼得多，因为原著中Frank在其沉默威压中意会的内容，观众很难意会，于是电影里安排他把这些说出来——比如和Frank交代完这就是Jimmy Hoffa的命运以后，Russell不再作声，就只盯着Frank看，书中Frank还得控制自己表情不能动摇，更不能去想打电话给Jimmy报信，不然可能当场连同妻子一起被杀，但电影里Russell就直接和Frank简单说了句，“别说出去。”——于是非常明显，比起原著，Russell没有那么危险的样子（which is not that fine by me）。
 - William（Bill） Bufalino其实和Russell并没有亲缘关系，但Russell同意他对外称二人是亲戚，以促其发展工会律师职业。他在电影中的作用被强化了，成为初期的关键线索人物，加速剧情发展。
-- Frank第一次和Jimmy见面时，因为没人和他说过Jimmy do‘’s&amp;don&apos;ts，很自然地叫了酒喝，周围的人非常紧张，但Jimmy没说什么，让他喝完了。（again，金风玉露）
+- Frank第一次和Jimmy见面时，因为没人和他说过Jimmy do‘’s&amp;don'ts，很自然地叫了酒喝，周围的人非常紧张，但Jimmy没说什么，让他喝完了。（again，金风玉露）
 - 书中擅长candy炸药其实并不是Frank，而是嚼着注酒西瓜对Jimmy怒赞Frank如同摩西的这位Bill Isabel本人。不过这种情节改动完全可以理解。
 - Frank并非完全在战场上学的意大利语。小时候家里频繁因为拖欠房租搬家，一般都住在租金相对便宜的意大利人聚集区，所以对意语的掌握很大程度来自从小的耳濡目染。（语言习得理论的角度就是he was exposed to the foreign language during his critical period）（当然战时也在继续耳濡目染，但没法光靠打战学外语，quote Reya太太的吐槽，“这是什么语言奇才，每个二战回来的老兵都能说一口流利的德语吗”）当然这点需要提起的话就绕不过Frank的大段童年经历了，虽然我个人觉得这对Frank的人物塑造非常重要，但老马显然想留些笔墨，给别的更想做的事。
 - Peggy和Frank关系很好，是女儿中唯一和Frank一起去酒吧吃饭玩耍的（虽然，即使如此，她也因为Hoffa案永远不理Frank了）。Peggy和Russell关系也很好，记者拍到他俩一起外出用餐还得把Peggy从照片上裁掉因为她是平民。Peggy书中没和Jimmy Hoffa有太多交集（至少我不记得有读到过），电影中化身Jimmy Hoffa毒唯，也可以理解，她让Jimmy与黑帮（“you people”）的区别变得更泾渭分明，更可信，也在情感上让一切破碎变得更痛苦。
@@ -111,7 +111,7 @@ https://docs.google.com/document/d/12qzVFfeGUfv4MmxBgfTysQehdmQL5niiypvGJuU8TVU/
 </review>
 <review>
 <作者>大聪</作者>
-<作者评分>5</作者评分>
+<标题>《爱尔兰人》超万字深度解析，为你揭秘黑帮更残忍内幕</标题><作者评分>5</作者评分>
 <时间>2019-12-05 18:23:01</时间>
 <影评>
 
@@ -626,7 +626,7 @@ A4：其实这个问题，影片有隐隐透露出来，也就是整部《爱尔
 </review>
 <review>
 <作者>店长</作者>
-<作者评分>4</作者评分>
+<标题>《爱尔兰人》：穿蓝格纹睡衣的杀手</标题><作者评分>4</作者评分>
 <时间>2019-11-05 09:11:49</时间>
 <影评>
 
@@ -637,7 +637,7 @@ A4：其实这个问题，影片有隐隐透露出来，也就是整部《爱尔
 
 早在2008年，马丁·斯科赛斯和罗伯特·德尼罗就有意将查尔斯·布朗特于2004年出版的犯罪题材回忆录《听说你刷房子了》搬上银幕，但在当时没有任何一家电影公司愿意拿出如此高额预算来投资一部并无大卖相的年代黑帮片。十年过去，马丁等来了Netflix高达1.6亿美元的投资，也等来了“de-aging”的技术进步，让他能够在《爱尔兰人》里自如且深刻地讨论时间这一主题。
 《爱尔兰人》是一部非常马丁·斯科塞斯的电影。一方面，它标志着马丁回归他最热衷也或许是最擅长的黑帮题材，承接他之前作品序列中的《穷街陋巷》，《赌城风云》，《纽约黑帮》，当然还有被普遍认为是马丁最好作品之一的《好家伙》；另一方面，《爱尔兰人》又以一种忧伤和沉静的底色，延续了马丁在《基督最后的诱惑》、《沉默》等作品中对神性和救赎的讨论。
-影片以一个长长的推拉镜头开场，伴随着收音机里年代感十足的&quot;In the Still of the Night&quot;，我们的眼睛在疗养院的大厅与走廊中穿梭，最终来到一个轮椅上的背影前。坐在轮椅上的老人是Frank Sheeran（罗伯特·德尼罗饰），标题中的“爱尔兰人”，他戴着硕大的金戒指，头顶花白的头发稀稀疏疏，说话含糊不清。他直视镜头，像在接受纪录片采访一样，回忆起1975年的一场公路旅行。
+影片以一个长长的推拉镜头开场，伴随着收音机里年代感十足的"In the Still of the Night"，我们的眼睛在疗养院的大厅与走廊中穿梭，最终来到一个轮椅上的背影前。坐在轮椅上的老人是Frank Sheeran（罗伯特·德尼罗饰），标题中的“爱尔兰人”，他戴着硕大的金戒指，头顶花白的头发稀稀疏疏，说话含糊不清。他直视镜头，像在接受纪录片采访一样，回忆起1975年的一场公路旅行。
 
 那辆目的地是底特律的汽车里，坐着那时已过半百的Frank，他的第二个妻子Irene，和Frank最好的朋友，Russell Bufalino（乔·佩西饰）夫妻。路过一家加油站时，Frank回忆起在那里和Russell第一次见面的情形，将故事拉回1950年，拉回他“刷房子”之路的起点。
 《爱尔兰人》在这样三层的叙事结构下，缓慢地向前行进着。1950年的Frank是一个技艺过人的二战老兵，以一个卡车司机的身份结识Russell，一步步变成Bufalino家族权力网中最靠谱的打手和杀手，变成Russell的好朋友。通过Russell，Frank被举荐给工会主席，政治家Jimmy Hoffa（阿尔·帕西诺），成为他的保镖和最受信任左膀右臂。在一次次的暗杀，弃枪，抛尸与汽车炸弹后，1950年开始的时间线与1975年交汇，汽车驶向故事的最高潮，一堵等待被刷的墙和Frank人生最重要的一场杀戮。
@@ -651,7 +651,7 @@ A4：其实这个问题，影片有隐隐透露出来，也就是整部《爱尔
 但从更深层次的角度来说，《爱尔兰人》或许是一部非常不马丁·斯科塞斯的电影。
 我向来对《好家伙》没什么好感，那句“我从小就想当黑帮”有种莫名其妙的自负，而《好家伙》的主角Henry从头到尾虽然经历沉浮，却没有能让人共情的点。然而《爱尔兰人》彻底打破了马丁在《好家伙》中对黑帮成员像摇滚明星一样的塑造，《爱尔兰人》里的这些老家伙们似乎就是普通人，不受簇拥，没有戏剧化的行动也没有酣畅的BGM，在生意场之外不过只是一群穿着短袖衬衫，坐在保龄球场边，看起来平平无奇的中老年人。
 
-这种对黑帮成员人性化生活化的处理，彻底地否定了犯罪题材中常有的虚假浪漫。《爱尔兰人》里的职业杀手和政治大佬，可以在酒店房间里穿着居家睡衣，刷着牙，轻松地讨论改变权力格局的大事。阿尔·帕西诺演绎的Hoffa，在台上固然魅力十足极具感染力，下了台也不过是个脾气很差，爱吃热狗和冰淇淋，不喜欢别人迟到的平凡人。乔·佩西在《好家伙》里用一段&quot;funny how?&quot;塑造了一个让人又爱又怕的经典神经质黑帮形象，但他在《爱尔兰人》中的表演是极收敛克制的。Russell在重要的生意谈话时总是很沉着，不断斟酌着用词，而在生活中他是一个念叨妻子抽烟，因为教女Peggy不喜欢自己而郁闷的慈爱小老头。
+这种对黑帮成员人性化生活化的处理，彻底地否定了犯罪题材中常有的虚假浪漫。《爱尔兰人》里的职业杀手和政治大佬，可以在酒店房间里穿着居家睡衣，刷着牙，轻松地讨论改变权力格局的大事。阿尔·帕西诺演绎的Hoffa，在台上固然魅力十足极具感染力，下了台也不过是个脾气很差，爱吃热狗和冰淇淋，不喜欢别人迟到的平凡人。乔·佩西在《好家伙》里用一段"funny how?"塑造了一个让人又爱又怕的经典神经质黑帮形象，但他在《爱尔兰人》中的表演是极收敛克制的。Russell在重要的生意谈话时总是很沉着，不断斟酌着用词，而在生活中他是一个念叨妻子抽烟，因为教女Peggy不喜欢自己而郁闷的慈爱小老头。
 德尼罗饰演的“爱尔兰人”Frank，承担了最多将黑帮成员人性化的任务。这个角色将黑帮题材的讨论带入家庭，重点探讨了这帮嗜血的法外之徒和他们的犯罪行为如何影响下一代。在这部女性角色严重边缘化的《爱尔兰人》中，Frank的女儿Peggy是让人印象深刻的亮点，她没有什么台词，但对父亲的畏惧，怀疑，到最终的憎恨都以几个眼神直直投射到Frank身上，让他絮絮叨叨讲述的传奇经历显得空洞可笑。
 在Peggy拒绝和Frank说话之后，已快走到生命尽头的Frank对另一个关系也并不亲近的女儿洗白自己的行为：“我只是想保护你们不受伤害。”女儿好笑地质问：“不受谁的伤害？”这一个犀利的问题是给所有合理化自己行为的罪犯一记响亮的耳光，击碎所有对黑帮浪漫想象的幻梦。
 
@@ -669,7 +669,7 @@ A4：其实这个问题，影片有隐隐透露出来，也就是整部《爱尔
 </review>
 <review>
 <作者>杜瑟</作者>
-<作者评分>5</作者评分>
+<标题>《电影评论》访谈：摄影师罗德里戈·普列托【译】</标题><作者评分>5</作者评分>
 <时间>2019-12-02 20:37:19</时间>
 <影评>
 
@@ -692,15 +692,15 @@ A4：其实这个问题，影片有隐隐透露出来，也就是整部《爱尔
 她让他让观众知道，她终于明白了这一切。
 可是看见他之后，一座她围绕着他建立起来的幻想大厦却坍塌了。 有人在她的表情中看到了爱，有人看到的只是温柔和怜悯，有人看到了遗憾，有人甚至从她脸上看到了震惊和失望。结局是悲剧，还是喜剧？整部影片是悲剧，还是喜剧？
 《爱尔兰人》的结尾，弗兰克让牧师不要把门全关上：
-Don&apos;t shut the door all the way.
-I don&apos;t like that. Just...
+Don't shut the door all the way.
+I don't like that. Just...
 - leave it open a little bit.
 
 这个镜头同样也可以多层解读。
 杀手的本能。以前美国枪击案发生时，有警察来公司上课，说自己去饭店吃饭，总是先看后门在哪里，进去后坐在面朝大门，并且能看到大部分顾客的位子。当弗兰克听说他的律师已经死了的时候，他第一反应是Who did it? 也是本能的反应。
-那条留着的门缝是对女儿的到来留着的一点希望。这个圣诞节他是在轮椅上一个人度过的，之前他拄着拐杖排队去看在银行柜台工作的佩琪，佩琪看到他以后却调转柜台上那块牌子，摆出&quot;closed&quot;,  起身离开。
+那条留着的门缝是对女儿的到来留着的一点希望。这个圣诞节他是在轮椅上一个人度过的，之前他拄着拐杖排队去看在银行柜台工作的佩琪，佩琪看到他以后却调转柜台上那块牌子，摆出"closed",  起身离开。
 这条门缝呼应了前面的另一条门缝。当时弗兰克和阿尔·帕西诺饰演的霍法刚接上头，两人住一个套间，弗兰克住外间。临睡霍法走进里间，关上两扇的时留了条门缝。他也许以此在圣诞节时怀念霍法。之前有个镜头拍他手的特写，一只戒指一只手表。戒指是罗素给他的，金表是霍法给他颁的奖，两个影响他一生的人。
-这条门缝是对前面挑选棺材和安葬地的呼应。他说他不会选择火葬，也不想葬入地下：That&apos;s why I would never go for cremation，because it&apos;s so...it&apos;s so final.This... This one.That&apos;s the hardest part of anybody when they bury youse,is when they go into the ground because it&apos;s...it&apos;s so final.If you go into a building,the building&apos;s there.The crypt is there.It has to be a metal casket,and they have you in the room. ”  
+这条门缝是对前面挑选棺材和安葬地的呼应。他说他不会选择火葬，也不想葬入地下：That's why I would never go for cremation，because it's so...it's so final.This... This one.That's the hardest part of anybody when they bury youse,is when they go into the ground because it's...it's so final.If you go into a building,the building's there.The crypt is there.It has to be a metal casket,and they have you in the room. ”  
 最后那句话，they have you in the room，也可以说描述了最后一个镜头。他活着，可同时代的人都死了；他生了那么多女儿，却没有一个人接他出去过圣诞，甚至来看他。他在这个房间里一个人活着，也可以说是死了。这个房间，也是他的墓地，是他自己选择的墓地——这又呼应了一开始他说起他在战争中的经历，他拿着枪让两个战俘自掘坟墓，而他自己的一生可以说是拿着枪在给自己掘墓。
 注：关于《城市之光》的结尾，参考引用了我正在翻译的一本书：Show People: A History of the Film Star (暂定译名《戏梦人生：一部电影明星史》）。
 
@@ -713,7 +713,7 @@ I don&apos;t like that. Just...
 </review>
 <review>
 <作者>csh</作者>
-<作者评分>4</作者评分>
+<标题>一点感想和结尾的解读</标题><作者评分>4</作者评分>
 <时间>2019-11-22 11:24:32</时间>
 <影评>
 
@@ -750,7 +750,7 @@ I don&apos;t like that. Just...
 </review>
 <review>
 <作者>思路乐</作者>
-<作者评分>5</作者评分>
+<标题>金羊观影团||一切辉煌终落幕</标题><作者评分>5</作者评分>
 <时间>2019-12-01 17:29:19</时间>
 <影评>
 
@@ -854,7 +854,7 @@ PS：2019.12.5，评分更正
 </review>
 <review>
 <作者>看电影看到死</作者>
-<作者评分>5</作者评分>
+<标题>深度解读！这样的群戏可能再也不会有</标题><作者评分>5</作者评分>
 <时间>2019-12-04 15:35:12</时间>
 <影评>
 
@@ -986,7 +986,7 @@ PS：2019.12.5，评分更正
 </review>
 <review>
 <作者>lue</作者>
-<作者评分>5</作者评分>
+<标题>老马传奇黑帮系列电影里的一部华丽的谢幕之作</标题><作者评分>5</作者评分>
 <时间>2019-11-13 12:32:22</时间>
 <影评>
 
@@ -1028,7 +1028,7 @@ PS：2019.12.5，评分更正
 </review>
 <review>
 <作者>一二三</作者>
-<作者评分>4</作者评分>
+<标题>《纽约时报》：德尼罗和帕西诺长谈【译】</标题><作者评分>4</作者评分>
 <时间>2019-11-04 14:49:02</时间>
 <影评>
 
@@ -1120,7 +1120,7 @@ PS：2019.12.5，评分更正
 </review>
 <review>
 <作者>夜第七章</作者>
-<作者评分>5</作者评分>
+<标题>他的宇宙装不进这世界</标题><作者评分>5</作者评分>
 <时间>2019-12-15 17:37:45</时间>
 <影评>
 

@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>推翻罗诉韦德案 Reversing Roe</电影名>
 <年份>2018</年份>
 <评分>8.7</评分>
 <封面>https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2534101526.jpg</封面>
 <导演>里奇·斯坦恩 / 安妮·桑德博格</导演>
-<演员>鲁斯·巴德·金斯伯格 / 格洛丽亚·斯泰纳姆 / Donna Howard / John Seago / Brigitte Amiri / Troy Newman / Colleen McNicholas / Linda Greenhouse / Tom Davis / Faye Wattleton / Eleanor Holmes Norton / Tanya Melich / Curtis Boyd / Carol Tobias / Sarah Weddington / Sam Lee / Randall Balmer / Samuel Alito / Harry A. Blackmun / 乔治·布什 / 乔治·W· 布什 / 比尔·克林顿 / 希拉里·罗德姆·克林顿 / 菲尔·多纳休 / Jerry Falwell / Anthony M. Kennedy / Sandra Day O&apos;Connor / 巴拉克·奥巴马 / Rick Perry / 罗纳德·里根 / Ralph Reed / William Rehnquist / John G. Roberts Jr. / 派特·罗伯森 / Nelson Rockefeller / 安东宁·斯卡利亚 / Phyllis Schlafly / Christopher Smith / 索尼娅·索托马约尔 / 克拉伦斯·托马斯 / 乔治·蒂勒 / 唐纳德·特朗普 / Paul Weyrich / 沃尔特·克朗凯特 / 彼得·詹宁斯 / 泰德·科佩尔 / Mitch McConnell / Patty Murray / 迈克·彭斯 / 南茜·戴维斯 / Karl Rove / Charles Schumer / Ken Starr / George Stephanopoulos / 杰弗里·图宾 / 伊万卡·特朗普 / 克里斯·华莱士</演员>
+<演员>鲁斯·巴德·金斯伯格 / 格洛丽亚·斯泰纳姆 / Donna Howard / John Seago / Brigitte Amiri / Troy Newman / Colleen McNicholas / Linda Greenhouse / Tom Davis / Faye Wattleton / Eleanor Holmes Norton / Tanya Melich / Curtis Boyd / Carol Tobias / Sarah Weddington / Sam Lee / Randall Balmer / Samuel Alito / Harry A. Blackmun / 乔治·布什 / 乔治·W· 布什 / 比尔·克林顿 / 希拉里·罗德姆·克林顿 / 菲尔·多纳休 / Jerry Falwell / Anthony M. Kennedy / Sandra Day O'Connor / 巴拉克·奥巴马 / Rick Perry / 罗纳德·里根 / Ralph Reed / William Rehnquist / John G. Roberts Jr. / 派特·罗伯森 / Nelson Rockefeller / 安东宁·斯卡利亚 / Phyllis Schlafly / Christopher Smith / 索尼娅·索托马约尔 / 克拉伦斯·托马斯 / 乔治·蒂勒 / 唐纳德·特朗普 / Paul Weyrich / 沃尔特·克朗凯特 / 彼得·詹宁斯 / 泰德·科佩尔 / Mitch McConnell / Patty Murray / 迈克·彭斯 / 南茜·戴维斯 / Karl Rove / Charles Schumer / Ken Starr / George Stephanopoulos / 杰弗里·图宾 / 伊万卡·特朗普 / 克里斯·华莱士</演员>
 <简介>《Reversing Roe》讲的是美国著名罗诉韦德案。“罗诉韦德案例”给了美国妇女堕胎权，等于承认美国堕胎的合法化。</简介>
 <reviews>
 <review>
 <作者>Coraggiosa</作者>
-<作者评分>5</作者评分>
+<标题>当你犹豫时，请一定选择女人</标题><作者评分>5</作者评分>
 <时间>2021-01-27 21:35:50</时间>
 <影评>
 
@@ -27,7 +27,7 @@ If you don’t know to whom you can trust your well-being, you may always choose
 </review>
 <review>
 <作者>Taya</作者>
-<作者评分>5</作者评分>
+<标题>写在罗诉韦德案在美国被推翻的这一天。</标题><作者评分>5</作者评分>
 <时间>2022-06-25 05:29:43</时间>
 <影评>
 
@@ -44,7 +44,7 @@ If you don’t know to whom you can trust your well-being, you may always choose
 </review>
 <review>
 <作者>W.史密斯</作者>
-<作者评分>5</作者评分>
+<标题>支持和反对堕胎没有一句话那么简单</标题><作者评分>5</作者评分>
 <时间>2020-03-27 08:09:20</时间>
 <影评>
 
@@ -88,7 +88,7 @@ If you don’t know to whom you can trust your well-being, you may always choose
 </review>
 <review>
 <作者>鲤鱼Wang</作者>
-<作者评分>5</作者评分>
+<标题>怀不怀/生不生/堕不堕？我的身体我做主！</标题><作者评分>5</作者评分>
 <时间>2018-12-27 11:25:52</时间>
 <影评>
 
@@ -204,7 +204,7 @@ If you don’t know to whom you can trust your well-being, you may always choose
 特朗普的上台让LGBT群体、年轻女性、黑人都产生了巨大的不安全感。
 
 围绕堕胎合法与否，45年来争议从未停歇，美国的堕胎问题并没有因此更好或者更坏。
-观点两极分化，不少人呼吁完全推翻&quot;罗诉韦德案&quot;的裁决，全面禁止堕胎。
+观点两极分化，不少人呼吁完全推翻"罗诉韦德案"的裁决，全面禁止堕胎。
 
 而女权主义者同样在不懈的发声和斗争。
 撇开宗教和政治，女性堕胎与否原本是个可以被探讨，但不应当上升到法律层面的议题。
@@ -229,7 +229,7 @@ If you don’t know to whom you can trust your well-being, you may always choose
 </review>
 <review>
 <作者>朝受命</作者>
-<作者评分>5</作者评分>
+<标题>无尽的妥协与缠斗：堕胎权与美国民主政治；一些笔记与随想</标题><作者评分>5</作者评分>
 <时间>2022-07-03 16:11:06</时间>
 <影评>
 
@@ -338,7 +338,7 @@ If you don’t know to whom you can trust your well-being, you may always choose
 不要施加残酷
 看完整部纪录片，最让人胆寒的无疑是宗教保守派的那种狂热、顽固、不妥协、不择手段ruthless的反堕胎态度。这种态度的极端表现就是针对堕胎诊所、堕胎医生的残酷暴力行为。狂热、不妥协的态度往往就是人类自由最大威胁，因为他们将为了目标不择手段，甚至诉诸暴力。而顽固不宽容的态度，也总是造成对人类苦难suffering的无视，尤其是打着宗教的旗号。
 政治哲学家Judith Shklar在其理论中就将遏制残酷cruelty视为自由理论的首要任务。
-&quot;把残酷【在世俗生活中】摆在第一位也就是要取消启示宗教所理解的原罪观念。原罪是指对神圣统治的违犯和对上帝的冒犯；骄傲--拒绝上帝--因此必然总是最严重的恶，它还会衍生出其他的恶。但是，残酷--故意地对一个弱者施加生理痛苦以造成煎熬和恐惧 -- 则完全是对一个 世间生灵creature 的侵害。当残酷被标明为最大的恶，它完全是内在于自身和出于自身被判断的，而不是因为拒绝上帝或拒绝另外的更高层面的规则。这是从尘世间内在做出的判断，而残酷也是在这个世界内作为我们日常私人生活和公共实践的一部分发生的。通过把残酷无条件地摆在第一位，不让任何高于我们的东西来托词或原谅残酷的行为，我们也就阻断了任何诉诸超越现实性秩序的理由。.....把残酷摆在第一位，并不仅仅是出于宗教怀疑主义，更其是源于认识到那些有信仰之人与无信仰之人在残酷行为上是没有区别的，以及认识到马基雅维利【的观点，即在政治必要时可以作恶】在他的作品出现之前就大行其道了。把残酷放在第一位因此也就不仅是与宗教不同，也是与常态政治相区别。” （Ordniary Vices, 8-9）
+"把残酷【在世俗生活中】摆在第一位也就是要取消启示宗教所理解的原罪观念。原罪是指对神圣统治的违犯和对上帝的冒犯；骄傲--拒绝上帝--因此必然总是最严重的恶，它还会衍生出其他的恶。但是，残酷--故意地对一个弱者施加生理痛苦以造成煎熬和恐惧 -- 则完全是对一个 世间生灵creature 的侵害。当残酷被标明为最大的恶，它完全是内在于自身和出于自身被判断的，而不是因为拒绝上帝或拒绝另外的更高层面的规则。这是从尘世间内在做出的判断，而残酷也是在这个世界内作为我们日常私人生活和公共实践的一部分发生的。通过把残酷无条件地摆在第一位，不让任何高于我们的东西来托词或原谅残酷的行为，我们也就阻断了任何诉诸超越现实性秩序的理由。.....把残酷摆在第一位，并不仅仅是出于宗教怀疑主义，更其是源于认识到那些有信仰之人与无信仰之人在残酷行为上是没有区别的，以及认识到马基雅维利【的观点，即在政治必要时可以作恶】在他的作品出现之前就大行其道了。把残酷放在第一位因此也就不仅是与宗教不同，也是与常态政治相区别。” （Ordniary Vices, 8-9）
 也就是说，只有不懈地去防止残酷，才能摆脱以往神权政治以上帝的名义造成世间苦难的可怕局面，也是摆脱以往“现实主义”政治逻辑为恶行辩护 -- 为了好的结果可以不择手段 --的所谓“常态”政治逻辑。
 按照Shklar的观点，我们或许可以对宗教保守派说，你们对胎儿生命的重视是有道理的，但也不能因此就无视怀孕女性的自主、尊严与福祉。如果一个女性对自己身体的决定触怒了神灵的话，那就让神灵在另一个世界做出裁决吧。在我们不完美的尘世生活中，我们首要注意的是不要主动对另一个生灵施加残酷与痛苦。
 
@@ -348,7 +348,7 @@ If you don’t know to whom you can trust your well-being, you may always choose
 </review>
 <review>
 <作者>派特里克星</作者>
-<作者评分>3</作者评分>
+<标题>Human right, Human left</标题><作者评分>3</作者评分>
 <时间>2022-05-09 17:01:31</时间>
 <影评>
 
@@ -377,15 +377,15 @@ If you don’t know to whom you can trust your well-being, you may always choose
 Roe v. Wade, 410 U.S. 113 (1973)
 https://supreme.justia.com/cases/federal/us/410/113/
 美国宪法保护女性选择是否继续妊娠的自由
-Constitution of the United States protects a pregnant woman&apos;s liberty to choose to have an abortion without excessive government restriction. The decision struck down many U.S. federal and state abortion laws.
+Constitution of the United States protects a pregnant woman's liberty to choose to have an abortion without excessive government restriction. The decision struck down many U.S. federal and state abortion laws.
 Planned Parenthood v. Casey, 505 U.S. 833 (1992)
 https://supreme.justia.com/cases/federal/us/505/833/
 保持了罗诉韦德案中确认的堕胎自由，但是改变了对该项权利进行限制的标准。州政府可以对堕胎施加一些“过分的”阻碍条件，诸如等待期、父母知情同意、伴侣的知会等。
 In a plurality opinion, the Court upheld a right to have an abortion that was established in Roe v. Wade (1973), and altered the standard for analyzing restrictions on that right, crafting the undue burden standard for abortion restrictions.
-Dobbs v. Jackson Women&apos;s Health Organization is a pending U.S. Supreme Court case about the constitutionality of a 2018 Mississippi state law which bans most abortion operations after the first 15 weeks of pregnancy. Lower courts have prevented enforcement of the law with preliminary injunctions. The injunctions are based on the ruling in Planned Parenthood v. Casey, which prevents states from banning abortion within the first 24 weeks. Oral arguments before the Supreme Court were held in December 2021, with a final decision expected by late June or early July 2022.
-On May 2, 2022, Politico published a leaked draft majority opinion by Justice Samuel Alito. It would overturn Roe v. Wade and Casey, eliminating federal involvement and leaving the issue to be determined by the states. The Court confirmed the document&apos;s authenticity, but said that it &quot;does not represent a decision by the Court or the final position of any member on the issues in the case&quot;.[1]
+Dobbs v. Jackson Women's Health Organization is a pending U.S. Supreme Court case about the constitutionality of a 2018 Mississippi state law which bans most abortion operations after the first 15 weeks of pregnancy. Lower courts have prevented enforcement of the law with preliminary injunctions. The injunctions are based on the ruling in Planned Parenthood v. Casey, which prevents states from banning abortion within the first 24 weeks. Oral arguments before the Supreme Court were held in December 2021, with a final decision expected by late June or early July 2022.
+On May 2, 2022, Politico published a leaked draft majority opinion by Justice Samuel Alito. It would overturn Roe v. Wade and Casey, eliminating federal involvement and leaving the issue to be determined by the states. The Court confirmed the document's authenticity, but said that it "does not represent a decision by the Court or the final position of any member on the issues in the case".[1]
 filibuster
-A filibuster is a political procedure in which one or more members of a legislative body prolong debate on proposed legislation so as to delay or entirely prevent decision. It is sometimes referred to as &quot;talking a bill to death&quot; or &quot;talking out a bill&quot;[1] and is characterized as a form of obstruction in a legislature or other decision-making body. 
+A filibuster is a political procedure in which one or more members of a legislative body prolong debate on proposed legislation so as to delay or entirely prevent decision. It is sometimes referred to as "talking a bill to death" or "talking out a bill"[1] and is characterized as a form of obstruction in a legislature or other decision-making body. 
 https://www.theguardian.com/world/2013/jun/26/texas-senator-wendy-davis-abortion-bill-speech
 
 </影评>
@@ -394,7 +394,7 @@ https://www.theguardian.com/world/2013/jun/26/texas-senator-wendy-davis-abortion
 </review>
 <review>
 <作者>妙妙塔</作者>
-<作者评分>5</作者评分>
+<标题>不要把权利拱手让给我们所鄙视的人</标题><作者评分>5</作者评分>
 <时间>2022-04-13 13:28:55</时间>
 <影评>
 
@@ -408,7 +408,7 @@ https://www.theguardian.com/world/2013/jun/26/texas-senator-wendy-davis-abortion
 </review>
 <review>
 <作者>Orbiu</作者>
-<作者评分>5</作者评分>
+<标题>选择权的丧失——“罗诉韦德案”推翻后</标题><作者评分>5</作者评分>
 <时间>2022-06-25 16:00:43</时间>
 <影评>
 
@@ -451,7 +451,7 @@ Rescue those who are being taken away to death; hold back those who are stumblin
 </review>
 <review>
 <作者>Wanting</作者>
-<作者评分>5</作者评分>
+<标题>Notes</标题><作者评分>5</作者评分>
 <时间>2022-06-26 00:12:48</时间>
 <影评>
 
@@ -463,9 +463,9 @@ They deserve to determine the direction of their lives.
 They deserve to be recognized as full people, fully capable of making difficult decisions with the help of their family, their doctor and their God.
 No woman should be judged by someone else, someone who believes they would have made a different decision.
 No woman should be judged by someone else, because these decisions are never ever easy. 
-They&apos;re not made casually or quickly. And those of us in the Senate should refuse to make this decision casually or quickly. Because the fight for the future of Texas is just beginning.
+They're not made casually or quickly. And those of us in the Senate should refuse to make this decision casually or quickly. Because the fight for the future of Texas is just beginning.
 
-There has to be some tie between the benefit and the burden, doesn&apos;t there?
+There has to be some tie between the benefit and the burden, doesn't there?
 
 </影评>
 <有用数>3</有用数>
@@ -473,7 +473,7 @@ There has to be some tie between the benefit and the burden, doesn&apos;t there?
 </review>
 <review>
 <作者>路人甲</作者>
-<作者评分>5</作者评分>
+<标题>always be restless；evangelical voters 愿主祝福你?</标题><作者评分>5</作者评分>
 <时间>2023-08-08 17:24:42</时间>
 <影评>
 

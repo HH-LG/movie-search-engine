@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>美人计 Notorious</电影名>
 <年份>1946</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>一个疯子 - Un fou</作者>
-<作者评分>4</作者评分>
+<标题>Four Good For Hich</标题><作者评分>4</作者评分>
 <时间>2006-10-19 10:45:11</时间>
 <影评>
         本片由希区柯克和琼瑶于1945年跨国界合作，讲述一位纳粹间谍的女儿被美国情报机关的一名特工说服，渗透到巴西的纳粹残余组织中刺探情报，并为了套取情报违心嫁给了一位在纳粹组织中身居高位的旧相识，虽然她爱的是这位特工。稍后这位纳粹丈夫识破了她的身份并与母亲密谋将她毒死，而特工在她死亡边缘将其救出。
@@ -31,7 +31,7 @@
 </review>
 <review>
 <作者>S</作者>
-<作者评分>5</作者评分>
+<标题>存档：“麦格芬！麦格芬！”——《美人计》中的酒窖场景的悬念处理</标题><作者评分>5</作者评分>
 <时间>2010-09-30 12:44:48</时间>
 <影评>
         导演简介
@@ -134,7 +134,7 @@
 </review>
 <review>
 <作者>蓝紫青灰</作者>
-<作者评分>5</作者评分>
+<标题>美人后面是连环计</标题><作者评分>5</作者评分>
 <时间>2009-05-08 12:55:03</时间>
 <影评>
         美人儿英格丽.褒曼真是美。虽然高大，在穿横条衣服时肩还宽，但一点不掩其柔弱的美。那一腔楚楚可怜，眼神游移，嘴唇欲说还休，很有古典美人的味道。就像胖胖的李世济，一扮上像，就成了美貌温柔书卷气的梅妃，虽然那样儿足可演得杨妃。
@@ -154,7 +154,7 @@
 </review>
 <review>
 <作者>水水</作者>
-<作者评分>4</作者评分>
+<标题>the fate of the Unica key</标题><作者评分>4</作者评分>
 <时间>2007-07-04 09:27:43</时间>
 <影评>
         Unica key 的故事
@@ -177,7 +177,7 @@ BTW，宴会的时候希区柯克出来客串了一个来宾，认出来没？
 </review>
 <review>
 <作者>女祭司迪奥提玛</作者>
-<作者评分>3</作者评分>
+<标题>原来希区柯克也有这样无聊无脑的作品</标题><作者评分>3</作者评分>
 <时间>2018-07-08 22:56:02</时间>
 <影评>
 
@@ -196,7 +196,7 @@ BTW，宴会的时候希区柯克出来客串了一个来宾，认出来没？
 </review>
 <review>
 <作者>付玲</作者>
-<作者评分>4</作者评分>
+<标题>希区柯克那样的恋爱</标题><作者评分>4</作者评分>
 <时间>2010-09-21 20:01:22</时间>
 <影评>
         你们的太太在家打桥牌，她却冒着生命危险。
@@ -238,7 +238,7 @@ BTW，宴会的时候希区柯克出来客串了一个来宾，认出来没？
 </review>
 <review>
 <作者>vinola</作者>
-<作者评分>4</作者评分>
+<标题>女人的悲伤恋歌</标题><作者评分>4</作者评分>
 <时间>2009-10-01 13:28:23</时间>
 <影评>
         我很不懂为什么艾丽西亚会马上爱上迪普，并且爱得那么深又痛苦。但是这是希区柯克的电影嘛，所以我让自己不要去想原因。但是这除了画面风格、镜头运动和演员还是希区柯克的风格外，其他的我真的感受不到。这是一曲女人的悲伤恋歌啊。爱自己的父亲可是父亲却是他国的间谍，爱自己的国家去做间谍却在背后被人称为品行不好的女人，爱那个突然闯入她生活的英俊男人迪普，却一再地被他怀疑，被他不信任，最终连解释的力气都没有。
@@ -254,7 +254,7 @@ BTW，宴会的时候希区柯克出来客串了一个来宾，认出来没？
 </review>
 <review>
 <作者>年轻的老太</作者>
-<作者评分>4</作者评分>
+<标题>《色｜戒》的前辈</标题><作者评分>4</作者评分>
 <时间>2008-04-01 22:15:08</时间>
 <影评>
         谋杀，间谍，美人计。诸多刺激而耀眼的词汇漂浮在空中，漂呀漂，待沉淀下来，叫人定睛一看，还不是又一个男人和女人的故事？男人要充大，女人甘作小。你利用我，我利用你。当一个女人甘愿投身进一个美人计，她已经将自己的价值彻底贬为一个工具，且仅是作肉体之用。不管这个女人本身有多少出色与高洁，纯粹与骄傲，不管这个男人有多猥琐与低劣，肮脏与下贱，男人可以安心享受这送上门来的猎物，女人却得用上自己全部的聪明才智。这不正是和李安的《色｜戒》处在一个基调。
@@ -291,7 +291,7 @@ BTW，宴会的时候希区柯克出来客串了一个来宾，认出来没？
 </review>
 <review>
 <作者>法罗岛电影节</作者>
-<作者评分></作者评分>
+<标题>FIFF20丨DAY8《美人计》：身在囹圄的女人带着挣扎的内心，不知该往何处去</标题><作者评分 />
 <时间>2021-07-02 22:29:31</时间>
 <影评>
 
@@ -325,25 +325,25 @@ FranzCamus：
 </review>
 <review>
 <作者>Walt</作者>
-<作者评分>5</作者评分>
+<标题>On Notorious</标题><作者评分>5</作者评分>
 <时间>2016-12-27 22:55:38</时间>
 <影评>
 
-Yet let us recall the final scene of Notorious (1946): Devlin elopes with the poisoned Alicia from Sebastian&apos;s house in full view of the latter&apos;s Nazi collaborators. What we have here is a homologous underlying structure of the three gazes, of the three subjective positions: the ignorant Other is here the members of the Nazi ring who do not know that Alicia is an American spy and that Sebastian knows it (the reason why he is slowly poisoning her with his mother&apos;s help); the actants are Devlin and Alicia-Devlin escorts her down the staircase, posing as her friend who will take her to the hospital, with Sebastian&apos;s agreement; the helpless opponents are Sebastian and his mother, reduced to the role of passive observers-although Devlin&apos;s act is directed against them, any public countermove of theirs would instantly reveal to the members of the Nazi gang present that Alicia is an American spy and that Sebastian knows it, whereby Sebastian would sign his death warrant. What makes this scene different from the three above-mentioned comic interludes is the character of the third agency, the ignorant big Other, the public which witnesses the duel of the actant and his opponent: the Other loses here its benevolent innocence and assumes features of a threatening paranoiac agency. Those who range Notorious among the few Hitchcock&apos;s films which display noir sensibility are therefore in the right: one of the features which characterize the noir universe is precisely this mutation in the status of the big Other.
+Yet let us recall the final scene of Notorious (1946): Devlin elopes with the poisoned Alicia from Sebastian's house in full view of the latter's Nazi collaborators. What we have here is a homologous underlying structure of the three gazes, of the three subjective positions: the ignorant Other is here the members of the Nazi ring who do not know that Alicia is an American spy and that Sebastian knows it (the reason why he is slowly poisoning her with his mother's help); the actants are Devlin and Alicia-Devlin escorts her down the staircase, posing as her friend who will take her to the hospital, with Sebastian's agreement; the helpless opponents are Sebastian and his mother, reduced to the role of passive observers-although Devlin's act is directed against them, any public countermove of theirs would instantly reveal to the members of the Nazi gang present that Alicia is an American spy and that Sebastian knows it, whereby Sebastian would sign his death warrant. What makes this scene different from the three above-mentioned comic interludes is the character of the third agency, the ignorant big Other, the public which witnesses the duel of the actant and his opponent: the Other loses here its benevolent innocence and assumes features of a threatening paranoiac agency. Those who range Notorious among the few Hitchcock's films which display noir sensibility are therefore in the right: one of the features which characterize the noir universe is precisely this mutation in the status of the big Other.
 引自
 
 Enjoy Your Symptom!评价人数不足Slavoj Zizek / 2007 / Routledge
 
 
 
-The very notion of the big Other (of the symbolic order) is founded on the special kind of double deception that becomes visible in a scene from the Marx brothers&apos; Duck Soup, where Groucho defends his client before the court of law with the following argument in favor of his insanity: &quot;This man looks like an idiot and acts like an idiot—but this should in no way deceive you: he IS an idiot!&quot; The paradox of this proposition exemplifies perfectly the classical topos of the Lacanian theory concerning the difference between animal and human deception: man alone is capable of deceiving by means of truth itself. An animal can feign to be or to intend something other than what it really is or intends, but only man can lie by telling a truth that he expects to be taken for a lie. Only man can deceive by feigning to deceive. This is, of course, the logic of Freud&apos;s joke about two Polish Jews often cited by Lacan. One of these men asks the other in an offended tone: &quot;Why are you telling me that you are going to Cracow,, so that I&apos;ll think you&apos;re going to Lemberg, when you are really going to Cracow?&quot; This same logic structures the plot of a whole series of Hitchcock&apos;s films: the amorous couple is at first united by a pure accident or an external constraint, i.e., they find themselves in a situation in which they must pretend to be married or in love, until, finally, they fall in love for real. The paradox of such a situation could be adequately described by a paraphrase of Groucho&apos;s plea: &quot;This couple looks like a couple in love and acts like a couple in love—but this should in no way deceive you: they ARE a couple in love!&quot; We find perhaps the most refined version of this in Notorious, when Alicia and Devlin, American agents in the house of Sebastian, a rich Nazi supporter and Alicia&apos;s husband, furtively enter the wine cellar to explore the secret contents of the champagne bottles. There, they are surprised by the sudden arrival of Sebastian. To conceal the real purpose of their visit to the cellar, they embrace quickly, feigning a clandestine meeting of two lovers. The point is, of course, that they are effectively in love: they succeed in deceiving the husband (for the time being, at least), but what they offer him as a lure is truth itself. This kind of movement &quot;from outside inward&quot; is one of the key components of the intersubjective relations in Hitchcock&apos;s films: we effectively become something by pretending that we already are that. To grasp the dialectic of this movement, we have to take into account the crucial fact that this &quot;outside&quot; is never simply a &quot;mask&quot; we wear in public but is rather the symbolic order itself. By &quot;pretending to be something,&quot; by &quot;acting as if we were something,&quot; we assume a certain place in the intersubjective symbolic network, and it is this external place that defines our true position. If we remain convinced, deep within ourselves, that &quot;we are not really that,&quot; if we preserve an intimate distance toward &apos;&apos;the social role we play,&quot; we doubly deceive ourselves. The final deception is that social appearance is deceitful, for in the social-symbolic reality things ultimately are precisely what they pretend to be. (More precisely, this holds only for those of Hitchcock&apos;s films designated by Lesley Brill as &quot;romances,&quot; in opposition to the &quot;ironic&quot; films. The &quot;romances&quot; are ruled by the Pascalian logic whereby social play gradually changes into an authentic intersubjective relationship whereas the &quot;ironic&quot; films [Psycho, for example] depict a total blockade of communication, a psychotic split where the &quot;mask&quot; is effectively nothing but a mask, i.e., where the subject maintains the kind of distance from the symbolic order characteristic of psychoses.) 
+The very notion of the big Other (of the symbolic order) is founded on the special kind of double deception that becomes visible in a scene from the Marx brothers' Duck Soup, where Groucho defends his client before the court of law with the following argument in favor of his insanity: "This man looks like an idiot and acts like an idiot—but this should in no way deceive you: he IS an idiot!" The paradox of this proposition exemplifies perfectly the classical topos of the Lacanian theory concerning the difference between animal and human deception: man alone is capable of deceiving by means of truth itself. An animal can feign to be or to intend something other than what it really is or intends, but only man can lie by telling a truth that he expects to be taken for a lie. Only man can deceive by feigning to deceive. This is, of course, the logic of Freud's joke about two Polish Jews often cited by Lacan. One of these men asks the other in an offended tone: "Why are you telling me that you are going to Cracow,, so that I'll think you're going to Lemberg, when you are really going to Cracow?" This same logic structures the plot of a whole series of Hitchcock's films: the amorous couple is at first united by a pure accident or an external constraint, i.e., they find themselves in a situation in which they must pretend to be married or in love, until, finally, they fall in love for real. The paradox of such a situation could be adequately described by a paraphrase of Groucho's plea: "This couple looks like a couple in love and acts like a couple in love—but this should in no way deceive you: they ARE a couple in love!" We find perhaps the most refined version of this in Notorious, when Alicia and Devlin, American agents in the house of Sebastian, a rich Nazi supporter and Alicia's husband, furtively enter the wine cellar to explore the secret contents of the champagne bottles. There, they are surprised by the sudden arrival of Sebastian. To conceal the real purpose of their visit to the cellar, they embrace quickly, feigning a clandestine meeting of two lovers. The point is, of course, that they are effectively in love: they succeed in deceiving the husband (for the time being, at least), but what they offer him as a lure is truth itself. This kind of movement "from outside inward" is one of the key components of the intersubjective relations in Hitchcock's films: we effectively become something by pretending that we already are that. To grasp the dialectic of this movement, we have to take into account the crucial fact that this "outside" is never simply a "mask" we wear in public but is rather the symbolic order itself. By "pretending to be something," by "acting as if we were something," we assume a certain place in the intersubjective symbolic network, and it is this external place that defines our true position. If we remain convinced, deep within ourselves, that "we are not really that," if we preserve an intimate distance toward ''the social role we play," we doubly deceive ourselves. The final deception is that social appearance is deceitful, for in the social-symbolic reality things ultimately are precisely what they pretend to be. (More precisely, this holds only for those of Hitchcock's films designated by Lesley Brill as "romances," in opposition to the "ironic" films. The "romances" are ruled by the Pascalian logic whereby social play gradually changes into an authentic intersubjective relationship whereas the "ironic" films [Psycho, for example] depict a total blockade of communication, a psychotic split where the "mask" is effectively nothing but a mask, i.e., where the subject maintains the kind of distance from the symbolic order characteristic of psychoses.) 
 引自
 Looking Awry8.8Slavoj Žižek / 1991 / The MIT Press
 
 
 
 
-What matters in Notorious is not the fact that there are some bottles of wine filled with sand (&apos;ore&apos;), but that the wine is in the cellar; that the cellar door is locked; that the key is in the husband&apos;s possession; that the husband is in love with his wife; that she herself is in love with another; and that the third party wishes to know what is in the cellar.
+What matters in Notorious is not the fact that there are some bottles of wine filled with sand ('ore'), but that the wine is in the cellar; that the cellar door is locked; that the key is in the husband's possession; that the husband is in love with his wife; that she herself is in love with another; and that the third party wishes to know what is in the cellar.
 第二部分第五章
 
 Everything You Always Wanted to Kno评价人数不足Zizek, Slavoj (EDT) / 1992 / Verso

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>光荣之路 Paths of Glory</电影名>
 <年份>1957</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>ivorldn</作者>
-<作者评分>5</作者评分>
+<标题>“爱国主义是无赖最好的借口”‘</标题><作者评分>5</作者评分>
 <时间>2009-11-21 22:12:05</时间>
 <影评>
         当年这部作品曾被法国军部以诋毁法国军队的光荣传统为名在法国禁映 后来还是在片中加上一段”这只是法国军队中一小撮败类不代表法国军队全部”的解释 才准公映。
@@ -61,7 +61,7 @@ dax上校同样被赋予局限性：当他被告知率领部队进攻不可能�
 </review>
 <review>
 <作者>Manchild</作者>
-<作者评分>5</作者评分>
+<标题>库布里克的“最后一分钟营救”</标题><作者评分>5</作者评分>
 <时间>2011-03-26 14:39:52</时间>
 <影评>
         不必多说，大家自然看得出库布里克将这部影片取名为《光荣之路》实际上是一个巨大的讽刺。不管这片名是不是正如某些网友所说抽象的来源于罗马共和国的晋升体系（这里也同样指代军队的晋升体系），还是影片中具象的战壕用士兵尸体所堆出一条冲锋进攻的道路，或者是在影片最后处死三位士兵之时那条宽阔的冰冷的秩序之路，毫无疑问的是，这其中没有一个意向具有正面的意义。他们都构成了库布里克用镜头语言所搭建的一个巨大反讽。
@@ -125,7 +125,7 @@ and if you wrong us, shall we not revenge?
 </review>
 <review>
 <作者>乱水</作者>
-<作者评分>5</作者评分>
+<标题>片尾德国女孩唱的德国民谣</标题><作者评分>5</作者评分>
 <时间>2014-03-26 12:45:36</时间>
 <影评>
         这是一首历史比较悠久的德国民谣，据说从1825年开始传唱。歌名是Der treue Hussar（法语歌名是La Treue Hussar，英语歌名是The Faithful Soldier）。同时这也是1954年一部没什么人知道的德国电影名。
@@ -134,13 +134,13 @@ and if you wrong us, shall we not revenge?
 
 1. Es war einmal ein treuer Husar,
 
-Der liebt&apos; sein Mädchen ein ganzes Jahr,
+Der liebt' sein Mädchen ein ganzes Jahr,
 
 |: Ein ganzes Jahr und noch viel mehr,
 
 Die Liebe nahm kein Ende mehr. :|
 
-2. Der Knab&apos; der fuhr ins fremde Land,
+2. Der Knab' der fuhr ins fremde Land,
 
 Derweil ward ihm sein Mädchen krank,
 
@@ -148,21 +148,21 @@ Derweil ward ihm sein Mädchen krank,
 
 Drei Tag, drei Nacht sprach sie kein Wort. :|
 
-3. Und als der Knab&apos; die Botschaft kriegt,
+3. Und als der Knab' die Botschaft kriegt,
 
 Daß sein Herzlieb am Sterben liegt,
 
 |: Verließ er gleich sein Hab und Gut,
 
-Wollt seh&apos;n, was sein Herzliebchen tut. :|
+Wollt seh'n, was sein Herzliebchen tut. :|
 
-4. Ach Mutter bring&apos; geschwind ein Licht,
+4. Ach Mutter bring' geschwind ein Licht,
 
-Mein Liebchen stirbt, ich seh&apos; es nicht,
+Mein Liebchen stirbt, ich seh' es nicht,
 
 |: Das war fürwahr ein treuer Husar,
 
-Der liebt&apos; sein Mädchen ein ganzes Jahr. :|
+Der liebt' sein Mädchen ein ganzes Jahr. :|
 
 5. Und als er zum Herzliebchen kam,
 
@@ -172,23 +172,23 @@ Ganz leise gab sie ihm die Hand,
 
 Die Liebe nahm kein Ende mehr. :|
 
-6. &quot;Grüß Gott, grüß Gott, Herzliebste mein!
+6. "Grüß Gott, grüß Gott, Herzliebste mein!
 
-Was machst du hier im Bett allein?&quot;
+Was machst du hier im Bett allein?"
 
-|: &quot;Hab dank, hab Dank, mein treuer Knab&apos;!
+|: "Hab dank, hab Dank, mein treuer Knab'!
 
-Mit mir wird&apos;s heißen bald: ins Grab!&quot; :|
+Mit mir wird's heißen bald: ins Grab!" :|
 
-7. &quot;Grüß Gott, grüß Gott, mein feiner Knab.
+7. "Grüß Gott, grüß Gott, mein feiner Knab.
 
 Mit mir wills gehen ins kühle Grab.
 
-|: &quot;Ach nein, ach nein, mein liebes Kind,
+|: "Ach nein, ach nein, mein liebes Kind,
 
-Dieweil wir so Verliebte sind.&quot; :|
+Dieweil wir so Verliebte sind." :|
 
-8. &quot;Ach nein, ach nein, nicht so geschwind,
+8. "Ach nein, ach nein, nicht so geschwind,
 
 Dieweil wir zwei Verliebte sind;
 
@@ -200,17 +200,17 @@ Die Lieb und Treu muß länger sein. :|
 
 Da war sie kalt und nimmer warm;
 
-|: &quot;Geschwind, geschwind bringt mir ein Licht!
+|: "Geschwind, geschwind bringt mir ein Licht!
 
-Sonst stirbt mein Schatz, daß&apos;s niemand sicht. :|
+Sonst stirbt mein Schatz, daß's niemand sicht. :|
 
 10. Und als das Mägdlein gestorben war,
 
-Da legt er&apos;s auf die Totenbahr.
+Da legt er's auf die Totenbahr.
 
-|: Wo krieg ich nun sechs junge Knab&apos;n,
+|: Wo krieg ich nun sechs junge Knab'n,
 
-Die mein Herzlieb zu Grabe trag&apos;n? :|
+Die mein Herzlieb zu Grabe trag'n? :|
 
 11. Wo kriegen wir sechs Träger her?
 
@@ -237,7 +237,7 @@ He loved his girl for one whole year,
 
 For one whole year and longer yet,
 
-His love for her, he&apos;d ne&apos;er forget.
+His love for her, he'd ne'er forget.
 
 
 This youth to foreign land did roam,
@@ -295,7 +295,7 @@ P.S.后来《光荣之路》片尾里唱这首德国民歌的女演员成了导�
 </review>
 <review>
 <作者>will</作者>
-<作者评分>5</作者评分>
+<标题>IMDb英文网站幕后花絮翻译——看看库布里克为啥是大师</标题><作者评分>5</作者评分>
 <时间>2017-03-18 23:38:15</时间>
 <影评>
         欢迎关注我的公众号“IMDb榜单电影评论”，提供英文网站幕后花絮翻译。
@@ -366,7 +366,7 @@ P.S.后来《光荣之路》片尾里唱这首德国民歌的女演员成了导�
 </review>
 <review>
 <作者>chenweijc</作者>
-<作者评分>4</作者评分>
+<标题>我还想着最后一刻会有一声大喊：刀下留人！</标题><作者评分>4</作者评分>
 <时间>2011-02-26 11:06:41</时间>
 <影评>
         值得品味的地方；
@@ -414,7 +414,7 @@ P.S.后来《光荣之路》片尾里唱这首德国民歌的女演员成了导�
 </review>
 <review>
 <作者>糖果魔法师。</作者>
-<作者评分>4</作者评分>
+<标题>光荣之路</标题><作者评分>4</作者评分>
 <时间>2017-08-26 17:37:21</时间>
 <影评>
         战争真正的残酷不仅是人性的毁灭，还是少数人决断错误而葬送无辜，更在于为了掩盖错误而葬送更多幸存者。隐藏在爱国主义旗帜底下的却是贪婪恐惧自大狂妄，还有丧失良知的麻木不仁，扼杀生命的不是敌人的炮火而是友军的卑鄙。我曾数次羞于作为人类的一员，这将是一次。
@@ -426,7 +426,7 @@ P.S.后来《光荣之路》片尾里唱这首德国民歌的女演员成了导�
 </review>
 <review>
 <作者>George</作者>
-<作者评分>4</作者评分>
+<标题>其实那三个士兵早就出现了</标题><作者评分>4</作者评分>
 <时间>2017-12-06 01:07:41</时间>
 <影评>
 
@@ -453,7 +453,7 @@ P.S.后来《光荣之路》片尾里唱这首德国民歌的女演员成了导�
 </review>
 <review>
 <作者>卫有疾</作者>
-<作者评分>5</作者评分>
+<标题>29岁的库布里克</标题><作者评分>5</作者评分>
 <时间>2016-03-17 19:31:47</时间>
 <影评>
         库布里克仿佛是来自未来的导演，他总是让人一再怀疑电影资料上的年份是否恶作剧式地往前推了几十年。库布里克以“未来三部曲”《发条橙》《奇爱博士》《2001太空漫游》而著名，但并非是科幻题材使他的电影能够便利地具有未来感（比如三部曲里无处不在的未来场景），而是相反，库布里克的超前能力使得只有他才能驾驭好这样的题材，把三个优秀的原著整合在一起，再让人不得不冠上“伟大”之名。《光荣之路》，这部库布里克29岁拍摄的电影，一个现实主义题材无关幻想的电影，就能说明这点。
@@ -478,7 +478,7 @@ P.S.后来《光荣之路》片尾里唱这首德国民歌的女演员成了导�
 </review>
 <review>
 <作者>Yolanda</作者>
-<作者评分>5</作者评分>
+<标题>如果你将被荒谬的杀死</标题><作者评分>5</作者评分>
 <时间>2007-12-07 19:56:20</时间>
 <影评>
         我忘记自己载这部电影的初衷.
@@ -584,7 +584,7 @@ Kirk先生作为影片中正义的化身去找另一位将军，他的王牌就�
 </review>
 <review>
 <作者>七七</作者>
-<作者评分>4</作者评分>
+<标题>光荣之路</标题><作者评分>4</作者评分>
 <时间>2017-07-02 15:20:34</时间>
 <影评>
 

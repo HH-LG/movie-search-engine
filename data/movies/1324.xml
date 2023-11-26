@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>血战钢锯岭 Hacksaw Ridge</电影名>
 <年份>2016</年份>
@@ -12,7 +12,7 @@
 <reviews>
 <review>
 <作者>无语邻</作者>
-<作者评分>4</作者评分>
+<标题>真实的道哥跟电影不同，他比电影更传奇</标题><作者评分>4</作者评分>
 <时间>2016-11-08 10:46:29</时间>
 <影评>
         看完之后不敢相信，觉得好莱坞主旋律真敢吹啊……
@@ -72,7 +72,7 @@
 </review>
 <review>
 <作者>nVIDIADriver</作者>
-<作者评分>5</作者评分>
+<标题>Saving Private Ryan之后最好的战争片？</标题><作者评分>5</作者评分>
 <时间>2016-11-08 02:32:56</时间>
 <影评>
         和几个美国朋友一起看了Hacksaw Ridge的首映式，而后又再看了一次，可以想象为何此片会获得如此高的观众口碑。
@@ -174,7 +174,7 @@
 </review>
 <review>
 <作者>大聪</作者>
-<作者评分>4</作者评分>
+<标题>《血战钢锯岭》和真实历史良心拒服兵役事件的出入。</标题><作者评分>4</作者评分>
 <时间>2016-12-07 12:44:46</时间>
 <影评>
 
@@ -255,7 +255,7 @@
 </review>
 <review>
 <作者>五十米深蓝</作者>
-<作者评分>5</作者评分>
+<标题>看完《血战钢锯岭》你会发现你大爷永远是你大爷</标题><作者评分>5</作者评分>
 <时间>2016-12-01 12:16:25</时间>
 <影评>
         昨天去看了梅尔吉布森的《血战钢锯岭》，有意思的是，我原以为这是部很low的片子，但是！看完之后简直燃爆，不得不说，梅尔吉布森宝刀未老，你大爷永远是你大爷！
@@ -310,7 +310,7 @@
 </review>
 <review>
 <作者>方聿南</作者>
-<作者评分>5</作者评分>
+<标题>《血战钢锯岭》的真正战场，并不在钢锯岭……</标题><作者评分>5</作者评分>
 <时间>2016-11-30 20:07:48</时间>
 <影评>
 
@@ -420,7 +420,7 @@
 </review>
 <review>
 <作者>张腾森</作者>
-<作者评分>5</作者评分>
+<标题>《血战钢锯岭》：一个非主流英雄的诞生</标题><作者评分>5</作者评分>
 <时间>2016-12-09 11:18:20</时间>
 <影评>
         简单粗暴地概括下，《血战钢锯岭》讲的是一个非主流英雄的诞生的故事。在战争渐渐远离公众视野的年代，一部优秀的战争片能让人们重温血与火的灼热，亲临那个枪林弹雨，尸横遍野的悲壮现场，从而前所未有地认识到生命的可贵，更加珍惜来之不易的和平，并反对战争的再次发动。《血战钢锯岭》正是这样的一部电影，奥斯卡金像奖导演梅尔·吉布森堪称这个时代最适合执导它的天才创作者，用仅为4200w美元的小成本拍出了上亿投资的大片质感。战争场面血腥惨烈，救人情节动魄揪心，《血战钢锯岭》带给观众是无比震撼的观影体验。久违银幕的男性热血，回眸历史的沧桑厚重，与时代浮沉的大气恢弘，都精准而完美地浓缩在了这部电影中，令人叹为观止。
@@ -489,7 +489,7 @@
 </review>
 <review>
 <作者>鼠斩车田万齐</作者>
-<作者评分>4</作者评分>
+<标题>逆境下的信仰</标题><作者评分>4</作者评分>
 <时间>2016-11-03 07:04:47</时间>
 <影评>
         信仰是人精神意义上赖以存在的基础，是我们平衡物欲的工具。大多数人选择的是符合社会主流价值的、更容易生存下来的信仰。而如果选择偏离主流的信仰，我们为了捍卫信仰所付出的努力就注定要比其他人更多一些，这条路也会坎坷崎岖。
@@ -526,7 +526,7 @@ Desmond严格执行自己不杀人的原则，到底要的是什么，也许他�
 </review>
 <review>
 <作者>木卫二</作者>
-<作者评分>4</作者评分>
+<标题>他打赢了一场救人的战争</标题><作者评分>4</作者评分>
 <时间>2016-12-09 14:06:25</时间>
 <影评>
 
@@ -600,7 +600,7 @@ Desmond严格执行自己不杀人的原则，到底要的是什么，也许他�
 </review>
 <review>
 <作者>Favillae</作者>
-<作者评分>5</作者评分>
+<标题>A Hero among Heroes</标题><作者评分>5</作者评分>
 <时间>2016-12-10 05:28:12</时间>
 <影评>
 
@@ -610,7 +610,7 @@ Desmond严格执行自己不杀人的原则，到底要的是什么，也许他�
 
 钢锯岭的主角是战地医护兵（combat medic），Desmond Doss是二战中第一个也是唯一一个以CO（Conscientious Objector，出于道德或宗教原因拒服兵役者）身份获得国会荣誉勋章的美国军人，CO并不是一定不入伍服役，而是不从事战斗任务，可以从事部队后勤文书工作，或者像Desmond那样当医护兵，而上了前线战场想不拿起武器杀人，当医护兵是惟一现实可行的途径。
 
-8航题材电视剧12 O&apos;Clock High的111里的主角Cpl.Lawrence也是个CO，原本在大队指挥部办公室当文书军士，被发现是CO后大队长Savage将军找他谈心，强行将他送去训练成了机枪手，后来在飞机上他亲眼目睹朋友阵亡，幡然醒悟化身复仇战士操纵机枪轰掉了两架敌机。这可能只是一个虚构的故事，但它体现了两点：作为Conscientious Objector又进了军队的人会被怎样看待（即使是Savage将军这样有人情味的领导照样不会同意和接纳Lawrence作为CO在大队里的存在，所以我们可以理解本片里Jack Glover连长对Desmond的态度，他的态度就是最正常的态度，即使是The Pacific里尤金的好连长碰到Desmond这样的部属，他又能怎样反应呢？）；Conscientious Objector基本上都会主动或被动放弃，在你死我活的战场上想保守住这样一种原则，太艰难了。
+8航题材电视剧12 O'Clock High的111里的主角Cpl.Lawrence也是个CO，原本在大队指挥部办公室当文书军士，被发现是CO后大队长Savage将军找他谈心，强行将他送去训练成了机枪手，后来在飞机上他亲眼目睹朋友阵亡，幡然醒悟化身复仇战士操纵机枪轰掉了两架敌机。这可能只是一个虚构的故事，但它体现了两点：作为Conscientious Objector又进了军队的人会被怎样看待（即使是Savage将军这样有人情味的领导照样不会同意和接纳Lawrence作为CO在大队里的存在，所以我们可以理解本片里Jack Glover连长对Desmond的态度，他的态度就是最正常的态度，即使是The Pacific里尤金的好连长碰到Desmond这样的部属，他又能怎样反应呢？）；Conscientious Objector基本上都会主动或被动放弃，在你死我活的战场上想保守住这样一种原则，太艰难了。
 
 Desmond保守住了，不仅仅在军营里，同样在太平洋战场上。他是个20来岁的小伙子，是Sarge嘴里的kid或son。这个小伙子将以自己的实际行动来改变周遭所有人，Glover连长、连军士长、Smitty、其他战友，对他的看法，让他们主动向他坦承，“我们看错了你”，Desmond Doss不是懦夫，他是他们中间最勇敢最坚定的人。
 
@@ -618,15 +618,15 @@ Desmond保守住了，不仅仅在军营里，同样在太平洋战场上。他�
 
 因为MoH获得者经常都已经死了或将要死，所以二战中没有同一人两度获得MoH的例子。巴斯隆在硫磺岛也很英勇，但只给了次一级的海军十字勋章（Navy Cross）。其实救护同袍的例子在全军非常多，但很多人的事迹并不为大众所知，也很难像Desmond Doss这么开挂一个人救护这么多人。可是一个军人在战场上舍己为人这种情况是很多见的，读书时读到这些人的事迹，真是无法不被感动和肃然起敬。比如美军在太平洋战场最惨烈的岛屿战Peleliu战役里，一个27岁的海军陆战队步兵连连长James Shanley上尉（哥伦比亚大学毕业），数度冲出掩体救护暴露在敌人火力下的负伤部下，自己因此被迫击炮弹炸死，他的副连Collins少尉在冲出去救援他时被反坦克炮击中同日阵亡。Shanley上尉因其英勇表现被追授第二枚海军十字，他曾在格洛斯特角战役里获得海军十字。当时我看到他的事迹，真心觉得表彰MoH也不为过，如此勇敢和仁爱的年轻人。
 
-Mel拍Desmond负伤撤下战场那段已经是对真实情况的极尽简化，他要是一板一眼丝毫不加改编地照着拍，不知道有些观众是不是要大呼“老美就是会煽情”或美帝伟光正英雄主旋律大片什么的。实际的情况在他的MoH嘉奖令里写得清楚明白：Desmond救护伤员直至腿部被手榴弹炸伤，之后并未如电影里那样马上被抬走，也没有喊叫掩体后的医护兵来救他（这样做会危及医护兵的生命），而是自己给自己包扎伤处，等了五个钟头等到担架兵找到他把他抬走，在抬走去安全处的路上又遭遇日军坦克攻击，尔后他见到一个伤势更严重的伤兵，就让出担架床，指挥担架兵先把这个战友送走。在等担架兵返回时他被另一个战友带走，路上又被日军狙击手打中一只手臂造成骨折，他用枪托当夹板固定好伤臂后自己在崎岖的地面上爬了数百码回急救站。在冲绳战役里他数度负伤，紫心拿了三次。在之前的关岛战役他就因救援伤员获得铜星，在莱特岛染上结核病，这些伤病对他的身体造成很大损伤（电影里没有提到）。荣誉勋章是嘉奖45年4月29日~5月21日期间的英勇救护伤员行为，数度暴露在敌人火力下却没有死，也许真的应该认为，God guided and protected him, and he&apos;s the guardian angel to his buddies。
+Mel拍Desmond负伤撤下战场那段已经是对真实情况的极尽简化，他要是一板一眼丝毫不加改编地照着拍，不知道有些观众是不是要大呼“老美就是会煽情”或美帝伟光正英雄主旋律大片什么的。实际的情况在他的MoH嘉奖令里写得清楚明白：Desmond救护伤员直至腿部被手榴弹炸伤，之后并未如电影里那样马上被抬走，也没有喊叫掩体后的医护兵来救他（这样做会危及医护兵的生命），而是自己给自己包扎伤处，等了五个钟头等到担架兵找到他把他抬走，在抬走去安全处的路上又遭遇日军坦克攻击，尔后他见到一个伤势更严重的伤兵，就让出担架床，指挥担架兵先把这个战友送走。在等担架兵返回时他被另一个战友带走，路上又被日军狙击手打中一只手臂造成骨折，他用枪托当夹板固定好伤臂后自己在崎岖的地面上爬了数百码回急救站。在冲绳战役里他数度负伤，紫心拿了三次。在之前的关岛战役他就因救援伤员获得铜星，在莱特岛染上结核病，这些伤病对他的身体造成很大损伤（电影里没有提到）。荣誉勋章是嘉奖45年4月29日~5月21日期间的英勇救护伤员行为，数度暴露在敌人火力下却没有死，也许真的应该认为，God guided and protected him, and he's the guardian angel to his buddies。
 
 Smitty、Glover连长和连军士长Sgt.Howell是配角里三个最醒目的形象，次一级的配角火喷手Kirzinski、好莱坞也有辨识度。天亮Japs反攻时只有连长全身退下去，Kirzinski阵亡，Smitty阵亡，Sarge腿部负伤，好莱坞为救援他腿部和面部负伤，两人都无法撤离。96师（影院中字误译为“96连”，应为96步兵师，其于45年4月28日被Desmond和Smitty他们所在的77步兵师替换）残部的医护兵将血浆让给别的伤员后没能幸存。
 
-Smitty Ryker，全片我最喜欢的一个人物，刚开始不待见Desmond、后来在战场上护着他、救过他、蹲过同一个散兵坑/弹坑、彼此交心的战友，没能熬过来太遗憾了……还是个没有父亲，打小就被母亲扔到孤儿院的苦逼孩子，Smitty对Desmond的讨厌大抵是那种尝过生活艰辛的苦孩子对慈悲、软弱、不会反抗、不懂世间险恶的好孩子的天然反感情绪，当然后来知道了Desmond并非表面那样单纯软弱，反而有一颗至为坚强之心，也不是什么幸福和谐家庭里成长起来的孩子。对Desmond的惊讶和认识越多，他对Desmond的关注也就越多，刚开始挑衅Desmond，质问他是不是懦夫，到夜间舍友群殴Desmond，发现后立即制止的也是他，再到战场上的互助互救。战场上的Smitty刚毅英勇冷静，十分醒目，仿佛久经考验的老兵，即使中弹重伤，他的反应仍是镇定、面无惧色，但当Desmond跑过来救护他时，他却说“I&apos;m scared”。卸下被战争揠苗助长的形象和面具，Smitty仍旧是个孩子，被迫装得很强势，他起初也许幻想战争是他改变命运的机会，进入军队服役，他也许能够做自己想做的人，但在碾压一切的战争机器里，他也不过是炮灰。Desmond负着Smitty炮火中狂奔那幕，是全片最令我伤感的一幕，尤其是之后得知Smitty没能救回来（当时以为能救回来，就像那个双腿炸伤被别的医护兵放弃了，Desmond却坚执要人送下去、不肯放弃的伤兵）。救了75人，惟独没有那一个。全连撤离时悬崖边上孤伶伶的Desmond呆呆看着死掉的Smitty，欲哭无泪，问上帝“要我怎样做，我听不见你”。他听到了战友的呼救声，就独个儿留下来救人了，这就是给予他的神启，而他祈求的是，“再让我多救一个”。Smitty并无具体确定的某个历史原型，Desmond也没有哪一个战友叫Smitty这个名字，他是个混合体，多人多事迹杂糅而成的虚构角色，他在战斗中做出的那些事迹（炸机枪碉堡、把迫击炮弹当手榴弹扔）出现在一些荣誉勋章获得者的嘉奖令上，而他本人，可以说是Desmond面对的那群士兵和战友的代表，是整体的缩影。Desmond每次背负或拖着伤员回到崖边，都能看到Smitty躺在那里。死去的战友也能给他精神上的鼓舞和支持。有好上帝，有好战友，他并非孤独一人在做着这非凡艰困之壮举。最终撤下悬崖时，他带着Smitty的遗体一起跳下来。他救援了75个伤员，或许更多，带回的死者只有Smitty。
+Smitty Ryker，全片我最喜欢的一个人物，刚开始不待见Desmond、后来在战场上护着他、救过他、蹲过同一个散兵坑/弹坑、彼此交心的战友，没能熬过来太遗憾了……还是个没有父亲，打小就被母亲扔到孤儿院的苦逼孩子，Smitty对Desmond的讨厌大抵是那种尝过生活艰辛的苦孩子对慈悲、软弱、不会反抗、不懂世间险恶的好孩子的天然反感情绪，当然后来知道了Desmond并非表面那样单纯软弱，反而有一颗至为坚强之心，也不是什么幸福和谐家庭里成长起来的孩子。对Desmond的惊讶和认识越多，他对Desmond的关注也就越多，刚开始挑衅Desmond，质问他是不是懦夫，到夜间舍友群殴Desmond，发现后立即制止的也是他，再到战场上的互助互救。战场上的Smitty刚毅英勇冷静，十分醒目，仿佛久经考验的老兵，即使中弹重伤，他的反应仍是镇定、面无惧色，但当Desmond跑过来救护他时，他却说“I'm scared”。卸下被战争揠苗助长的形象和面具，Smitty仍旧是个孩子，被迫装得很强势，他起初也许幻想战争是他改变命运的机会，进入军队服役，他也许能够做自己想做的人，但在碾压一切的战争机器里，他也不过是炮灰。Desmond负着Smitty炮火中狂奔那幕，是全片最令我伤感的一幕，尤其是之后得知Smitty没能救回来（当时以为能救回来，就像那个双腿炸伤被别的医护兵放弃了，Desmond却坚执要人送下去、不肯放弃的伤兵）。救了75人，惟独没有那一个。全连撤离时悬崖边上孤伶伶的Desmond呆呆看着死掉的Smitty，欲哭无泪，问上帝“要我怎样做，我听不见你”。他听到了战友的呼救声，就独个儿留下来救人了，这就是给予他的神启，而他祈求的是，“再让我多救一个”。Smitty并无具体确定的某个历史原型，Desmond也没有哪一个战友叫Smitty这个名字，他是个混合体，多人多事迹杂糅而成的虚构角色，他在战斗中做出的那些事迹（炸机枪碉堡、把迫击炮弹当手榴弹扔）出现在一些荣誉勋章获得者的嘉奖令上，而他本人，可以说是Desmond面对的那群士兵和战友的代表，是整体的缩影。Desmond每次背负或拖着伤员回到崖边，都能看到Smitty躺在那里。死去的战友也能给他精神上的鼓舞和支持。有好上帝，有好战友，他并非孤独一人在做着这非凡艰困之壮举。最终撤下悬崖时，他带着Smitty的遗体一起跳下来。他救援了75个伤员，或许更多，带回的死者只有Smitty。
 
 有几个问题：一：电影里只表现了冲绳战役里夺取钢锯岭一役，给人一种“他们好像是刚上战场的新兵”的印象，好莱坞爬绳梯时和激战中躲弹坑里畏缩不前的样子更强化了这种印象，实际上当然不是Desmond和他的连队的初战，Desmond于42年4月入伍，随后被送到南卡的杰克逊堡加入新建成的77师，77师于44年开拔海外，在冲绳战役之前打过马里亚纳群岛的关岛战役和菲律宾群岛的莱特岛战役（44年7-12月），进入冲绳主战场替换96师前还作为前锋拿下了庆良间诸岛和伊江岛（45年3-4月），在美军主力对冲绳岛的登陆行动于4月1日开展前他们早就打了几天战。只不过电影局限于重心和片长把这些抹掉了。所以问题是打到冲绳时主角阵容还这么完整？二：连队指挥链残缺，Desmond所在307团1营B连指挥层仅连长和连军士长两人（Sarge按照他总跟随连长左右来判断正常情况下他应该是1st Sergeant），整个军官层不存在，连部和各排组织结构不存在，除上尉连长外好像就看不到一个军官，只有Desmond几个PFC。The Pacific里处理K/3/5也差不多，连长、机枪排排长和Gunny当代表。当然这都是我理想化状态下的吹毛求疵，毕竟就两钟头出头的片长，又不是拍电视剧，还得交待主角青少年时期、恋爱结婚情况，只好省略前面几场战突出拿荣誉勋章的重点冲绳战役，省略军队组织结构细节，这也不是本片重点。像Generation Kill那种主题之一就是军队内搞关系的电视剧，倒是能够好好讲。
 
-看到有友邻认为本片归功于信仰有点说教，我倒觉得电影里并没有很浓重地渲染或者说宣扬信仰之功，只有悬崖上Desmond问上帝那句“要我怎样做，我听不见你”之后听到战友呼救声有些神启的意味，还有片尾对重伤躺在担架上沿绳滑降下来的Desmond给了一个仰拍视角，有种向上飞升的圣洁光照感（他本来就是个guardian angel，给予这样的镜头也无可厚非）。全片与其说归功于信仰，不如说归因于家庭悲剧，也即是战争悲剧，他的老兵父亲在一战中遗留的从未痊愈的PTSD导致他无法善尽好父亲好丈夫之责，导致冲突中儿子险些用手枪射杀父亲，弹坑里他对Smitty说过所以他决定不持枪。虽然在切实踏上太平洋战场前他从未亲身经历战争，但是战争的杀戮本质带来的悲剧破坏性早已让他深刻体会。兄弟斗殴中Desmond失手用砖头险些砸死Hal，也是因为当父亲的放任不管，还有Hal的那句“我恨他！”父亲Thomas Doss因为战争创伤变成了一个心灵破碎的人，Desmond意识到杀戮不能解决根本性的问题，它只会加深仇恨和损害，所有卷进去的人都是受害者，无论他们是不是胜利者，正如他的父亲，在法国失去了战友，孤独地幸存下来，无法面对战后的生活，将家庭也拖入悲惨境况。也许是因为这样，Desmond才决定，他要做个救护者，而非杀戮者。Saving is better than killing, anyway.在前面提到的12 O&apos;Clock High里，Cpl.Lawrence也是因为家庭悲剧变成Conscientious Objector，他的父亲死于一战停战日当天，in the war to end wars。非常讽刺。一战并没有终战，21年后二战再度爆发。这些饱受一战造成的苦痛的年轻人，除了看到战争本质上的荒谬性和毁坏性，看不到积极的意义，要他们继续效法父辈，拿起武器厮杀，然后再给自己的下一代留下苦痛，这是他们无法接受的。而Savage将军在与Lawrence的谈话里对他说，“放弃行不通”（“Men of goodwill had learned one thing since 1939, giving up doesn&apos;t work.”）。那么Conscientious Objector是不是等于放弃呢，等于不尽任何公民的责任，在同胞拿起武器捍卫国家时，自己安全地坐在一隅袖手旁观呢，Desmond有自己的想法，即使他不拿起武器杀敌，他也要在战场上尽到自己的一份力：他要做一名战地医护兵，他要尽可能多地救护战友，尽可能多地减少他所品尝到的悲剧。哪怕这种力量只是杯水车薪，在巨大的碾压性的战争车轮前无比微弱。但每一条生命都是具体的、活生生的生命，对于他的家庭、对于爱他的人们而言弥足珍贵，而不是各种统计数据中的“1”或者“0”。
+看到有友邻认为本片归功于信仰有点说教，我倒觉得电影里并没有很浓重地渲染或者说宣扬信仰之功，只有悬崖上Desmond问上帝那句“要我怎样做，我听不见你”之后听到战友呼救声有些神启的意味，还有片尾对重伤躺在担架上沿绳滑降下来的Desmond给了一个仰拍视角，有种向上飞升的圣洁光照感（他本来就是个guardian angel，给予这样的镜头也无可厚非）。全片与其说归功于信仰，不如说归因于家庭悲剧，也即是战争悲剧，他的老兵父亲在一战中遗留的从未痊愈的PTSD导致他无法善尽好父亲好丈夫之责，导致冲突中儿子险些用手枪射杀父亲，弹坑里他对Smitty说过所以他决定不持枪。虽然在切实踏上太平洋战场前他从未亲身经历战争，但是战争的杀戮本质带来的悲剧破坏性早已让他深刻体会。兄弟斗殴中Desmond失手用砖头险些砸死Hal，也是因为当父亲的放任不管，还有Hal的那句“我恨他！”父亲Thomas Doss因为战争创伤变成了一个心灵破碎的人，Desmond意识到杀戮不能解决根本性的问题，它只会加深仇恨和损害，所有卷进去的人都是受害者，无论他们是不是胜利者，正如他的父亲，在法国失去了战友，孤独地幸存下来，无法面对战后的生活，将家庭也拖入悲惨境况。也许是因为这样，Desmond才决定，他要做个救护者，而非杀戮者。Saving is better than killing, anyway.在前面提到的12 O'Clock High里，Cpl.Lawrence也是因为家庭悲剧变成Conscientious Objector，他的父亲死于一战停战日当天，in the war to end wars。非常讽刺。一战并没有终战，21年后二战再度爆发。这些饱受一战造成的苦痛的年轻人，除了看到战争本质上的荒谬性和毁坏性，看不到积极的意义，要他们继续效法父辈，拿起武器厮杀，然后再给自己的下一代留下苦痛，这是他们无法接受的。而Savage将军在与Lawrence的谈话里对他说，“放弃行不通”（“Men of goodwill had learned one thing since 1939, giving up doesn't work.”）。那么Conscientious Objector是不是等于放弃呢，等于不尽任何公民的责任，在同胞拿起武器捍卫国家时，自己安全地坐在一隅袖手旁观呢，Desmond有自己的想法，即使他不拿起武器杀敌，他也要在战场上尽到自己的一份力：他要做一名战地医护兵，他要尽可能多地救护战友，尽可能多地减少他所品尝到的悲剧。哪怕这种力量只是杯水车薪，在巨大的碾压性的战争车轮前无比微弱。但每一条生命都是具体的、活生生的生命，对于他的家庭、对于爱他的人们而言弥足珍贵，而不是各种统计数据中的“1”或者“0”。
 
 ---------------
 补充下Smitty的历史原型之一：
@@ -665,7 +665,7 @@ When attempting to establish his status as a non-combatant, Desmond T. Doss was 
 </review>
 <review>
 <作者>doubanzk</作者>
-<作者评分>5</作者评分>
+<标题>《血战钢锯岭》之电影与现实的对比</标题><作者评分>5</作者评分>
 <时间>2016-12-10 08:46:25</时间>
 <影评>
         资料出处：
@@ -680,7 +680,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 2、戴斯蒙德·道斯参军的原因
 
-    &quot;I felt like it was an honor to serve God and country,&quot; Desmond said. &quot;We were fightin&apos; for our religious liberty and freedom.&quot;
+    "I felt like it was an honor to serve God and country," Desmond said. "We were fightin' for our religious liberty and freedom."
 
     为上帝与国家服务，为宗教与自由而战。
 
@@ -691,18 +691,18 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
     信奉基督复临安息日会。
 
-     I wanna be like Christ go savin&apos; life instead of takin&apos; life and that&apos;s the reason I take up medicine.&quot;
+     I wanna be like Christ go savin' life instead of takin' life and that's the reason I take up medicine."
 
     不要杀人，而是要像耶稣一样拯救世人。
 
-    Desmond believed that his father would&apos;ve killed his uncle (his mother&apos;s brother) if his mother hadn&apos;t stepped in. Desmond vowed that would be the last time he ever touched a gun.
+    Desmond believed that his father would've killed his uncle (his mother's brother) if his mother hadn't stepped in. Desmond vowed that would be the last time he ever touched a gun.
 
     小时候看见父亲差点拿枪打死舅舅，从此发誓不碰枪。电影里舅舅的角色换成了母亲。
 
 
 4、戴斯蒙德·道斯参军前就一直喜欢助人为乐吗？
 
-    Yes. &quot;He was always helpful to people,&quot; said his brother Harold
+    Yes. "He was always helpful to people," said his brother Harold
 
     哈尔·道斯的证实。
 
@@ -717,7 +717,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 5、现实中的多萝西是护士吗？
 
-    Dorothy Schutte was not a nurse when she met Desmond. She didn&apos;t get her nursing degree until years later, after the war, when she needed to help support their family. Desmond&apos;s injuries and disabilities from the war left him unable to have a full-time job.
+    Dorothy Schutte was not a nurse when she met Desmond. She didn't get her nursing degree until years later, after the war, when she needed to help support their family. Desmond's injuries and disabilities from the war left him unable to have a full-time job.
 
     起初不是，战后戴斯蒙德·道斯受伤无法全职工作，多萝西为了养家考取了护士资格。
 
@@ -738,7 +738,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 8、现实中真的有被队友欺负吗？
 
-    &quot;You know, he&apos;d say his prayers at night and everything, and some guys took their shoes and threw shoes at him and threw things at him, made fun of him right out in the open,&quot;
+    "You know, he'd say his prayers at night and everything, and some guys took their shoes and threw shoes at him and threw things at him, made fun of him right out in the open,"
 
     队友嘲笑他，扔鞋子，但是没有电影里掀床和殴打这些情节。
 
@@ -756,7 +756,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 10、Jack Glover（萨姆沃辛顿饰演的角色）希望戴斯蒙德·道斯离开营队？
 
-     &quot;and I suggested that, in my opinion, Doss should be transferred.&quot; It should be noted that after later fighting alongside Desmond, Jack Glover&apos;s opinion of him changed entirely. &quot;
+     "and I suggested that, in my opinion, Doss should be transferred." It should be noted that after later fighting alongside Desmond, Jack Glover's opinion of him changed entirely. "
 
     是的，不过在一起并肩作战之后，Jack Glover改变了对他的看法，想不到他最后还救了Jack Glover一命。
 
@@ -767,28 +767,28 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
     长官们召开听证会，希望以精神问题为由开除他。
 
-    &apos; To me, I feel I&apos;d be a very poor Christian to accept a Section 8 off my religion.&quot; Desmond told Colonel Cooney he would be just as good of a soldier as him. The officers relented and knew Washington would never approve a Section 8 solely on religious grounds.
+    ' To me, I feel I'd be a very poor Christian to accept a Section 8 off my religion." Desmond told Colonel Cooney he would be just as good of a soldier as him. The officers relented and knew Washington would never approve a Section 8 solely on religious grounds.
 
     但是他们也知道，如果只是宗教原因，华盛顿方面是不可能赞成这次开除的，所以最后妥协了。
 
 
 12、因为拒绝持枪的原因被威胁送上军事法庭？
 
-    Yes, but things didn&apos;t escalate as far as they do in the movie. While training in the U.S., an officer by the name of Capt. Cunningham got into an argument with Desmond and told him only those men who participated in rifle training were allowed passes to go into town.
+    Yes, but things didn't escalate as far as they do in the movie. While training in the U.S., an officer by the name of Capt. Cunningham got into an argument with Desmond and told him only those men who participated in rifle training were allowed passes to go into town.
 
     没有电影里那么严重。Capt. Cunningham威胁把他送上军事法庭，但被另一名长官制止了。不过后来Capt. Cunningham没有批准他回家探亲的休假。
 
 
 13、父亲出面找前任长官改变庭审结果？
 
-    his father contacted the chairman of the church&apos;s War Service Commission in Washington, Carlyle B. Haynes. The chairman made a call to the regimental commander, Colonel Stephen S. Hamilton, asking if it was necessary for him to come investigate the situation with Desmond Doss. 
+    his father contacted the chairman of the church's War Service Commission in Washington, Carlyle B. Haynes. The chairman made a call to the regimental commander, Colonel Stephen S. Hamilton, asking if it was necessary for him to come investigate the situation with Desmond Doss. 
 
     首先道斯没有被送上军事法庭，其次现实中是父亲联系了教会的一位主席，主管战争事务的，这位主席又联系了部队的团长，最后争取到了3天的探亲假。
 
 
 14、上战场前和多萝西的见面以及离别？
 
-    Yes. &quot;When the train pulled out, I waved goodbye to her, and I tell you, it leaves you a very low feeling, knowing you may have seen your wife for the last time,&quot; recalled Desmond.
+    Yes. "When the train pulled out, I waved goodbye to her, and I tell you, it leaves you a very low feeling, knowing you may have seen your wife for the last time," recalled Desmond.
 
     和电影里一样感人，而且当火车驶经家门口时，戴斯蒙德·道斯将字条绑在砖头上扔给了在家门口伫立眺望的父亲。
 
@@ -796,7 +796,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 15、救助日本兵？
 
-    It seems likely that this is true, at least according to the stories told by some of his comrades who found an American bandage on an enemy soldier. &quot;I don&apos;t know how bad the man was hit,&quot; said a fellow soldier, &quot;but there was one found with a bandage on his arm, an American bandage.&quot;
+    It seems likely that this is true, at least according to the stories told by some of his comrades who found an American bandage on an enemy soldier. "I don't know how bad the man was hit," said a fellow soldier, "but there was one found with a bandage on his arm, an American bandage."
 
     情况基本属实。可能有一些简单的包扎，但是并没有像电影里的那样将日本兵从悬崖上运下来。
 
@@ -810,7 +810,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 17、钢锯岭有多险恶？
 
-    Okinawa&apos;s Maeda Escarpment is an approximately 350-foot high ridge that runs across most of the island of Okinawa. &quot;The Japanese had been there for years,&quot; said the real Desmond Doss. &quot;They had that mountain honeycombed and camouflaged, it looked like natural terrain. That&apos;s what we had to face.&quot; 
+    Okinawa's Maeda Escarpment is an approximately 350-foot high ridge that runs across most of the island of Okinawa. "The Japanese had been there for years," said the real Desmond Doss. "They had that mountain honeycombed and camouflaged, it looked like natural terrain. That's what we had to face." 
 
     Maeda悬崖（电影中的钢锯岭）是一座横跨冲绳岛的山脊，高达350英尺（106米），日军在上面布满了暗道，并进行了伪装。
 
@@ -824,7 +824,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 19、戴斯蒙德·道斯在战场上杀过日本兵吗？
 
-    &quot;Between me and my buddy was these hand grenades,&quot; said Desmond. &quot;All I had to do was just pull the pin and I knew I had some Japanese.&quot; Realizing that taking out the enemy in the hole would protect his men from possible death, he later said that this was the greatest temptation of his life. &quot;I thought of what I heard before, &apos;Thou shalt not kill.&apos; God gave life and I didn&apos;t want to take life.&quot;
+    "Between me and my buddy was these hand grenades," said Desmond. "All I had to do was just pull the pin and I knew I had some Japanese." Realizing that taking out the enemy in the hole would protect his men from possible death, he later said that this was the greatest temptation of his life. "I thought of what I heard before, 'Thou shalt not kill.' God gave life and I didn't want to take life."
 
     感谢网友@Samuel回复，这里应该是没有杀日本兵。
 
@@ -838,7 +838,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 21、队友撤退之后，戴斯蒙德·道斯还留在钢锯岭上救人？
 
-     &quot;I had these men up there and I shouldn&apos;t leave &apos;em,&quot; said Desmond. &quot;They were my buddies, some of the men had families, and they trust me. I didn&apos;t feel like I should value my life above my buddy&apos;s, so I decided to stay with them and take care of as many of them as I could. I didn&apos;t know how I was gonna do it.&quot;
+     "I had these men up there and I shouldn't leave 'em," said Desmond. "They were my buddies, some of the men had families, and they trust me. I didn't feel like I should value my life above my buddy's, so I decided to stay with them and take care of as many of them as I could. I didn't know how I was gonna do it."
 
     确实如此，因为戴斯蒙德·道斯不愿放弃这些出生入死的队友。
 
@@ -853,7 +853,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 23、戴斯蒙德·道斯险些死于战场，因日本兵开枪时卡壳而躲过一劫？
 
-    While lowering the men down the ridge, the Japanese had a clear shot at Desmond Doss. Though it&apos;s not depicted in the movie, one Japanese soldier recalled having Desmond in his sights, but every time he went to fire, his gun jammed.
+    While lowering the men down the ridge, the Japanese had a clear shot at Desmond Doss. Though it's not depicted in the movie, one Japanese soldier recalled having Desmond in his sights, but every time he went to fire, his gun jammed.
 
     戴斯蒙德·道斯在悬崖边运送伤员时被日本兵发现，但日本兵每次开枪都会出现卡壳的情况，只能说上帝在保佑他。
 
@@ -867,7 +867,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 24、在战场上救人时情况有多危险？
 
-     &quot;When you have explosions and bursts so close you can practically feel it, and not get wounded up there when I should have been killed a number of times. I know who I owe my life to as well as my men. That&apos;s why I like to tell this story to the glory of God, because I know from the human standpoint, I should not be here.&quot;
+     "When you have explosions and bursts so close you can practically feel it, and not get wounded up there when I should have been killed a number of times. I know who I owe my life to as well as my men. That's why I like to tell this story to the glory of God, because I know from the human standpoint, I should not be here."
 
     身边多次近距离的爆炸，但最后死里逃生好几次。戴斯蒙德·道斯花费12小时时间救了75人，平均约每10分钟救出一人。
 
@@ -881,14 +881,14 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 26、戴斯蒙德·道斯最后被手榴弹炸伤？
 
-    So I just quickly took my left foot and threw it back to where I thought the grenade might be, and throw my head and helmet to the ground. And not more than half a second later, I felt like I was sailin&apos; through the air. I was seein&apos; stars I wasn&apos;t supposed to be seein&apos;, and I knew my legs and body were blown up.
+    So I just quickly took my left foot and threw it back to where I thought the grenade might be, and throw my head and helmet to the ground. And not more than half a second later, I felt like I was sailin' through the air. I was seein' stars I wasn't supposed to be seein', and I knew my legs and body were blown up.
 
     躲避及时，只是炸伤腿和身体，大白天看见了星星。
 
 
 27、最后还被日本狙击手补了一枪？
 
-    Desmond gave up his stretcher to the man, but while waiting for help to come back, he was wounded again, this time by a sniper&apos;s bullet that shattered his left arm. 
+    Desmond gave up his stretcher to the man, but while waiting for help to come back, he was wounded again, this time by a sniper's bullet that shattered his left arm. 
 
     将担架让给他人，在等待救援时被日本狙击手的子弹击中左臂。
 
@@ -902,7 +902,7 @@ http://www.historyvshollywood.com/reelfaces/hacksaw-ridge/
 
 29、为什么戴斯蒙德·道斯在持枪问题上毫不妥协？
 
-    &quot;I knew if I ever once compromised, I was gonna be in trouble,&quot; said Desmond, &quot;because if you can compromise once, you can compromise again.&quot;
+    "I knew if I ever once compromised, I was gonna be in trouble," said Desmond, "because if you can compromise once, you can compromise again."
 
     坚持信仰不动摇。
 

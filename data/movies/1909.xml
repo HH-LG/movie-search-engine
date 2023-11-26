@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>非洲：塞伦盖蒂国家公园 Africa: The Serengeti</电影名>
 <年份>1994</年份>
@@ -6,11 +6,11 @@
 <封面>https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2432489817.jpg</封面>
 <导演>George Casey</导演>
 <演员>詹姆斯·厄尔·琼斯</演员>
-<简介></简介>
+<简介 />
 <reviews>
 <review>
 <作者>败走恶犬</作者>
-<作者评分>3</作者评分>
+<标题>百兽之王难以言说的隐疾</标题><作者评分>3</作者评分>
 <时间>2013-08-12 18:49:42</时间>
 <影评>
         Typically, 20 hours a day is spent on regal slumber. When lions mate, however, they do so on average every 25 minutes, day and night, without feeding, for three or four days. It has been estimated that 3,000 matings occur for every cub that survives its first year.
@@ -23,7 +23,7 @@
 </review>
 <review>
 <作者>vanney</作者>
-<作者评分>4</作者评分>
+<标题>同为生命</标题><作者评分>4</作者评分>
 <时间>2018-08-31 23:15:42</时间>
 <影评>
 
@@ -60,7 +60,7 @@
 </review>
 <review>
 <作者>做事不能设假设</作者>
-<作者评分>5</作者评分>
+<标题>满分地理</标题><作者评分>5</作者评分>
 <时间>2012-03-29 21:31:06</时间>
 <影评>
         大多数来到塞伦盖蒂的人都会被动物迁徙的壮观景象完完全全地迷住。其实塞伦盖蒂真正令人心醉神迷的是它整个的生态系统，包括了一年四季的迁徙性动物和非迁徙性动物。

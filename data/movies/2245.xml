@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>恒星七纪 Seven Ages of Starlight</电影名>
 <年份>2012</年份>
@@ -10,7 +10,7 @@
 <reviews>
 <review>
 <作者>月亮上的六便士</作者>
-<作者评分>5</作者评分>
+<标题>你我皆星尘</标题><作者评分>5</作者评分>
 <时间>2018-07-06 21:32:45</时间>
 <影评>
 
@@ -59,7 +59,7 @@ So how lucky we are to be here on this planet with this beautiful transparent at
 </review>
 <review>
 <作者>半杯咖啡</作者>
-<作者评分>5</作者评分>
+<标题>纪录片的最高境界是将纯粹理性的东西感性化</标题><作者评分>5</作者评分>
 <时间>2023-10-12 12:01:18</时间>
 <影评>
 
@@ -71,7 +71,7 @@ So how lucky we are to be here on this planet with this beautiful transparent at
 </review>
 <review>
 <作者>张星翰</作者>
-<作者评分></作者评分>
+<标题>太阳</标题><作者评分 />
 <时间>2022-04-23 11:12:40</时间>
 <影评>
 
@@ -168,7 +168,7 @@ So how lucky we are to be here on this planet with this beautiful transparent at
 </review>
 <review>
 <作者>张星翰</作者>
-<作者评分></作者评分>
+<标题>恒星</标题><作者评分 />
 <时间>2022-04-23 08:14:02</时间>
 <影评>
 
@@ -212,16 +212,16 @@ So how lucky we are to be here on this planet with this beautiful transparent at
 </review>
 <review>
 <作者>胡晴格日勒</作者>
-<作者评分>5</作者评分>
+<标题>摘录一下结尾的话</标题><作者评分>5</作者评分>
 <时间>2014-09-22 22:43:29</时间>
 <影评>
         [Narrator]
 
-We may never know for sure whether there&apos;s life elsewhere.
+We may never know for sure whether there's life elsewhere.
 
 But we do know a lot about where we came from,
 
-and that&apos;s because we&apos;ve learnt so much about things here on earth
+and that's because we've learnt so much about things here on earth
 
 from looking far out in space.
 
@@ -235,7 +235,7 @@ The discovery that stars are not eternal, that they actually have their birth, t
 </review>
 <review>
 <作者>圆圆</作者>
-<作者评分>3</作者评分>
+<标题>笔记</标题><作者评分>3</作者评分>
 <时间>2023-07-11 16:13:51</时间>
 <影评>
 
@@ -247,10 +247,10 @@ The discovery that stars are not eternal, that they actually have their birth, t
 </review>
 <review>
 <作者>More</作者>
-<作者评分>5</作者评分>
+<标题>Seven Ages of Starlight</标题><作者评分>5</作者评分>
 <时间>2014-09-24 22:46:19</时间>
 <影评>
-        &quot;The supernova explosion is able to produce some of the very rare elements heavier than iron, the zinc, the gold, the platinum, the silver. These things are ejected into the cosmos, having produced them in these very special conditions of an exploded star. 
+        "The supernova explosion is able to produce some of the very rare elements heavier than iron, the zinc, the gold, the platinum, the silver. These things are ejected into the cosmos, having produced them in these very special conditions of an exploded star. 
 
 The very atoms of which we are made, the oxygen that we breathe, the calcium in our bones, the iron in our red blood cells, were produced billions of years ago in stars, specifically in dying stars, and these dying stars ejected these elements into the cosmos, making them available for raw material, for the production of new stars, planets, and ultimately, life. 
 
@@ -269,7 +269,7 @@ Bloating in old age to become Red Giants.
 
 Their cores contracting into White Dwarfs. 
 
-The most massive ones exploding as supernovae, flinging the elements they&apos;ve created out into space to form the materials for the next generation of stars.&quot;
+The most massive ones exploding as supernovae, flinging the elements they've created out into space to form the materials for the next generation of stars."
 
 
 ... 
@@ -283,7 +283,7 @@ The evolving understanding of the universe inevitably lead us to a whole new set
 </review>
 <review>
 <作者>依然晴</作者>
-<作者评分>5</作者评分>
+<标题>《BBC：恒星七纪》笔记</标题><作者评分>5</作者评分>
 <时间>2020-03-04 16:51:40</时间>
 <影评>
 
@@ -337,7 +337,7 @@ The evolving understanding of the universe inevitably lead us to a whole new set
 </review>
 <review>
 <作者>脱线的达达尼昂</作者>
-<作者评分>5</作者评分>
+<标题>千亿个太阳，千亿个地球，千亿个你我</标题><作者评分>5</作者评分>
 <时间>2013-10-17 16:27:23</时间>
 <影评>
             可以说，我是怀着朝圣的心情来观看这部影片的——从大爆炸的元素产生，到大黑洞的永久熄灭。和这宇宙中最为壮丽的诗篇相比，地球本身就是一个笑话一般的存在。

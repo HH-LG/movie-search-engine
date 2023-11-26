@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>希区柯克 Hitchcock</电影名>
 <年份>2012</年份>
@@ -14,7 +14,7 @@
 <reviews>
 <review>
 <作者>文森特九六</作者>
-<作者评分>2</作者评分>
+<标题>《希区柯克》：一件令人失望的麦格芬</标题><作者评分>2</作者评分>
 <时间>2013-01-17 19:16:22</时间>
 <影评>
           作为忠实的希区柯克粉，我实在是不太认同这部讲述他的名作《精神病患者》诞生过程的传记片，即使这部电影是由安东尼奥霍普金斯和海伦米伦主演的，而且还有女神斯嘉丽约翰逊的加盟。电影开头采用了“希区柯克剧场”的经典开场模式，幽默狡猾的《木偶葬礼进行曲》响起，霍普金斯饰演的希区柯克步入镜头，轻松而又神秘的将影片主题娓娓道来，这一亲切的开场无不拉近了影迷与电影的距离，却也就到此为止了。随着影片的推进，整部电影不知怎的进入了一种乏味无力的纠结氛围，喜剧不像喜剧，传记不像传记，伦理不像伦理，爱情不像爱情，《精神病患者》的拍摄与希区柯克夫妇的感情危机两条主线虽然交代的很清楚，但就是引不起观众继续往下看的兴趣。有关《精神病患者》拍摄的种种台前幕后的故事已经被无数的电影学者和影迷向世人讲述过无数遍了，本片对这段历史的还原也没爆出什么新料，至于希区柯克的夫人艾玛就更不用多说了，在生活中她是大师的灵魂伴侣，在艺术上她是大师的搭档和知音，所以当电影中克服情感隔阂的二人重新接纳彼此共同联手将《精神病患者》打造成了一部为后人所传诵的悬疑惊悚佳作时，我们除了确信自己的记忆力没什么问题外便也没别的了。去年还有一部同样讲述希区柯克生平的传记片——大师的故乡英国BBC的电视电影《那个女孩》，《希区柯克》与该片相比，输在了对待史实遮遮掩掩、欲说还休的态度上，《那个女孩》对希区柯克作为凡人所必存的缺点和阴暗面进行了大胆真切的揭露与评价，对“传记”二字做出了最好的诠释。而到了《希区柯克》，虽然也提及了希区柯克晚年的“为老不尊”，但也仅仅是点到为止，导演几次都妄图开口，但最后还是因种种原因而遏制住了，而这也是为什么本片平淡无味的原因：你想做一道爽口的川菜，却自欺欺人的用红糖代替了辣椒粉。或许唯一值得我们欣慰的，就是相较于托比琼斯的那张扁脸，霍普金斯的希区柯克扮相和演出更加形神兼备了，摆起那象征着悬念的侧身POSE时也更像那么回事了。《希区柯克》犹如大师所创造的电影学术语“麦格芬”一样，本身能够吸引我们这些希区柯克粉来观看，但又就其本身来说，也确实没什么实际意义与价值可言了。
@@ -24,7 +24,7 @@
 </review>
 <review>
 <作者>Freddie Lee</作者>
-<作者评分>3</作者评分>
+<标题>没有悬念的希区柯克</标题><作者评分>3</作者评分>
 <时间>2013-01-16 09:27:54</时间>
 <影评>
         太大路了。
@@ -48,7 +48,7 @@
 </review>
 <review>
 <作者>赱馬觀♣</作者>
-<作者评分>2</作者评分>
+<标题>天才的阴暗面</标题><作者评分>2</作者评分>
 <时间>2015-12-30 13:42:29</时间>
 <影评>
 
@@ -93,18 +93,18 @@
 </review>
 <review>
 <作者>Q·ian·Sivan</作者>
-<作者评分>3</作者评分>
+<标题>「Quotes」</标题><作者评分>3</作者评分>
 <时间>2014-12-18 22:17:18</时间>
 <影评>
-        「Do you remember the fun we had when we started out all those years ago? We didn&apos;t have any money then, did we? We didn&apos;t have any time, either, but we took risks, do you remember? We experimented. We invented new ways of making pictures because we had to. I want to feel that kind of freedom again. Like we used to, you know?」
+        「Do you remember the fun we had when we started out all those years ago? We didn't have any money then, did we? We didn't have any time, either, but we took risks, do you remember? We experimented. We invented new ways of making pictures because we had to. I want to feel that kind of freedom again. Like we used to, you know?」
 
 
 
-「If this picture fails, Alma, we&apos;ll be in for a long, humiliating bout of crow-eating.
+「If this picture fails, Alma, we'll be in for a long, humiliating bout of crow-eating.
 
 ↓
 
-It&apos;ll be splendid.
+It'll be splendid.
 
 ↓
 
@@ -116,7 +116,7 @@ Of the movie? Not at all. But of you? Unquestionably.」
 
 
 
-「I&apos;m just a man hiding in the corner with my camera, watching. My camera will tell you the truth. The absolute truth.」
+「I'm just a man hiding in the corner with my camera, watching. My camera will tell you the truth. The absolute truth.」
 
 
 
@@ -128,14 +128,14 @@ Our career. Alma, I will never be able to find a Hitchcock blond as beautiful as
 
 ↓
 
-I&apos;ve waited thirty years to hear you say that.」
+I've waited thirty years to hear you say that.」
       </影评>
 <有用数>1</有用数>
 <没用数>0</没用数>
 </review>
 <review>
 <作者>老清新</作者>
-<作者评分>4</作者评分>
+<标题>希区柯克，敢为人先的惊悚悬疑电影人。</标题><作者评分>4</作者评分>
 <时间>2013-01-09 22:29:54</时间>
 <影评>
         看片名啊《希区柯克》，我们看这部电影之前，不妨百度科普一下，谁才是希区柯克。这样再看电影能更快理解剧情。
@@ -155,7 +155,7 @@ I&apos;ve waited thirty years to hear you say that.」
 </review>
 <review>
 <作者>阿芙洛狄忒</作者>
-<作者评分>4</作者评分>
+<标题>最好的影片永远在路上，每一次伟大的产生必然要经过焦灼的低谷</标题><作者评分>4</作者评分>
 <时间>2020-02-09 13:35:28</时间>
 <影评>
 
@@ -172,7 +172,7 @@ I&apos;ve waited thirty years to hear you say that.」
 </review>
 <review>
 <作者>臭臭爱球球</作者>
-<作者评分>3</作者评分>
+<标题>纪录片看出感情了</标题><作者评分>3</作者评分>
 <时间>2014-02-13 23:48:49</时间>
 <影评>
         看似平淡，其实一点也不平淡。
@@ -194,7 +194,7 @@ I&apos;ve waited thirty years to hear you say that.」
 </review>
 <review>
 <作者>asuka9039</作者>
-<作者评分>1</作者评分>
+<标题>希区柯克和知道太多的女人</标题><作者评分>1</作者评分>
 <时间>2013-07-29 10:54:23</时间>
 <影评>
          最近看了《希区柯克》这部电影，感慨于希胖大师不愧是巨匠呀，他的名字已经不再是电影的名字，而是一种电影的手法。
@@ -266,7 +266,7 @@ I&apos;ve waited thirty years to hear you say that.」
 </review>
 <review>
 <作者>huali</作者>
-<作者评分>4</作者评分>
+<标题>《希区柯克》</标题><作者评分>4</作者评分>
 <时间>2013-06-09 13:33:59</时间>
 <影评>
         《希区柯克》真的不错。每个表情都绝了，《惊魂记》看过的确很特别，不过我更喜欢《后窗》。比起现在的悬疑剧，以前的更好看。现在的总会有血腥和恶心的成分。《希区柯克》揭示他内心世界的拍摄手法，很喜欢。他安慰妻子那段也很喜欢，以及最后一段话。第一眼我没认出是安东尼·霍普金斯，但他说话的样子我猜可能是他，语调、眼神，如果看过沉默的羔羊、汉尼拔、红龙、仪式，就会认出来。我很喜欢看他，他演绎的超精准。
@@ -276,7 +276,7 @@ I&apos;ve waited thirty years to hear you say that.」
 </review>
 <review>
 <作者>优雅的蜜蜂</作者>
-<作者评分>4</作者评分>
+<标题>笑看惊悚与裸露</标题><作者评分>4</作者评分>
 <时间>2013-02-05 08:09:06</时间>
 <影评>
         《Hitchcock》这部精悍的制作没有像《The Girl》一样颠覆三观，却是治疗周一综合症的良药。嘟嘟嘴安东尼霍普金斯和小鸟依人海伦米勒使尽了他们最专业的表演来塑造大师夫妇，高雅基调也做到了最大程度的记实。一笔带过窥视和惊悚，更多的是对于大师的尊敬与怜爱。

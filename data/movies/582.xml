@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <movie>
 <电影名>十二怒汉（电视版） Studio One: Twelve Angry Men</电影名>
 <年份>1954</年份>
@@ -6,11 +6,11 @@
 <封面>https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2689773446.jpg</封面>
 <导演>富兰克林·沙夫纳</导演>
 <演员>罗伯特·卡明斯 / 法兰奇·汤恩 / 爱德华·阿诺德 / 保罗·哈特曼 / 约翰·贝尔 / 沃尔特·艾贝尔 / 乔治·沃斯科维奇 / 约瑟夫·史威尼 / 巴特·伯恩斯 / 诺曼·费尔 / 李·飞利浦 / Larkin Ford</演员>
-<简介>This production of &apos;Twelve Angry Men&apos;, written especially for Studio One, is shorter than the film version and leaves a few twists and turns of plot undeveloped, but it is fifty minutes of class nevertheless. For many years this episode was thought to have been lost. The Museum of Television and Radio (now the Paley Center) had only the first 30 minutes of the hour-long program on a kinescope provided by CBS - the only version CBS had. After nearly 30 years of searching, a copy of the complete program was found in 2003 by filmmaker Joseph Consentino, who was working on a documentary about noted defense attorney Robert Leibowitz (Leibowitz reported on the Charles A. Lindbergh baby kidnapping for the NY radio station WHN) and found a copy of the show in the archives maintained by the children of Leibowitz, Robert Leibowitz and Marjorie Leibowitz Finch. Samuel Leibowitz requested and received a commercial-free kinescope copy of &quot;Twelve Angry Men&quot; from CBS shortly after it aired because of his interest in legal issues. The Leibowitz children donated the kinescope to the museum and it had a re-premiere in May 2003.</简介>
+<简介>This production of 'Twelve Angry Men', written especially for Studio One, is shorter than the film version and leaves a few twists and turns of plot undeveloped, but it is fifty minutes of class nevertheless. For many years this episode was thought to have been lost. The Museum of Television and Radio (now the Paley Center) had only the first 30 minutes of the hour-long program on a kinescope provided by CBS - the only version CBS had. After nearly 30 years of searching, a copy of the complete program was found in 2003 by filmmaker Joseph Consentino, who was working on a documentary about noted defense attorney Robert Leibowitz (Leibowitz reported on the Charles A. Lindbergh baby kidnapping for the NY radio station WHN) and found a copy of the show in the archives maintained by the children of Leibowitz, Robert Leibowitz and Marjorie Leibowitz Finch. Samuel Leibowitz requested and received a commercial-free kinescope copy of "Twelve Angry Men" from CBS shortly after it aired because of his interest in legal issues. The Leibowitz children donated the kinescope to the museum and it had a re-premiere in May 2003.</简介>
 <reviews>
 <review>
 <作者>寻找阳光的owl</作者>
-<作者评分>5</作者评分>
+<标题>仅一叶便知花花世界</标题><作者评分>5</作者评分>
 <时间>2013-01-25 01:30:51</时间>
 <影评>
                很庆幸没有错过这部电影，我原本会以为这是部黑白片年代太久摄影技术会落后，剧情会不缜密不引人入胜，直到看完我觉得就算是它是部黑白片就算是它只在一个房间里发生也是一个伟大的故事。
@@ -30,7 +30,7 @@
 </review>
 <review>
 <作者>电影客</作者>
-<作者评分>4</作者评分>
+<标题>《TWELVE ANGRY MAN》（十二怒汉）</标题><作者评分>4</作者评分>
 <时间>2015-03-09 21:13:04</时间>
 <影评>
                在影片开始，疲惫的审判员云淡风轻的语气说了一段话：“你们都已经听过证词，也明白法律条文的规定，现在你们必须坐下来，好好理清案子的真伪，在本案中已有一人死亡，另一个人的生死掌握在你们手上。如果你们能提出合理的怀疑，无法确认被告是否有罪，基于这个合理的怀疑，你们必须做出无罪的判决，如果你们找不出合理的怀疑，你们必须基于良知，判决被告有罪，然而你们的决定必须一致，如果你们裁定被告有罪，本院将会对他施以严厉的制裁，最高的刑罚是死刑，这是一项沉重的责任。”而在说这话的期间，十二位陪审员表露出不同的表情，或沉重，或深思，或无聊，或迷茫，或阴狠。
@@ -64,7 +64,7 @@
 </review>
 <review>
 <作者>已注销</作者>
-<作者评分>5</作者评分>
+<标题>我坚持，也改变。</标题><作者评分>5</作者评分>
 <时间>2016-11-26 19:15:21</时间>
 <影评>
         一开始就认为孩子无罪的陪审员，那个老人和儿子离家出走的傲慢男人，这三个是电影着墨最多的人。
@@ -80,7 +80,7 @@
 </review>
 <review>
 <作者>ZNXF·AR</作者>
-<作者评分>5</作者评分>
+<标题>最后的三个guilty</标题><作者评分>5</作者评分>
 <时间>2017-02-24 22:11:50</时间>
 <影评>
         越是经典的影视作品，越是经得住多角度的阐释，《十二怒汉》这部公认的经典佳作，最后的三个guilty颇为值得琢磨。
@@ -98,7 +98,7 @@
 </review>
 <review>
 <作者>杨柳拍岸</作者>
-<作者评分>5</作者评分>
+<标题>无罪存疑，可使用模糊集概率论</标题><作者评分>5</作者评分>
 <时间>2018-05-15 07:22:17</时间>
 <影评>
 
@@ -126,7 +126,7 @@ b，刀的同样概率是比较低的，明显那个无罪的男人是自己过�
 </review>
 <review>
 <作者>棒子君</作者>
-<作者评分>4</作者评分>
+<标题>对法律的思考</标题><作者评分>4</作者评分>
 <时间>2023-08-26 12:27:50</时间>
 <影评>
 
@@ -146,7 +146,7 @@ b，刀的同样概率是比较低的，明显那个无罪的男人是自己过�
 </review>
 <review>
 <作者>奈奈蛋黄冲冲冲</作者>
-<作者评分></作者评分>
+<标题>12怒汉</标题><作者评分 />
 <时间>2020-02-19 20:16:09</时间>
 <影评>
 
@@ -163,7 +163,7 @@ b，刀的同样概率是比较低的，明显那个无罪的男人是自己过�
 </review>
 <review>
 <作者>睡醒的橘子</作者>
-<作者评分>5</作者评分>
+<标题>本来想写短评，又慢慢变成了长评。</标题><作者评分>5</作者评分>
 <时间>2022-12-23 15:16:02</时间>
 <影评>
 
@@ -178,7 +178,7 @@ b，刀的同样概率是比较低的，明显那个无罪的男人是自己过�
 </review>
 <review>
 <作者>漫</作者>
-<作者评分></作者评分>
+<标题>先平静下来，再好好说</标题><作者评分 />
 <时间>2020-03-29 21:25:32</时间>
 <影评>
 
@@ -190,7 +190,7 @@ b，刀的同样概率是比较低的，明显那个无罪的男人是自己过�
 </review>
 <review>
 <作者>i璞胖</作者>
-<作者评分></作者评分>
+<标题>12怒汉</标题><作者评分 />
 <时间>2019-08-04 14:13:02</时间>
 <影评>
 
