@@ -8,28 +8,32 @@ def create_index(name):
     # 创建索引
     es.indices.create(index=name, ignore=400)
 
-def insert_movie(index):
-    # 解析XML文件
-    path = DATA_PATH + 'movies/{}.xml'.format(index)
-    tree = ET.parse(path, ET.XMLParser(encoding='utf-8'))
-    movie = tree.getroot()
-    # 提取数据
-    data = {
-        '电影名': movie.find('电影名').text,
-        '年份': movie.find('年份').text,
-        '评分': movie.find('评分').text,
-        '封面': movie.find('封面').text,
-        '导演': movie.find('导演').text,
-        '演员': movie.find('演员').text,
-        '简介': movie.find('简介').text,
+def search_index(name, str, num):
+        # Define your search query
+    search_query = {
+        "query": {
+            "multi_match": {
+                "query": str,
+                "fields": ["*"]
+            }
+        },
+        "from": 0,
+        "size": num
     }
-    # 将数据插入到Elasticsearch的索引中
-    es.index(index='movies', body=data)
+    # 搜索
+    response = es.search(index=name, body=search_query)
+    # Print the titles of the returned documents
+    for hit in response['hits']['hits']:
+        print(hit['_source']['电影名'])
 
 if __name__ == '__main__':
     # 创建索引
     create_index('movies')
     create_index('reviews')
+
     # 插入数据
-    for i in range(1, 11):
-        insert_movie(i)
+    #for i in range(1, 11):
+        #insert_movie(i)
+    
+    # 搜索
+    search_index('movies', '战争 爱情', 10)
