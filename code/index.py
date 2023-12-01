@@ -36,4 +36,4 @@ if __name__ == '__main__':
         #insert_movie(i)
     
     # 搜索
-    search_index('movies', '战争 爱情', 30)
+    search_index('movies', '勇气', 10)
