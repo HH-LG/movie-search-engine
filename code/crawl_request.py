@@ -1,15 +1,16 @@
 # -*- coding: utf-8 -*-
-
 import random
 from time import sleep
 import requests
 from bs4 import BeautifulSoup
 import csv
 from pygraph.classes.digraph import digraph
+from urllib.parse import urlparse, urldefrag, urljoin
 
 URL_SET = set()
 REVIEW_NUM = 10
 DATA_PATH = '../data/'
+MOVIE_NUM = 2503
 
 user_agents = [
     "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
@@ -40,3 +41,69 @@ def request_douban(url, headers = get_headers()):
             break
     sleep(1)
     return response
+
+def read_movie_url():
+    url_list = []
+    with open(DATA_PATH + 'movie_urls.csv', 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            url = row['电影url']
+            url_list.append(url)
+    return url_list
+
+# 特殊情况
+# 1.相对链接
+# 2.查询参数
+def is_full_url(url):
+    return url.startswith('http://') or url.startswith('https://')
+
+# 3.锚点链接
+def is_fragment_link(link):
+    return '#' in link
+
+def remove_fragment(url):
+    url, _ = urldefrag(url)
+    return url
+
+# 4.javaScript链接
+def is_javascript_link(link):
+    return link.startswith('javascript:')
+
+# 最后的检查：1.非法的连接
+def is_valid_url(url):
+    # 使用正则表达式或者urlparse来检查URL的有效性
+    try:
+        result = urlparse(url)
+        return all([result.scheme, result.netloc])
+    except ValueError:
+        return False
+
+# 2.重复链接
+def filter_links(links):
+    # 使用set来去除重复的链接
+    unique_links = set(links)
+
+    # 过滤非法的链接
+    valid_links = {link for link in unique_links if is_valid_url(link)}
+
+    return valid_links
+
+def get_related_links(url):
+    data = request_douban(url)
+    soup = BeautifulSoup(data.text, "html.parser")
+    links = []
+    for link in soup.find_all("a"):
+        link = link.get("href")
+        if is_javascript_link(link):
+            continue
+        if is_fragment_link(link):
+            print("fragment link: ", link)
+            link = remove_fragment(link)
+            exit()
+        if not is_full_url(link):
+            link = urljoin(url, link)
+        if not is_valid_url(link):
+            print("invalid link: ", link)
+            continue
+        links.append(link)
+    return links   

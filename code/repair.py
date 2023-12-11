@@ -5,16 +5,7 @@ from time import sleep
 import requests
 from bs4 import BeautifulSoup
 import re
-
-DATA_PATH = '../data/'
-HEADERS = {
-    "User-Agent":
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/19.0.1036.7 Safari/535.20",
-    "Connection":
-        "keep-alive",
-    "Referer":
-        "https://www.douban.com"  # 站内访问
-}
+from crawl_request import *
 
 def add_title_to_xml(index, title):
     # 解析XML文件
@@ -30,18 +21,6 @@ def add_title_to_xml(index, title):
 
     # 保存修改后的XML文件
     tree.write(xml_path, encoding='utf-8', xml_declaration=True)
-
-# 请求网页封装
-def request_douban(url, headers = HEADERS):
-    while True:
-        response = requests.get(url, headers=headers)
-        if response.status_code != 200:
-            print('被拦截了，休息一下')
-            sleep(1200)
-        else:
-            break
-    sleep(1)
-    return response
 
 def crawl_title(url):
     response = request_douban(url)

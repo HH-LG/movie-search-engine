@@ -1,7 +1,6 @@
 https://accounts.douban.com/passport/login?source=movie
 https://www.douban.com/doubanapp/app?channel=top-nav
 https://www.douban.com/doubanapp/app?channel=qipao
-javascript: void 0;
 https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS
 https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android
 https://www.douban.com
@@ -73,16 +72,16 @@ https://movie.douban.com/subject/1849031/
 https://movie.douban.com/subject/1849031/
 https://movie.douban.com/subject/20495023/
 https://movie.douban.com/subject/20495023/
-?start=25&filter=
-?start=50&filter=
-?start=75&filter=
-?start=100&filter=
-?start=125&filter=
-?start=150&filter=
-?start=175&filter=
-?start=200&filter=
-?start=225&filter=
-?start=25&filter=
+https://movie.douban.com/top250?start=25&filter=
+https://movie.douban.com/top250?start=50&filter=
+https://movie.douban.com/top250?start=75&filter=
+https://movie.douban.com/top250?start=100&filter=
+https://movie.douban.com/top250?start=125&filter=
+https://movie.douban.com/top250?start=150&filter=
+https://movie.douban.com/top250?start=175&filter=
+https://movie.douban.com/top250?start=200&filter=
+https://movie.douban.com/top250?start=225&filter=
+https://movie.douban.com/top250?start=25&filter=
 https://www.douban.com/doubanapp/frodo
 https://www.douban.com/hnypt/variformcyst.py
 https://www.douban.com/about
