@@ -34,10 +34,20 @@ def get_headers():
 def request_douban(url, headers = get_headers()):
     while True:
         response = requests.get(url, headers=headers)
-        if response.status_code != 200:
-            print('被拦截了，休息一下')
-            sleep(1200)
+        if response.status_code == 200:
+            break
+        elif response.status_code == 404:
+            print('没有找到页面:', url)
+            break
+        elif response.status_code == 500:
+            print('服务器错误:', url)
+            break
+        elif response.status_code == 403 and response.text.find('检测到有异常请求') != -1:
+            print('被拦截了，休息10分钟')
+            sleep(600)
         else:
+            print(response.status_code)
+            print('其他错误:', url)
             break
     sleep(1)
     return response
@@ -90,20 +100,25 @@ def filter_links(links):
 
 def get_related_links(url):
     data = request_douban(url)
+    if data.status_code == 404:
+        return 404
     soup = BeautifulSoup(data.text, "html.parser")
     links = []
     for link in soup.find_all("a"):
         link = link.get("href")
-        if is_javascript_link(link):
-            continue
-        if is_fragment_link(link):
-            print("fragment link: ", link)
-            link = remove_fragment(link)
-            exit()
-        if not is_full_url(link):
-            link = urljoin(url, link)
-        if not is_valid_url(link):
-            print("invalid link: ", link)
-            continue
-        links.append(link)
+        try:
+            if is_javascript_link(link):
+                continue
+            if is_fragment_link(link):
+                link = remove_fragment(link)
+            if not is_full_url(link):
+                link = urljoin(url, link)
+            if not is_valid_url(link):
+                continue
+            links.append(link)
+        except Exception as e:
+            if link is None:
+                continue
+            else:
+                print(e)
     return links   
