@@ -61,6 +61,14 @@ def read_movie_url():
             url_list.append(url)
     return url_list
 
+def read_review_url():
+    url_list = []
+    with open(DATA_PATH + 'review_urls.csv', 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            url = row['影评url']
+            url_list.append(url)
+    return url_list
 # 特殊情况
 # 1.相对链接
 # 2.查询参数

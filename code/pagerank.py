@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 from crawl_request import *
 from pygraph.classes.digraph import digraph
-# pagerank分析:通过调用库函数即可解决
+# pagerank分析:通过调用库函数review_url_list[index][i]即可解决
+
+
 
 if __name__ == '__main__':
     url = "https://movie.douban.com/top250"
