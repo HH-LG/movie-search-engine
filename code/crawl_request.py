@@ -69,6 +69,7 @@ def read_review_url():
             url = row['影评url']
             url_list.append(url)
     return url_list
+    
 # 特殊情况
 # 1.相对链接
 # 2.查询参数
