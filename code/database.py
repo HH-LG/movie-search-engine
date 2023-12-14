@@ -151,9 +151,9 @@ if __name__ == '__main__':
     create_review_table()
 
     for i in range(MOVIE_NUM):
-        #insert_movie(i)
+        insert_movie(i)
         insert_review(i)
 
-# 关闭游标和连接
-cursor.close()
-db.close()
+    # 关闭游标和连接
+    cursor.close()
+    db.close()

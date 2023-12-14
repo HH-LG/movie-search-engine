@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
+from elasticsearch import Elasticsearch
 from urllib.parse import urlunparse
 from crawl_request import *
-import matplotlib.pyplot as plt
+from database import *
 import networkx as nx
 import operator
 
@@ -21,8 +22,7 @@ def read_links(col):
             url_list.append(url)
     return url_list
 
-if __name__ == '__main__':
-    url = 'https://movie.douban.com/subject/1297359/?from=subject-page'
+def calculate_pagerank():
     from_links = read_links('from_url')
     to_links = read_links('to_url')
     from_links = [remove_query_params(url) for url in from_links]
@@ -37,7 +37,7 @@ if __name__ == '__main__':
         Graph.add_edge(from_links[i], to_links[i])
     print("[log]: Add nodes and edges successfully!")
     
-    pr = nx.pagerank(Graph, max_iter=30, alpha=0.85)  # 得到的是字典
+    pr = nx.pagerank(Graph, max_iter=40, alpha=0.01)  # 得到的是字典
     print("[log]: Pagerank successfully!")
     with open (DATA_PATH + 'pagerank.csv', 'w', encoding='utf-8') as f:
         writer = csv.writer(f)
@@ -47,3 +47,64 @@ if __name__ == '__main__':
     print("[log]: Write pagerank successfully!")
     print("[res]: 最大PR值对应的节点：", max(pr.items(), key=operator.itemgetter(1))[0])
     print('[res]: pagerank 最大值为', max(pr.items(), key=operator.itemgetter(1))[1])
+
+def column_exists(table, column):
+    sql = f"SHOW COLUMNS FROM {table} LIKE '{column}'"
+    result = cursor.execute(sql)
+    return result > 0
+def update_database():
+    if not column_exists('movies', 'url'):
+        sql = "ALTER TABLE movies ADD COLUMN url VARCHAR(255);"
+        cursor.execute(sql)
+    if not column_exists('movies', 'pagerank'):
+        sql = "ALTER TABLE movies ADD COLUMN pagerank FLOAT;"
+        cursor.execute(sql)
+    if not column_exists('reviews', 'url'):
+        sql = "ALTER TABLE reviews ADD COLUMN url VARCHAR(255);"
+        cursor.execute(sql)
+    if not column_exists('reviews', 'pagerank'):
+        sql = "ALTER TABLE reviews ADD COLUMN pagerank FLOAT;"
+        cursor.execute(sql)
+    db.commit()
+    # 得到url与pagerank的字典
+    dict = {}
+    with open(DATA_PATH + 'pagerank.csv', 'r', encoding='utf-8') as file:
+        next(file)  # Skip the header
+        for line in file:
+            try:
+                url, score = line.strip().split(',')
+                score = float(score)
+                dict.update({url: score})
+            except:
+                continue
+    cursor.execute("SELECT id, 电影名 FROM movies")
+    rows = cursor.fetchall()
+    movie_urls = read_movie_url()
+    for row in rows:
+        id, name = row
+        url = movie_urls[id-1]
+        pagerank = dict.get(url)
+        if pagerank is None:
+            pagerank = 0
+        cursor.execute("UPDATE movies SET pagerank = %s, url = %s WHERE id = %s", (pagerank, url, id))
+        print(id, name, url, pagerank)
+        
+
+    cursor.execute("SELECT id, 标题 FROM reviews")
+    rows = cursor.fetchall()
+    review_urls = read_review_url()
+    for row in rows:
+        id, name = row
+        url = review_urls[id-1]
+        pagerank = dict.get(url)
+        if pagerank is None:
+            pagerank = 0
+        cursor.execute("UPDATE reviews SET pagerank = %s, url = %s WHERE id = %s", (pagerank, url, id))
+        print(id, name, url, pagerank)
+    db.commit()
+
+if __name__ == '__main__':
+    #calculate_pagerank()
+    update_database()
+
+
