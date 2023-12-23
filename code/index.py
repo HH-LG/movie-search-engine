@@ -9,7 +9,7 @@ def create_index(name):
     if not es.indices.exists(index=name):
         es.indices.create(index=name)
 
-def get_query(name, str, num):
+def get_query(str, num):
     search_query = {
         "query": {
             "function_score": {
@@ -38,10 +38,10 @@ def get_query(name, str, num):
     return search_query
 
 def search_index(name, str, num):
-    search_query = get_query(name, str, num)
+    search_query = get_query(str, num)
     # 搜索
     response = es.search(index=name, body=search_query)
-    return response
+    return response['hits']['hits']
 
 
 if __name__ == '__main__':
@@ -56,7 +56,7 @@ if __name__ == '__main__':
     # 搜索
     name = ['movies', 'reviews']
     response = search_index(name, '美丽人生', 20)
-    for hit in response['hits']['hits']:
+    for hit in response:
         try:
             print(hit['_source']['标题'], hit['_source']['url'])
         except:
