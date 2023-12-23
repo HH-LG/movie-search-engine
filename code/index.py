@@ -9,12 +9,7 @@ def create_index(name):
     if not es.indices.exists(index=name):
         es.indices.create(index=name)
 
-def search_index(name, str, num):
-        # Define your search query
-    if name == 'reviews':
-        field = ['标题', '作者', '电影名', '影评']
-    else:
-        field = ['电影名', '导演', '演员', '简介']
+def get_query(name, str, num):
     search_query = {
         "query": {
             "function_score": {
@@ -40,11 +35,14 @@ def search_index(name, str, num):
         "from": 0,
         "size": num
     }
+    return search_query
+
+def search_index(name, str, num):
+    search_query = get_query(name, str, num)
     # 搜索
     response = es.search(index=name, body=search_query)
-    # Print the titles of the returned documents
-    for hit in response['hits']['hits']:
-        print(hit['_source']['电影名'], hit['_source']['url'])
+    return response
+
 
 if __name__ == '__main__':
     # 创建索引
@@ -56,4 +54,10 @@ if __name__ == '__main__':
         #insert_movie(i)
     
     # 搜索
-    search_index('movies', '海洋', 10)
+    name = ['movies', 'reviews']
+    response = search_index(name, '美丽人生', 20)
+    for hit in response['hits']['hits']:
+        try:
+            print(hit['_source']['标题'], hit['_source']['url'])
+        except:
+            print(hit['_source']['电影名'], hit['_source']['url'])
