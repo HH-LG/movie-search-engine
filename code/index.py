@@ -9,36 +9,35 @@ def create_index(name):
     if not es.indices.exists(index=name):
         es.indices.create(index=name)
 
-def get_query(str, num):
-    search_query = {
+def get_skelton_query():
+    skelton_query = {
         "query": {
             "function_score": {
                 "query": {
-                    "multi_match": {
-                        "query": str,
-                        "fields": ["*"]
-                    }
                 },
                 "functions": [
                     {
                         "field_value_factor": {
                             "field": "pagerank",
-                            "factor": 1.0,
                             "modifier": "log1p",
+                            "factor": 1.0,
                             "missing": 1
                         }
                     }
                 ],
                 "boost_mode": "multiply"
             }
-        },
-        "from": 0,
-        "size": num
+        }
     }
-    return search_query
+    return skelton_query
 
 def search_index(name, str, num):
-    search_query = get_query(str, num)
+    search_query = get_skelton_query()
+    search_query["query"]["function_score"]["query"].update(
+                {"multi_match": {
+                    "query": str,
+                    "fields": ["*"]
+                }})
     # 搜索
     response = es.search(index=name, body=search_query)
     return response['hits']['hits']
