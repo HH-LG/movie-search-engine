@@ -48,6 +48,28 @@ def create_review_table():
     """
     cursor.execute(sql)
 
+def create_user_table():
+    sql = """
+        CREATE TABLE IF NOT EXISTS users (
+            id INT(11) PRIMARY KEY AUTO_INCREMENT,
+            username VARCHAR(50) NOT NULL,
+            password VARCHAR(100) NOT NULL
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+    """
+    cursor.execute(sql)
+
+def create_query_log_table():
+    sql = """
+        CREATE TABLE IF NOT EXISTS query_log (
+            id INT(11) PRIMARY KEY AUTO_INCREMENT,
+            user_id INT(11),
+            query MEDIUMTEXT NOT NULL,
+            timestamp DATETIME NOT NULL,
+            FOREIGN KEY(user_id) REFERENCES users(id)
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+    """
+    cursor.execute(sql)
+
 def get_root(index):
     # 解析XML文件
     path = DATA_PATH + '/movies/{}.xml'.format(index)
@@ -144,6 +166,36 @@ def insert_review(index):
             print(sql)
             exit(-1)
     db.commit()
+
+def insert_user(username, password):
+    # sql语句
+    sql = """
+        INSERT INTO users(username, password)
+        VALUES("%s", "%s")
+    """ %(username, password)
+    try:
+        cursor.execute(sql)
+    except Exception as e:
+        print(e)
+        print(sql)
+        exit(-1)
+    db.commit()
+
+
+def insert_query_log(user_id, query, time):
+    # sql语句
+    sql = """
+        INSERT INTO query_log(user_id, query, timestamp)
+        VALUES("%s", "%s", "%s")
+    """ %(user_id, query, time)
+    try:
+        cursor.execute(sql)
+    except Exception as e:
+        print(e)
+        print(sql)
+        exit(-1)
+    db.commit()
+    
 
 if __name__ == '__main__':
     # 创建数据库

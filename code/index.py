@@ -27,7 +27,9 @@ def get_skelton_query():
                 ],
                 "boost_mode": "multiply"
             }
-        }
+        },
+        "from": 0,
+        "size": 10
     }
     return skelton_query
 
