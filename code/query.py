@@ -66,17 +66,15 @@ class Query:
             query = self.wildcard_search(query)
         # 搜索
         response = es.search(index=indices, body=query)
-        result = response['hits']['hits']
+        results = response['hits']['hits']
         # 站内搜索
         if self.use_site_search:
-            result = [hit for hit in result if self.site in hit['_source']['url']]
-        # 日志
-        self.do_log()
-        return result
+            results = [hit for hit in results if self.site in hit['_source']['url']]
+        return results
 
     # 查询日志
     def do_log(self):
-        user_id = 1  # 假设用户ID为1
+        user_id = self.user_id
         
         type_str = self.search_type.upper()
         type_str = '[' + type_str + ']'
@@ -90,8 +88,29 @@ class Query:
         # 调用之前定义的insert_log函数来插入日志
         insert_query_log(user_id, query, timestamp)
         
-    
-        
+def convert_into_results(response):
+    results = list()
+    for hit in response:
+        result = dict()
+        result['url'] = hit['_source']['url']
+        result['score'] = hit['_score']*10**6
+        if '影评' in hit['_source'].keys():
+            result['type'] = 'review'
+            result['title'] = hit['_source']['标题']
+            result['text'] = hit['_source']['影评']
+            result['rating'] = hit['_source']['作者评分']
+            result['author'] = hit['_source']['作者']
+            result['time'] = hit['_source']['时间']
+        else:
+            result['type'] = 'movie'
+            result['title'] = hit['_source']['电影名']
+            result['text'] = hit['_source']['简介']
+            result['rating'] = hit['_source']['评分']
+            result['author'] = hit['_source']['导演']
+            result['time'] = hit['_source']['年份']
+
+        results.append(result)
+    return results
 
 # 网页快照
 def webpage_snapshot(url):
@@ -103,12 +122,4 @@ if __name__ == '__main__':
     #insert_user('admin', 'zhu203545')
     q = Query('阿凡达', 1)
     response = q.search()
-    #for hit in response:
-        #try:
-            #print(hit['_source']['标题'], hit['_source']['url'], hit['_score']*10**6)
-        #except:
-            #print('there')
-            #print(hit['_source']['电影名'], hit['_source']['url'], hit['_score']*10**6)
-    # 获取所有的查询记录
-    q = get_most_common_queries(5)
-    print(q)
+    print(convert_into_results(response))
