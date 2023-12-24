@@ -1,6 +1,7 @@
 # 实现高级查询，包括：站内查询、短语查询、通配查询
 # 另外还有：查询日志、网页快照
 
+import collections
 import datetime
 from database import *
 from index import get_skelton_query, es
@@ -81,7 +82,7 @@ class Query:
         type_str = '[' + type_str + ']'
 
         if self.use_site_search:
-            type_str = type_str + ' site: ' + self.site
+            type_str = type_str + ' site:' + self.site
         
         query = type_str + ' ' + self.str
         timestamp = datetime.datetime.now()  # 查询的时间
@@ -89,6 +90,7 @@ class Query:
         # 调用之前定义的insert_log函数来插入日志
         insert_query_log(user_id, query, timestamp)
         
+    
         
 
 # 网页快照
@@ -98,12 +100,15 @@ def webpage_snapshot(url):
 if __name__ == '__main__':
     create_user_table()
     create_query_log_table()
-    insert_user('admin', 'zhu203545')
-    q = Query('abc site:movie.douban.com/review/', 1)
+    #insert_user('admin', 'zhu203545')
+    q = Query('阿凡达', 1)
     response = q.search()
-    for hit in response:
-        try:
-            print(hit['_source']['标题'], hit['_source']['url'], hit['_score']*10**6)
-        except:
-            print('there')
-            print(hit['_source']['电影名'], hit['_source']['url'], hit['_score']*10**6)
+    #for hit in response:
+        #try:
+            #print(hit['_source']['标题'], hit['_source']['url'], hit['_score']*10**6)
+        #except:
+            #print('there')
+            #print(hit['_source']['电影名'], hit['_source']['url'], hit['_score']*10**6)
+    # 获取所有的查询记录
+    q = get_most_common_queries(5)
+    print(q)

@@ -1,5 +1,6 @@
 import pymysql
 import xml.etree.ElementTree as ET
+import collections
 # 建立数据库连接
 db = pymysql.connect(
     host='localhost',		# 主机名（或IP地址）
@@ -196,6 +197,16 @@ def insert_query_log(user_id, query, time):
         exit(-1)
     db.commit()
     
+def get_most_common_queries(n=5):
+    # 获取所有的查询记录
+    cursor.execute("SELECT query FROM query_log")
+    queries = [item[0] for item in cursor.fetchall()]
+    queries = [' '.join(q.split(' ')[2:]) if 'site:' in q.split(' ')[1] else ' '.join(q.split(' ')[1:]) for q in queries]
+    # 使用collections.Counter来统计查询的频率，并使用most_common方法来获取最常见的查询
+    counter = collections.Counter(queries)
+    c = counter.most_common(n)
+    l = [item[0] for item in c]
+    return l
 
 if __name__ == '__main__':
     # 创建数据库
