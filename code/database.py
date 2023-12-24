@@ -53,7 +53,7 @@ def create_user_table():
     sql = """
         CREATE TABLE IF NOT EXISTS users (
             id INT(11) PRIMARY KEY AUTO_INCREMENT,
-            username VARCHAR(50) NOT NULL,
+            username VARCHAR(50) NOT NULL UNIQUE,
             password VARCHAR(100) NOT NULL
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
     """
@@ -174,14 +174,18 @@ def insert_user(username, password):
         INSERT INTO users(username, password)
         VALUES("%s", "%s")
     """ %(username, password)
-    try:
-        cursor.execute(sql)
-    except Exception as e:
-        print(e)
-        print(sql)
-        exit(-1)
+    cursor.execute(sql)
     db.commit()
 
+def get_user(username):
+    # sql语句
+    sql = """
+        SELECT * FROM users
+        WHERE username="%s"
+    """ %(username)
+    cursor.execute(sql)
+    db.commit()
+    return cursor.fetchone()
 
 def insert_query_log(user_id, query, time):
     # sql语句
@@ -207,6 +211,18 @@ def get_most_common_queries(n=5):
     c = counter.most_common(n)
     l = [item[0] for item in c]
     return l
+
+def get_query_log(user_id):
+    # sql语句
+    sql = """
+        SELECT * FROM query_log
+        WHERE user_id="%s"
+    """ %(user_id)
+    cursor.execute(sql)
+    db.commit()
+    queries = [item[2] for item in cursor.fetchall()]
+    queries = [' '.join(q.split(' ')[2:]) if 'site:' in q.split(' ')[1] else ' '.join(q.split(' ')[1:]) for q in queries]
+    return queries
 
 if __name__ == '__main__':
     # 创建数据库

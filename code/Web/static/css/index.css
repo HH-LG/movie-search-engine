@@ -11,6 +11,12 @@ html{*overflow:auto;}
 .searchList .searchItem{float:left;margin-right:15px;font-size:14px;padding:0 0 2px 2px;cursor:pointer;height:18px;}
 .searchList .searchItem.current{color:#0080cc;border-bottom:2px solid #9cc813;font-weight:bold;}
 
+.registerArea {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
 /*input搜索区域*/
 .inputArea{position:relative;margin-bottom:65px;}
 .inputArea .searchInput{border:1px solid #bfbfbf;padding:0 15px;outline:none;height:40px;*height:39px;*line-height:40px;width:520px; background:url(../img/inputbg.png);font-size:14px;}

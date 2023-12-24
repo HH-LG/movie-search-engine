@@ -19,6 +19,15 @@
 
             </div>
 
+            <div class="registerArea">
+                <form method="post" enctype="multipart/form-data">
+                    <input id="usernameInput" type="text" name="username" placeholder="用户名" class="input"/>
+                    <input id="passwordInput" type="password" name="password" placeholder="密码" class="input"/>
+                    <button class="button" type="submit" formaction="/login">登录</button>
+                    <button class="button" type="submit" formaction="/register">注册</button>
+                </form>
+            </div>
+
             <div class="inputArea">
             <form method="post" action="/result" enctype="multipart/form-data">
                 <input id="queryInput" type="text" name="query" class="searchInput"/>

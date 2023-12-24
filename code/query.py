@@ -9,7 +9,7 @@ from index import get_skelton_query, es
 class Query:
 
     # 初始化
-    def __init__(self, str, user_id, type = 'normal'):
+    def __init__(self, str, user_id = -1, type = 'normal'):
         str_list = str.split(' ')
         if 'site:' in str_list[-1]:
             self.str = ' '.join(str_list[:-1])
@@ -122,6 +122,8 @@ if __name__ == '__main__':
     create_user_table()
     create_query_log_table()
     #insert_user('admin', 'zhu203545')
-    q = Query('阿凡达', 1)
+    q = Query('音乐之声', 1)
     response = q.search()
-    print(convert_into_results(response))
+    q.do_log()
+    print(get_query_log(1))
+    #print(convert_into_results(response))
