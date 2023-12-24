@@ -148,8 +148,12 @@
                                 </span>
                             </span>
                                 <span class="info">
-                            	<label>阅读数：</label>
-                                <span class="value">{{ result.readcount }}</span>
+                                {% if result.type == 'review' %}
+                                    作者评分：
+                                {% else %}
+                                    电影评分：
+                                {% endif %}
+                                <span class="value">{{ result.rating }}</span>
                             </span>
                                 <span class="info">
                             	<label>

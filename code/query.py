@@ -98,16 +98,18 @@ def convert_into_results(response):
             result['type'] = 'review'
             result['title'] = hit['_source']['标题']
             result['text'] = hit['_source']['影评']
-            result['rating'] = hit['_source']['作者评分']
+            result['rating'] = hit['_source']['作者评分'] * 2
             result['author'] = hit['_source']['作者']
-            result['time'] = hit['_source']['时间']
+            result['time'] = ' '.join([hit['_source']['时间'][:10], hit['_source']['时间'][11:19]])
+            result['useful'] = hit['_source']['有用数']
+            result['useless'] = hit['_source']['没用数']
         else:
             result['type'] = 'movie'
             result['title'] = hit['_source']['电影名']
             result['text'] = hit['_source']['简介']
-            result['rating'] = hit['_source']['评分']
+            result['rating'] = round(hit['_source']['评分'], 1)
             result['author'] = hit['_source']['导演']
-            result['time'] = hit['_source']['年份']
+            result['time'] = hit['_source']['年份'][:4]
 
         results.append(result)
     return results

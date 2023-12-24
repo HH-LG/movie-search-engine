@@ -34,7 +34,7 @@ def result():
     queryInfo = {}
     queryInfo['query'] = query
     queryInfo['number'] = 0
-    queryInfo['time'] = end - start
+    queryInfo['time'] = round(end - start, 2)
 
         # 分词, highlightWords：高亮词汇
     seg_list = jieba.cut(query)
