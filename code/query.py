@@ -93,7 +93,7 @@ def convert_into_results(response):
     for hit in response:
         result = dict()
         result['url'] = hit['_source']['url']
-        result['score'] = hit['_score']*10**6
+        result['score'] = round(hit['_score']*10**6, 2)
         if '影评' in hit['_source'].keys():
             result['type'] = 'review'
             result['title'] = hit['_source']['标题']
