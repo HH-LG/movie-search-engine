@@ -216,7 +216,7 @@ def get_query_log(user_id):
     # sql语句
     sql = """
         SELECT * FROM query_log
-        WHERE user_id="%s"
+        WHERE user_id="%s" order by timestamp desc
     """ %(user_id)
     cursor.execute(sql)
     db.commit()

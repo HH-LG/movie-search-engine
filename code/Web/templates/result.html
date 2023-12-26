@@ -172,17 +172,17 @@
                 <!-- 分页 -->
                                 <!-- 相关搜索 -->
                 <div class="dependSearch ue-clear">
-                    {% if has_similar %}
+                    {% if queryInfo.has_similar %}
                         <h6>相关搜索</h6>
                         <div class="searchList">
                             <p>
-                                {% for q in similar_query1 %}
-                                    <a href="/results?q={{ q }}"> {{ q }} </a>
+                                {% for q in queryInfo.similar_query1 %}
+                                    <a href="/result?q={{ q }}"> {{ q }} </a>
                                 {% endfor %}
                             </p>
                             <p>
-                                {% for q in similar_query2 %}
-                                    <a href="/results?q={{ q }}"> {{ q }} </a>
+                                {% for q in queryInfo.similar_query2 %}
+                                    <a href="/result?q={{ q }}"> {{ q }} </a>
                                 {% endfor %}
                             </p>
                         </div>
@@ -190,19 +190,20 @@
                 </div>
 
             </div>
+            {% if queryInfo.has_login %}
             <div class="historyArea">
                 <div class="hotSearch">
                     <h6>历史搜索</h6>
                     <ul class="historyList">
                         {% for query in queryInfo.history_query %}
                             <li>&nbsp;&nbsp;
-                                <a href="/results?q={{ query }}"> {{ query }} </a>
+                                <a href="/result?q={{ query }}"> {{ query }} </a>
                             </li>
                         {% endfor %}
                     </ul>
                 </div>
-
             </div>
+            {% endif %}
         </div><!-- End of main -->
     </div><!--End of bd-->
 </div>

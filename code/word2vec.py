@@ -55,16 +55,20 @@ def train():
     # 保存模型，供日后使用
     model.save("model")
 
+def get_similar_words(model, words, topn=10):
+    similar_words = model.wv.most_similar(words, topn=topn)
+    similar_words = [word[0] for word in similar_words]
+    return similar_words
 
 if __name__ == '__main__':
-    write_file()
-    cut_words()
-    train()
+    #write_file()
+    #cut_words()
+    #train()
     model = Word2Vec.load('model')
-    s = model.wv.most_similar(['肖申克','救赎'],topn=10)  # 根据给定的条件推断相似词
+    s =get_similar_words(model, ['肖申克','救赎'],topn=10)  # 根据给定的条件推断相似词
     print(s)
-    query = '自由之路'
+    query = '肖申克的救赎'
     seg_list = []
     for s in query.split(' '):
         seg_list += jieba.cut(s)
-    print(model.wv.most_similar(seg_list,topn=10))
+    print(get_similar_words(model, seg_list, topn=8))

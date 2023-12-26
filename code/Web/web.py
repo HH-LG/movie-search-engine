@@ -1,17 +1,20 @@
 import time
-from flask import Flask, request, render_template, redirect, url_for, session
+from flask import Flask, request, render_template, redirect, url_for
 import jieba
+from gensim.models import Word2Vec
 import sys
 sys.path.append('..')
 from index import *
 from database import *
 from query import Query, convert_into_results
+from word2vec import get_similar_words
 
 TOP_QUERY_NUM = 10
 HISTORY_QUERY_NUM = 10
 
 app = Flask(__name__)
-app.secret_key = 'zhu203545'
+has_login = False
+model = Word2Vec.load('../model')
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -23,11 +26,13 @@ def index():
 
 @app.route('/result', methods=['GET','POST'])
 def result():
+    global has_login, user_id, model
+
     query = request.args.get('q')
     if query is None:
         return redirect(url_for('index'))
-    if 'user_id' in session.keys():
-        q = Query(query, session['user_id'])
+    if has_login:
+        q = Query(query, user_id)
     else:
         q = Query(query)
 
@@ -47,15 +52,33 @@ def result():
     highlightWords = " ".join(seg_list)
     queryInfo['highlightWords'] = highlightWords
 
-    if 'has_login' in session.keys() and session['has_login']:
+    queryInfo['has_login'] = False
+    if has_login:
         queryInfo['has_login'] = True
         # 日志
         q.do_log()
         # 网页快照
 
+        # 相关搜索
+        try:
+            seg_list = []
+            for s in query.split(' '):
+                seg_list += jieba.cut(s)
+            similar_query = get_similar_words(model, seg_list, topn=8)  # 根据给定的条件推断相似词
+            print(similar_query)
+
+            similar_query1 = similar_query[:4]
+            similar_query2 = similar_query[4:8]
+            queryInfo['has_similar'] = True
+            queryInfo['similar_query1'] = similar_query1  # 第一行
+            queryInfo['similar_query2'] = similar_query2
+        except Exception as e:
+            print(e)
+            queryInfo['has_similar'] = False
+            print('没有相似查询')
+
         # 历史搜索
-        print('there')
-        queryInfo['history_query'] = get_query_log(session['user_id'])[:HISTORY_QUERY_NUM]
+        queryInfo['history_query'] = get_query_log(user_id)[:HISTORY_QUERY_NUM]
     return render_template('result.html', results=results, queryInfo=queryInfo)
 
 @app.route('/register', methods=['POST'])
@@ -65,22 +88,23 @@ def register():
     try:
         insert_user(username, password)
     except:
-        return "注册失败，用户名已被占用"
-    return "username: %s, password: %s" % (username, password)
+        return "注册失败，用户名已被占用，请返回<a href='/'>主页</a>"
+    return "注册成功：username: %s, password: %s" % (username, password)
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
+    global has_login, user_id
     username = request.form.get('username')
     password = request.form.get('password')
 
     user = get_user(username)
     if password == user[2]:
-        session['has_login'] = True
-        session['user_id'] = user[0]
+        has_login = True
+        user_id = user[0]
         return render_template('login.html')
         
     else:
-        return "密码错误"
+        return "密码错误，请返回<a href='/'>主页</a>"
     
 
 
