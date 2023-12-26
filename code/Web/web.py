@@ -35,6 +35,10 @@ def result():
         q = Query(query, user_id)
     else:
         q = Query(query)
+    
+    queryType = request.form.get('queryType')
+    q.search_type = queryType
+    print(queryType)
 
     # 搜索
     start = time.time()

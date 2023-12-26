@@ -30,8 +30,12 @@
 
             <div class="inputArea">
             <form method="post" action="/result" enctype="multipart/form-data">
+                <select id="queryType" name="queryType">
+                    <option value="normal">普通查询</option>
+                    <option value="phrase">短语查询</option>
+                    <option value="wildcard">通配查询</option>
+                </select>
                 <input id="queryInput" type="text" name="query" class="searchInput"/>
-{#                <input type="button" class="searchButton" onclick="javascript:window.location='/result/'"/>#}
                 <button class="searchButton" type="button" onclick="search()"></button>
             </form>
             <script>
