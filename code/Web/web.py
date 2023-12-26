@@ -42,11 +42,19 @@ def result():
     q.search_type = queryType
 
     # 分页
+    currentPage = dict()
+    pageNumber = request.args.get('page')
+    if pageNumber is None:
+        pageNumber = 1
+    else:
+        pageNumber = int(pageNumber)
+    currentPage['number'] = pageNumber
+    
 
 
     # 搜索
     start = time.time()
-    response, cnt = q.search()
+    response, cnt = q.search(start=(pageNumber-1)*10, size=10)
     end = time.time()
     results = convert_into_results(response)
 
@@ -55,7 +63,8 @@ def result():
     queryInfo['number'] = 0
     queryInfo['time'] = round(end - start, 2)
     queryInfo['cnt'] = cnt
-    queryInfo['page_total'] = cnt // 10
+    queryInfo['pageTotal'] = cnt // 10 if cnt % 10 == 0 else cnt // 10 + 1
+    queryInfo['queryType'] = queryType
 
     # 分词, highlightWords：高亮词汇
     seg_list = jieba.cut(query)
@@ -83,12 +92,13 @@ def result():
     queryInfo['has_login'] = False
     if has_login:
         queryInfo['has_login'] = True
+
         # 日志
         q.do_log()
 
         # 历史搜索
         queryInfo['history_query'] = get_query_log(user_id)[:HISTORY_QUERY_NUM]
-    return render_template('result.html', results=results, queryInfo=queryInfo)
+    return render_template('result.html', results=results, queryInfo=queryInfo, currentPage=currentPage)
 
 @app.route('/register', methods=['POST'])
 def register():

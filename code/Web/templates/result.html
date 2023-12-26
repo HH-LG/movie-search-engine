@@ -36,16 +36,16 @@
                 <div class="subfield">排序规则</div>
                 <ul class="subfieldContext">
                     <li>
-                        <a href="/result?q={{ query }}&page=1&order=sim"
+                        <a href="/result?q={{ query }}&page=1
                            class="byDependence">按相关度排序</a>
                     </li>
                     <li>
-                        <a href="/result?q={{ query }}&page=1&order=time"
+                        <a href="/result?q={{ query }}&page=1
                            class="byTime">按时间排序</a>
 
                     </li>
                     <li>
-                        <a href="/result?q={{ query }}&page=1&order=view"
+                        <a href="/result?q={{ query }}&page=1
                            class="byDependence">按阅读量排序</a>
                     </li>
 
@@ -83,7 +83,7 @@
                 <p class="resultTotal">
                     <span class="info">找到约&nbsp;<span class="totalResult">{{ queryInfo.cnt }}</span>
                         &nbsp;条结果(用时<span class="time">{{ queryInfo.time }}</span>秒)，共约<span
-                                class="totalPage">{{ queryInfo.page_total }}</span>页</span>
+                                class="totalPage">{{ queryInfo.pageTotal }}</span>页</span>
                 </p>
 
 
@@ -150,8 +150,23 @@
                         </div>
                     {% endfor %}
                 </div>
-                
+
                 <!-- 分页 -->
+                <div class="pagination ue-clear">
+                    <ul class="pagination pagination-lg">
+                        {% if currentPage.number > 1%}
+                            <li>
+                                <a href="/result?q={{queryInfo.query }}&page={{ currentPage.number - 1 }}&queryType={{queryInfo.queryType}}"><i
+                                        class="fa fa-angle-left"></i> < </a></li>
+                        {% endif %}
+
+                        {% if currentPage.number < queryInfo.pageTotal %}
+                            <li><a href="/result?q={{queryInfo.query }}&page={{ currentPage.number + 1 }}&queryType={{queryInfo.queryType}}"><i
+                                class="fa fa-angle-right"></i> > </a>
+                        {% endif %}
+
+                    </ul>
+                </div>
 
                 <!-- 相关搜索 -->
                 <div class="dependSearch ue-clear">

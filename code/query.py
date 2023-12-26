@@ -45,7 +45,7 @@ class Query:
             ]}})
         return query
 
-    def search(self):
+    def search(self, start = 0, size = 10):
         # 暂定为10条
         indices = ['movies', 'reviews']
         # 获取查询语句
@@ -64,6 +64,11 @@ class Query:
         elif self.search_type == 'wildcard':
             query = get_skelton_query()
             query = self.wildcard_search(query)
+        
+        # 分页
+        query['from'] = start
+        query['size'] = size
+        
         # 搜索
         response = es.search(index=indices, body=query)
         results = response['hits']['hits']
