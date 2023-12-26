@@ -58,6 +58,7 @@ def train():
 def get_similar_words(model, words, topn=10):
     similar_words = model.wv.most_similar(words, topn=topn)
     similar_words = [word[0] for word in similar_words]
+    print(similar_words)
     return similar_words
 
 if __name__ == '__main__':

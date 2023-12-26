@@ -46,7 +46,7 @@ class Query:
         return query
 
     def search(self):
-        # 暂定为20条
+        # 暂定为10条
         indices = ['movies', 'reviews']
         # 获取查询语句
         query = ''
@@ -67,10 +67,11 @@ class Query:
         # 搜索
         response = es.search(index=indices, body=query)
         results = response['hits']['hits']
+        cnt = response['hits']['total']['value']
         # 站内搜索
         if self.use_site_search:
             results = [hit for hit in results if self.site in hit['_source']['url']]
-        return results
+        return (results, cnt)
 
     # 查询日志
     def do_log(self):
@@ -122,8 +123,6 @@ if __name__ == '__main__':
     create_user_table()
     create_query_log_table()
     #insert_user('admin', 'zhu203545')
-    q = Query('音乐之声', 1)
-    response = q.search()
-    q.do_log()
-    print(get_query_log(1))
-    #print(convert_into_results(response))
+    q = Query('图', 1)
+    response, cnt = q.search()
+    print(cnt)

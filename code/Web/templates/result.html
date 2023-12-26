@@ -75,39 +75,20 @@
 
                 </ul>
 
-{#                <div class="subfield">您是不是要找</div>#}
-{#                <ul class="subfieldContext">#}
-{#                    <li>#}
-{#                        <span class="name">北航最帅的人</span>#}
-{#                    </li>#}
-{#                    <li>#}
-{#                        <span class="name">北航第二帅的人</span>#}
-{#                    </li>#}
-{#                </ul>#}
-
-
                 <div class="sideBarShowHide">
                     <a href="javascript:;" class="icon"></a>
                 </div>
             </div>
             <div class="resultArea">
                 <p class="resultTotal">
-                    <span class="info">找到约&nbsp;<span class="totalResult">{{ queryInfo.number }}</span>
+                    <span class="info">找到约&nbsp;<span class="totalResult">{{ queryInfo.cnt }}</span>
                         &nbsp;条结果(用时<span class="time">{{ queryInfo.time }}</span>秒)，共约<span
-                                class="totalPage">{{ last_page }}</span>页</span>
-                    {#                    <span class="orderOpt">#}
-                    {#                        <a href="/result?q={{ query }}&page={{ currentPage.number }}&order=sim"#}
-                    {#                                    class="byDependence">按相关度排序</a>#}
-                    {#                    	<a href="/result?q={{ query }}&page={{ currentPage.number }}&order=time"#}
-                    {#                                    class="byTime">按时间排序</a>#}
-                    {#                        <a href="/result?q={{ query }}&page={{ currentPage.number }}&order=view"#}
-                    {#                                    class="byDependence">按阅读量排序</a>#}
-                    {#                    </span>#}
+                                class="totalPage">{{ queryInfo.page_total }}</span>页</span>
                 </p>
 
 
                 <div class="resultList" id="resultList">
-                    {% if queryInfo.number == 0 %}
+                    {% if queryInfo.cnt == 0 %}
                         <p>抱歉！没有找到结果。</p>
                         <p>请跳转<a target="_blank" href="https://www.douban.com ">豆瓣官网</a>进行搜索。</p>
                     {% endif %}
@@ -169,8 +150,10 @@
                         </div>
                     {% endfor %}
                 </div>
+                
                 <!-- 分页 -->
-                                <!-- 相关搜索 -->
+
+                <!-- 相关搜索 -->
                 <div class="dependSearch ue-clear">
                     {% if queryInfo.has_similar %}
                         <h6>相关搜索</h6>
