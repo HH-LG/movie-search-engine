@@ -41,7 +41,8 @@
             <script>
             function search() {
                 var query = document.getElementById('queryInput').value;
-                window.location.href = '/result?q=' + encodeURIComponent(query);
+                var queryType = document.getElementById('queryType').value;
+                window.location.href = '/result?q=' + encodeURIComponent(query) + '&queryType=' + queryType;
             }
             </script>
             </div>

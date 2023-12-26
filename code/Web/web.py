@@ -36,7 +36,9 @@ def result():
     else:
         q = Query(query)
     
-    queryType = request.form.get('queryType')
+    queryType = request.args.get('queryType')
+    if queryType is None:
+        queryType = 'normal'
     q.search_type = queryType
     print(queryType)
 
