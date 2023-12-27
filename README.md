@@ -72,6 +72,82 @@ output {
 
 ## 查询服务
 
+通过elasticsearch的接口以及数据库接口为用户提供**站内查询、短语查询、通配查询、查询⽇志**的查询服务。
 
+### 站内查询、短语查询、通配查询
+
+在query.py中实现了这三种查询，三种查询均使用了elasticsearch的接口。
+
+```python
+# code/query.py
+class Query:
+
+    # 初始化
+    def __init__(self, str, user_id = -1, type = 'normal'):
+        ''' ...some code here... '''
+        
+    # 站内查询
+    def site_search(self, url):
+        self.use_site_search = True
+        self.site = url
+
+    # 短语查询
+    def phrase_search(self, query):
+        query["query"]["function_score"]["query"].update({'bool':{'should':[
+            {'match_phrase':{'标题':self.str}}, 
+            {'match_phrase':{'电影名':self.str}}
+            ]}})
+        return query
+        
+
+    # 通配查询
+    def wildcard_search(self, query):
+        query["query"]["function_score"]["query"].update({'bool':{'should':[
+            {'wildcard':{'标题':self.str}}, 
+            {'wildcard':{'电影名':self.str}}
+            ]}})
+        return query
+
+    def search(self, start = 0, size = 10):
+        ''' ...some code here... '''
+```
+
+### 查询日志
+
+在query.py以及database.py中实现了查询日志的记录，通过mysql记录了用户的查询内容、查询时间、查询结果、查询类型、用户id等信息。
+
+```python
+# code/database.py
+def create_query_log_table():
+    sql = """
+        CREATE TABLE IF NOT EXISTS query_log (
+            id INT(11) PRIMARY KEY AUTO_INCREMENT,
+            user_id INT(11),
+            query MEDIUMTEXT NOT NULL,
+            timestamp DATETIME NOT NULL,
+            FOREIGN KEY(user_id) REFERENCES users(id)
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
+    """
+    cursor.execute(sql)
+
+# code/query.py
+    # 查询日志
+    def do_log(self):
+        user_id = self.user_id
+        
+        type_str = self.search_type.upper()
+        type_str = '[' + type_str + ']'
+
+        if self.use_site_search:
+            type_str = type_str + ' site:' + self.site
+        
+        query = type_str + ' ' + self.str
+        timestamp = datetime.datetime.now()  # 查询的时间
+
+        # 调用之前定义的insert_log函数来插入日志
+        insert_query_log(user_id, query, timestamp)
+```
+
+当然，查询日志的实现少不了对于用户登录系统的实现，于是也建立了用户表，记录了用户的id、用户名、密码等信息。并通过与数据库进行交互在web网页中实现了用户的登录、注册的功能。
 
 
