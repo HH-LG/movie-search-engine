@@ -32,7 +32,9 @@ class Query:
     def phrase_search(self, query):
         query["query"]["function_score"]["query"].update({'bool':{'should':[
             {'match_phrase':{'标题':self.str}}, 
-            {'match_phrase':{'电影名':self.str}}
+            {'match_phrase':{'影评':self.str}}, 
+            {'match_phrase':{'电影名':self.str}},
+            {'match_phrase':{'简介':self.str}}
             ]}})
         return query
         
@@ -41,9 +43,49 @@ class Query:
     def wildcard_search(self, query):
         query["query"]["function_score"]["query"].update({'bool':{'should':[
             {'wildcard':{'标题':self.str}}, 
-            {'wildcard':{'电影名':self.str}}
+            {'wildcard':{'影评':self.str}}, 
+            {'wildcard':{'电影名':self.str}},
+            {'wildcard':{'简介':self.str}} 
             ]}})
         return query
+
+    # 模糊查询
+    def fuzzy_search(self, query):
+        query["query"]["function_score"]["query"].update(
+                {"multi_match": {
+                    "query": self.str,
+                    "fields": ["*"],
+                    "fuzziness": "AUTO"
+                }})
+
+        return query
+
+    # 正则查询
+    def regexp_search(self, query):
+        query["query"]["function_score"]["query"].update({'bool':{'should':[
+            {'regexp':{'标题':{
+                       'value':self.str,
+                       'flags': 'ALL',
+                       'max_determinized_states': 10000,
+                       'rewrite': 'constant_score'}}}, 
+            {'regexp':{'影评':{
+                       'value':self.str,
+                       'flags': 'ALL',
+                       'max_determinized_states': 10000,
+                       'rewrite': 'constant_score'}}}, 
+            {'regexp':{'电影名':{
+                       'value':self.str,
+                       'flags': 'ALL',
+                       'max_determinized_states': 10000,
+                       'rewrite': 'constant_score'}}},
+            {'regexp':{'简介':{
+                       'value':self.str,
+                       'flags': 'ALL',
+                       'max_determinized_states': 10000,
+                       'rewrite': 'constant_score'}}}
+            ]}})
+        return query
+
 
     def search(self, start = 0, size = 10):
         # 暂定为10条
@@ -64,6 +106,12 @@ class Query:
         elif self.search_type == 'wildcard':
             query = get_skelton_query()
             query = self.wildcard_search(query)
+        elif self.search_type == 'fuzz':
+            query = get_skelton_query()
+            query = self.fuzzy_search(query)
+        elif self.search_type == 'regexp':
+            query = get_skelton_query()
+            query = self.regexp_search(query)
         
         # 分页
         query['from'] = start
@@ -98,7 +146,11 @@ def convert_into_results(response):
     results = list()
     for hit in response:
         result = dict()
-        result['url'] = hit['_source']['url']
+        try:
+            result['url'] = hit['_source']['url']
+        except:
+            print('url not found')
+
         result['cluster'] = hit['_source']['cluster']
         result['score'] = round(hit['_score']*10**6, 2)
         if '影评' in hit['_source'].keys():
