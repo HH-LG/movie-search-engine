@@ -2,6 +2,7 @@ import pymysql
 import jieba
 from gensim.models import word2vec, Word2Vec
 from database import *
+import re
 
 DATA_PATH = '../data/'
 def get_dbtext(db):
@@ -35,8 +36,8 @@ def write_file():
 def cut_words():
     with open(DATA_PATH + 'text.txt', 'r', encoding='utf-8') as content:
         for line in content:
-            # new_line = re.sub("[\s+\.\!\/_,$%^*(\"\']+|[+——！，。？、~@#￥%……&*（）,._，。/]+", "",line)
-            seg_list = jieba.cut(line)
+            new_line = re.sub("[\s+\.\!\/_,$%^*(\"\']+|[+——！，。？、~@#￥%……&*（）,._，。/]+", "",line)
+            seg_list = jieba.cut(new_line)
             with open(DATA_PATH + 'seg_text.txt', 'a', encoding='utf-8') as output:
                 output.write(' '.join(seg_list))
 
@@ -53,19 +54,18 @@ def train():
                               window=context, sg=1, sample=downsampling)
     model.init_sims(replace=True)
     # 保存模型，供日后使用
-    model.save("model")
+    model.save(DATA_PATH + "model")
 
 def get_similar_words(model, words, topn=10):
     similar_words = model.wv.most_similar(words, topn=topn)
     similar_words = [word[0] for word in similar_words]
-    print(similar_words)
     return similar_words
 
 if __name__ == '__main__':
     #write_file()
     #cut_words()
     #train()
-    model = Word2Vec.load('model')
+    model = Word2Vec.load(DATA_PATH + 'model')
     s =get_similar_words(model, ['肖申克','救赎'],topn=10)  # 根据给定的条件推断相似词
     print(s)
     query = '肖申克的救赎'

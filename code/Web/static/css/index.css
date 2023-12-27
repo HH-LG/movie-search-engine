@@ -34,11 +34,11 @@ html{*overflow:auto;}
 .inputArea .dataList li{padding:2px 15px;font-size:14px;}
 .inputArea .dataList li:hover{background:#f0f0f0;color:#0080cc;font-weight:bold;}
 
-/*搜索历史区域*/
-.historyArea{margin:0 auto;width:485px;}
-.historyArea .history {margin-bottom:5px;}
-.historyArea .history label{font-weight:bold;}
-.historyArea .history a{margin-right:12px;}
+/*热门搜索区域*/
+.popArea{margin:0 auto;width:485px;}
+.popArea .pop {margin-bottom:5px;}
+.popArea .pop label{font-weight:bold;font-size: 14px;}
+.popArea .pop a{margin-right:12px;font-size: 14px;}
 
 /*版权信息*/
 .foot{position:absolute;bottom:0px;width:100%;}

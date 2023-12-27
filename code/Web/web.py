@@ -6,26 +6,33 @@ import sys
 sys.path.append('..')
 from index import *
 from database import *
-from query import Query, convert_into_results
+from query import Query, convert_into_results, personized_results
 from word2vec import get_similar_words
+from recommender import get3FavoriteCluster
+import pickle
 
 TOP_QUERY_NUM = 10
 HISTORY_QUERY_NUM = 10
+DATA_PATH = '../../data/'
 
 app = Flask(__name__)
 has_login = False
 model = Word2Vec.load('../model')
+# 使用 TF-IDF 将文本转换为向量
+vectorizer = pickle.load(open(DATA_PATH + 'vectorizer.pkl', 'rb'))
+kmeans = pickle.load(open(DATA_PATH + 'kmeans.pkl', 'rb'))
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
     pop_query = get_most_common_queries(TOP_QUERY_NUM)
     data = {}
-    data['pop_query'] = pop_query
+    data['pop_query'] = pop_query[:5]
 
     return render_template('index.html', data=data)
 
 @app.route('/result', methods=['GET','POST'])
 def result():
+    start = time.time()
     global has_login, user_id, model
 
     # 获取查询词，查询类型
@@ -53,15 +60,12 @@ def result():
 
 
     # 搜索
-    start = time.time()
     response, cnt = q.search(start=(pageNumber-1)*10, size=10)
-    end = time.time()
     results = convert_into_results(response)
 
     queryInfo = {}
     queryInfo['query'] = query
     queryInfo['number'] = 0
-    queryInfo['time'] = round(end - start, 2)
     queryInfo['cnt'] = cnt
     queryInfo['pageTotal'] = cnt // 10 if cnt % 10 == 0 else cnt // 10 + 1
     queryInfo['queryType'] = queryType
@@ -71,7 +75,7 @@ def result():
     highlightWords = " ".join(seg_list)
     queryInfo['highlightWords'] = highlightWords
 
-    # 相关搜索
+    # 个性化推荐
     try:
         seg_list = []
         for s in query.split(' '):
@@ -89,15 +93,22 @@ def result():
         queryInfo['has_similar'] = False
         print('没有相似查询')
 
+    # 已经登录的用户，个性化查询
     queryInfo['has_login'] = False
     if has_login:
         queryInfo['has_login'] = True
+
+        # 个性化查询
+        favoriteClusters = get3FavoriteCluster(user_id, kmeans, vectorizer)
+        results = personized_results(results, favoriteClusters)
 
         # 日志
         q.do_log()
 
         # 历史搜索
         queryInfo['history_query'] = get_query_log(user_id)[:HISTORY_QUERY_NUM]
+    end = time.time()
+    queryInfo['time'] = round(end - start, 2)
     return render_template('result.html', results=results, queryInfo=queryInfo, currentPage=currentPage)
 
 @app.route('/register', methods=['POST'])

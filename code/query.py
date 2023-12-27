@@ -99,6 +99,7 @@ def convert_into_results(response):
     for hit in response:
         result = dict()
         result['url'] = hit['_source']['url']
+        result['cluster'] = hit['_source']['cluster']
         result['score'] = round(hit['_score']*10**6, 2)
         if '影评' in hit['_source'].keys():
             result['type'] = 'review'
@@ -119,6 +120,20 @@ def convert_into_results(response):
 
         results.append(result)
     return results
+
+def personized_results(results, favorite_clusters):
+
+    if favorite_clusters is None:
+        return results
+    personized_res = list()
+    for result in results:
+        if result['cluster'] in favorite_clusters:
+            result['score'] *= 1.2
+            result['score'] = round(result['score'], 2)
+            print(result['score'])
+        personized_res.append(result)
+    personized_results = sorted(personized_res, key=lambda x:x['score'], reverse=True)
+    return personized_results
 
 # 网页快照
 def webpage_snapshot(url):
