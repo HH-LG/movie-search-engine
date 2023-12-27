@@ -52,6 +52,7 @@ def column_exists(table, column):
     sql = f"SHOW COLUMNS FROM {table} LIKE '{column}'"
     result = cursor.execute(sql)
     return result > 0
+    
 def update_database():
     if not column_exists('movies', 'url'):
         sql = "ALTER TABLE movies ADD COLUMN url VARCHAR(255);"
