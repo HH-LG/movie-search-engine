@@ -1,5 +1,6 @@
 # movie-search-engine
 
+目录：
 - [movie-search-engine](#movie-search-engine)
   - [网页抓取](#网页抓取)
   - [建立索引](#建立索引)
@@ -32,6 +33,8 @@ final project for IR
 │  └─pkl  # 保存的一些变量
 └─img
 ```
+
+项目的链接如下：https://github.com/HH-LG/movie-search-engine
 
 ## 网页抓取
 
@@ -128,7 +131,7 @@ output {
 
 就这样，爬取了**200000+**网页链接关系。随后调用**networkx**库中的pagerank函数计算出每个网页的PageRank值，最后，将计算好的pagerank值存储到数据库中。
 
-![计算到的pagerank](./img/pagerank.png)[]
+![计算到的pagerank](./img/pagerank.png)
 
 相关的代码在crawl.ipynb以及pagerank.py中。
 
@@ -142,7 +145,7 @@ output {
    │  database.py
    └─   query.py
 ```
-通过elasticsearch的接口以及数据库接口为用户提供**站内查询、短语查询、通配查询、模糊查询、正则查询、查询⽇志**的查询服务。
+通过elasticsearch的接口以及数据库接口为用户提供**站内查询、短语查询、通配查询、模糊查询、正则查询、查询⽇志，热门搜索**的查询服务。
 
 各部分的功能介绍如下:
 1. 站内查询：查询指定网站的文档
@@ -151,6 +154,7 @@ output {
 4. 模糊查询：查询词可能有错误，搜索引擎可对其更改
 5. 正则查询：查询语句为正则表达式
 6. 查询日志：为用户记录查询历史记录
+7. 热门搜索：为用户提供热门搜索关键词
 
 ### 高级查询
 
@@ -200,7 +204,7 @@ class Query:
 
 日志记录效果如下：
 
-![日志](./img/log.png)[]
+![日志](./img/log.png)
 
 ```python
 # code/database.py
@@ -238,6 +242,7 @@ def create_query_log_table():
 
 ## 个性化查询
 
+相关代码：
 ```bash
 ./
 │
@@ -287,6 +292,7 @@ def create_query_log_table():
 
 ## Web图形化页面
 
+相关代码：
 ```bash
 ./
 │
@@ -308,6 +314,7 @@ def create_query_log_table():
 
 ## 个性化推荐
 
+相关代码：
 ```bash
 ./
 │
